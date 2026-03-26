@@ -378,24 +378,60 @@ def build():
 # TOP STORY
 # ---------------------------
 
-def generate_top_story(events,clusters):
-    print("[DEBUG] generating top story")
-    if not client or not clusters:
-        return "Regional tensions persist."
+def generate_top_story(events, clusters):
 
-    text="\n".join([" / ".join([clean_title(a["title"]) for a in c[:2]]) for c in clusters[:3]])
+    print("[DEBUG] generating top story")
+
+    fallback = "Regional developments indicate rising tensions."
+
+    if not client or not clusters:
+        return fallback
+
+    cluster_text = "\n".join([
+        " / ".join([clean_title(a["title"]) for a in c[:2]])
+        for c in clusters[:3]
+    ])
 
     try:
-        r=client.chat.completions.create(
+        r = client.chat.completions.create(
             model=TOP_STORY_MODEL,
             messages=[
-                {"role":"system","content":"You are a geopolitical analyst."},
-                {"role":"user","content":f"Write a 2-3 sentence briefing:\n{text}"}
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a geopolitical intelligence analyst. "
+                        "Write clear, fluent, and natural intelligence briefings that synthesize multiple developments."
+                    )
+                },
+                {
+                    "role": "user",
+                    "content": f"""
+Write a concise 2–3 sentence intelligence briefing.
+
+STYLE:
+- Write in a smooth, natural narrative flow
+- Avoid filler transitions (e.g., "Meanwhile", "At the same time")
+- Use strong, direct verbs
+- Be specific (actors, actions, locations)
+- Avoid generic phrasing
+
+GOAL:
+- Connect developments into a coherent picture
+- Show how the situation is evolving
+- End with a clear analytical takeaway
+
+INPUT:
+{cluster_text}
+"""
+                }
             ]
         )
+
         return r.choices[0].message.content.strip()
-    except:
-        return "Regional tensions persist."
+
+    except Exception as e:
+        print("[TOP STORY ERROR]", e)
+        return fallback
 
 # ---------------------------
 # SAVE
