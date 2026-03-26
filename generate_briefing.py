@@ -379,6 +379,7 @@ def build():
 # ---------------------------
 
 def generate_top_story(events,clusters):
+    print("[DEBUG] generating top story")
     if not client or not clusters:
         return "Regional tensions persist."
 
