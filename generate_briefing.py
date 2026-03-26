@@ -125,7 +125,8 @@ def classify_event(article):
 # ---------------------------
 # SUMMARY + EDITORIAL WEIGHTING
 # ---------------------------
-
+# 🔒 LOCKED FUNCTION — DO NOT MODIFY
+# Controls summary + "why it matters" behavior
 def summarize(article):
 
     if client:
@@ -208,6 +209,8 @@ def extract_links(html, base):
     soup = BeautifulSoup(html, "lxml")
     return [urljoin(base,a["href"]) for a in soup.find_all("a", href=True) if "/en/" in a["href"]]
 
+# 🔒 LOCKED FUNCTION — ingestion logic (fragile)
+
 def crawl_amwaj():
     visited=set()
     queue=[(AMWAJ_SEED_URL,0)]
@@ -251,6 +254,7 @@ def crawl_amwaj():
 # JADALIYYA
 # ---------------------------
 
+# 🔒 LOCKED FUNCTION — ingestion logic (fragile)
 def crawl_jadaliyya():
     results=[]
 
@@ -378,6 +382,8 @@ def build():
 # TOP STORY
 # ---------------------------
 
+# 🔒 LOCKED FUNCTION — DO NOT MODIFY
+# Controls Top Story narrative quality
 def generate_top_story(events, clusters):
 
     print("[DEBUG] generating top story")
