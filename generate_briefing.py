@@ -291,6 +291,58 @@ def crawl_jadaliyya():
 
     print(f"[JAD] crawled: {len(results)}")
     return results
+# ---------------------------
+# HAARETZ
+# ---------------------------
+
+def crawl_haaretz():
+    results = []
+
+    try:
+        print("[HAARETZ] loading homepage")
+
+        r = session.get("https://www.haaretz.com/", timeout=15)
+        soup = BeautifulSoup(r.text, "lxml")
+
+        links = []
+
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+
+            if "ty-article" in href:
+                if href.startswith("/"):
+                    href = "https://www.haaretz.com" + href
+
+                links.append(href)
+
+        print(f"[HAARETZ] candidate links found: {len(links)}")
+
+    except Exception as e:
+        print("[HAARETZ ERROR]", e)
+
+    results = []
+
+    for url in links[:10]:   # limit for safety    
+        try:
+            page = session.get(url, timeout=10)
+            psoup = BeautifulSoup(page.text, "lxml")
+
+            title_tag = psoup.find("h1")
+            title = clean_text(title_tag.get_text()) if title_tag else url
+
+        except:
+            title = url
+
+        results.append({
+            "source": "Haaretz",
+            "title": title,
+            "summary": url,
+            "link": url
+        })
+
+    print(f"[HAARETZ] returning {len(results)} articles")
+
+    return results
 
 # ---------------------------
 # FETCH
@@ -316,6 +368,7 @@ def fetch_all():
 
     for n,u in RSS_SOURCES:
         items.extend([a for a in fetch_rss(n,u) if is_relevant(a)])
+    items.extend([a for a in crawl_haaretz() if is_relevant(a)])    
 
     items.extend([a for a in crawl_amwaj() if is_relevant(a)])
     items.extend([a for a in crawl_jadaliyya() if is_relevant(a)])
@@ -365,18 +418,66 @@ def build():
             if len(events)>=TOP_N: break
 
     regional=[a for a in regional if a not in events]
+    # --- Ensure Haaretz representation ---
+   
 
     events=balance_section(events,TOP_N)
     regional=balance_section(regional,REGIONAL_N)
     deep=balance_section(deduped[6:16],DEEP_N)
+    # --- Ensure Haaretz representation AFTER balancing ---
+    if not any(a["source"] == "Haaretz" for a in events + regional):
+        haaretz_items = [a for a in enriched if a["source"] == "Haaretz"]
+        if haaretz_items:
+            regional.insert(0, haaretz_items[0])
+    # --- Deduplicate by link (final safety pass) ---
+    
+    def dedupe_by_link(items):
+        seen = set()
+        unique = []
+        for a in items:
+            link = a.get("link")
+            if link not in seen:
+                seen.add(link)
+                unique.append(a)
+        return unique
+
+    events = dedupe_by_link(events)
+    regional = dedupe_by_link(regional)
+    deep = dedupe_by_link(deep)
+
+    # --- Cross-section dedupe (single-pass, stable) ---
+    def dedupe_across_sections(events, regional, deep):
+        seen = set()
+
+        def keep(items):
+            unique = []
+            for a in items:
+                link = a.get("link")
+                if link not in seen:
+                    seen.add(link)
+                    unique.append(a)
+            return unique
+
+        events = keep(events)
+        regional = keep(regional)
+        deep = keep(deep)
+
+        return events, regional, deep
+
+    events, regional, deep = dedupe_across_sections(events, regional, deep)
+
+
+    print("FINAL TOP SOURCES:", [a["source"] for a in events])
+    print("FINAL REGIONAL SOURCES:", [a["source"] for a in regional])
 
     return {
-        "generated_at":datetime.utcnow().isoformat()+"Z",
-        "top_story":generate_top_story(events,clusters),
-        "top_developments":events,
-        "regional_analysis":regional,
-        "deep_analysis":deep
+        "generated_at": datetime.utcnow().isoformat()+"Z",
+        "top_story": generate_top_story(events,clusters),
+        "top_developments": events,
+        "regional_analysis": regional,
+        "deep_analysis": deep
     }
+
 
 # ---------------------------
 # TOP STORY
