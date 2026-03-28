@@ -87,6 +87,75 @@ def clean_text(text):
 def clean_title(t):
     return re.sub(r":.*", "", t).strip().capitalize() if t else t
 
+
+# ---------------------------
+# AMWAJ DATE PARSING
+# ---------------------------
+
+def extract_amwaj_date(article):
+    url = article.get("link", "")
+
+    # Amwaj URLs often include YYYY/MM/DD
+    m = re.search(r"/(\d{4})/(\d{2})/(\d{2})/", url)
+    if m:
+        y, mth, d = m.groups()
+        return f"{y}-{mth}-{d}"
+
+    return "1970-01-01"  # fallback
+
+def parse_amwaj_date(article):
+    raw = article.get("date", "")
+
+    try:
+        return datetime.strptime(raw, "%b %d, %Y")
+    except:
+        return datetime(1970, 1, 1)
+
+def get_latest_amwaj_sitrep():
+    try:
+        r = session.get("https://amwaj.media/en", timeout=10)
+        soup = BeautifulSoup(r.text, "lxml")
+
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+
+            if "sitrep" not in href.lower():
+                continue
+
+            text = a.get_text(separator=" ", strip=True)
+
+            # 🔥 Must contain BOTH date + Sitrep title
+            if "sitrep" not in text.lower():
+                continue
+
+            m = re.search(r"[A-Z][a-z]{2}\.\s\d{1,2},\s\d{4}", text)
+
+            if not m:
+                continue
+
+            date_text = m.group(0)
+
+            # Extract title cleanly
+            title = text.replace(date_text, "").strip()
+
+            # Normalize URL
+            if not href.startswith("http"):
+                href = "https://amwaj.media" + href
+
+            return {
+                "source": "Amwaj",
+                "title": title,
+                "summary": title,
+                "link": href,
+                "date": date_text
+            }
+
+    except Exception as e:
+        print("[AMWAJ SITREP ERROR]", e)
+        return None
+
+    return None   
+
 # ---------------------------
 # RELEVANCE
 # ---------------------------
@@ -99,7 +168,24 @@ KEY_TERMS = [
 
 def is_relevant(article):
     text = (article["title"] + " " + article.get("summary","")).lower()
-    return any(k in text for k in KEY_TERMS)
+
+    # Must include at least one core regional anchor
+    core = [
+        "iran","israel","gaza","hezbollah","hamas","tehran",
+        "saudi","uae","yemen","iraq","syria","lebanon","hormuz",
+        "middle east"
+    ]
+
+    if not any(k in text for k in core):
+        return False
+
+    # Exclude obvious non-region geopolitical topics
+    excluded = ["taiwan", "south china sea", "ukraine", "korea"]
+
+    if any(e in text for e in excluded):
+        return False
+
+    return True
 
 # ---------------------------
 # LOW SIGNAL
@@ -108,6 +194,52 @@ def is_relevant(article):
 def is_low_signal(article):
     bad = ["what you need","latest","live","explainer","analysis:","how","what is","why"]
     return any(b in article["title"].lower() for b in bad)
+
+def is_valid_article(article):
+    title = article.get("title", "").lower()
+    summary = article.get("summary", "").lower()
+    url = article.get("link", "").lower()
+    source = article.get("source", "")
+
+    bad_terms = [
+        "about",
+        "cookie",
+        "privacy",
+        "terms",
+        "consent",
+        "subscribe",
+        "newsletter",
+        "sign up",
+        "login",
+        "account"
+    ]
+
+    # 🚫 Title-based junk
+    if any(b in title for b in bad_terms):
+        return False
+
+    # 🚫 URL-based junk
+    if any(b in url for b in ["about", "cookie", "privacy", "terms"]):
+        return False
+
+    # 🚫 Explicit cookie/consent language in summary
+    if "cookie" in summary or "consent" in summary:
+        return False
+
+    # 🚫 Extremely generic titles (common for junk pages)
+    if len(title.strip()) < 8:
+        return False
+
+    # 🚫 Weak summaries
+    if len(summary.strip()) < 60:
+        return False
+
+    # 🔥 Source-specific rule (high impact)
+    if source == "Amwaj":
+        if "cookie" in url or "consent" in url:
+            return False
+
+    return True
 
 # ---------------------------
 # EVENT DETECTION
@@ -167,7 +299,7 @@ TEXT: {article['summary']}
     elif src == "Al Jazeera":
         article["importance"] += 1
     elif src in ["War on the Rocks", "Responsible Statecraft"]:
-        article["importance"] -= 4
+        article["importance"] -= 2
 
     return article
 
@@ -213,7 +345,10 @@ def extract_links(html, base):
 
 def crawl_amwaj():
     visited=set()
-    queue=[(AMWAJ_SEED_URL,0)]
+    queue = [
+        ("https://amwaj.media/en/region/iran", 0),
+        (AMWAJ_SEED_URL, 0)
+    ]
     results=[]
 
     with sync_playwright() as p:
@@ -233,16 +368,35 @@ def crawl_amwaj():
                 ps=soup.select("p")
 
                 if title and ps:
+
+                    if not any(x in url for x in ["/article/", "/media-monitor/"]):
+                        continue
+
+                    # --- extract date from page text ---
+                    date_text = ""
+
+                    for el in soup.find_all(text=True):
+                        txt = clean_text(el)
+                        if re.match(r"[A-Z][a-z]{2}\.\s\d{1,2},\s\d{4}", txt):
+                            date_text = txt
+                            break
+
                     results.append({
                         "source":"Amwaj",
                         "title":clean_text(title.get_text()),
                         "summary":truncate(" ".join(p.get_text() for p in ps[:5])),
-                        "link":url
+                        "link":url,
+                        "date": date_text   # ✅ NEW
                     })
 
-                for l in extract_links(page.content(),url):
+                for l in extract_links(page.content(), url):
+
+                    # 🔥 Only follow Amwaj content paths
+                    if not any(x in l for x in ["/article/", "/media-monitor/", "/region/"]):
+                        continue
+
                     if l not in visited:
-                        queue.append((l,1))
+                        queue.append((l, 1))
 
             except:
                 continue
@@ -401,14 +555,78 @@ def build():
 
     print("\nSOURCE COUNTS:",Counter([a["source"] for a in raw]))
 
-    enriched=[summarize(a) for a in raw if not is_low_signal(a)]
+    enriched = [
+        summarize(a)
+        for a in raw
+        if not is_low_signal(a) and is_valid_article(a)
+    ]
     enriched.sort(key=lambda x:x["importance"],reverse=True)
 
     clusters=cluster_articles(enriched)
     deduped=select_representatives(clusters)
 
-    events=[a for a in deduped if classify_event(a)]
-    regional=[a for a in deduped if not classify_event(a)]
+    def is_amwaj_sitrep(a):
+        return a["source"] == "Amwaj" and "sitrep" in a["title"].lower()
+
+    def is_amwaj_deep_dive(a):
+        return a["source"] == "Amwaj" and "deep dive" in a["title"].lower()
+
+    latest_sitrep = get_latest_amwaj_sitrep()
+
+    if latest_sitrep:
+        latest_sitrep = summarize(latest_sitrep)
+
+    events = [
+        a for a in deduped
+        if (
+            classify_event(a)
+            and not is_amwaj_deep_dive(a)
+            and not is_amwaj_sitrep(a)
+        )   
+    ]
+
+    if latest_sitrep and latest_sitrep not in events:
+        events.insert(0, latest_sitrep)
+
+    regional = [
+        a for a in deduped
+        if not classify_event(a)
+        and not is_amwaj_sitrep(a)
+        and not is_amwaj_deep_dive(a)
+    ]
+
+
+    # ---------------------------
+    # DEEP ANALYSIS (RESTORED)
+    # ---------------------------
+
+    deep_candidates = [
+        a for a in deduped
+        if (
+            not classify_event(a)
+            and not is_amwaj_sitrep(a)
+        )
+    ]
+
+    # 🔥 Maintain ranking
+    deep_candidates = sorted(
+        deep_candidates,
+        key=lambda x: x["importance"],
+        reverse=True
+    )
+
+    # 🔥 CRITICAL: positional slice (restores old behavior)
+    deep_slice = deep_candidates[6:20]
+
+#    Balance sources
+    deep = balance_section(deep_slice, DEEP_N)
+
+    # 🔥 Ensure Amwaj Deep Dives are included
+    amwaj_deep = [a for a in deduped if is_amwaj_deep_dive(a)]
+
+    for a in reversed(amwaj_deep):
+        if a not in deep:
+            deep.insert(0, a)
 
     # 🔥 Backfill
     if len(events)<TOP_N:
@@ -423,7 +641,9 @@ def build():
 
     events=balance_section(events,TOP_N)
     regional=balance_section(regional,REGIONAL_N)
-    deep=balance_section(deduped[6:16],DEEP_N)
+
+
+
     # --- Ensure Haaretz representation AFTER balancing ---
     if not any(a["source"] == "Haaretz" for a in events + regional):
         haaretz_items = [a for a in enriched if a["source"] == "Haaretz"]
@@ -465,6 +685,11 @@ def build():
         return events, regional, deep
 
     events, regional, deep = dedupe_across_sections(events, regional, deep)
+
+    # 🔥 FORCE latest sitrep into events AFTER dedupe
+    if latest_sitrep:
+        if not any("sitrep" in a["title"].lower() for a in events):
+            events.insert(0, latest_sitrep)
 
 
     print("FINAL TOP SOURCES:", [a["source"] for a in events])
