@@ -404,6 +404,29 @@ def crawl_amwaj():
     print(f"[AMWAJ] crawled: {len(results)}")
     return results
 
+def get_latest_amwaj_sitrep_from_articles(amwaj_articles):
+    sitreps = [
+        a for a in amwaj_articles
+        if a.get("source") == "Amwaj"
+        and "sitrep" in a.get("title", "").lower()
+    ]
+
+    if not sitreps:
+        return None
+
+    def sort_key(a):
+        raw = a.get("date", "")
+        try:
+            return datetime.strptime(raw, "%b. %d, %Y")
+        except:
+            try:
+                return datetime.strptime(raw, "%b %d, %Y")
+            except:
+                return datetime(1970, 1, 1)
+
+    sitreps.sort(key=sort_key, reverse=True)
+    return sitreps[0]    
+
 # ---------------------------
 # JADALIYYA
 # ---------------------------
@@ -522,12 +545,20 @@ def fetch_all():
 
     for n,u in RSS_SOURCES:
         items.extend([a for a in fetch_rss(n,u) if is_relevant(a)])
-    items.extend([a for a in crawl_haaretz() if is_relevant(a)])    
 
-    items.extend([a for a in crawl_amwaj() if is_relevant(a)])
-    items.extend([a for a in crawl_jadaliyya() if is_relevant(a)])
+    items.extend([a for a in crawl_haaretz() if is_relevant(a)])
 
-    return items
+    # 🔥 Capture Amwaj separately
+    amwaj_articles = [a for a in crawl_amwaj() if is_relevant(a)]
+
+    # 🔥 Capture Jadaliyya separately (optional but clean)
+    jad_articles = [a for a in crawl_jadaliyya() if is_relevant(a)]
+
+    # Add to main pool
+    items.extend(amwaj_articles)
+    items.extend(jad_articles)
+
+    return items, amwaj_articles
 
 # ---------------------------
 # BALANCE
@@ -551,7 +582,7 @@ def balance_section(articles,limit):
 # ---------------------------
 
 def build():
-    raw=fetch_all()
+    raw, amwaj_articles = fetch_all()
 
     print("\nSOURCE COUNTS:",Counter([a["source"] for a in raw]))
 
@@ -571,7 +602,12 @@ def build():
     def is_amwaj_deep_dive(a):
         return a["source"] == "Amwaj" and "deep dive" in a["title"].lower()
 
-    latest_sitrep = get_latest_amwaj_sitrep()
+    # 🔥 PRIMARY: derive from crawled Amwaj articles
+    latest_sitrep = get_latest_amwaj_sitrep_from_articles(amwaj_articles)
+
+    # 🔁 FALLBACK: homepage scrape if needed
+    if not latest_sitrep:
+        latest_sitrep = get_latest_amwaj_sitrep()
 
     if latest_sitrep:
         latest_sitrep = summarize(latest_sitrep)
@@ -584,9 +620,6 @@ def build():
             and not is_amwaj_sitrep(a)
         )   
     ]
-
-    if latest_sitrep and latest_sitrep not in events:
-        events.insert(0, latest_sitrep)
 
     regional = [
         a for a in deduped
@@ -686,10 +719,22 @@ def build():
 
     events, regional, deep = dedupe_across_sections(events, regional, deep)
 
-    # 🔥 FORCE latest sitrep into events AFTER dedupe
+    # 🔥 FORCE Sitrep as anchor (deterministic placement)
+
     if latest_sitrep:
-        if not any("sitrep" in a["title"].lower() for a in events):
-            events.insert(0, latest_sitrep)
+
+        # Remove ANY sitrep-like items
+        events = [
+            a for a in events
+            if "sitrep" not in a["title"].lower()
+        ]
+
+        # Ensure we don't exceed TOP_N
+        if len(events) >= TOP_N:
+            events = events[:TOP_N - 1]
+
+        # Insert Sitrep at top
+        events.insert(0, latest_sitrep)
 
 
     print("FINAL TOP SOURCES:", [a["source"] for a in events])
