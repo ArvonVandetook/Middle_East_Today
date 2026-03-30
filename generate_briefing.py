@@ -375,7 +375,7 @@ def crawl_amwaj():
                     # --- extract date from page text ---
                     date_text = ""
 
-                    for el in soup.find_all(text=True):
+                    for el in soup.find_all(string=True):
                         txt = clean_text(el)
                         if re.match(r"[A-Z][a-z]{2}\.\s\d{1,2},\s\d{4}", txt):
                             date_text = txt
@@ -742,7 +742,7 @@ def build():
 
     return {
         "generated_at": datetime.utcnow().isoformat()+"Z",
-        "top_story": generate_top_story(events,clusters),
+        "top_story": generate_top_story(events, clusters, latest_sitrep),
         "top_developments": events,
         "regional_analysis": regional,
         "deep_analysis": deep
@@ -755,7 +755,7 @@ def build():
 
 # 🔒 LOCKED FUNCTION — DO NOT MODIFY
 # Controls Top Story narrative quality
-def generate_top_story(events, clusters):
+def generate_top_story(events, clusters, sitrep=None):
 
     print("[DEBUG] generating top story")
 
@@ -776,34 +776,36 @@ def generate_top_story(events, clusters):
                 {
                     "role": "system",
                     "content": (
-                        "You are a geopolitical intelligence analyst. "
-                        "Write clear, fluent, and natural intelligence briefings that synthesize multiple developments."
+                        "You are an analyst of regional expert on Middle Eastern affairs who synthesizes developments across the region with attention to political dynamics, "
+                        "regional perspectives, and human impact. You avoid purely state-centric framing and focus on how events shape societies, economies, " 
+                        "and lived realities."
                     )
                 },
                 {
                     "role": "user",
                     "content": f"""
-Write a concise 2–3 sentence intelligence briefing.
+            Write a concise 3-4 sentence narrative intelligence briefing that reads as a single coherent paragraph. Sentences should not be overly long.
 
-STYLE:
-- Write in a smooth, natural narrative flow
-- Avoid filler transitions (e.g., "Meanwhile", "At the same time")
-- Use strong, direct verbs
-- Be specific (actors, actions, locations)
-- Avoid generic phrasing
+            STYLE:
+            - Write in a smooth, natural narrative flow
+            - Avoid filler transitions (e.g., "Meanwhile", "At the same time")
+            - Use precise language
+            - Be specific about actors, actions, and locations
+            - Avoid generic or newsy phrasing
+            - Avoid attributional phrasing (e.g., "reports that", "according to"); write with direct analytical voice
 
-GOAL:
-- Connect developments into a coherent picture
-- Show how the situation is evolving
-- End with a clear analytical takeaway
+            GOAL:
+            - Synthesize developments into a coherent regional picture
+            - Reflect political dynamics alongside societal and human impact
+            - Show how events are connected, not just occurring
+            - End with a clear analytical takeaway
 
-INPUT:
-{cluster_text}
-"""
+            INPUT:
+            {cluster_text}
+            """
                 }
             ]
         )
-
         return r.choices[0].message.content.strip()
 
     except Exception as e:
