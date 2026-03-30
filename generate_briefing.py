@@ -291,9 +291,9 @@ TEXT: {article['summary']}
 
     # 🔥 Editorial weighting
     if src == "Amwaj":
-        article["importance"] += 6
-    elif src == "Jadaliyya":
         article["importance"] += 5
+    elif src == "Jadaliyya":
+        article["importance"] += 6
     elif src in ["Middle East Eye", "Al Monitor"]:
         article["importance"] += 3
     elif src == "Al Jazeera":
@@ -719,22 +719,26 @@ def build():
 
     events, regional, deep = dedupe_across_sections(events, regional, deep)
 
-    # 🔥 FORCE Sitrep as anchor (deterministic placement)
+    # 🔥 FINAL Sitrep anchoring (deterministic + safe)
 
     if latest_sitrep:
 
-        # Remove ANY sitrep-like items
-        events = [
-            a for a in events
-            if "sitrep" not in a["title"].lower()
-        ]
+        # Normalize title check (defensive)
+        def is_sitrep(a):
+            return a.get("source") == "Amwaj" and "sitrep" in a.get("title", "").lower()
 
-        # Ensure we don't exceed TOP_N
+        # Remove ANY sitrep-like items (including malformed ones)
+        events = [a for a in events if not is_sitrep(a)]
+
+        # Ensure we maintain exact TOP_N size AFTER insertion
         if len(events) >= TOP_N:
             events = events[:TOP_N - 1]
 
         # Insert Sitrep at top
         events.insert(0, latest_sitrep)
+
+        # 🔒 Final safety: enforce size exactly
+        events = events[:TOP_N]
 
 
     print("FINAL TOP SOURCES:", [a["source"] for a in events])
@@ -776,7 +780,7 @@ def generate_top_story(events, clusters, sitrep=None):
                 {
                     "role": "system",
                     "content": (
-                        "You are an analyst of regional expert on Middle Eastern affairs who synthesizes developments across the region with attention to political dynamics, "
+                        "You are an analyst and regional expert on Middle Eastern affairs who synthesizes developments across the region with attention to political dynamics, "
                         "regional perspectives, and human impact. You avoid purely state-centric framing and focus on how events shape societies, economies, " 
                         "and lived realities."
                     )
