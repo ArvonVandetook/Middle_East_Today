@@ -60,7 +60,7 @@ MAX_PER_SOURCE = {
 
 TOP_N = 8
 REGIONAL_N = 8
-DEEP_N = 10
+DEEP_N = 16
 
 AMWAJ_SEED_URL = "https://amwaj.media/en/media-monitor/tehran-vows-regional-escalation-after-trump-threatens-iranian-power-grid"
 AMWAJ_MAX_ARTICLES = 20
@@ -195,7 +195,51 @@ def is_low_signal(article):
     bad = ["what you need","latest","live","explainer","analysis:","how","what is","why"]
     return any(b in article["title"].lower() for b in bad)
 
+def is_podcast(article):
+    title = article.get("title", "").lower()
+    summary = article.get("summary", "").lower()
+
+    return (
+        "podcast" in title
+        or "podcast" in summary
+        or "episode" in title
+    ) 
+
+def is_non_analysis(article):
+    title = article.get("title", "").lower()
+    summary = article.get("summary", "").lower()
+
+    bad_patterns = [
+        "teach-in",
+        "webinar",
+        "register",
+        "join us",
+        "conference",
+        "panel",
+        "discussion"
+    ]
+
+    return any(p in title or p in summary for p in bad_patterns)  
+
+def is_geopolitically_relevant(article):
+    text = (
+        article.get("title", "").lower() + " " +
+        article.get("summary", "").lower()
+    )
+
+    relevant_terms = [
+        "iran", "israel", "gaza", "lebanon", "hezbollah",
+        "hamas", "iraq", "syria", "middle east", "gulf",
+        "saudi", "uae", "qatar", "yemen", "houthi",
+        "strait of hormuz", "tehran", "jerusalem"
+    ]
+
+    return any(term in text for term in relevant_terms)
+
 def is_valid_article(article):
+    if is_non_analysis(article):
+        return False
+
     title = article.get("title", "").lower()
     summary = article.get("summary", "").lower()
     url = article.get("link", "").lower()
@@ -241,17 +285,56 @@ def is_valid_article(article):
 
     return True
 
+def classify_article(article):
+    src = article.get("source", "")
+    title = article.get("title", "").lower()
+
+    # --- Hard rules first ---
+
+    # Podcasts → exclude for now
+    if is_podcast(article):
+        return "exclude"
+
+    # Jadaliyya should NEVER be Top Developments
+    if src == "Jadaliyya":
+        return "deep"
+
+    # --- Event detection ---
+    event_keywords = [
+        "killed", "attack", "strike", "bomb", "missile",
+        "clash", "explosion", "fire", "raid"
+    ]
+
+    if any(k in title for k in event_keywords):
+        return "event"
+
+    # --- Deep analysis sources ---
+    if src in ["War on the Rocks", "Responsible Statecraft"]:
+        return "deep"
+
+    # --- Default ---
+    return "regional"
+
 # ---------------------------
 # EVENT DETECTION
 # ---------------------------
 
 def classify_event(article):
     t = article["title"].lower()
-    strong = ["strike","attack","missile","killed","explosion","drone","clashes"]
-    weak = ["says","urges","talks","claims","discusses"]
+    src = article.get("source", "")
 
-    if any(w in t for w in weak):
+    strong = [
+        "strike","attack","missile","killed","explosion","drone","clashes",
+        "threatens","warns","launches","hits","escalates","deploys",
+        "talks","ceasefire","negotiations","crisis","tensions","conflict"
+    ]
+
+    # 🚫 NEVER treat these sources as "events"
+    if src in ["Jadaliyya", "War on the Rocks", "Responsible Statecraft"]:
         return False
+
+    
+
     return any(s in t for s in strong)
 
 # ---------------------------
@@ -300,6 +383,8 @@ TEXT: {article['summary']}
         article["importance"] += 1
     elif src in ["War on the Rocks", "Responsible Statecraft"]:
         article["importance"] -= 2
+    elif src == "Guardian" and classify_event(article):
+        article["importance"] += 3
 
     return article
 
@@ -623,9 +708,12 @@ def build():
 
     regional = [
         a for a in deduped
-        if not classify_event(a)
-        and not is_amwaj_sitrep(a)
-        and not is_amwaj_deep_dive(a)
+        if (
+            not classify_event(a)
+            and not is_amwaj_sitrep(a)
+            and not is_amwaj_deep_dive(a)
+            and a["source"] not in ["War on the Rocks", "Responsible Statecraft", "Guardian", "Jadaliyya"]
+        )
     ]
 
 
@@ -638,18 +726,23 @@ def build():
         if (
             not classify_event(a)
             and not is_amwaj_sitrep(a)
+            and not is_podcast(a)
+            and is_geopolitically_relevant(a)
         )
     ]
 
-    # 🔥 Maintain ranking
+    # 🔥 Prefer analytical sources
     deep_candidates = sorted(
         deep_candidates,
-        key=lambda x: x["importance"],
-        reverse=True
+        key=lambda x: (
+            0 if x["source"] in ["Jadaliyya", "War on the Rocks", "Responsible Statecraft", "Guardian"] else 1,
+            -x["importance"]
+        )
     )
 
+
     # 🔥 CRITICAL: positional slice (restores old behavior)
-    deep_slice = deep_candidates[6:20]
+    deep_slice = deep_candidates[:28]
 
 #    Balance sources
     deep = balance_section(deep_slice, DEEP_N)
