@@ -33,7 +33,6 @@ RSS_SOURCES = [
 
     # NEW
     ("Haaretz", "https://www.haaretz.com/cmlink/1.628752"),
-    ("Carnegie ME", "https://carnegie-mec.org/rss"),
     ("War on the Rocks", "https://warontherocks.com/feed/"),
     ("Responsible Statecraft", "https://responsiblestatecraft.org/feed/"),
 ]
@@ -67,6 +66,9 @@ AMWAJ_MAX_ARTICLES = 20
 
 JADALIYYA_SEED_URL = "https://www.jadaliyya.com/"
 JAD_MAX_ARTICLES = 15
+
+CARNEGIE_DIWAN_URL = "https://carnegieendowment.org/middle-east/diwan"
+CARNEGIE_MAX_ARTICLES = 12
 
 # ---------------------------
 # CLEAN
@@ -154,20 +156,38 @@ def get_latest_amwaj_sitrep():
         print("[AMWAJ SITREP ERROR]", e)
         return None
 
-    return None   
+    return None
+
+# ---------------------------
+# CARNEGIE HELPERS
+# ---------------------------
+
+def is_carnegie_diwan(article):
+    return (
+        article.get("source") == "Carnegie ME"
+        and "/middle-east/diwan/" in article.get("link", "")
+    )
+
+def extract_carnegie_date_from_url(url):
+    m = re.search(r"/(\d{4})/(\d{2})/", url)
+    if not m:
+        return ""
+    y, mth = m.groups()
+    return f"{y}-{mth}-01"
 
 # ---------------------------
 # RELEVANCE
 # ---------------------------
 
 KEY_TERMS = [
-    "iran","israel","gaza","hezbollah","hamas","tehran","gulf",
-    "saudi","uae","yemen","iraq","syria","lebanon","hormuz",
-    "middle east","missile","drone","energy","oil"
+    "iran", "israel", "gaza", "hezbollah", "hamas", "tehran", "gulf",
+    "saudi", "uae", "yemen", "iraq", "syria", "lebanon", "hormuz",
+    "middle east", "missile", "drone", "energy", "oil"
 ]
 
 def is_relevant(article):
     text = (article["title"] + " " + article.get("summary","")).lower()
+    url = article.get("link", "").lower()
 
     # Must include at least one core regional anchor
     core = [
@@ -176,13 +196,22 @@ def is_relevant(article):
         "middle east"
     ]
 
-    if not any(k in text for k in core):
-        return False
-
     # Exclude obvious non-region geopolitical topics
     excluded = ["taiwan", "south china sea", "ukraine", "korea"]
 
     if any(e in text for e in excluded):
+        return False
+
+    # Allow Carnegie Diwan through, but require light regional signal
+    if article.get("source") == "Carnegie ME":
+        
+
+        if "/middle-east/diwan/" in url:
+            if any(k in text for k in KEY_TERMS):
+                return True
+
+    # Existing core logic
+    if not any(k in text for k in core):
         return False
 
     return True
@@ -192,7 +221,7 @@ def is_relevant(article):
 # ---------------------------
 
 def is_low_signal(article):
-    bad = ["what you need","latest","live","explainer","analysis:","how","what is","why"]
+    bad = ["what you need", "latest", "live", "explainer", "analysis:", "how", "what is", "why"]
     return any(b in article["title"].lower() for b in bad)
 
 def is_podcast(article):
@@ -203,11 +232,12 @@ def is_podcast(article):
         "podcast" in title
         or "podcast" in summary
         or "episode" in title
-    ) 
+    )
 
 def is_non_analysis(article):
     title = article.get("title", "").lower()
     summary = article.get("summary", "").lower()
+    url = article.get("link", "").lower()
 
     bad_patterns = [
         "teach-in",
@@ -219,7 +249,14 @@ def is_non_analysis(article):
         "discussion"
     ]
 
-    return any(p in title or p in summary for p in bad_patterns)  
+    if any(p in title or p in summary for p in bad_patterns):
+        return True
+
+    # Carnegie-specific structural junk
+    if any(x in url for x in ["/events/", "/collections/", "/projects/", "/programs-and-projects/"]):
+        return True
+
+    return False
 
 def is_geopolitically_relevant(article):
     text = (
@@ -231,7 +268,7 @@ def is_geopolitically_relevant(article):
         "iran", "israel", "gaza", "lebanon", "hezbollah",
         "hamas", "iraq", "syria", "middle east", "gulf",
         "saudi", "uae", "qatar", "yemen", "houthi",
-        "strait of hormuz", "tehran", "jerusalem"
+        "strait of hormuz", "hormuz", "tehran", "jerusalem"
     ]
 
     return any(term in text for term in relevant_terms)
@@ -275,8 +312,12 @@ def is_valid_article(article):
         return False
 
     # 🚫 Weak summaries
-    if len(summary.strip()) < 60:
-        return False
+    if source == "Carnegie ME":
+        if len(summary.strip()) < 30:
+            return False
+    else:
+        if len(summary.strip()) < 60:
+            return False
 
     # 🔥 Source-specific rule (high impact)
     if source == "Amwaj":
@@ -298,6 +339,7 @@ def classify_article(article):
     # Jadaliyya should NEVER be Top Developments
     if src == "Jadaliyya":
         return "deep"
+
 
     # --- Event detection ---
     event_keywords = [
@@ -324,18 +366,24 @@ def classify_event(article):
     src = article.get("source", "")
 
     strong = [
-        "strike","attack","missile","killed","explosion","drone","clashes",
-        "threatens","warns","launches","hits","escalates","deploys",
-        "talks","ceasefire","negotiations","crisis","tensions","conflict"
+        "strike", "attack", "missile", "killed", "explosion", "drone", "clashes",
+        "threatens", "warns", "launches", "hits", "escalates", "deploys",
+        "talks", "ceasefire", "negotiations", "crisis", "tensions", "conflict"
     ]
 
     # 🚫 NEVER treat these sources as "events"
     if src in ["Jadaliyya", "War on the Rocks", "Responsible Statecraft"]:
         return False
 
-    
+    # Strong keyword match
+    if any(s in t for s in strong):
+        return True
 
-    return any(s in t for s in strong)
+    # 🔥 Guardian-specific fallback (important)
+    if src == "Guardian":
+        return True
+
+    return False
 
 # ---------------------------
 # SUMMARY + EDITORIAL WEIGHTING
@@ -349,8 +397,8 @@ def summarize(article):
             r = client.chat.completions.create(
                 model=CHEAP_MODEL,
                 messages=[{
-                    "role":"user",
-                    "content":f"""
+                    "role": "user",
+                    "content": f"""
 Return JSON:
 {{"summary":"","importance":0-100,"why":""}}
 
@@ -360,9 +408,9 @@ TEXT: {article['summary']}
                 }]
             )
             parsed = json.loads(re.search(r"\{.*\}", r.choices[0].message.content, re.DOTALL).group())
-            article["ai_summary"] = parsed.get("summary","")
-            article["importance"] = parsed.get("importance",50)
-            article["why"] = parsed.get("why","")
+            article["ai_summary"] = parsed.get("summary", "")
+            article["importance"] = parsed.get("importance", 50)
+            article["why"] = parsed.get("why", "")
         except:
             article["importance"] = 50
             article["ai_summary"] = article["summary"]
@@ -377,6 +425,8 @@ TEXT: {article['summary']}
         article["importance"] += 5
     elif src == "Jadaliyya":
         article["importance"] += 6
+    elif src == "Carnegie ME":
+        article["importance"] += 1
     elif src in ["Middle East Eye", "Al Monitor"]:
         article["importance"] += 3
     elif src == "Al Jazeera":
@@ -398,15 +448,17 @@ def extract_keywords(text):
 def cluster_articles(articles):
     clusters, used = [], set()
 
-    for i,a in enumerate(articles):
-        if i in used: continue
+    for i, a in enumerate(articles):
+        if i in used:
+            continue
 
         base = extract_keywords(a["title"])
         cluster = [a]
         used.add(i)
 
-        for j,b in enumerate(articles[i+1:], i+1):
-            if j in used: continue
+        for j, b in enumerate(articles[i + 1:], i + 1):
+            if j in used:
+                continue
             if len(base & extract_keywords(b["title"])) >= 3:
                 cluster.append(b)
                 used.add(j)
@@ -424,33 +476,34 @@ def select_representatives(clusters):
 
 def extract_links(html, base):
     soup = BeautifulSoup(html, "lxml")
-    return [urljoin(base,a["href"]) for a in soup.find_all("a", href=True) if "/en/" in a["href"]]
+    return [urljoin(base, a["href"]) for a in soup.find_all("a", href=True) if "/en/" in a["href"]]
 
 # 🔒 LOCKED FUNCTION — ingestion logic (fragile)
 
 def crawl_amwaj():
-    visited=set()
+    visited = set()
     queue = [
         ("https://amwaj.media/en/region/iran", 0),
         (AMWAJ_SEED_URL, 0)
     ]
-    results=[]
+    results = []
 
     with sync_playwright() as p:
-        page=p.chromium.launch(headless=True).new_page()
+        page = p.chromium.launch(headless=True).new_page()
 
-        while queue and len(results)<AMWAJ_MAX_ARTICLES:
-            url,_=queue.pop(0)
-            if url in visited: continue
+        while queue and len(results) < AMWAJ_MAX_ARTICLES:
+            url, _ = queue.pop(0)
+            if url in visited:
+                continue
             visited.add(url)
 
             try:
                 page.goto(url)
                 page.wait_for_timeout(2000)
-                soup=BeautifulSoup(page.content(),"lxml")
+                soup = BeautifulSoup(page.content(), "lxml")
 
-                title=soup.find("h1")
-                ps=soup.select("p")
+                title = soup.find("h1")
+                ps = soup.select("p")
 
                 if title and ps:
 
@@ -467,11 +520,11 @@ def crawl_amwaj():
                             break
 
                     results.append({
-                        "source":"Amwaj",
-                        "title":clean_text(title.get_text()),
-                        "summary":truncate(" ".join(p.get_text() for p in ps[:5])),
-                        "link":url,
-                        "date": date_text   # ✅ NEW
+                        "source": "Amwaj",
+                        "title": clean_text(title.get_text()),
+                        "summary": truncate(" ".join(p.get_text() for p in ps[:5])),
+                        "link": url,
+                        "date": date_text
                     })
 
                 for l in extract_links(page.content(), url):
@@ -510,7 +563,7 @@ def get_latest_amwaj_sitrep_from_articles(amwaj_articles):
                 return datetime(1970, 1, 1)
 
     sitreps.sort(key=sort_key, reverse=True)
-    return sitreps[0]    
+    return sitreps[0]
 
 # ---------------------------
 # JADALIYYA
@@ -518,18 +571,18 @@ def get_latest_amwaj_sitrep_from_articles(amwaj_articles):
 
 # 🔒 LOCKED FUNCTION — ingestion logic (fragile)
 def crawl_jadaliyya():
-    results=[]
+    results = []
 
     with sync_playwright() as p:
-        page=p.chromium.launch(headless=True).new_page()
+        page = p.chromium.launch(headless=True).new_page()
         page.goto(JADALIYYA_SEED_URL)
         page.wait_for_timeout(3000)
 
-        soup=BeautifulSoup(page.content(),"lxml")
+        soup = BeautifulSoup(page.content(), "lxml")
 
-        links=list(set([
-            urljoin(JADALIYYA_SEED_URL,a["href"])
-            for a in soup.find_all("a",href=True)
+        links = list(set([
+            urljoin(JADALIYYA_SEED_URL, a["href"])
+            for a in soup.find_all("a", href=True)
             if "/Details/" in a["href"]
         ]))[:JAD_MAX_ARTICLES]
 
@@ -537,22 +590,129 @@ def crawl_jadaliyya():
 
     for url in links:
         try:
-            s=BeautifulSoup(session.get(url).text,"lxml")
-            title=s.find("h1")
-            ps=s.select("p")
+            s = BeautifulSoup(session.get(url).text, "lxml")
+            title = s.find("h1")
+            ps = s.select("p")
 
             if title and ps:
                 results.append({
-                    "source":"Jadaliyya",
-                    "title":clean_text(title.get_text()),
-                    "summary":truncate(" ".join(p.get_text() for p in ps[:6])),
-                    "link":url
+                    "source": "Jadaliyya",
+                    "title": clean_text(title.get_text()),
+                    "summary": truncate(" ".join(p.get_text() for p in ps[:6])),
+                    "link": url
                 })
         except:
             continue
 
     print(f"[JAD] crawled: {len(results)}")
     return results
+
+# ---------------------------
+# CARNEGIE DIWAN
+# ---------------------------
+
+def crawl_carnegie_diwan():
+    results = []
+    seen = set()
+
+    try:
+        print("[CARNEGIE] loading diwan")
+        r = session.get(CARNEGIE_DIWAN_URL, timeout=15)
+        soup = BeautifulSoup(r.text, "lxml")
+
+        links = []
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+
+            if not href.startswith("http"):
+                href = urljoin("https://carnegieendowment.org", href)
+
+            if "/middle-east/diwan/" not in href:
+                continue
+
+            if any(x in href for x in ["/collections/", "/events/", "/search", "/people/"]):
+                continue
+
+            if not re.search(r"/middle-east/diwan/\d{4}/\d{2}/", href):
+                continue
+
+            if href not in seen:
+                seen.add(href)
+                links.append(href)
+
+        print(f"[CARNEGIE] candidate links found: {len(links)}")
+
+    except Exception as e:
+        print("[CARNEGIE ERROR]", e)
+        return results
+
+    for url in links[:CARNEGIE_MAX_ARTICLES]:
+        try:
+            page = session.get(url, timeout=15)
+            psoup = BeautifulSoup(page.text, "lxml")
+            text = psoup.get_text(" ", strip=True)
+
+            title = ""
+            summary = ""
+            date_text = ""
+
+            # Title
+            if psoup.find("h1"):
+                title = clean_text(psoup.find("h1").get_text())
+
+            if not title:
+                og = psoup.find("meta", attrs={"property": "og:title"})
+                if og and og.get("content"):
+                    title = clean_text(og["content"])
+
+            # Summary
+            meta_desc = psoup.find("meta", attrs={"name": "description"})
+            if meta_desc and meta_desc.get("content"):
+                summary = clean_text(meta_desc["content"])
+
+            if not summary:
+                og_desc = psoup.find("meta", attrs={"property": "og:description"})
+                if og_desc and og_desc.get("content"):
+                    summary = clean_text(og_desc["content"])
+
+            if not summary and title:
+                m = re.search(
+                    re.escape(title) + r"\s+(.*?)\s+By\s+",
+                    text,
+                    flags=re.DOTALL
+                )
+                if m:
+                    summary = clean_text(m.group(1))
+
+            if not summary:
+                paras = [clean_text(p.get_text(" ", strip=True)) for p in psoup.find_all("p")]
+                paras = [p for p in paras if len(p) > 50]
+                if paras:
+                    summary = paras[0]
+
+            # Date
+            published = re.search(r"Published on ([A-Za-z]{3,9}\s+\d{1,2},\s+\d{4})", text)
+            if published:
+                date_text = published.group(1)
+            else:
+                date_text = extract_carnegie_date_from_url(url)
+
+            if title and summary:
+                results.append({
+                    "source": "Carnegie ME",
+                    "title": title,
+                    "summary": truncate(summary, 260),
+                    "link": url,
+                    "date": date_text
+                })
+
+        except Exception as e:
+            print("[CARNEGIE ARTICLE ERROR]", url, e)
+            continue
+
+    print(f"[CARNEGIE] crawled: {len(results)}")
+    return results
+
 # ---------------------------
 # HAARETZ
 # ---------------------------
@@ -584,7 +744,7 @@ def crawl_haaretz():
 
     results = []
 
-    for url in links[:10]:   # limit for safety    
+    for url in links[:10]:
         try:
             page = session.get(url, timeout=10)
             psoup = BeautifulSoup(page.text, "lxml")
@@ -610,38 +770,42 @@ def crawl_haaretz():
 # FETCH
 # ---------------------------
 
-def fetch_rss(name,url):
-    items=[]
+def fetch_rss(name, url):
+    items = []
     try:
-        feed=feedparser.parse(session.get(url).content)
+        feed = feedparser.parse(session.get(url).content)
         for e in feed.entries[:15]:
             items.append({
-                "source":name,
-                "title":e.get("title",""),
-                "summary":truncate(clean_html(e.get("summary",""))),
-                "link":e.get("link","")
+                "source": name,
+                "title": e.get("title", ""),
+                "summary": truncate(clean_html(e.get("summary", ""))),
+                "link": e.get("link", "")
             })
     except:
         pass
     return items
 
 def fetch_all():
-    items=[]
+    items = []
 
-    for n,u in RSS_SOURCES:
-        items.extend([a for a in fetch_rss(n,u) if is_relevant(a)])
+    for n, u in RSS_SOURCES:
+        items.extend([a for a in fetch_rss(n, u) if is_relevant(a)])
 
     items.extend([a for a in crawl_haaretz() if is_relevant(a)])
 
     # 🔥 Capture Amwaj separately
     amwaj_articles = [a for a in crawl_amwaj() if is_relevant(a)]
 
-    # 🔥 Capture Jadaliyya separately (optional but clean)
+    # 🔥 Capture Jadaliyya separately
     jad_articles = [a for a in crawl_jadaliyya() if is_relevant(a)]
+
+    # 🔥 Capture Carnegie Diwan separately
+    carnegie_articles = [a for a in crawl_carnegie_diwan() if is_relevant(a)]
 
     # Add to main pool
     items.extend(amwaj_articles)
     items.extend(jad_articles)
+    items.extend(carnegie_articles)
 
     return items, amwaj_articles
 
@@ -649,16 +813,18 @@ def fetch_all():
 # BALANCE
 # ---------------------------
 
-def balance_section(articles,limit):
-    selected=[]
-    counts=defaultdict(int)
+def balance_section(articles, limit):
+    selected = []
+    counts = defaultdict(int)
 
     for a in articles:
-        src=a["source"]
-        if counts[src]>=MAX_PER_SOURCE.get(src,2): continue
+        src = a["source"]
+        if counts[src] >= MAX_PER_SOURCE.get(src, 2):
+            continue
         selected.append(a)
-        counts[src]+=1
-        if len(selected)>=limit: break
+        counts[src] += 1
+        if len(selected) >= limit:
+            break
 
     return selected
 
@@ -669,17 +835,17 @@ def balance_section(articles,limit):
 def build():
     raw, amwaj_articles = fetch_all()
 
-    print("\nSOURCE COUNTS:",Counter([a["source"] for a in raw]))
+    print("\nSOURCE COUNTS:", Counter([a["source"] for a in raw]))
 
     enriched = [
         summarize(a)
         for a in raw
         if not is_low_signal(a) and is_valid_article(a)
     ]
-    enriched.sort(key=lambda x:x["importance"],reverse=True)
+    enriched.sort(key=lambda x: x["importance"], reverse=True)
 
-    clusters=cluster_articles(enriched)
-    deduped=select_representatives(clusters)
+    clusters = cluster_articles(enriched)
+    deduped = select_representatives(clusters)
 
     def is_amwaj_sitrep(a):
         return a["source"] == "Amwaj" and "sitrep" in a["title"].lower()
@@ -703,7 +869,7 @@ def build():
             classify_event(a)
             and not is_amwaj_deep_dive(a)
             and not is_amwaj_sitrep(a)
-        )   
+        )
     ]
 
     regional = [
@@ -712,10 +878,9 @@ def build():
             not classify_event(a)
             and not is_amwaj_sitrep(a)
             and not is_amwaj_deep_dive(a)
-            and a["source"] not in ["War on the Rocks", "Responsible Statecraft", "Guardian", "Jadaliyya"]
+            and a["source"] not in ["War on the Rocks", "Responsible Statecraft", "Guardian", "Jadaliyya", "Carnegie ME"]
         )
     ]
-
 
     # ---------------------------
     # DEEP ANALYSIS (RESTORED)
@@ -727,7 +892,14 @@ def build():
             not classify_event(a)
             and not is_amwaj_sitrep(a)
             and not is_podcast(a)
-            and is_geopolitically_relevant(a)
+            and (
+                is_geopolitically_relevant(a)
+                or (a.get("source") == "Carnegie ME")
+            )
+            and not (
+                a.get("source") == "War on the Rocks"
+                and not is_geopolitically_relevant(a)
+            )
         )
     ]
 
@@ -735,16 +907,18 @@ def build():
     deep_candidates = sorted(
         deep_candidates,
         key=lambda x: (
-            0 if x["source"] in ["Jadaliyya", "War on the Rocks", "Responsible Statecraft", "Guardian"] else 1,
+            0 if x["source"] in ["Jadaliyya", "Guardian"] else
+            1 if x["source"] == "Carnegie ME" else
+            2 if x["source"] in ["War on the Rocks", "Responsible Statecraft"] else
+            3,
             -x["importance"]
         )
     )
 
-
     # 🔥 CRITICAL: positional slice (restores old behavior)
-    deep_slice = deep_candidates[:28]
+    deep_slice = deep_candidates[:32]
 
-#    Balance sources
+    # Balance sources
     deep = balance_section(deep_slice, DEEP_N)
 
     # 🔥 Ensure Amwaj Deep Dives are included
@@ -755,28 +929,25 @@ def build():
             deep.insert(0, a)
 
     # 🔥 Backfill
-    if len(events)<TOP_N:
-        for a in sorted(regional,key=lambda x:x["importance"],reverse=True):
+    if len(events) < TOP_N:
+        for a in sorted(regional, key=lambda x: x["importance"], reverse=True):
             if a not in events:
                 events.append(a)
-            if len(events)>=TOP_N: break
+            if len(events) >= TOP_N:
+                break
 
-    regional=[a for a in regional if a not in events]
-    # --- Ensure Haaretz representation ---
-   
+    regional = [a for a in regional if a not in events]
 
-    events=balance_section(events,TOP_N)
-    regional=balance_section(regional,REGIONAL_N)
-
-
+    events = balance_section(events, TOP_N)
+    regional = balance_section(regional, REGIONAL_N)
 
     # --- Ensure Haaretz representation AFTER balancing ---
     if not any(a["source"] == "Haaretz" for a in events + regional):
         haaretz_items = [a for a in enriched if a["source"] == "Haaretz"]
         if haaretz_items:
             regional.insert(0, haaretz_items[0])
+
     # --- Deduplicate by link (final safety pass) ---
-    
     def dedupe_by_link(items):
         seen = set()
         unique = []
@@ -813,10 +984,8 @@ def build():
     events, regional, deep = dedupe_across_sections(events, regional, deep)
 
     # 🔥 FINAL Sitrep anchoring (deterministic + safe)
-
     if latest_sitrep:
 
-        # Normalize title check (defensive)
         def is_sitrep(a):
             return a.get("source") == "Amwaj" and "sitrep" in a.get("title", "").lower()
 
@@ -833,18 +1002,17 @@ def build():
         # 🔒 Final safety: enforce size exactly
         events = events[:TOP_N]
 
-
     print("FINAL TOP SOURCES:", [a["source"] for a in events])
     print("FINAL REGIONAL SOURCES:", [a["source"] for a in regional])
+    print("FINAL DEEP SOURCES:", [a["source"] for a in deep])
 
     return {
-        "generated_at": datetime.utcnow().isoformat()+"Z",
+        "generated_at": datetime.utcnow().isoformat() + "Z",
         "top_story": generate_top_story(events, clusters, latest_sitrep),
         "top_developments": events,
         "regional_analysis": regional,
         "deep_analysis": deep
     }
-
 
 # ---------------------------
 # TOP STORY
@@ -874,7 +1042,7 @@ def generate_top_story(events, clusters, sitrep=None):
                     "role": "system",
                     "content": (
                         "You are an analyst and regional expert on Middle Eastern affairs who synthesizes developments across the region with attention to political dynamics, "
-                        "regional perspectives, and human impact. You avoid purely state-centric framing and focus on how events shape societies, economies, " 
+                        "regional perspectives, and human impact. You avoid purely state-centric framing and focus on how events shape societies, economies, "
                         "and lived realities."
                     )
                 },
@@ -914,15 +1082,15 @@ def generate_top_story(events, clusters, sitrep=None):
 # ---------------------------
 
 def save(data):
-    os.makedirs("public",exist_ok=True)
-    with open("public/briefing.json","w") as f:
-        json.dump(data,f,indent=2)
+    os.makedirs("public", exist_ok=True)
+    with open("public/briefing.json", "w") as f:
+        json.dump(data, f, indent=2)
 
 # ---------------------------
 # MAIN
 # ---------------------------
 
-if __name__=="__main__":
-    briefing=build()
+if __name__ == "__main__":
+    briefing = build()
     save(briefing)
     print("Saved briefing.json")
