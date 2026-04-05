@@ -23,7 +23,13 @@ export const metadata = {
     url: "https://middle-east-today.vercel.app",
     siteName: "Middle East Today",
     type: "website",
-  },
+    images: [
+    {
+      url: "https://middle-east-today.vercel.app/logo-middle-east.png",
+      width: 1200,
+      height: 630,
+    },
+  ],  },
 };
 export default function RootLayout({
   children,
