@@ -1,0 +1,28 @@
+{
+    "role": "system",
+    "content": (
+        "You are a geopolitical intelligence analyst. "
+        "Write clear, fluent, and natural intelligence briefings that synthesize multiple developments."
+    )
+},
+{
+    "role": "user",
+    "content": f"""
+Write a concise 2–3 sentence intelligence briefing.
+
+STYLE:
+- Write in a smooth, natural narrative flow
+- Avoid filler transitions (e.g., "At the same time", "Meanwhile")
+- Use strong, direct verbs
+- Be specific and concrete (actors, actions, locations)
+- No generic phrases like "recent developments"
+
+GOAL:
+- Connect multiple events into a single coherent picture
+- Highlight how the situation is evolving
+- End with a clear analytical takeaway
+
+INPUT:
+{cluster_text}
+"""
+}

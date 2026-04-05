@@ -26,7 +26,10 @@ const SOURCE_LOGOS: Record<string, string> = {
   "Haaretz": "/logos/Haaretz.png",
   "Amwaj": "/logos/Amwaj.png",
   "Jadaliyya": "/logos/jadaliyya.png",
-  "Al Monitor": "/logos/AlMonitor.jpeg"
+  "Al Monitor": "/logos/AlMonitor.jpeg",
+  "Responsible Statecraft": "/logos/RS.jpg",
+  "War on the Rocks": "/logos/WOTR.jpg",
+  "Carnegie ME": "/logos/Carnegie.jpg"
 };
 
 function Card({ item, variant }: { item: Item; variant?: string }) {
@@ -86,6 +89,110 @@ function Card({ item, variant }: { item: Item; variant?: string }) {
   );
 }
 
+async function fetchLatestPost(rssUrl: string) {
+  
+  try {
+    const res = await fetch(`/api/rss?url=${encodeURIComponent(rssUrl)}`);
+    const text = await res.text();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "text/xml");
+
+    const item = xml.querySelector("item");
+
+    if (!item) return null;
+
+    const pubDate = item.querySelector("pubDate")?.textContent || "";
+
+    const date = pubDate ? new Date(pubDate) : null;
+
+    const timeAgo = date
+      ? Math.floor((Date.now() - date.getTime()) / (1000 * 60 * 60 * 24))
+      : null;
+
+    return {
+      title: item.querySelector("title")?.textContent || "",
+      link: item.querySelector("link")?.textContent || "",
+      daysAgo: timeAgo
+    };
+
+  } catch (e) {
+    console.error("RSS fetch failed:", rssUrl);
+    return null;
+  }
+}
+
+//
+// ✅ NEW: Analyst Voices config
+//
+const ANALYST_FEEDS = [
+  { name: "Trita Parsi", rss: "https://tritaparsi.substack.com/feed" },
+  { name: "Holly Dagres", rss: "https://www.atlanticcouncil.org/blogs/iransource/feed/" },
+  { name: "Aron Lund", rss: "https://tcf.org/author/aron-lund/feed/" },
+  { name: "Renad Mansour", rss: "https://www.chathamhouse.org/rss/experts/renad-mansour" },
+  { name: "Hussein Ibish", rss: "https://agsiw.org/author/hussein-ibish/feed/" },
+  { name: "Greg Carlstrom", rss: "https://www.economist.com/middle-east-and-africa/rss.xml" },
+  { name: "Faysal Itani", rss: "https://faysalitani.substack.com/feed" }
+];
+
+function AnalystVoices() {
+  const [posts, setPosts] = useState<Record<string, any>>({});
+
+  useEffect(() => {
+  ANALYST_FEEDS.forEach(async (a) => {
+    const post = await fetchLatestPost(a.rss);
+
+    setPosts((prev) => ({
+      ...prev,
+      [a.name]: post || null
+    }));
+  });
+}, []);
+
+  return (
+    <div className="mb-14 border-t border-neutral-800 pt-8">
+      <h2 className="text-lg font-semibold mb-4">Analyst Voices</h2>
+
+      <div className="space-y-3">
+        {ANALYST_FEEDS.map((a, i) => {
+          const post = posts[a.name];
+
+          return (
+            <div key={i} className="text-sm text-neutral-300">
+              <span className="font-semibold text-neutral-100">
+                {a.name}
+              </span>
+
+              {post ? (
+                <>
+                  {" — "}
+                  <a
+                    href={post.link}
+                    target="_blank"
+                    className="hover:text-white transition"
+                  >
+                    Latest: {post.title}
+                    {post.daysAgo !== null && (
+                      <span className="text-neutral-500"> · {post.daysAgo}d ago</span>
+                    )}
+                  </a>
+                </>
+              ) : (
+                <>
+                  {" — "}
+                  <span className="text-neutral-500">
+                    (no recent posts)
+                  </span>
+                </>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 export default function Page() {
   const [data, setData] = useState<Briefing | null>(null);
 
@@ -130,6 +237,9 @@ export default function Page() {
         <Section title="Top Developments" items={data.top_developments} />
         <Section title="Regional Perspectives" items={data.regional_analysis} />
         <Section title="Deeper Analysis" items={data.deep_analysis} />
+
+        {/* ✅ NEW SECTION — completely isolated */}
+        <AnalystVoices />
 
       </div>
     </div>
