@@ -24,7 +24,7 @@ jobs:
 
       - name: Run briefing generator
         run: |
-          python generate_briefing.py
+          python3 generate_briefing.py
 
       - name: Commit and push if changed
         run: |
