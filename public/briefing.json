@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T16:53:50.689472Z",
-  "top_story": "Regional developments indicate rising tensions.",
+  "generated_at": "2026-04-05T17:17:48.469756Z",
+  "top_story": "Israel\u2019s campaign in Lebanon has intensified sharply since early March, with 1,461 people killed and at least 14 more dead in the latest strikes, deepening displacement, exhausting already fragile communities, and tying daily survival ever more tightly to military escalation. The violence is reshaping Lebanese civilian life as families navigate repeated loss, forced movement, and the pull of military duties that strip households of income and stability. The rescue of one of two US crew members after an F-15E was shot down over Iran underscores how quickly the conflict space is widening beyond Israel\u2019s northern front and drawing Washington into more direct risk. The core dynamic is a regional war environment in which localized strikes are steadily producing broader military entanglement and sharper civilian collapse.",
   "top_developments": [
     {
       "source": "Amwaj",
@@ -8,8 +8,36 @@
       "summary": "In collaboration with prominent Iranian academic and scholar\u00a0Dr. Hamidreza Azizi, Amwaj.media endeavors to publish daily situation reports on the Iran War on Mondays-Fridays. The focus will be on Iranian strategic narratives. The economic...",
       "link": "https://amwaj.media/en/media-monitor/iran-war-sitrep-all-eyes-on-infrastructure-as-conflict-morphs",
       "date": "Apr. 4, 2026",
-      "importance": 55,
-      "ai_summary": "In collaboration with prominent Iranian academic and scholar\u00a0Dr. Hamidreza Azizi, Amwaj.media endeavors to publish daily situation reports on the Iran War on Mondays-Fridays. The focus will be on Iranian strategic narratives. The economic..."
+      "ai_summary": "The piece frames the Iran war as shifting focus toward infrastructure and strategic narratives, with daily situation reports highlighting Iranian perspectives and the economic implications of the conflict.",
+      "importance": 47,
+      "why": "It signals a potentially significant escalation in war dynamics and mentions infrastructure and economic impacts, but the provided text is too limited to indicate a major new development."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Israel has killed 1,461 people in Lebanon since beginning of March",
+      "summary": "Israel has killed 1,461 people in Lebanon since beginning of March According to Lebanon's health ministry, 1,461 people have been killed by Israel since 2 March, and 4,430 others wounded.&nbsp;",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-1461-lebanon-beginning-march",
+      "ai_summary": "Israel has killed 1,461 people in Lebanon and wounded 4,430 since 2 March, according to Lebanon's health ministry.",
+      "importance": 95,
+      "why": "The report gives a large casualty figure in an ongoing conflict, making it highly significant for humanitarian, political, and security context."
+    },
+    {
+      "source": "Guardian",
+      "title": "Death, displacement and military duties: children plunged into crisis by Middle East war",
+      "summary": "The US-Israeli war will have a lifelong impact on millions of children across the Middle EastMillions of children have been plunged into crisis by the war in the Middle East, with reports of child soldiers in Iran, mass forced...",
+      "link": "https://www.theguardian.com/world/2026/apr/04/children-us-israel-iran-war-middle-east",
+      "ai_summary": "The war in the Middle East is causing severe harm to millions of children, including displacement, exposure to violence, and reports of child soldiers.",
+      "importance": 95,
+      "why": "This is a major humanitarian crisis affecting a very large number of children across multiple countries, with long-term consequences for safety, health, education, and mental well-being."
+    },
+    {
+      "source": "Guardian",
+      "title": "One of two US crew members rescued after F-15E jet shot down over Iran",
+      "summary": "Officials say other remains missing in first downing of US fighter plane since start of warMiddle East crisis \u2013 live updatesOne US service member has been rescued after a US F-15E Strike Eagle fighter was shot down over Iran, prompting a...",
+      "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "ai_summary": "One of two US crew members was rescued after a US F-15E Strike Eagle was shot down over Iran, while the other remains missing. The incident is described as the first downing of a US fighter plane since the war began, and officials are responding to the evolving Middle East crisis.",
+      "importance": 95,
+      "why": "This is a major military and geopolitical event involving a US fighter jet being shot down over Iran, which could escalate regional tensions and affect US-Iran relations. The rescue and missing crew member also make it urgent and high-impact news."
     },
     {
       "source": "Amwaj",
@@ -17,67 +45,75 @@
       "summary": "The story: US President Donald Trump has threatened to destroy Iran's power plants if Tehran does not reopen the Strait of Hormuz, triggering a cascade of warnings from Iranian military commanders and officials\u2014as well as pleas from...",
       "link": "https://amwaj.media/en/media-monitor/tehran-vows-regional-escalation-after-trump-threatens-iranian-power-grid",
       "date": "Mar. 23, 2026",
-      "importance": 55,
-      "ai_summary": "The story: US President Donald Trump has threatened to destroy Iran's power plants if Tehran does not reopen the Strait of Hormuz, triggering a cascade of warnings from Iranian military commanders and officials\u2014as well as pleas from..."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Iran War offers Saudi Arabia, UAE opportunity to taper off tensions",
-      "summary": "Prior to the launch of the Israeli-US war on Iran on Feb. 28, tensions between Saudi Arabia and the United Arab Emirates (UAE) were dominating headlines in the region. The rift between the two powerhouses became increasingly evident in...",
-      "link": "https://amwaj.media/en/article/iran-war-offers-saudi-arabia-uae-opportunity-to-taper-off-tensions",
-      "date": "Mar. 20, 2026",
-      "importance": 55,
-      "ai_summary": "Prior to the launch of the Israeli-US war on Iran on Feb. 28, tensions between Saudi Arabia and the United Arab Emirates (UAE) were dominating headlines in the region. The rift between the two powerhouses became increasingly evident in..."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Israeli strikes rain down on Lebanon as country celebrates Easter",
-      "summary": "Israeli strikes rain down on Lebanon as country celebrates Easter Submitted by MEE staff on Sun, 04/05/2026 - 16:41 Lebanon is hit by some of the heaviest strikes since March Lebanese Maronite Christians pray during the Easter Sunday...",
-      "link": "https://www.middleeasteye.net/news/israeli-strikes-rain-lebanon-some-heaviest-shelling-march",
-      "importance": 53,
-      "ai_summary": "Israeli strikes rain down on Lebanon as country celebrates Easter Submitted by MEE staff on Sun, 04/05/2026 - 16:41 Lebanon is hit by some of the heaviest strikes since March Lebanese Maronite Christians pray during the Easter Sunday..."
+      "ai_summary": "Trump threatened to destroy Iran's power plants unless Tehran reopens the Strait of Hormuz, prompting Iranian military officials to warn of regional escalation.",
+      "importance": 93,
+      "why": "It involves direct US-Iran military threats and the strategic Strait of Hormuz, which could disrupt global oil flows and escalate into a wider regional conflict."
     },
     {
       "source": "Middle East Eye",
       "title": "Intensified Israeli attacks across Lebanon",
       "summary": "Intensified Israeli attacks across Lebanon Several media outlets have reported heavy Israeli strikes across Lebanon on Sunday, particularly in Beirut and the south of the country.&nbsp; Artillery shelling was also reported in southern...",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/intensified-israeli-attacks-across-lebanon",
-      "importance": 53,
-      "ai_summary": "Intensified Israeli attacks across Lebanon Several media outlets have reported heavy Israeli strikes across Lebanon on Sunday, particularly in Beirut and the south of the country.&nbsp; Artillery shelling was also reported in southern..."
+      "ai_summary": "Reports of heavy Israeli strikes across Lebanon, especially in Beirut and southern areas, including artillery shelling in the south.",
+      "importance": 91,
+      "why": "This describes escalated military activity affecting multiple regions of Lebanon, including the capital and the south, which suggests significant conflict escalation and potential civilian impact."
     },
     {
       "source": "Middle East Eye",
-      "title": "To secure a ceasefire with Iran, the US must abandon ideological war",
-      "summary": "To secure a ceasefire with Iran, the US must abandon ideological war Submitted by Ahmet Davutoglu on Sun, 04/05/2026 - 14:30 Ending the war will require Washington to distance itself from Israel\u2019s influence and the Christian-Zionist...",
-      "link": "https://www.middleeasteye.net/opinion/secure-ceasefire-iran-us-must-abandon-ideological-war",
-      "importance": 53,
-      "ai_summary": "To secure a ceasefire with Iran, the US must abandon ideological war Submitted by Ahmet Davutoglu on Sun, 04/05/2026 - 14:30 Ending the war will require Washington to distance itself from Israel\u2019s influence and the Christian-Zionist..."
+      "title": "Eighth Israeli attack reported in Beirut\u2019s southern suburbs",
+      "summary": "Eighth Israeli attack reported in Beirut\u2019s southern suburbs Lebanon's state media is reporting Israeli strikes on the southern suburbs of Beirut, the&nbsp;eighth wave of attacks targeting the capital today.&nbsp; \"Heavy warplane activity...",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eighth-israeli-attack-reported-beiruts-southern-suburbs",
+      "ai_summary": "Lebanon\u2019s state media reported an eighth wave of Israeli strikes hitting Beirut\u2019s southern suburbs, amid heavy warplane activity over the capital.",
+      "importance": 91,
+      "why": "This is a major escalation involving repeated strikes on Lebanon\u2019s capital area, suggesting significant regional conflict and potential civilian and political impact."
     },
     {
       "source": "Al Monitor",
-      "title": "Indonesia lays to rest peacekeepers killed in Lebanon",
-      "summary": "Three Indonesian peacekeepers killed in two separate explosions in southern Lebanon last week were laid to rest in their hometowns on Sunday.Peacekeeper Farizal Rhomadhon, 28, died when a projectile exploded on March 29 in southern...",
-      "link": "https://www.al-monitor.com/originals/2026/04/indonesia-lays-rest-peacekeepers-killed-lebanon",
-      "importance": 53,
-      "ai_summary": "Three Indonesian peacekeepers killed in two separate explosions in southern Lebanon last week were laid to rest in their hometowns on Sunday.Peacekeeper Farizal Rhomadhon, 28, died when a projectile exploded on March 29 in southern..."
-    },
-    {
-      "source": "Guardian",
-      "title": "Despite propaganda coup of F-15 crew rescue, downing is reminder to US that Iran can fight back",
-      "summary": "Donald Trump will claim rescue as a triumph but 48-hour drama should be a caution against launching ground operationMiddle East crisis \u2013 live updatesDonald Trump will inevitably claim the rescue of the second crew member of the downed F-15...",
-      "link": "https://www.theguardian.com/world/2026/apr/05/propaganda-f-15-crew-rescue-downing-reminder-iran-fight-back-donald-trump",
-      "importance": 53,
-      "ai_summary": "Donald Trump will claim rescue as a triumph but 48-hour drama should be a caution against launching ground operationMiddle East crisis \u2013 live updatesDonald Trump will inevitably claim the rescue of the second crew member of the downed F-15..."
+      "title": "At least 11 killed in Israeli airstrikes in Lebanon on Easter Sunday",
+      "summary": "By Nazih OsseiranApril 5 (Reuters) - An Israeli airstrike on Kfarhata, a village in south Lebanon, killed seven people on Sunday, including a 4-year-old child, Lebanon's health ministry said in a statement.Another Israeli attack on the...",
+      "link": "https://www.al-monitor.com/originals/2026/04/least-11-killed-israeli-airstrikes-lebanon-easter-sunday",
+      "ai_summary": "An Israeli airstrike in south Lebanon killed seven people, including a 4-year-old child, according to Lebanon's health ministry, as part of broader Easter Sunday strikes that reportedly killed at least 11 people overall.",
+      "importance": 91,
+      "why": "This is a significant conflict-related casualty report involving multiple deaths, including a child, and it reflects ongoing regional violence with potential implications for civilian safety and wider Israel-Lebanon tensions."
     }
   ],
   "regional_analysis": [
     {
       "source": "Haaretz",
-      "title": "IDF Chief: Lebanese Population Won't Return to South Until Area 'Demilitarized'",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-05/ty-article-live/israeli-military-strikes-petrochemical-complex-in-iran-idf-says/0000019d-5b74-d759-ab9d-7bfd41ea0000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-05/ty-article-live/israeli-military-strikes-petrochemical-complex-in-iran-idf-says/0000019d-5b74-d759-ab9d-7bfd41ea0000",
-      "importance": 50,
-      "ai_summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-05/ty-article-live/israeli-military-strikes-petrochemical-complex-in-iran-idf-says/0000019d-5b74-d759-ab9d-7bfd41ea0000"
+      "title": "Iranian Missiles, Drones Trigger Fires, Injuries Across the Gulf From UAE to Bahrain and Kuwait",
+      "summary": "https://www.haaretz.com/middle-east-news/2026-04-05/ty-article/iranian-missiles-drones-trigger-fires-injuries-from-uae-to-bahrain-and-kuwait/0000019d-5cdb-da4e-a5df-5edf637c0000",
+      "link": "https://www.haaretz.com/middle-east-news/2026-04-05/ty-article/iranian-missiles-drones-trigger-fires-injuries-from-uae-to-bahrain-and-kuwait/0000019d-5cdb-da4e-a5df-5edf637c0000",
+      "ai_summary": "The article reports that Iranian missiles and drones caused fires and injuries across Gulf states, including the UAE, Bahrain, and Kuwait.",
+      "importance": 88,
+      "why": "This is highly important because it describes a regional military escalation with cross-border effects, including civilian injuries and fires in multiple Gulf countries. Such incidents can affect regional security, air defenses, energy infrastructure, and broader geopolitical tensions."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Targeted assassinations bring Iran-Israel-US war to Baghdad\u2019s streets",
+      "summary": "The story: Intensifying rocket and drone warfare is driving instability in Iraq as the Israeli-US war on Iran enters its third week. Tehran-allied Iraqi armed groups have stepped up attacks on western diplomatic and military sites across...",
+      "link": "https://amwaj.media/en/media-monitor/targeted-assassinations-bring-iran-israel-us-war-to-baghdads-streets",
+      "date": "Mar. 18, 2026",
+      "ai_summary": "Escalating Iran-Israel-US conflict is spilling into Iraq, with Tehran-aligned armed groups increasing rocket and drone attacks on western diplomatic and military targets in Baghdad and elsewhere.",
+      "importance": 94,
+      "why": "The report describes a significant regional escalation involving Iran, Israel, the US, and Iraqi armed groups, with direct implications for Iraqi stability and broader Middle East security."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel\u2019s Ben-Gvir details plans for Palestinian \u2018death row\u2019",
+      "summary": "Israeli National Security Minister Itamar Ben-Gvir excitedly outlined plans to establish a \u201cdeath row\u201d for Palestinians.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss",
+      "ai_summary": "Itamar Ben-Gvir outlined plans to establish a Palestinian \u201cdeath row.\u201d",
+      "importance": 93,
+      "why": "The title describes a highly controversial proposal by a senior Israeli minister involving severe treatment of Palestinians, which is politically significant and potentially escalatory."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "UKMTO reports unknown projectiles near UAE's Khor Fakkan port",
+      "summary": "UKMTO reports unknown projectiles near UAE's Khor Fakkan port The United Kingdom Maritime Trade Operations (UKMTO) said on Sunday that it received a report of an incident&nbsp;in close proximity to a ship at the UAE's Khor Fakkan port. The...",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-unknown-projectiles-nearby-uaes-khor-fakkan-port",
+      "ai_summary": "UKMTO reported an incident involving unknown projectiles near a ship close to the UAE\u2019s Khor Fakkan port.",
+      "importance": 85,
+      "why": "This is a maritime security incident near a major UAE port, with potential implications for shipping safety, regional tensions, and commercial traffic. Reports of projectiles near a vessel suggest possible hostile activity or an escalation risk, making it significant for operators and regional monitoring."
     },
     {
       "source": "Amwaj",
@@ -85,17 +121,9 @@
       "summary": "The story: Lawmakers in Baghdad are mounting a renewed campaign to break the deadlock over Iraq\u2019s long-stalled government formation. The push reflects how the over-extended caretaker government is struggling to retain authority as the...",
       "link": "https://amwaj.media/en/media-monitor/will-parliamentary-revolt-end-deadlock-over-government-formation-in-baghdad",
       "date": "Apr. 3, 2026",
-      "importance": 55,
-      "ai_summary": "The story: Lawmakers in Baghdad are mounting a renewed campaign to break the deadlock over Iraq\u2019s long-stalled government formation. The push reflects how the over-extended caretaker government is struggling to retain authority as the..."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Has the window for action by Iranian Kurdish opposition forces truly passed?",
-      "summary": "Spurred to unite by mass anti-government protests across Iran in January, a budding alliance of Iranian Kurdish opposition parties based in Iraqi Kurdistan is now facing a trial by fire. The Israeli-US war on Iran has opened up potentially...",
-      "link": "https://amwaj.media/en/article/has-the-window-for-action-by-iranian-kurdish-opposition-forces-truly-passed",
-      "date": "Apr. 2, 2026",
-      "importance": 55,
-      "ai_summary": "Spurred to unite by mass anti-government protests across Iran in January, a budding alliance of Iranian Kurdish opposition parties based in Iraqi Kurdistan is now facing a trial by fire. The Israeli-US war on Iran has opened up potentially..."
+      "ai_summary": "Lawmakers in Baghdad are renewing efforts to break Iraq\u2019s prolonged deadlock over government formation, as the caretaker government\u2019s authority continues to weaken.",
+      "importance": 83,
+      "why": "This concerns a major political stalemate in Iraq\u2019s capital and the functioning of government at the national level, which affects governance, stability, and power distribution."
     },
     {
       "source": "Amwaj",
@@ -103,48 +131,36 @@
       "summary": "Three weeks into the Israeli-US war on Iran, fundamental questions remain about the causes, purpose and urgency of the confrontation. US officials have alleged that Iran was marching towards a nuclear weapon, with lead negotiator Steve...",
       "link": "https://amwaj.media/en/article/inside-story-anatomy-of-the-breakdown-of-iran-us-diplomacy",
       "date": "Mar. 18, 2026",
-      "importance": 55,
-      "ai_summary": "Three weeks into the Israeli-US war on Iran, fundamental questions remain about the causes, purpose and urgency of the confrontation. US officials have alleged that Iran was marching towards a nuclear weapon, with lead negotiator Steve..."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "OPEC+ raises oil production quotas by 206,000 barrels per day",
-      "summary": "OPEC+ raises oil production quotas by 206,000 barrels per day The OPEC+ oil cartel,&nbsp;which includes key oil producers Saudi Arabia and Russia, agreed to again hike oil production quotas on Sunday.&nbsp; It decided to \"implement a...",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opec-raises-oil-production-quotas-206000-barrels-day",
-      "importance": 53,
-      "ai_summary": "OPEC+ raises oil production quotas by 206,000 barrels per day The OPEC+ oil cartel,&nbsp;which includes key oil producers Saudi Arabia and Russia, agreed to again hike oil production quotas on Sunday.&nbsp; It decided to \"implement a..."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "UAE is 'dealing with incident' at Khor Fakkan Port",
-      "summary": "UAE is 'dealing with incident' at Khor Fakkan Port The Sharjah media office said the Gulf city-state is \"dealing with an incident\" targeting the&nbsp;Khor Fakkan Port on Sunday, adding that no injuries have been recorded so far. Earlier,...",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-dealing-incident-khor-fakkan-port",
-      "importance": 53,
-      "ai_summary": "UAE is 'dealing with incident' at Khor Fakkan Port The Sharjah media office said the Gulf city-state is \"dealing with an incident\" targeting the&nbsp;Khor Fakkan Port on Sunday, adding that no injuries have been recorded so far. Earlier,..."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Iran\u2019s first vice president slams Trump for lack of healthcare funding in US",
-      "summary": "Iran\u2019s first vice president slams Trump for lack of healthcare funding in US Iran\u2019s first vice president slammed US President Donald Trump over recent remarks about a lack of funding for social programmes in America due to the war on...",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-first-vice-president-slams-trump-lack-health-care-funding-us",
-      "importance": 53,
-      "ai_summary": "Iran\u2019s first vice president slams Trump for lack of healthcare funding in US Iran\u2019s first vice president slammed US President Donald Trump over recent remarks about a lack of funding for social programmes in America due to the war on..."
+      "ai_summary": "An article examining the reasons behind the collapse of Iran-US diplomacy amid the Israeli-US war on Iran, focusing on claims that Iran was nearing nuclear weapons capability and the role of US lead negotiator Steve...",
+      "importance": 83,
+      "why": "It addresses a major geopolitical conflict involving Iran, the United States, and Israel, with implications for nuclear diplomacy, regional security, and international relations."
     },
     {
       "source": "Al Monitor",
-      "title": "China ready to cooperate with Russia to ease Middle East tension, foreign minister says",
-      "summary": "BEIJING, April 5 (Reuters) - China is willing to continue to cooperate with Russia at the U.N. Security Council and make efforts to cool down the Middle East situation, Foreign Minister Wang Yi told his Russian counterpart Sergei Lavrov in...",
-      "link": "https://www.al-monitor.com/originals/2026/04/china-ready-cooperate-russia-ease-middle-east-tension-foreign-minister-says",
-      "importance": 53,
-      "ai_summary": "BEIJING, April 5 (Reuters) - China is willing to continue to cooperate with Russia at the U.N. Security Council and make efforts to cool down the Middle East situation, Foreign Minister Wang Yi told his Russian counterpart Sergei Lavrov in..."
+      "title": "OPEC+ hikes oil production quotas, issues warning",
+      "summary": "The OPEC+ oil cartel agreed on Sunday to again increase oil production quotas, while warning that repairing energy facilities, such as those damaged in the Middle East war, is \"costly and takes a long time\".For the second month in a row,...",
+      "link": "https://www.al-monitor.com/originals/2026/04/opec-hikes-oil-production-quotas-issues-warning",
+      "ai_summary": "OPEC+ agreed to raise oil production quotas again while warning that rebuilding damaged energy infrastructure from conflicts in the Middle East is expensive and slow.",
+      "importance": 81,
+      "why": "This is economically significant because OPEC+ decisions can influence global oil supply, prices, inflation, and energy markets. The warning about damaged infrastructure also highlights ongoing geopolitical and supply risks."
     },
     {
       "source": "Al Monitor",
-      "title": "Zelenskiy in Syria to meet President Sharaa, sources say",
-      "summary": "April 5 (Reuters) - Ukrainian President Volodymyr Zelenskiy has made his first visit to Syria to hold a meeting with his counterpart Ahmed al-Sharaa, two Syrian sources told Reuters on Sunday.The talks were linked to defence in light of...",
-      "link": "https://www.al-monitor.com/originals/2026/04/zelenskiy-syria-meet-president-sharaa-sources-say",
-      "importance": 53,
-      "ai_summary": "April 5 (Reuters) - Ukrainian President Volodymyr Zelenskiy has made his first visit to Syria to hold a meeting with his counterpart Ahmed al-Sharaa, two Syrian sources told Reuters on Sunday.The talks were linked to defence in light of..."
+      "title": "Israeli intelligence helped US airman rescue mission in Iran, official says",
+      "summary": "April 5 (Reuters) - Israel provided intelligence assistance to the United States during an operation to rescue a stranded U.S. airman in Iran and halted its attacks in the area to facilitate the mission, an Israeli security official said....",
+      "link": "https://www.al-monitor.com/originals/2026/04/israeli-intelligence-helped-us-airman-rescue-mission-iran-official-says",
+      "ai_summary": "Israel reportedly assisted the U.S. with intelligence and a temporary pause in attacks during a mission to rescue a stranded American airman in Iran.",
+      "importance": 81,
+      "why": "The report involves U.S.-Israel security cooperation and a rescue operation inside Iran, which is diplomatically and militarily significant. It is newsworthy because it touches on regional conflict dynamics, covert intelligence support, and potential escalation risks."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Israeli fire kills four Palestinians in Gaza, medics say",
+      "summary": "CAIRO, April 5 (Reuters) - An Israeli airstrike killed four Palestinians in the northern Gaza Strip on Sunday, local health authorities said, in the latest violence to overshadow a fragile ceasefire amid a new push by mediators to bolster...",
+      "link": "https://www.al-monitor.com/originals/2026/04/israeli-fire-kills-four-palestinians-gaza-medics-say",
+      "ai_summary": "An Israeli airstrike in northern Gaza killed four Palestinians, according to local health authorities, adding to violence that threatens a fragile ceasefire as mediators try to reinforce it.",
+      "importance": 80,
+      "why": "This is a significant conflict update involving fatalities and potential ceasefire destabilization, with likely regional and diplomatic relevance."
     }
   ],
   "deep_analysis": [
@@ -154,74 +170,83 @@
       "summary": "The story: Iran has retaliated against an Israeli strike on its giant South Pars gas field by hitting vital energy facilities in several countries, including Qatar and Saudi Arabia. In reaction to Iran\u2019s response, US President Donald Trump...",
       "link": "https://amwaj.media/en/media-monitor/deep-dive-iran-war-features-strikes-on-energy-installations-amid-signs-of-de-esca",
       "date": "Mar. 19, 2026",
-      "importance": 55,
-      "ai_summary": "The story: Iran has retaliated against an Israeli strike on its giant South Pars gas field by hitting vital energy facilities in several countries, including Qatar and Saudi Arabia. In reaction to Iran\u2019s response, US President Donald Trump..."
+      "ai_summary": "Iran retaliated for an Israeli strike on its South Pars gas field by targeting energy facilities in several countries, including Qatar and Saudi Arabia, while signs of possible de-escalation emerged after the response drew a reaction from US President Donald Trump.",
+      "importance": 93,
+      "why": "The article concerns a major regional escalation involving strikes on critical energy infrastructure, multiple countries, and possible spillover effects on global energy markets and geopolitics."
     },
     {
       "source": "Jadaliyya",
       "title": "Launching 'Israel\u2019s Zombie Economy:' A Five Part Interview Series",
       "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
-      "importance": 56,
-      "ai_summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The..."
+      "ai_summary": "Jadaliyya launches a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
+      "importance": 74,
+      "why": "The item announces a substantive multi-part series on Israel\u2019s political economy featuring named commentators, suggesting notable scholarly and political relevance, though it is primarily an introduction rather than a major standalone event."
     },
     {
       "source": "Jadaliyya",
       "title": "The US-Israel War in Context: Roundup of Jadaliyya Content (Ongoing)",
       "summary": "The war on Iran opens another front in a long history of imperial wars and interventions in the region. Below is a selection of our Jadaliyya content in which the US-Israel-led war on Iran is addressed in its broader context. A...",
       "link": "https://www.jadaliyya.com/Details/47286/Jadaliyya-Iran-Publications-Round-Up-March-30,-2026",
-      "importance": 56,
-      "ai_summary": "The war on Iran opens another front in a long history of imperial wars and interventions in the region. Below is a selection of our Jadaliyya content in which the US-Israel-led war on Iran is addressed in its broader context. A..."
+      "ai_summary": "Jadaliyya is presenting an ongoing roundup of its coverage on the US-Israel war on Iran, framing the conflict as part of a broader history of imperial wars and interventions in the region.",
+      "importance": 68,
+      "why": "It situates current events within a wider geopolitical and historical context, which is useful for understanding the conflict, but the snippet itself is mainly an editorial roundup rather than a primary breaking-news development."
     },
     {
       "source": "Carnegie ME",
-      "title": "Hezbollah\u2019s Wartime Strategy",
-      "summary": "The party\u2019s objectives involve tying together the Lebanese and Iranian fronts, while surviving militarily and politically at home.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/hezbollahs-wartime-strategy",
-      "date": "Apr 1, 2026",
-      "importance": 51,
-      "ai_summary": "The party\u2019s objectives involve tying together the Lebanese and Iranian fronts, while surviving militarily and politically at home."
+      "title": "Trump\u2019s Plan for Gaza is Not Irrelevant, It\u2019s Worse",
+      "summary": "The simple conclusion is that the scheme will bring neither peace nor prosperity, but will institutionalize devastation.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/03/trumps-plan-for-gaza-is-not-irrelevant-its-worse",
+      "date": "Mar 27, 2026",
+      "ai_summary": "The plan is criticized as far worse than merely irrelevant because it would institutionalize devastation rather than deliver peace or prosperity.",
+      "importance": 73,
+      "why": "The text makes a strong evaluative claim about a Gaza policy proposal, arguing it would entrench harm instead of solving the conflict. This is politically significant, but the provided text is very brief and offers only a high-level judgment."
     },
     {
       "source": "Carnegie ME",
-      "title": "A Mission for Lebanon\u2019s Army",
-      "summary": "While armed forces commander Rudolph Haykal\u2019s caution is understandable, he is in a position to act, and must.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/03/a-mission-for-lebanons-army",
-      "date": "Mar 31, 2026",
-      "importance": 51,
-      "ai_summary": "While armed forces commander Rudolph Haykal\u2019s caution is understandable, he is in a position to act, and must."
+      "title": "Iran Rewrites Its War Strategy",
+      "summary": "In an interview, Hamidreza Azizi discusses how Tehran has adapted in real time to the conflict with the United States and Israel.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/03/iran-rewrites-its-war-strategy",
+      "date": "Mar 30, 2026",
+      "ai_summary": "Hamidreza Azizi discusses how Tehran has adapted its war strategy in real time in response to conflict with the United States and Israel.",
+      "importance": 72,
+      "why": "The piece appears to address an important shift in Iran\u2019s military and strategic posture toward two major adversaries, which has broader implications for regional security and conflict dynamics."
+    },
+    {
+      "source": "Responsible Statecraft",
+      "title": "The Iran war and the death of the global maritime commons",
+      "summary": "For 46 years, the United States styled itself as the ultimate guarantor of maritime freedom, and nowhere was this posture more rigidly enforced than in the Persian Gulf. Today, with the Strait of Hormuz closed to dollarized trade, the...",
+      "link": "https://responsiblestatecraft.org/iran-war-oil/",
+      "ai_summary": "The article argues that a widened Iran conflict and a closed Strait of Hormuz mark the collapse of U.S.-backed maritime order and the global \u201ccommons\u201d of free shipping, with major implications for trade, energy, and the dollar-based system.",
+      "importance": 86,
+      "why": "It concerns a major geopolitical and economic disruption affecting global shipping, energy markets, and the international order, with potential worldwide consequences."
     },
     {
       "source": "War on the Rocks",
       "title": "The Iran War and the Energy Lesson We Failed to Learn",
       "summary": "How many energy crises will it take before we stop betting our economies on a fragile oil market?The U.S. and Israeli war with Iran quickly morphed from a regional conflict into a global energy shock. Oil and gas markets have been volatile...",
       "link": "https://warontherocks.com/2026/04/the-iran-war-and-the-energy-lesson-we-failed-to-learn/",
-      "importance": 48,
-      "ai_summary": "How many energy crises will it take before we stop betting our economies on a fragile oil market?The U.S. and Israeli war with Iran quickly morphed from a regional conflict into a global energy shock. Oil and gas markets have been volatile..."
+      "ai_summary": "The piece argues that conflict with Iran has once again exposed how vulnerable the global economy is to disruptions in oil and gas markets, and that repeated energy shocks should push countries to reduce dependence on fragile fossil-fuel systems.",
+      "importance": 74,
+      "why": "It is timely and broadly relevant because it connects geopolitics, energy security, and economic stability. The text highlights a recurring systemic risk\u2014overreliance on volatile oil markets\u2014that affects governments, businesses, and consumers globally."
     },
     {
-      "source": "Responsible Statecraft",
-      "title": "Planes and pilots down: Is US prepared for real conventional war?",
-      "summary": "Just 24 hours after President Trump claimed four separate times in a national address that Iran had been \u201cdecimated,\u201d a U.S. Air Force F-15E Strike Eagle was shot down over Iranian territory in Khuzestan province, marking one of the most...",
-      "link": "https://responsiblestatecraft.org/pilots-down-iran/",
-      "importance": 48,
-      "ai_summary": "Just 24 hours after President Trump claimed four separate times in a national address that Iran had been \u201cdecimated,\u201d a U.S. Air Force F-15E Strike Eagle was shot down over Iranian territory in Khuzestan province, marking one of the most..."
+      "source": "Middle East Eye",
+      "title": "Trump says 'good chance' of deal with Iran, but he will 'blow up' everything if not",
+      "summary": "Trump says 'good chance' of deal with Iran, but he will 'blow up' everything if not US President Donald Trump &nbsp;told a Fox News journalist that he believes there is a \"good chance\" of making a deal with Iran on Monday.&nbsp; \"They are...",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-good-chance-deal-iran-will-blow-everything-if-not",
+      "ai_summary": "Trump said there is a \u201cgood chance\u201d of reaching a deal with Iran, but warned he would \u201cblow up\u201d everything if negotiations fail.",
+      "importance": 79,
+      "why": "The item concerns U.S.-Iran relations and a high-stakes statement from the U.S. president about diplomacy and potential escalation, which could affect international security and markets."
     },
     {
-      "source": "Al Monitor",
-      "title": "Israeli intelligence helped US airman rescue mission in Iran, official says",
-      "summary": "April 5 (Reuters) - Israel provided intelligence assistance to the United States during an operation to rescue a stranded U.S. airman in Iran and halted its attacks in the area to facilitate the mission, an Israeli security official said....",
-      "link": "https://www.al-monitor.com/originals/2026/04/israeli-intelligence-helped-us-airman-rescue-mission-iran-official-says",
-      "importance": 53,
-      "ai_summary": "April 5 (Reuters) - Israel provided intelligence assistance to the United States during an operation to rescue a stranded U.S. airman in Iran and halted its attacks in the area to facilitate the mission, an Israeli security official said...."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel\u2019s Ben-Gvir details plans for Palestinian \u2018death row\u2019",
-      "summary": "Israeli National Security Minister Itamar Ben-Gvir excitedly outlined plans to establish a \u201cdeath row\u201d for Palestinians.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss",
-      "importance": 51,
-      "ai_summary": "Israeli National Security Minister Itamar Ben-Gvir excitedly outlined plans to establish a \u201cdeath row\u201d for Palestinians."
+      "source": "Haaretz",
+      "title": "IDF Chief: Lebanese Population Won't Return to South Until Area 'Demilitarized'",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-05/ty-article-live/israeli-military-strikes-petrochemical-complex-in-iran-idf-says/0000019d-5b74-d759-ab9d-7bfd41ea0000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-05/ty-article-live/israeli-military-strikes-petrochemical-complex-in-iran-idf-says/0000019d-5b74-d759-ab9d-7bfd41ea0000",
+      "ai_summary": "IDF chief says Lebanon's south will remain empty of returning civilians until the area is demilitarized, in the context of ongoing Israel-Lebanon tensions and cross-border security concerns.",
+      "importance": 78,
+      "why": "This is a significant regional security statement because it directly addresses conditions for civilian return in southern Lebanon and reflects the broader Israel-Hezbollah conflict dynamics. It signals potential implications for ceasefire negotiations, displacement, and border security."
     }
   ]
 }
