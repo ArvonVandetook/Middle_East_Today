@@ -19,7 +19,7 @@ export const metadata = {
   openGraph: {
     title: "Middle East Today",
     description:
-      "A daily intelligence brief on the Middle East, surfacing the most important developments and analysis from around the region.",
+      "A daily briefing on the Middle East, surfacing the most important developments and analysis from around the region.",
     url: "https://middle-east-today.vercel.app",
     siteName: "Middle East Today",
     type: "website",
