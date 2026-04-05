@@ -27,7 +27,7 @@ const SOURCE_LOGOS: Record<string, string> = {
   "Amwaj": "/logos/Amwaj.png",
   "Jadaliyya": "/logos/jadaliyya.png",
   "Al Monitor": "/logos/AlMonitor.jpeg",
-  "Responsible Statecraft": "/logos/RS.jpg",
+  "Responsible Statecraft": "/logos/rs.jpg",
   "War on the Rocks": "/logos/WOTR.jpg",
   "Carnegie ME": "/logos/Carnegie.jpg"
 };
