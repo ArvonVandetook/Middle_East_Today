@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install requests beautifulsoup4 feedparser openai playwright
-          python3 -m pip playwright install --with-deps
+          python3 -m pip playwright install chromium
 
       - name: Run briefing generator
         run: |
