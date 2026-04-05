@@ -283,7 +283,7 @@ def is_valid_article(article):
     source = article.get("source", "")
 
     # 🔥 HARD FILTER: remove MEE live blog entries (robust)
-    if "middleeasteye.net/live-blog/ in url:
+    if "middleeasteye.net/live-blog/" in url:
             return False
             
     bad_terms = [
