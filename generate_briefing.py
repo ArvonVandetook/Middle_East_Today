@@ -1145,10 +1145,13 @@ def generate_top_story(events, clusters, sitrep=None):
         return fallback
 
     cluster_text = "\n".join([
-        " / ".join([clean_title(a["title"]) for a in c[:2]])
+        " / ".join([
+            (a.get("ai_summary") or a["title"])
+            for a in c[:2]
+        ])
         for c in clusters[:3]
     ])
-
+    
     try:
         r = client.chat.completions.create(
             model=TOP_STORY_MODEL,
