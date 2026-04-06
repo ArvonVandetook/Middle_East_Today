@@ -27,7 +27,6 @@ client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 RSS_SOURCES = [
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
-    ("Middle East Eye", "https://www.middleeasteye.net/rss"),
     ("Al Monitor", "https://www.al-monitor.com/rss"),
     ("Guardian", "https://www.theguardian.com/world/middleeast/rss"),
 
@@ -466,6 +465,16 @@ def classify_event(article):
     if any(s in t for s in strong):
         return True
 
+    # 🔥 MEE broader event detection
+    if src == "Middle East Eye":
+        if any(k in t for k in [
+            "strike", "attack", "kills", "killed",
+            "rescues", "rescue", "shot down",
+            "missile", "airstrike", "clashes",
+            "raid", "report", "says", "vows"
+        ]):
+            return True  
+
     # 🔥 Guardian-specific fallback (important)
     if src == "Guardian":
         return True
@@ -514,7 +523,9 @@ TEXT: {article['summary']}
         article["importance"] += 6
     elif src == "Carnegie ME":
         article["importance"] += 1
-    elif src in ["Middle East Eye", "Al Monitor"]:
+    elif src == "Middle East Eye":
+        article["importance"] += 3
+    elif src == "Al Monitor":
         article["importance"] += 3
     elif src == "Al Jazeera":
         article["importance"] += 1
@@ -694,6 +705,108 @@ def crawl_jadaliyya():
     print(f"[JAD] crawled: {len(results)}")
     return results
 
+# ---------------------------
+# MIDDLE EAST EYE
+# ---------------------------
+
+def crawl_middle_east_eye():
+    results = []
+    seen = set()
+
+    BASE = "https://www.middleeasteye.net"
+
+    sections = [
+        "https://www.middleeasteye.net/news",
+        "https://www.middleeasteye.net/analysis",
+        "https://www.middleeasteye.net/opinion"
+    ]
+
+    try:
+        print("[MEE] crawling sections")
+
+        for section_url in sections:
+            r = session.get(section_url, timeout=15)
+            soup = BeautifulSoup(r.text, "lxml")
+
+            for a in soup.find_all("a", href=True):
+                href = a["href"]
+
+                # Normalize URL
+                if not href.startswith("http"):
+                    href = BASE + href
+
+                # 🔥 Only real articles
+                if not any(x in href for x in ["/news/", "/analysis/", "/opinion/"]):
+                    continue
+
+                # 🚫 Skip live blogs
+                if "/live-blog/" in href:
+                    continue
+
+                # 🚫 Skip duplicates
+                if href in seen:
+                    continue
+
+                seen.add(href)
+
+                # Limit initial fetch size
+                if len(seen) >= 25:
+                    break
+
+        print(f"[MEE] candidate links: {len(seen)}")
+
+    except Exception as e:
+        print("[MEE SECTION ERROR]", e)
+        return results
+
+    # ---------------------------
+    # Fetch article content
+    # ---------------------------
+
+    for url in list(seen)[:15]:
+        try:
+            page = session.get(url, timeout=15)
+            soup = BeautifulSoup(page.text, "lxml")
+
+            title_tag = soup.find("h1")
+            title = clean_text(title_tag.get_text()) if title_tag else ""
+
+            if not title:
+                continue
+
+            # Try meta description first (best quality)
+            summary = ""
+            meta_desc = soup.find("meta", attrs={"name": "description"})
+            if meta_desc and meta_desc.get("content"):
+                summary = clean_text(meta_desc["content"])
+
+            # Fallback: first paragraphs
+            if not summary:
+                paras = [
+                    clean_text(p.get_text(" ", strip=True))
+                    for p in soup.find_all("p")
+                ]
+                paras = [p for p in paras if len(p) > 40]
+                if paras:
+                    summary = paras[0]
+
+            if not summary:
+                continue
+
+            results.append({
+                "source": "Middle East Eye",
+                "title": title,
+                "summary": truncate(summary, 260),
+                "link": url
+            })
+
+        except Exception as e:
+            print("[MEE ARTICLE ERROR]", url, e)
+            continue
+
+    print(f"[MEE] crawled: {len(results)}")
+
+    return results
 # ---------------------------
 # CARNEGIE DIWAN
 # ---------------------------
@@ -889,6 +1002,10 @@ def fetch_all():
     # 🔥 Capture Carnegie Diwan separately
     carnegie_articles = [a for a in crawl_carnegie_diwan() if is_relevant(a)]
 
+    # 🔥 MEE crawler (replaces RSS)
+    mee_articles = [a for a in crawl_middle_east_eye() if is_relevant(a)]
+    items.extend(mee_articles)
+
     # Add to main pool
     items.extend(amwaj_articles)
     items.extend(jad_articles)
@@ -980,6 +1097,7 @@ def build():
             and not is_amwaj_sitrep(a)
             and not is_amwaj_deep_dive(a)
             and a["source"] not in ["War on the Rocks", "Responsible Statecraft", "Guardian", "Jadaliyya", "Carnegie ME"]
+            and a["source"] != "Middle East Eye"
         )
     ]
 
@@ -996,6 +1114,12 @@ def build():
             and (
                 is_geopolitically_relevant(a)
                 or (a.get("source") == "Carnegie ME")
+                or (
+                    a.get("source") == "Middle East Eye"
+                    and any(w in a.get("title", "").lower() for w in [
+                        "why", "how", "analysis", "opinion", "what", "inside"
+                    ])
+                )
             )
             and not (
                 a.get("source") == "War on the Rocks"
@@ -1014,7 +1138,7 @@ def build():
     deep_candidates = sorted(
         deep_candidates,
         key=lambda x: (
-            0 if x["source"] in ["Jadaliyya", "Guardian"] else
+            0 if x["source"] in ["Jadaliyya", "Guardian", "Middle East Eye"] else
             1 if x["source"] == "Carnegie ME" else
             2 if x["source"] in ["War on the Rocks", "Responsible Statecraft"] else
             3,
@@ -1145,7 +1269,10 @@ def generate_top_story(events, clusters, sitrep=None):
         return fallback
 
     cluster_text = "\n".join([
-        " / ".join([clean_title(a["title"]) for a in c[:2]])
+        " / ".join([
+            (a.get("ai_summary") or a["title"])
+            for a in c[:2]
+        ])
         for c in clusters[:3]
     ])
 
