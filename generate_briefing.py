@@ -89,7 +89,14 @@ def clean_text(text):
 def clean_title(t):
     return re.sub(r":.*", "", t).strip().capitalize() if t else t
 
-
+def debug_article(label, article):
+    print(
+        f"[DEBUG:{label}] "
+        f"source={article.get('source')} | "
+        f"title={article.get('title')} | "
+        f"importance={article.get('importance', 'NA')} | "
+        f"link={article.get('link')}"
+    )
 # ---------------------------
 # AMWAJ DATE PARSING
 # ---------------------------
@@ -221,7 +228,7 @@ def is_relevant(article):
 # ---------------------------
 
 def is_low_signal(article):
-    bad = ["what you need", "latest", "live", "explainer", "analysis:", "how", "what is", "why"]
+    bad = ["what you need", "latest", "live", "explainer", "analysis:", "how"]
     return any(b in article["title"].lower() for b in bad)
 
 def is_podcast(article):
@@ -272,6 +279,82 @@ def is_geopolitically_relevant(article):
     ]
 
     return any(term in text for term in relevant_terms)
+
+def jadaliyya_deep_adjustment(article):
+    """
+    Small Jadaliyya-specific scoring nudge for Deep Analysis.
+    Favors essay-style analytical writing over podcast/live wrappers,
+    while still allowing roundup/context pieces to remain competitive.
+    """
+    title = article.get("title", "").lower()
+    summary = article.get("summary", "").lower()
+    url = article.get("link", "").lower()
+
+    text = f"{title} {summary} {url}"
+    score = 0
+
+    # Strong positive signals for essay-style analysis
+    strong_positive = [
+        "why ",
+        "how ",
+        "at a crossroads",
+        "ideology",
+        "war without limits",
+        "wages of impunity",
+        "neo-imperialism",
+        "political economy",
+        "infrastructure",
+        "state-building",
+        "occupation",
+        "security",
+        "breakdown",
+        "arms industry",
+    ]
+    for phrase in strong_positive:
+        if phrase in text:
+            score += 2
+
+    # Mild positive signals for framing/synthesis pieces
+    mild_positive = [
+        "roundup",
+        "in context",
+        "context",
+        "essential readings",
+        "new lessons",
+    ]
+    for phrase in mild_positive:
+        if phrase in text:
+            score += 1
+
+    # Negative signals for media wrappers / event-like discussion formats
+    negative = [
+        "podcast",
+        "podcasts",
+        "series",
+        "limited podcast series",
+        "episode",
+        "pilot episode",
+        "interview",
+        "interviews",
+        "live ",
+        "join us",
+        "roundtable",
+        "webinar",
+        "teach-in",
+        "conference",
+        "panel",
+        "discussion",
+        "register",
+    ]
+    for phrase in negative:
+        if phrase in text:
+            score -= 3
+
+    # Extra URL-based penalty for obvious media-wrapper pieces
+    if "media-wars" in url or "iran-on-the-brink" in url:
+        score -= 2
+
+    return score    
 
 def is_valid_article(article):
     if is_non_analysis(article):
@@ -839,17 +922,31 @@ def balance_section(articles, limit):
 def build():
     raw, amwaj_articles = fetch_all()
 
+    target_phrase = "why iran is not venezuela"
+
     print("\nSOURCE COUNTS:", Counter([a["source"] for a in raw]))
+    for a in raw:
+        if target_phrase in a.get("title", "").lower():
+            debug_article("RAW", a)
 
     enriched = [
         summarize(a)
         for a in raw
         if not is_low_signal(a) and is_valid_article(a)
     ]
+
+    for a in enriched:
+        if target_phrase in a.get("title", "").lower():
+            debug_article("ENRICHED", a)
+
     enriched.sort(key=lambda x: x["importance"], reverse=True)
 
     clusters = cluster_articles(enriched)
     deduped = select_representatives(clusters)
+
+    for a in deduped:
+        if target_phrase in a.get("title", "").lower():
+            debug_article("DEDUPED", a)
 
     def is_amwaj_sitrep(a):
         return a["source"] == "Amwaj" and "sitrep" in a["title"].lower()
@@ -907,6 +1004,12 @@ def build():
         )
     ]
 
+
+
+    for a in deep_candidates:
+        if target_phrase in a.get("title", "").lower():
+            debug_article("DEEP_CANDIDATE_BEFORE_SORT", a)            
+
     # 🔥 Prefer analytical sources
     deep_candidates = sorted(
         deep_candidates,
@@ -922,8 +1025,16 @@ def build():
     # 🔥 CRITICAL: positional slice (restores old behavior)
     deep_slice = deep_candidates[:32]
 
+    for a in deep_slice:
+        if target_phrase in a.get("title", "").lower():
+            debug_article("DEEP_SLICE", a)
+
     # Balance sources
     deep = balance_section(deep_slice, DEEP_N)
+
+    for a in deep:
+        if target_phrase in a.get("title", "").lower():
+            debug_article("FINAL_DEEP", a)
 
     # 🔥 Ensure Amwaj Deep Dives are included
     amwaj_deep = [a for a in deduped if is_amwaj_deep_dive(a)]
