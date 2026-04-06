@@ -6,7 +6,8 @@ from datetime import datetime
 import re
 from collections import defaultdict, Counter
 from urllib.parse import urljoin
-
+from email.utils import parsedate_to_datetime
+from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
 from openai import OpenAI
 from playwright.sync_api import sync_playwright
@@ -56,8 +57,8 @@ MAX_PER_SOURCE = {
     "default": 2
 }
 
-TOP_N = 8
-REGIONAL_N = 8
+TOP_N = 12
+REGIONAL_N = 9
 DEEP_N = 16
 
 AMWAJ_SEED_URL = "https://amwaj.media/en/media-monitor/tehran-vows-regional-escalation-after-trump-threatens-iranian-power-grid"
@@ -465,15 +466,23 @@ def classify_event(article):
     if any(s in t for s in strong):
         return True
 
-    # 🔥 MEE broader event detection
+    # 🔥 MEE broader event detection (UPGRADED)
     if src == "Middle East Eye":
+        # Strong signals
         if any(k in t for k in [
             "strike", "attack", "kills", "killed",
             "rescues", "rescue", "shot down",
             "missile", "airstrike", "clashes",
-            "raid", "report", "says", "vows"
+            "raid"
         ]):
-            return True  
+            return True
+
+    # 🔥 Softer reporting language (CRITICAL ADD)
+    if any(k in t for k in [
+        "says", "vows", "announces", "claims",
+        "reports", "warns", "accuses"
+    ]):
+        return True 
 
     # 🔥 Guardian-specific fallback (important)
     if src == "Guardian":
@@ -912,6 +921,196 @@ def crawl_carnegie_diwan():
 
     print(f"[CARNEGIE] crawled: {len(results)}")
     return results
+# ----------------------------
+# REUTERS
+# ----------------------------
+
+# ----------------------------
+# REUTERS
+# ----------------------------
+
+REUTERS_SOURCE_PAGES = [
+    "https://www.reuters.com/world/middle-east/",
+    "https://www.reuters.com/world/iran/",
+    "https://www.reuters.com/world/israel-hamas/",
+    "https://www.reuters.com/",
+]
+
+REUTERS_BACKFILL_MAX_AGE_HOURS = 24
+
+
+def _parse_reuters_relative_time(text):
+    text = (text or "").strip().lower()
+
+    m = re.match(r"(\d+)\s+mins?\s+ago", text)
+    if m:
+        return datetime.now(timezone.utc) - timedelta(minutes=int(m.group(1)))
+
+    m = re.match(r"(\d+)\s+hours?\s+ago", text)
+    if m:
+        return datetime.now(timezone.utc) - timedelta(hours=int(m.group(1)))
+
+    return None
+
+
+def _looks_like_reuters_live_item(title, link):
+    title = (title or "").lower()
+    link = (link or "").lower()
+
+    if "/live/" in link:
+        return True
+    if title.startswith("live:") or "live updates" in title:
+        return True
+
+    return False
+
+
+def _is_reuters_relevant_text(title, summary, link):
+    text = " ".join([title or "", summary or "", link or ""]).lower()
+
+    required_any = [
+        "iran", "israel", "gaza", "lebanon", "hezbollah", "hormuz",
+        "tehran", "tel aviv", "west bank", "middle east", "syria",
+        "iraq", "yemen", "kuwait", "qatar", "uae", "saudi", "oman"
+    ]
+    return any(term in text for term in required_any)
+
+
+def _reuters_dupish(title, link, existing_items):
+    title = (title or "").strip().lower()
+    link = (link or "").strip().lower()
+
+    for item in existing_items:
+        existing_title = (item.get("title") or "").strip().lower()
+        existing_link = (item.get("url") or item.get("link") or "").strip().lower()
+
+        if link and existing_link and link == existing_link:
+            return True
+
+        if title and existing_title:
+            if title == existing_title:
+                return True
+
+            title_words = set(w for w in title.split() if len(w) > 3)
+            existing_words = set(w for w in existing_title.split() if len(w) > 3)
+
+            if title_words and existing_words:
+                overlap = len(title_words & existing_words)
+                if overlap >= 7:
+                    return True
+
+    return False
+
+
+def get_reuters_backfill_candidate(existing_top_developments):
+    now_utc = datetime.now(timezone.utc)
+    candidates = []
+    seen_links = set()
+
+    print("[REUTERS] starting page-scrape candidate search")
+
+    for page_url in REUTERS_SOURCE_PAGES:
+        print(f"[REUTERS] source page: {page_url}")
+
+        try:
+            r = session.get(page_url, timeout=15)
+            soup = BeautifulSoup(r.text, "lxml")
+        except Exception as e:
+            print(f"[REUTERS] page fetch failed: {e}")
+            continue
+
+        links = soup.find_all("a", href=True)
+
+        for a in links:
+            href = a["href"].strip()
+            title = clean_text(a.get_text(" ", strip=True))
+
+            if not href:
+                continue
+
+            if href.startswith("/"):
+                href = "https://www.reuters.com" + href
+
+            if not href.startswith("https://www.reuters.com/"):
+                continue
+
+            if href in seen_links:
+                continue
+            seen_links.add(href)
+
+            if not title or len(title) < 20:
+                continue
+
+            # Only real article-like Reuters pages
+            if href.count("/") < 5:
+                continue
+
+            # Skip obvious non-article media types
+            if any(x in href for x in ["/podcasts/", "/video/", "/pictures/", "/graphics/", "/live/"]):
+                continue
+
+            if _looks_like_reuters_live_item(title, href):
+                print(f"[REUTERS SKIP] live | {title}")
+                continue
+
+            # Try to find nearby summary + time from surrounding block
+            summary = ""
+            published_dt = None
+
+            container = a.find_parent(["article", "div", "section"])
+            if container:
+                container_texts = [clean_text(x.get_text(" ", strip=True)) for x in container.find_all(["p", "span"], limit=8)]
+                container_texts = [t for t in container_texts if t]
+
+                for t in container_texts:
+                    if not published_dt:
+                        published_dt = _parse_reuters_relative_time(t)
+
+                    if (
+                        len(t) > 40
+                        and t != title
+                        and "reuters" not in t.lower()
+                        and "includes video" not in t.lower()
+                    ):
+                        summary = t
+                        break
+
+            if not published_dt:
+                continue
+
+            age = now_utc - published_dt
+            if age > timedelta(hours=REUTERS_BACKFILL_MAX_AGE_HOURS):
+                print(f"[REUTERS SKIP] too old ({age}) | {title}")
+                continue
+
+            if not _is_reuters_relevant_text(title, summary, href):
+                print(f"[REUTERS SKIP] not relevant | {title}")
+                continue
+
+            if _reuters_dupish(title, href, existing_top_developments):
+                print(f"[REUTERS SKIP] dupish | {title}")
+                continue
+
+            print(f"[REUTERS KEEP] {title}")
+            candidates.append({
+                "source": "Reuters",
+                "title": title,
+                "url": href,
+                "summary": summary,
+                "published_at": published_dt.isoformat(),
+                "_dt": published_dt,
+            })
+
+    print(f"[REUTERS] surviving candidates: {len(candidates)}")
+
+    if not candidates:
+        return None
+
+    candidates.sort(key=lambda x: x["_dt"], reverse=True)
+    best = candidates[0]
+    best.pop("_dt", None)
+    print(f"[REUTERS] selected: {best['title']}")
+    return best
 
 # ---------------------------
 # HAARETZ
@@ -1101,6 +1300,8 @@ def build():
         )
     ]
 
+   
+
     # ---------------------------
     # DEEP ANALYSIS (RESTORED)
     # ---------------------------
@@ -1222,6 +1423,18 @@ def build():
 
     events, regional, deep = dedupe_across_sections(events, regional, deep)
 
+    # 🔥 Reuters backfill: only fill an open 9th Top Developments slot
+    print(f"[REUTERS BACKFILL] events before: {len(events)}")
+
+    if len(events) < 9:
+        reuters_item = get_reuters_backfill_candidate(events)
+        print(f"[REUTERS BACKFILL] candidate: {reuters_item}")
+        if reuters_item:
+            reuters_item["link"] = reuters_item.pop("url", reuters_item.get("link", ""))
+            reuters_item["summary"] = clean_html(reuters_item.get("summary", ""))
+            events.append(reuters_item)
+            print(f"[REUTERS BACKFILL] events after append: {len(events)}")
+
     # 🔥 FINAL Sitrep anchoring (deterministic + safe)
     if latest_sitrep:
 
@@ -1318,6 +1531,8 @@ def generate_top_story(events, clusters, sitrep=None):
     except Exception as e:
         print("[TOP STORY ERROR]", e)
         return fallback
+
+    
 
 # ---------------------------
 # SAVE
