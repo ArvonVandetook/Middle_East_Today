@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from "react";
 
+const SHOW_WHY = false;
+
 type Item = {
   source: string;
   title: string;
@@ -73,7 +75,7 @@ function Card({ item, variant }: { item: Item; variant?: string }) {
         </div>
       )}
 
-      {item.why && (
+      {SHOW_WHY && item.why && (
         <div
   className={`text-sm leading-relaxed ${
     isRegional
