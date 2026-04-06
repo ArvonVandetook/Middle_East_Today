@@ -1275,7 +1275,7 @@ def generate_top_story(events, clusters, sitrep=None):
         ])
         for c in clusters[:3]
     ])
-
+    
     try:
         r = client.chat.completions.create(
             model=TOP_STORY_MODEL,
