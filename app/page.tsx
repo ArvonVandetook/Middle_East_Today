@@ -207,8 +207,25 @@ export default function Page() {
 
   if (!data) return null;
 
-  return (
-    <div className="bg-black text-white min-h-screen px-6 py-8">
+  const date = new Date(data.generated_at);
+
+  const pacificDate = date.toLocaleDateString("en-GB", {
+    timeZone: "America/Los_Angeles",
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+  });
+
+  const pacificTime = date.toLocaleTimeString("en-GB", {
+    timeZone: "America/Los_Angeles",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  });
+
+  const zuluTime = date.toISOString().slice(11, 16);
+
+  return (    <div className="bg-black text-white min-h-screen px-6 py-8">
       <div className="max-w-6xl mx-auto">
 
         <div className="mb-10">
@@ -221,9 +238,8 @@ export default function Page() {
           </h1>
 
           <div className="text-sm text-neutral-400">
-            Generated: {data.generated_at}
-          </div>
-        </div>
+            Generated: {pacificDate} · {pacificTime} PT / {zuluTime}Z
+          </div>        </div>
 
         {data.top_story && (
           <div className="mb-14 border-b border-neutral-800 pb-8">
