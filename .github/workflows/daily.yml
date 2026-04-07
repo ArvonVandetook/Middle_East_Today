@@ -2,7 +2,7 @@ name: Daily Briefing Update
 
 on:
   schedule:
-    - cron: "0 12,18,0 * * *"  
+    - cron: "0 0,12,18 * * *"  
   workflow_dispatch:       # allows manual run
 
 jobs:
