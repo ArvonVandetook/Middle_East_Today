@@ -626,12 +626,25 @@ def crawl_amwaj():
                             date_text = txt
                             break
 
+                    published_at = None
+                    if date_text:
+                        try:
+                            dt = datetime.strptime(date_text, "%b. %d, %Y").replace(tzinfo=timezone.utc)
+                            published_at = dt.isoformat().replace("+00:00", "Z")
+                        except:
+                            try:
+                                dt = datetime.strptime(date_text, "%b %d, %Y").replace(tzinfo=timezone.utc)
+                                published_at = dt.isoformat().replace("+00:00", "Z")
+                            except:
+                                published_at = None
+
                     results.append({
                         "source": "Amwaj",
                         "title": clean_text(title.get_text()),
                         "summary": truncate(" ".join(p.get_text() for p in ps[:5])),
                         "link": url,
-                        "date": date_text
+                        "date": date_text,
+                        "published_at": published_at
                     })
 
                 for l in extract_links(page.content(), url):
@@ -702,13 +715,36 @@ def crawl_jadaliyya():
             ps = s.select("p")
 
             if title and ps:
+                published_at = None
+
+                # Try to extract date from page text
+                date_text = ""
+                for el in s.find_all(string=True):
+                    txt = clean_text(el)
+                    if re.match(r"[A-Z][a-z]{2}\.\s\d{1,2},\s\d{4}", txt):
+                        date_text = txt
+                        break
+
+                if date_text:
+                    try:
+                        dt = datetime.strptime(date_text, "%b. %d, %Y").replace(tzinfo=timezone.utc)
+                        published_at = dt.isoformat().replace("+00:00", "Z")
+                    except:
+                        try:
+                            dt = datetime.strptime(date_text, "%b %d, %Y").replace(tzinfo=timezone.utc)
+                            published_at = dt.isoformat().replace("+00:00", "Z")
+                        except:
+                            published_at = None
+
                 results.append({
                     "source": "Jadaliyya",
                     "title": clean_text(title.get_text()),
                     "summary": truncate(" ".join(p.get_text() for p in ps[:6])),
-                    "link": url
+                    "link": url,
+                    "published_at": published_at
                 })
-        except:
+        except Exception as e:
+            print("[JAD ARTICLE ERROR]", url, e)
             continue
 
     print(f"[JAD] crawled: {len(results)}")
@@ -802,11 +838,41 @@ def crawl_middle_east_eye():
             if not summary:
                 continue
 
+            published_at = None
+
+            # Try meta/article time first
+            time_tag = soup.find("meta", attrs={"property": "article:published_time"})
+            if time_tag and time_tag.get("content"):
+                raw_time = clean_text(time_tag["content"])
+                try:
+                    dt = datetime.fromisoformat(raw_time.replace("Z", "+00:00"))
+                    dt = dt.astimezone(timezone.utc)
+                    published_at = dt.isoformat().replace("+00:00", "Z")
+                except:
+                    published_at = None
+
+            # Fallback: look for visible date text
+            if not published_at:
+                date_text = ""
+                for el in soup.find_all(string=True):
+                    txt = clean_text(el)
+                    if re.match(r"[A-Z][a-z]{2}\s+\d{1,2},\s+\d{4}", txt):
+                        date_text = txt
+                        break
+
+                if date_text:
+                    try:
+                        dt = datetime.strptime(date_text, "%b %d, %Y").replace(tzinfo=timezone.utc)
+                        published_at = dt.isoformat().replace("+00:00", "Z")
+                    except:
+                        published_at = None
+
             results.append({
                 "source": "Middle East Eye",
                 "title": title,
                 "summary": truncate(summary, 260),
-                "link": url
+                "link": url,
+                "published_at": published_at
             })
 
         except Exception as e:
@@ -906,13 +972,26 @@ def crawl_carnegie_diwan():
             else:
                 date_text = extract_carnegie_date_from_url(url)
 
+            published_at = None
+            if date_text:
+                try:
+                    dt = datetime.strptime(date_text, "%B %d, %Y").replace(tzinfo=timezone.utc)
+                    published_at = dt.isoformat().replace("+00:00", "Z")
+                except:
+                    try:
+                        dt = datetime.strptime(date_text, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+                        published_at = dt.isoformat().replace("+00:00", "Z")
+                    except:
+                        published_at = None
+
             if title and summary:
                 results.append({
                     "source": "Carnegie ME",
                     "title": title,
                     "summary": truncate(summary, 260),
                     "link": url,
-                    "date": date_text
+                    "date": date_text,
+                    "published_at": published_at
                 })
 
         except Exception as e:
@@ -1154,11 +1233,23 @@ def crawl_haaretz():
         except:
             title = url
 
+        published_at = None
+
+        m = re.search(r"/(\d{4})-(\d{2})-(\d{2})/", url)
+        if m:
+            y, mth, d = m.groups()
+            try:
+                dt = datetime.strptime(f"{y}-{mth}-{d}", "%Y-%m-%d").replace(tzinfo=timezone.utc)
+                published_at = dt.isoformat().replace("+00:00", "Z")
+            except:
+                published_at = None
+
         results.append({
             "source": "Haaretz",
             "title": title,
             "summary": url,
-            "link": url
+            "link": url,
+            "published_at": published_at
         })
 
     print(f"[HAARETZ] returning {len(results)} articles")
@@ -1174,11 +1265,34 @@ def fetch_rss(name, url):
     try:
         feed = feedparser.parse(session.get(url).content)
         for e in feed.entries[:15]:
+            published_at = None
+
+            dt_struct = e.get("published_parsed") or e.get("updated_parsed")
+            if dt_struct:
+                try:
+                    dt = datetime(*dt_struct[:6], tzinfo=timezone.utc)
+                    published_at = dt.isoformat().replace("+00:00", "Z")
+                except:
+                    published_at = None
+            else:
+                raw_date = e.get("published", "") or e.get("updated", "")
+                if raw_date:
+                    try:
+                        dt = parsedate_to_datetime(raw_date)
+                        if dt.tzinfo is None:
+                            dt = dt.replace(tzinfo=timezone.utc)
+                        else:
+                            dt = dt.astimezone(timezone.utc)
+                        published_at = dt.isoformat().replace("+00:00", "Z")
+                    except:
+                        published_at = None
+
             items.append({
                 "source": name,
                 "title": e.get("title", ""),
                 "summary": truncate(clean_html(e.get("summary", ""))),
-                "link": e.get("link", "")
+                "link": e.get("link", ""),
+                "published_at": published_at
             })
     except:
         pass
@@ -1481,9 +1595,14 @@ def generate_top_story(events, clusters, sitrep=None):
     if not client or not clusters:
         return fallback
 
-    cluster_text = "\n".join([
-        " / ".join([
-            (a.get("ai_summary") or a["title"])
+    cluster_text = "\n\n".join([
+        "\n".join([
+            (
+                f"[{a.get('published_at') or 'UNKNOWN_TIME'}] "
+                f"{a.get('source', 'Unknown Source')} — "
+                f"{a.get('title', '')}\n"
+                f"Summary: {a.get('ai_summary') or a.get('title', '')}"
+            )
             for a in c[:2]
         ])
         for c in clusters[:3]
@@ -1504,25 +1623,34 @@ def generate_top_story(events, clusters, sitrep=None):
                 {
                     "role": "user",
                     "content": f"""
-            Write a concise 3-4 sentence narrative intelligence briefing that reads as a single coherent paragraph. Sentences should not be overly long.
+                    Write a concise 3–4 sentence narrative intelligence briefing that reads as a single coherent paragraph. Keep sentences controlled in length and avoid overloading any single sentence.
 
-            STYLE:
-            - Write in a smooth, natural narrative flow
-            - Avoid filler transitions (e.g., "Meanwhile", "At the same time")
-            - Use precise language
-            - Be specific about actors, actions, and locations
-            - Avoid generic or newsy phrasing
-            - Avoid attributional phrasing (e.g., "reports that", "according to"); write with direct analytical voice
+                    STYLE:
+                    - Write in a smooth, natural narrative flow
+                    - Avoid filler transitions (e.g., "Meanwhile", "At the same time")
+                    - Use precise language
+                    - Be specific about actors, actions, and locations
+                    - Avoid generic or newsy phrasing
+                    - Avoid attributional phrasing (e.g., "reports that", "according to"); write with direct analytical voice
 
-            GOAL:
-            - Synthesize developments into a coherent regional picture
-            - Reflect political dynamics alongside societal and human impact
-            - Show how events are connected, not just occurring
-            - End with a clear analytical takeaway
+                    TEMPORAL ANALYSIS:
+                    - Use the timestamps to understand sequence and timing of developments
+                    - Identify where events precede, trigger, or respond to one another
+                    - Distinguish between ongoing baseline conditions and recent shifts
+                    - Give more analytical weight to the most recent and consequential developments
+                    - Do NOT assume the list order reflects chronology; rely on timestamps
+                    - If timing is unclear, do not invent sequence — write cautiously
 
-            INPUT:
-            {cluster_text}
-            """
+                    GOAL:
+                    - Synthesize developments into a coherent regional picture
+                    - Reflect political dynamics alongside societal and human impact
+                    - Show how events are connected, not just occurring
+                    - Surface causal relationships where timing supports them
+                    - End with a clear analytical takeaway
+
+                    INPUT:
+                    {cluster_text}
+                    """
                 }
             ]
         )
