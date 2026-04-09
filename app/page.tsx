@@ -156,12 +156,13 @@ function AnalystVoices() {
     <div className="mb-14 border-t border-neutral-800 pt-8">
       <h2 className="text-lg font-semibold mb-4">Analyst Voices</h2>
 
-      <div className="space-y-3">
+      <div className="space-y-4">
         {ANALYST_FEEDS.map((a, i) => {
           const post = posts[a.name];
 
           return (
-            <div key={i} className="text-sm text-neutral-300">
+            <div key={i} className="text-sm text-neutral-300 border-b border-neutral-800/60 pb-2"
+              >              
               <span className="font-semibold text-neutral-100">
                 {a.name}
               </span>
@@ -172,11 +173,11 @@ function AnalystVoices() {
                   <a
                     href={post.link}
                     target="_blank"
-                    className="hover:text-white transition"
-                  >
-                    Latest: {post.title}
+                    className="text-yellow-300 hover:text-yellow-200 transition"                  
+                    >
+                    {post.title}
                     {post.daysAgo !== null && (
-                      <span className="text-neutral-500"> · {post.daysAgo}d ago</span>
+                      <span className="text-neutral-600 ml-1"> · {post.daysAgo}d ago</span>
                     )}
                   </a>
                 </>
