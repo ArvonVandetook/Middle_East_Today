@@ -133,9 +133,10 @@ const ANALYST_FEEDS = [
   { name: "Ali Ansari", rss: "https://iranshahr.substack.com/feed" },
   { name: "Middle East Politics", rss: "https://mideastpolitics.substack.com/feed" },
   { name: "IranWire", rss: "https://iranwire.substack.com/feed" },
-  { name: "James M. Dorsey", rss: "https://jamesmdorsey.substack.com/feed" }, 
+  { name: "James M. Dorsey", rss: "https://jamesmdorsey.substack.com/feed" },
+  { name: "Fatima Abo Alasrar", rss: "https://www.ideologymachine.com/feed" },
   { name: "Greg Carlstrom", rss: "https://www.economist.com/middle-east-and-africa/rss.xml" },
-  { name: "Faysal Itani", rss: "https://faysalitani.substack.com/feed" }
+ 
 ];
 
 function AnalystVoices() {
