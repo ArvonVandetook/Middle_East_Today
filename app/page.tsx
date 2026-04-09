@@ -42,7 +42,7 @@ function Card({ item, variant }: { item: Item; variant?: string }) {
     <a
       href={item.link}
       target="_blank"
-      className={`block rounded-lg border p-4 transition ${
+      className={`block rounded-lg border p-3 transition ${
   isRegional
     ? "border-neutral-800/60 hover:border-neutral-700 bg-neutral-900/20"
     : "border-neutral-800 hover:border-neutral-700"
@@ -65,7 +65,7 @@ function Card({ item, variant }: { item: Item; variant?: string }) {
 
       {item.ai_summary && (
         <div
-       className={`text-sm mb-2 leading-relaxed ${
+       className={`text-sm mb-1 leading-snug ${
   isRegional
     ? "text-neutral-200"
     : "text-neutral-300"
