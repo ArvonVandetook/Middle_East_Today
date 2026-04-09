@@ -134,8 +134,6 @@ const ANALYST_FEEDS = [
   { name: "Middle East Politics", rss: "https://mideastpolitics.substack.com/feed" },
   { name: "IranWire", rss: "https://iranwire.substack.com/feed" },
   { name: "James M. Dorsey", rss: "https://jamesmdorsey.substack.com/feed" },  
-  { name: "Aron Lund", rss: "https://tcf.org/author/aron-lund/feed/" },
-  { name: "Renad Mansour", rss: "https://www.chathamhouse.org/rss/experts/renad-mansour" },
   { name: "Hussein Ibish", rss: "https://agsiw.org/author/hussein-ibish/feed/" },
   { name: "Greg Carlstrom", rss: "https://www.economist.com/middle-east-and-africa/rss.xml" },
   { name: "Faysal Itani", rss: "https://faysalitani.substack.com/feed" }
