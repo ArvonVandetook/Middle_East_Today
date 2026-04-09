@@ -17,7 +17,7 @@ export const metadata = {
   description:
     "A daily brief on the Middle East, surfacing the most important developments and analysis from around the region.",
   icons: {
-    icon: "/logo-middle-east.png",   // or .png if that’s what you used
+    icon: "/logos/logo-middle-east.png",   // or .png if that’s what you used
   },
   openGraph: {
     title: "Middle East Today",
