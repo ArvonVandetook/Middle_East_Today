@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T01:23:49.417221Z",
-  "top_story": "After weeks of coercive signaling that began with Trump\u2019s March threat against Iran\u2019s power grid, Washington and Tehran moved on 8 April into a conditional ceasefire that calmed markets and raised prospects of reopening the Strait of Hormuz. That de-escalatory opening was quickly undercut hours later when Israel launched its largest strike of the war against Hezbollah, hitting multiple Lebanese cities and killing at least 254 people while wounding hundreds more. The scale of the attack deepened civilian trauma in Lebanon and gave Tehran grounds to warn it could step back from the overnight ceasefire, linking the Lebanese front directly to Gulf shipping and energy stability. The immediate takeaway is that a narrow US-Iran pause has not contained the wider conflict system, where Israeli military action can rapidly reignite regional escalation and impose the heaviest costs on Lebanese civilians.",
+  "generated_at": "2026-04-09T14:07:14.758372Z",
+  "top_story": "Israel\u2019s largest air campaign of the war struck more than 100 sites across Lebanon within minutes on 8 April, killing at least 254 people and wounding more than 1,100, with the scale and speed of the attack deepening civilian trauma and sharply raising the risk of wider escalation. By 9 April, Beirut moved to reassert political control over any diplomatic track, with the prime minister publicly rejecting Iranian negotiation on Lebanon\u2019s behalf as the strikes exposed both Lebanon\u2019s vulnerability and the sensitivity of outside influence. The combination of mass civilian casualties and Lebanon\u2019s insistence on sovereign decision-making points to a dual crisis: an immediate humanitarian shock and a tightening contest over who speaks for Lebanon under fire. The clearest near-term implication is that Israeli military pressure is not only widening the battlefield but also reshaping the political terms of any ceasefire effort.",
   "top_developments": [
     {
       "source": "Amwaj",
@@ -9,19 +9,39 @@
       "link": "https://amwaj.media/en/media-monitor/iran-war-sitrep-energy-infrastructure-hit-as-iran-braces-for-possible-us-escalati",
       "date": "Apr. 7, 2026",
       "published_at": "2026-04-07T00:00:00Z",
-      "ai_summary": "Report on the Iran war situation, highlighting damage to energy infrastructure and Iran\u2019s concern about possible US escalation, with emphasis on Iranian strategic narratives.",
+      "ai_summary": "Daily Iran war situation report focused on strategic narratives, noting damage to energy infrastructure and concern over possible US escalation.",
       "importance": 77,
-      "why": "It concerns a major regional conflict involving energy infrastructure and the risk of escalation with the United States, both of which have significant geopolitical and economic implications."
+      "why": "It concerns a major regional conflict, potential US escalation, and damage to energy infrastructure, which can affect security, markets, and regional stability."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Israel kills at least 254 people in massive wave of strikes across Lebanon",
+      "summary": "Over 1,100 were also wounded in heaviest day of Israeli bombing in Lebanon since start of the war",
+      "link": "https://www.middleeasteye.net/news/israel-launches-massive-wave-strikes-across-lebanon-iran-ceasefire",
+      "published_at": null,
+      "ai_summary": "Israel carried out a massive wave of strikes across Lebanon, killing at least 254 people and wounding over 1,100 in the heaviest day of Israeli bombing in Lebanon since the war began.",
+      "importance": 101,
+      "why": "This reports a major escalation in the Israel-Lebanon conflict with very high casualty figures and significant regional implications."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Lebanon rejects Iran negotiating on its behalf, PM says only Beirut handles talks",
+      "summary": "Israel launched its largest attack against Lebanon in the war, firing over 160 munitions across the country. At least 203 people were killed and 1,072 injured, while 33 remain missing, authorities said.",
+      "link": "https://www.al-monitor.com/originals/2026/04/lebanon-rejects-iran-negotiating-its-behalf-pm-says-only-beirut-handles-talks",
+      "published_at": "2026-04-09T12:17:12Z",
+      "ai_summary": "Lebanon says Iran cannot negotiate on its behalf as Israel launches its largest attack on the country in the war, killing at least 203 people and injuring 1,072.",
+      "importance": 99,
+      "why": "This is a major regional escalation involving heavy casualties, a large-scale Israeli strike, and an important diplomatic stance by Lebanon rejecting Iran\u2019s role in negotiations."
     },
     {
       "source": "Guardian",
-      "title": "At least 254 killed after Israel hits Lebanon with massive wave of airstrikes",
-      "summary": "\u2018Largest coordinated strike\u2019 against Hezbollah since war began prompts warnings Iran could pull out of ceasefire Middle East crisis \u2013 live updatesIsrael has carried out its largest attack on Lebanon since its war with Hezbollah began,...",
-      "link": "https://www.theguardian.com/world/2026/apr/08/israel-operations-in-lebanon-to-continue-despite-trump-ceasefire-iran-pakistan-hezbollah",
-      "published_at": "2026-04-08T23:52:56Z",
-      "ai_summary": "Massive Israeli airstrikes on Lebanon killed at least 254 people, described as the largest coordinated strike against Hezbollah since the war began, raising fears of wider regional escalation and potential Iranian response.",
-      "importance": 99,
-      "why": "This is a major escalation in the Israel-Hezbollah conflict with very high casualty figures, implications for a broader Middle East war, and potential ceasefire breakdown involving Iran."
+      "title": "The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds",
+      "summary": "Beirut residents and officials say civilians were main casualties in operation that bombed 100-plus targets in 10 minutesMiddle East crisis \u2013 live updatesIt took Israel only 10 minutes to carry out one of the worst mass-killings in Lebanon...",
+      "link": "https://www.theguardian.com/world/2026/apr/09/lebanon-beirut-israel-strikes-hundreds-killed",
+      "published_at": "2026-04-09T13:00:35Z",
+      "ai_summary": "Israel launched a rapid wave of strikes across Lebanon, hitting 100-plus targets in about 10 minutes and causing hundreds of deaths, which Lebanese residents and officials say were mostly civilians.",
+      "importance": 98,
+      "why": "The article describes a major escalation in the Israel-Lebanon conflict with a very high civilian death toll and widespread impact, making it highly significant for regional security, humanitarian concerns, and international news coverage."
     },
     {
       "source": "Amwaj",
@@ -30,69 +50,49 @@
       "link": "https://amwaj.media/en/media-monitor/tehran-vows-regional-escalation-after-trump-threatens-iranian-power-grid",
       "date": "Mar. 23, 2026",
       "published_at": "2026-03-23T00:00:00Z",
-      "ai_summary": "Trump threatened to destroy Iran's power plants unless Tehran reopens the Strait of Hormuz, prompting warnings of regional escalation from Iranian military officials.",
-      "importance": 93,
-      "why": "This involves direct U.S.-Iran military threats tied to the Strait of Hormuz, a critical global energy chokepoint, making it highly consequential for regional security and international markets."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Oil prices plunge, stocks surge on US-Iran ceasefire",
-      "summary": "Oil and gas prices plunged, stock markets soared and the dollar retreated Wednesday after the United States and Iran agreed to a temporary ceasefire that could lead to the Strait of Hormuz reopening.\"A wave of relief has hit financial...",
-      "link": "https://www.al-monitor.com/originals/2026/04/oil-prices-plunge-stocks-surge-us-iran-ceasefire",
-      "published_at": "2026-04-08T21:00:27Z",
-      "ai_summary": "Oil and gas prices fell sharply and stocks rose after the U.S. and Iran agreed to a temporary ceasefire that may reopen the Strait of Hormuz, easing market fears.",
-      "importance": 92,
-      "why": "The report describes a major geopolitical de-escalation with immediate global market impact, including energy prices, equities, and currencies. Because the Strait of Hormuz is critical to oil transport, the ceasefire has significant implications for supply, inflation, and investor sentiment."
+      "ai_summary": "Trump threatened to destroy Iran\u2019s power plants unless Tehran reopens the Strait of Hormuz, prompting Iranian officials and military commanders to warn of regional escalation.",
+      "importance": 94,
+      "why": "The story involves direct threats between the US and Iran, the Strait of Hormuz, and possible attacks on critical energy infrastructure. It has major implications for regional security, global oil shipping, and international markets."
     },
     {
       "source": "Guardian",
-      "title": "The Guardian view on Trump, Iran and the ceasefire: a devastating war has only losers | Editorial",
-      "summary": "The Middle East\u2019s best hope may be that the US president continues to rebadge strategic defeat as successBoth the US and Iran claimed victory on Wednesday morning. Both were lying. The two-week ceasefire announced by Donald Trump the night...",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/08/the-guardian-view-on-trump-iran-and-the-ceasefire-a-devastating-war-has-only-losers",
-      "published_at": "2026-04-08T18:02:09Z",
-      "ai_summary": "The editorial argues that the US and Iran are both falsely claiming victory after a ceasefire, while the conflict has actually been a strategic defeat with no real winners.",
-      "importance": 92,
-      "why": "It addresses a major international crisis involving the US, Iran, and the Middle East, and frames the ceasefire as highly consequential for regional stability and global politics."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Devastation in Beirut after Israeli strikes reduce homes to rubble",
-      "summary": "Hours after Israel hammered Beirut with multiple air strikes following the US-Iran ceasefire, residents searched for sur",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/devastation-in-beirut-after-israeli-strikes-reduce-homes-to-rubble?traffic_source=rss",
-      "published_at": "2026-04-08T21:25:57Z",
-      "ai_summary": "Israeli air strikes hit Beirut after the US-Iran ceasefire, leaving homes reduced to rubble and residents searching for survivors and damage in devastated neighborhoods.",
-      "importance": 89,
-      "why": "This reports significant violence and destruction in a major city in the aftermath of a ceasefire, with potential regional and civilian impact."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "UN condemns Israeli strikes on Lebanon, calls casualty reports 'appalling'",
-      "summary": "April 8 (Reuters) - The United Nations on Wednesday condemned a massive wave of Israeli strikes across Lebanon, saying reports that hundreds of people, including civilians had been killed and injured were \"appalling\" just hours after the...",
-      "link": "https://www.al-monitor.com/originals/2026/04/un-condemns-israeli-strikes-lebanon-calls-casualty-reports-appalling",
-      "published_at": "2026-04-08T20:36:42Z",
-      "ai_summary": "The UN condemned a large wave of Israeli strikes across Lebanon, calling reports of numerous civilian casualties appalling.",
-      "importance": 89,
-      "why": "This is a major international security and humanitarian news item involving the United Nations, Israel, Lebanon, and reported mass casualties, with likely implications for regional escalation and diplomacy."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Trump Announces Iran Cease-fire as Israel Halts Attacks Against Regime",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-08/ty-article/.premium/trump-pauses-iran-war-says-tehrans-10-point-proposal-is-workable-basis/0000019d-6ac0-d940-a5bd-fedef79f0000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-08/ty-article/.premium/trump-pauses-iran-war-says-tehrans-10-point-proposal-is-workable-basis/0000019d-6ac0-d940-a5bd-fedef79f0000",
-      "published_at": "2026-04-08T00:00:00Z",
-      "ai_summary": "Article reports that Trump announced a cease-fire involving Iran, with Israel pausing attacks against the regime, and said Tehran\u2019s 10-point proposal could serve as a workable basis for further negotiations.",
-      "importance": 86,
-      "why": "This is high-impact geopolitical news involving Israel, Iran, and U.S. leadership, with direct implications for regional security, conflict escalation, and international diplomacy."
+      "title": "Israel\u2019s bombing of Lebanon after US-Iran ceasefire prompts condemnation",
+      "summary": "Strikes that killed more than 200 people spark outrage amid global efforts to salvage truceMiddle East crisis \u2013 live updatesIsrael\u2019s devastating bombardment of Lebanon in the hours after a US-Iranian ceasefire was announced has been widely...",
+      "link": "https://www.theguardian.com/world/2026/apr/09/israel-bombing-lebanon-us-iran-ceasefire-condemnation",
+      "published_at": "2026-04-09T13:41:46Z",
+      "ai_summary": "Israel\u2019s bombing of Lebanon after a US-Iran ceasefire sparked condemnation after strikes killed more than 200 people, undermining efforts to preserve the truce.",
+      "importance": 91,
+      "why": "The event involves major cross-border military action, a high civilian death toll, and immediate diplomatic fallout during an active ceasefire effort, making it highly significant regionally and internationally."
     },
     {
       "source": "Middle East Eye",
-      "title": "'Ceasefire not holding': US and Iran may have to talk 'as guns are firing'",
-      "summary": "US raced to shore up a shaky agreement with the Islamic Republic, jeopardised by Israeli attacks on Lebanon and Iranian strikes on Gulf",
-      "link": "https://www.middleeasteye.net/news/ceasefire-not-holding-us-and-iran-may-have-talk-as-guns-firing",
+      "title": "Israel kills Al Jazeera reporter in Gaza after incitement campaign",
+      "summary": "Palestinian journalists warn of continued Israeli targeting as seventh reporter killed since October ceasefire",
+      "link": "https://www.middleeasteye.net/news/israel-kills-al-jazeera-reporter-gaza-after-incitement-campaign",
       "published_at": null,
-      "ai_summary": "A fragile US-Iran ceasefire appears to be under severe strain as Israel continues attacks in Lebanon and Iran conducts strikes in the Gulf, forcing the US to try to stabilize the agreement amid ongoing fighting.",
+      "ai_summary": "The text says Israel killed an Al Jazeera reporter in Gaza after an incitement campaign, and Palestinian journalists warn that Israeli targeting of reporters continues, with this being the seventh reporter killed since the October ceasefire.",
+      "importance": 91,
+      "why": "This is a high-importance news item because it involves the killing of a journalist in an active conflict, allegations of targeted attacks on the press, and a reported pattern of multiple journalist deaths since a ceasefire. It has implications for press freedom, human rights, and the Gaza conflict."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Funeral held for Al Jazeera\u2019s Wishah killed in Israeli strike in Gaza",
+      "summary": "More than 260 journalists have been killed by Israel in Gaza since the start of the genocide in October 2023.",
+      "link": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss",
+      "published_at": "2026-04-09T11:54:24Z",
+      "ai_summary": "Funeral held for Al Jazeera journalist Wishah, who was killed in an Israeli strike in Gaza; the text also states that more than 260 journalists have been killed by Israel in Gaza since October 2023.",
+      "importance": 89,
+      "why": "This reports the death of a named journalist in the Gaza conflict and includes a broader claim about the high number of journalists killed, making it highly relevant for breaking-news and conflict coverage."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "JD Vance to lead Iran ceasefire negotiations in Pakistan, White House says",
+      "summary": "Iran has also indicated a willingness to give the US its highly enriched uranium, press secretary Karoline Leavitt told reporters",
+      "link": "https://www.middleeasteye.net/news/us-vice-president-jd-vance-lead-iran-ceasefire-negotiations-pakistan-white-house-says",
+      "published_at": null,
+      "ai_summary": "JD Vance is set to lead Iran ceasefire negotiations in Pakistan, and Iran has signaled willingness to hand over its highly enriched uranium to the US, according to the White House.",
       "importance": 85,
-      "why": "It concerns a volatile US-Iran ceasefire and active regional military escalation involving Israel, Lebanon, and the Gulf, which could have major geopolitical and security consequences."
+      "why": "This involves high-stakes US-Iran diplomacy, possible de-escalation of conflict, and sensitive nuclear material transfer, all of which have major regional and international security implications."
     },
     {
       "source": "Amwaj",
@@ -101,52 +101,32 @@
       "link": "https://amwaj.media/en/article/while-under-attack-irans-iraqi-allies-also-see-chance-for-newfound-power",
       "date": "Apr. 8, 2026",
       "published_at": "2026-04-08T00:00:00Z",
-      "ai_summary": "The article describes how, amid the Israeli-US war on Iran, Tehran-backed Iraqi allies are exploiting the conflict to assert themselves and potentially gain new political and military influence in Iraq, even as regional sites come under attack and the situation escalates.",
+      "ai_summary": "Iran\u2019s Iraqi allies are seizing the Israel-US war on Iran as an opening to assert more influence in Iraq and the wider region, even as they face attacks themselves.",
       "importance": 83,
-      "why": "This is important because it highlights how a major regional conflict can reshape power dynamics in Iraq and the broader Middle East, affecting security, Iranian influence, and the behavior of armed militias."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Nearly 200 arrests in Turkey after attack on Israeli consulate",
-      "summary": "Turkish security forces have arrested nearly 200 people in a nationwide sweep one day after a shootout outside Israel's consulate in Istanbul, Justice Minister Akin Gurlek said Wednesday.Gurlek posted on X that officers had arrested 198...",
-      "link": "https://www.al-monitor.com/originals/2026/04/nearly-200-arrests-turkey-after-attack-israeli-consulate",
-      "published_at": "2026-04-08T19:30:22Z",
-      "ai_summary": "Turkey arrested 198 people in a nationwide operation a day after a shootout outside Israel's consulate in Istanbul.",
-      "importance": 81,
-      "why": "The event involves a major security incident, a large-scale police response, and diplomatic sensitivity involving Turkey and Israel."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Iran Claims Tehran Synagogue Was 'Completely Destroyed' by U.S.-Israeli Strike",
-      "summary": "https://www.haaretz.com/middle-east-news/iran/2026-04-07/ty-article/iran-claims-tehran-synagogue-was-completely-destroyed-by-u-s-israeli-strike/0000019d-692d-d759-ab9d-79bd2a580000",
-      "link": "https://www.haaretz.com/middle-east-news/iran/2026-04-07/ty-article/iran-claims-tehran-synagogue-was-completely-destroyed-by-u-s-israeli-strike/0000019d-692d-d759-ab9d-79bd2a580000",
-      "published_at": "2026-04-07T00:00:00Z",
-      "ai_summary": "Iran said a synagogue in Tehran was completely destroyed in a U.S.-Israeli strike, highlighting escalation in the conflict and damage to a religious site.",
-      "importance": 78,
-      "why": "This is geopolitically significant because it reflects a major military escalation involving Iran, the U.S., and Israel, and it involves the destruction of a synagogue, which can intensify regional and religious tensions and draw international attention."
-    }
-  ],
-  "regional_analysis": [
-    {
-      "source": "Al Monitor",
-      "title": "Scale of killing in Lebanon 'horrific': UN rights chief",
-      "summary": "The scale of the killing in Israeli strikes on Lebanon Wednesday is \"horrific\", the UN rights chief said, urging the international community to help end the unfolding \"nightmare\".At least 112 people were killed and 837 more were wounded in...",
-      "link": "https://www.al-monitor.com/originals/2026/04/scale-killing-lebanon-horrific-un-rights-chief",
-      "published_at": "2026-04-08T20:00:22Z",
-      "ai_summary": "UN rights chief called the scale of killings in Israeli strikes on Lebanon \"horrific\" and urged international action to stop the unfolding crisis, after at least 112 people were reported killed and 837 wounded.",
-      "importance": 90,
-      "why": "This is a major international conflict update involving significant civilian casualties and a strong statement from the UN human rights chief, indicating high humanitarian and geopolitical significance."
+      "why": "The piece appears to cover a major regional escalation involving Iran, Iraq, Israel, and the United States, with implications for Iraqi militias, Gulf security, and regional power dynamics. That makes it geopolitically significant and potentially consequential for conflict developments."
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-      "summary": "The US president has lashed out at European partners for declining to contribute military forces to the war on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-      "published_at": "2026-04-08T21:47:23Z",
-      "ai_summary": "The Trump administration is considering withdrawing from NATO after criticizing European allies for not contributing military forces to the Iran war.",
-      "importance": 87,
-      "why": "This is highly significant because it concerns a potential major shift in U.S. foreign and security policy, with serious implications for NATO, transatlantic relations, and global stability."
+      "title": "US-Iran talks in Pakistan: Who\u2019s attending, what\u2019s on the agenda?",
+      "summary": "Islamabad hosts negotiations as US and Iran seek off-ramp. But deep mistrust and regional tensions threaten talks.",
+      "link": "https://www.aljazeera.com/news/2026/4/9/us-iran-talks-in-pakistan-whos-attending-whats-on-the-agenda?traffic_source=rss",
+      "published_at": "2026-04-09T13:18:37Z",
+      "ai_summary": "Islamabad is hosting US-Iran negotiations aimed at finding a way to de-escalate tensions, but longstanding mistrust and wider regional instability could undermine progress.",
+      "importance": 79,
+      "why": "The topic concerns direct US-Iran diplomacy in a third country, which can affect regional security, sanctions, and broader geopolitical tensions. It is important because even small shifts in these talks could influence conflict risk and international relations."
     },
+    {
+      "source": "Al Monitor",
+      "title": "Mitsui O.S.K. awaits safety clarity, government guidance to move vessels from the Gulf, CEO says",
+      "summary": "By Yuka Obayashi and Kentaro OkasakaTOKYO, April 9 (Reuters) - Japan's Mitsui O.S.K. Lines (MOL) wants to start moving its vessels stranded near the Strait of Hormuz as soon as possible but must first ensure safe passage and receive...",
+      "link": "https://www.al-monitor.com/originals/2026/04/mitsui-osk-awaits-safety-clarity-government-guidance-move-vessels-gulf-ceo-says",
+      "published_at": "2026-04-09T12:01:50Z",
+      "ai_summary": "Mitsui O.S.K. Lines says it wants to move vessels stuck near the Strait of Hormuz as soon as possible, but is waiting for clearer safety conditions and government guidance before doing so.",
+      "importance": 75,
+      "why": "This is important for shipping, energy transit, and geopolitical risk because the Strait of Hormuz is a critical chokepoint. The company\u2019s caution signals possible disruption to vessel movement and broader trade flow concerns."
+    }
+  ],
+  "regional_analysis": [
     {
       "source": "Amwaj",
       "title": "Trump\u2019s threats trigger broad backlash in Iran, marginalize supporters of war",
@@ -154,93 +134,113 @@
       "link": "https://amwaj.media/en/media-monitor/trumps-threats-trigger-broad-backlash-in-iran-marginalize-supporters-of-war",
       "date": "Apr. 7, 2026",
       "published_at": "2026-04-07T00:00:00Z",
-      "ai_summary": "Trump\u2019s threat against Iran has sparked widespread backlash across Iranian officials, media, and online users, strengthening anti-war sentiment and isolating more hawkish voices.",
+      "ai_summary": "Trump\u2019s threat to \u201csend Iranians back to the Stone Ages\u201d sparked widespread backlash across Iran, uniting officials, media, and online users against him and weakening support for war.",
+      "importance": 89,
+      "why": "This is a significant geopolitical development: it shows how a U.S. president\u2019s rhetoric can consolidate anti-U.S. sentiment across Iran\u2019s political spectrum and marginalize pro-war voices, potentially affecting regional tensions and public diplomacy."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Baghdad\u2019s authority in question after US journalist\u2019s capture and release",
+      "summary": "The story:\u00a0American journalist Shelly Kittleson has been released by an Iraqi Shiite armed group after a week in captivity. Her Mar. 31 abduction in Baghdad swiftly drew international condemnation, appearing to highlight Baghdad\u2019s...",
+      "link": "https://amwaj.media/en/media-monitor/baghdads-authority-in-question-after-us-journalists-capture-and-release",
+      "date": "Apr. 9, 2026",
+      "published_at": "2026-04-09T00:00:00Z",
+      "ai_summary": "An American journalist was abducted in Baghdad and later released by an Iraqi Shiite armed group, drawing international condemnation and raising concerns about Baghdad\u2019s ability to control armed factions and maintain authority.",
       "importance": 87,
-      "why": "This is important because it shows a significant political reaction in Iran to a high-profile US threat, indicating broader public and elite opposition to war and potential implications for US-Iran tensions and regional stability."
+      "why": "The incident involves an American journalist, an abduction in Iraq\u2019s capital, and the role of a Shiite armed group operating outside clear state control. It highlights security, sovereignty, and government authority issues in Baghdad, making it geopolitically significant."
     },
     {
       "source": "Al Monitor",
-      "title": "Analysis-Trump's abrupt Iran reversal exposes limits of his leverage",
-      "summary": "By Matt Spetalnick, David Brunnstrom and Gram SlatteryWASHINGTON, April 8 (Reuters) - Donald Trump's dramatic climbdown from his chilling threat to wipe out Iran's civilization has exposed the limits - and the rising risks - of the U.S....",
-      "link": "https://www.al-monitor.com/originals/2026/04/analysis-trumps-abrupt-iran-reversal-exposes-limits-his-leverage",
-      "published_at": "2026-04-08T23:36:51Z",
-      "ai_summary": "Reuters analysis says Trump\u2019s abrupt softening on Iran shows the limits of his leverage and the rising risks of the confrontation.",
-      "importance": 85,
-      "why": "It concerns U.S.-Iran tensions and signals a major shift in Trump\u2019s posture, which has implications for international security, diplomacy, and markets."
+      "title": "Despite Middle East truce, airlines fear long-term disruptions",
+      "summary": "Buffeted by six weeks of war in the Middle East, airlines have scrambled to trim routes and costs as fuel bills explode and wary clients think twice about their travel plans, a situation that could persist even if a fragile truce...",
+      "link": "https://www.al-monitor.com/originals/2026/04/despite-middle-east-truce-airlines-fear-long-term-disruptions",
+      "published_at": "2026-04-09T10:30:25Z",
+      "ai_summary": "Airlines are cutting routes and costs as the Middle East conflict drives up fuel prices and weakens travel demand, with disruptions likely to continue even if the truce holds.",
+      "importance": 86,
+      "why": "The story concerns a major geopolitical conflict affecting the airline industry, fuel costs, and travel demand, with potential for prolonged economic disruption beyond the immediate ceasefire."
     },
     {
       "source": "Haaretz",
-      "title": "No Passover, No Easter: The War's Deep Impact on the Old City of Jerusalem",
-      "summary": "https://www.haaretz.com/israel-news/2026-04-06/ty-article/.premium/no-passover-no-easter-the-wars-deep-impact-on-the-old-city-of-jerusalem/0000019d-61da-d2c6-ad9d-79df1e650000",
-      "link": "https://www.haaretz.com/israel-news/2026-04-06/ty-article/.premium/no-passover-no-easter-the-wars-deep-impact-on-the-old-city-of-jerusalem/0000019d-61da-d2c6-ad9d-79df1e650000",
-      "published_at": "2026-04-06T00:00:00Z",
-      "ai_summary": "The article describes how the war has severely disrupted religious life and tourism in Jerusalem\u2019s Old City, leading to an unusually quiet Passover and Easter season with far fewer visitors, constrained access, and economic hardship for local residents and businesses.",
+      "title": "Iranian Official: No More Than 15 Vessels per Day to Transit Strait of Hormuz",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-09/ty-article-live/hezbollah-says-it-fired-rockets-at-israel-in-response-to-cease-fire-violations/0000019d-6fff-d68a-a39d-6fff46d70000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-09/ty-article-live/hezbollah-says-it-fired-rockets-at-israel-in-response-to-cease-fire-violations/0000019d-6fff-d68a-a39d-6fff46d70000",
+      "published_at": "2026-04-09T00:00:00Z",
+      "ai_summary": "Iranian official says no more than 15 vessels per day will be allowed to transit the Strait of Hormuz.",
       "importance": 83,
-      "why": "It highlights the war\u2019s direct impact on one of the world\u2019s most important religious and symbolic sites, showing consequences beyond the battlefield: reduced pilgrimage, strained interfaith life, and damage to the Old City\u2019s economy and social fabric. This makes it relevant for understanding broader regional and humanitarian effects of the conflict."
+      "why": "The Strait of Hormuz is a critical global oil and shipping chokepoint. Any restriction on vessel traffic could disrupt energy markets, raise shipping costs, and heighten regional security tensions, making this geopolitically and economically significant."
     },
     {
       "source": "Haaretz",
-      "title": "Israelis' Anti-war Sentiment Is Swelling \u2013 Amid Fears That Dissent Won't Be Tolerated",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-08/ty-article-magazine/.premium/israelis-anti-war-sentiment-swells-amid-fears-that-dissent-wont-be-tolerated/0000019d-622b-d131-a7fd-eeeb949d0000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-08/ty-article-magazine/.premium/israelis-anti-war-sentiment-swells-amid-fears-that-dissent-wont-be-tolerated/0000019d-622b-d131-a7fd-eeeb949d0000",
-      "published_at": "2026-04-08T00:00:00Z",
-      "ai_summary": "The article discusses growing anti-war sentiment among Israelis, along with concerns that public dissent may not be tolerated amid the ongoing conflict and heightened security climate.",
-      "importance": 78,
-      "why": "This is a significant domestic political and social development in Israel because it signals rising public opposition to the war and potential tensions over free speech, protest, and state response to dissent."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Has the window for action by Iranian Kurdish opposition forces truly passed?",
-      "summary": "Spurred to unite by mass anti-government protests across Iran in January, a budding alliance of Iranian Kurdish opposition parties based in Iraqi Kurdistan is now facing a trial by fire. The Israeli-US war on Iran has opened up potentially...",
-      "link": "https://amwaj.media/en/article/has-the-window-for-action-by-iranian-kurdish-opposition-forces-truly-passed",
-      "date": "Apr. 2, 2026",
-      "published_at": "2026-04-02T00:00:00Z",
-      "ai_summary": "The piece examines whether Iranian Kurdish opposition forces still have a viable opportunity to act after recent regional shocks, especially the Israeli-US war on Iran, and whether their newly formed alliance can translate protest-driven unity into real political leverage.",
-      "importance": 78,
-      "why": "It addresses a live geopolitical question involving Iran, Iraqi Kurdistan, and opposition movements, with implications for regional stability, cross-border conflict, and future anti-government resistance."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Will parliamentary revolt end deadlock over government formation in Baghdad?",
-      "summary": "The story: Lawmakers in Baghdad are mounting a renewed campaign to break the deadlock over Iraq\u2019s long-stalled government formation. The push reflects how the over-extended caretaker government is struggling to retain authority as the...",
-      "link": "https://amwaj.media/en/media-monitor/will-parliamentary-revolt-end-deadlock-over-government-formation-in-baghdad",
-      "date": "Apr. 3, 2026",
-      "published_at": "2026-04-03T00:00:00Z",
-      "ai_summary": "Baghdad lawmakers are renewing efforts to break Iraq\u2019s long government-formation deadlock as the caretaker government loses authority under the strain of the prolonged stalemate.",
-      "importance": 77,
-      "why": "This concerns Iraq\u2019s central political process and the ability of the government to function, which has implications for national stability, governance, and regional politics."
+      "title": "Fragile U.S.\u2013Iran Cease-fire May Collapse Within Days, Even as Tehran Pushes to End War, Israeli Officials Say",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-09/ty-article/.premium/fragile-u-s-iran-cease-fire-may-collapse-within-days-israeli-officials-say/0000019d-71c8-db3c-a3df-f9cd812b0000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-09/ty-article/.premium/fragile-u-s-iran-cease-fire-may-collapse-within-days-israeli-officials-say/0000019d-71c8-db3c-a3df-f9cd812b0000",
+      "published_at": "2026-04-09T00:00:00Z",
+      "ai_summary": "The article reports that a fragile U.S.\u2013Iran cease-fire could break down within days, despite Iranian efforts to end the conflict, according to Israeli officials.",
+      "importance": 83,
+      "why": "It concerns a major regional security development involving the U.S., Iran, and Israel, with potential for rapid escalation and significant geopolitical consequences."
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump has found his Iran off-ramp \u2013 but at what cost?",
-      "summary": "Domestically and internationally, the effects of the war will be felt for years to come.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss",
-      "published_at": "2026-04-08T21:01:37Z",
-      "ai_summary": "The piece argues that Trump may have found a way to de-escalate from conflict with Iran, but questions the long-term domestic and international costs of the war.",
-      "importance": 73,
-      "why": "It addresses a major foreign-policy development with potential lasting consequences for U.S. strategy, regional stability, and domestic politics."
+      "title": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
+      "summary": "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/israeli-settlers-storm-al-aqsa-mosque-compound-after-reopening?traffic_source=rss",
+      "published_at": "2026-04-09T13:28:01Z",
+      "ai_summary": "Israeli settlers entered the Al-Aqsa Mosque compound after it reopened.",
+      "importance": 79,
+      "why": "The event concerns a highly sensitive religious and political site in Jerusalem and could affect regional tensions and security dynamics."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "NATO's Rutte told allies Trump wants Hormuz commitments within days, diplomats say",
+      "summary": "April 9 (Reuters) - NATO Secretary General Mark Rutte has briefed some capitals that U.S. President Donald Trump wants concrete commitments within the next few days for help securing the Strait of Hormuz, two European diplomats told...",
+      "link": "https://www.al-monitor.com/originals/2026/04/natos-rutte-told-allies-trump-wants-hormuz-commitments-within-days-diplomats-say",
+      "published_at": "2026-04-09T13:36:44Z",
+      "ai_summary": "NATO Secretary General Mark Rutte has told some allies that U.S. President Donald Trump wants concrete commitments within days for help securing the Strait of Hormuz, according to two European diplomats.",
+      "importance": 77,
+      "why": "The report concerns urgent U.S. pressure on NATO allies over security commitments in a major global shipping chokepoint, which could affect regional stability, energy markets, and allied relations."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Iran's Zarif draws fire after floating proposal for peace with the US",
+      "summary": "The story: Former Iranian foreign minister Mohammad Javad Zarif (2013-21) has publicized a detailed proposal for a peace agreement with the United States, calling on Tehran to offer nuclear concessions and reopen the Strait of Hormuz in...",
+      "link": "https://amwaj.media/en/media-monitor/irans-zarif-draws-fire-after-floating-proposal-for-peace-with-the-us",
+      "date": "Apr. 7, 2026",
+      "published_at": "2026-04-07T00:00:00Z",
+      "ai_summary": "Mohammad Javad Zarif publicly floated a peace proposal with the United States, including nuclear concessions and reopening the Strait of Hormuz, drawing criticism in Iran.",
+      "importance": 77,
+      "why": "The proposal involves major Iran-US relations, nuclear policy, and the strategic Strait of Hormuz, all of which have significant regional and global implications."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What is Iran\u2019s Strait of Hormuz protocol and will other nations accept it?",
+      "summary": "Tehran&#039;s plans to tax ships passing through the strait and raise money to rebuild is already seeing pushback.",
+      "link": "https://www.aljazeera.com/economy/2026/4/9/what-is-irans-strait-of-hormuz-protocol-and-will-other-nations-accept-it?traffic_source=rss",
+      "published_at": "2026-04-09T13:23:15Z",
+      "ai_summary": "Iran is reportedly considering a protocol to tax ships passing through the Strait of Hormuz to raise funds for rebuilding efforts, but the proposal is already facing pushback from other nations.",
+      "importance": 75,
+      "why": "The Strait of Hormuz is a critical global shipping chokepoint, so any Iranian attempt to impose taxes or new controls could affect international trade, oil markets, and regional tensions."
     }
   ],
   "deep_analysis": [
-    {
-      "source": "Middle East Eye",
-      "title": "Survey finds 60 percent of Americans view Israel unfavourably following Iran war",
-      "summary": "American support for Israel is collapsing across party lines, with even young Republicans turning against Israel",
-      "link": "https://www.middleeasteye.net/news/survey-finds-60-percent-americans-view-israel-unfavourably-following-iran-war",
-      "published_at": null,
-      "ai_summary": "The text says a survey found 60% of Americans now view Israel unfavourably after the Iran war, and that support is falling across party lines, including among young Republicans.",
-      "importance": 89,
-      "why": "This is a significant shift in U.S. public opinion toward a major ally, with potential implications for American foreign policy, domestic politics, and Middle East diplomacy."
-    },
     {
       "source": "Jadaliyya",
       "title": "America, War, and Imperial Decline in the Gulf",
       "summary": "The US\u2013Israeli war on Iran is the latest phase of the United States\u2019\u00a0long-war in the Persian Gulf, a fifty-year project to secure imperial power in a region defined as a \u201cvital interest\u201d since the 1970s. Yet this latest phase lays bare the...",
       "link": "https://www.jadaliyya.com/Details/47300/America,-War,-and-Imperial-Decline-in-the-Gulf",
       "published_at": null,
-      "ai_summary": "The text argues that the US\u2013Israeli war on Iran is another stage in a decades-long US effort to maintain imperial control in the Persian Gulf, and that this conflict exposes the limits and decline of American power.",
-      "importance": 84,
-      "why": "It addresses major themes in international politics\u2014US foreign policy, the Gulf, and imperial decline\u2014and frames a significant war as part of a broader historical strategy, making it highly relevant and consequential."
+      "ai_summary": "The text argues that a US\u2013Israeli war on Iran would be part of a decades-long American effort to maintain imperial dominance in the Persian Gulf, a region treated as a vital strategic interest since the 1970s.",
+      "importance": 94,
+      "why": "It addresses major geopolitical conflict, US foreign policy, and regional power dynamics in a strategically important area."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Survey finds 60 percent of Americans view Israel unfavourably following Iran war",
+      "summary": "American support for Israel is collapsing across party lines, with even young Republicans turning against Israel",
+      "link": "https://www.middleeasteye.net/news/survey-finds-60-percent-americans-view-israel-unfavourably-following-iran-war",
+      "published_at": null,
+      "ai_summary": "Survey indicates declining American support for Israel, with 60% viewing it unfavorably and weakening support across party lines after the Iran war.",
+      "importance": 85,
+      "why": "This reports a major shift in U.S. public opinion on a significant foreign policy issue, with potential implications for U.S.-Israel relations and domestic politics."
     },
     {
       "source": "Jadaliyya",
@@ -248,81 +248,81 @@
       "summary": "Since the 2003 American invasion and the toppling of Saddam Hussein\u2019s regime, Iraq has not enjoyed the kind of extended period of stability that might allow the state to move beyond the turmoil that has plagued it since that moment....",
       "link": "https://www.jadaliyya.com/Details/47302/Breaking-Free-from-%E2%80%9Cthe-State-of-Exception%E2%80%9D",
       "published_at": null,
-      "ai_summary": "The text argues that since the 2003 U.S. invasion and Saddam Hussein\u2019s fall, Iraq has remained trapped in ongoing instability and an enduring \u201cstate of exception,\u201d preventing the country from reaching lasting normalcy or state consolidation.",
-      "importance": 80,
-      "why": "It addresses a major post-2003 political and historical issue in Iraq, framing long-term instability as a structural condition rather than a temporary crisis. This makes it significant for understanding Iraqi politics, state formation, and regional security."
+      "ai_summary": "The text argues that since the 2003 U.S. invasion and Saddam Hussein\u2019s \u0633\u0642\u0648\u0637, Iraq has remained trapped in prolonged instability and a persistent \"state of exception,\" preventing the country from achieving normal, lasting political order.",
+      "importance": 84,
+      "why": "It addresses a major geopolitical and historical issue: Iraq\u2019s post-2003 instability and the concept of emergency rule/exception as a framework for understanding state failure and governance."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Why Turkey will be a key regional powerbroker after Iran war",
+      "summary": "How Ankara wields its influence could determine whether the Middle East moves towards stabilisation or renewed fragmentation",
+      "link": "https://www.middleeasteye.net/opinion/why-turkey-will-be-key-regional-powerbroker-after-iran-war",
+      "published_at": null,
+      "ai_summary": "The piece argues that Turkey\u2019s role after a war with Iran could be pivotal in shaping whether the Middle East stabilizes or fragments further, because Ankara\u2019s influence may determine regional power dynamics.",
+      "importance": 81,
+      "why": "It points to a major regional geopolitical shift involving Turkey, Iran, and the broader Middle East, with potential implications for stability, alliances, and conflict outcomes."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Israeli cabinet 'secretly approves record number' of new West Bank settlements",
+      "summary": "Report on i24NEWS reveals new settlements were approved during war on Iran but kept classified",
+      "link": "https://www.middleeasteye.net/news/israeli-cabinet-secretly-approves-record-number-new-west-bank-settlements",
+      "published_at": null,
+      "ai_summary": "Report says Israel\u2019s cabinet secretly approved a record number of new West Bank settlements during the war on Iran, and the approvals were kept classified.",
+      "importance": 81,
+      "why": "This concerns a major settlement expansion with direct implications for the Israeli-Palestinian conflict, regional politics, and potential legal/diplomatic fallout. The fact that it was reportedly done secretly during wartime increases its significance."
     },
     {
       "source": "Jadaliyya",
       "title": "Media Wars: The War on Iran, Lebanon, and Palestine (9 April)",
-      "summary": "Featuring: Safa Al-Ahmad, Alireza Doostdar, Jasper Nthaniel, Maya Mikdashi, Abdullah Baabood,\u00a0Adel Iskandar,\u00a0Mouin Rabbani, and Bassam Haddad  This episode of Media Wars comes on the heels of Israel unprecedented\u00a0murderous missile attack...",
+      "summary": "  This episode of Media Wars comes on the heels of Israel unprecedented\u00a0murderous missile attack on Beirut that claimed hundreds of lives and casualties,\u00a0breaking the tenative ceasefire agreement set the night before by the United States...",
       "link": "https://www.jadaliyya.com/Details/47307/Media-Wars-The-War-on-Iran,-Lebanon,-and-Palestine-9-April",
       "published_at": null,
-      "ai_summary": "Discussion episode on the escalating war and media framing around Iran, Lebanon, and Palestine, featuring multiple analysts and commentators.",
+      "ai_summary": "An episode of Media Wars discusses Israel\u2019s missile attack on Beirut, the collapse of a tentative ceasefire, and broader conflict framing involving Iran, Lebanon, and Palestine.",
       "importance": 78,
-      "why": "The title and description indicate a politically significant current-affairs discussion about the Israel-Iran/Lebanon/Palestine conflict and media narratives. It likely contains analysis from notable experts, making it relevant for understanding ongoing regional developments, though it is an episode announcement rather than a primary news event."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "With his 'Stone Age' threat to Iran, Trump has unleashed a new age of savagery",
-      "summary": "Making apocalyptic threats to Iran is not a mark of strength. Trump exhibits a profound illiteracy of history, of civilisation, and of the very region he threatens to dismantle",
-      "link": "https://www.middleeasteye.net/opinion/with-his-stone-age-threat-iran-trump-unleashed-new-age-savagery",
-      "published_at": null,
-      "ai_summary": "Opinion piece arguing that Trump\u2019s threat to bombard Iran back to the \u201cStone Age\u201d is not strength but dangerous ignorance, reflecting a crude and historically illiterate approach to the Middle East.",
-      "importance": 75,
-      "why": "It is a political commentary on U.S.-Iran tensions and Trump\u2019s rhetoric, with relevance to international relations and public debate, but it is opinion rather than hard news."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "The US-Israeli strategy against Iran is failing. Here is why",
-      "summary": "With incompatible war aims, no definition of victory, and a battlefield that keeps expanding, the US-Israel onslaught is doomed - and Iran only needs to survive to prevail",
-      "link": "https://www.middleeasteye.net/opinion/us-israeli-strategy-against-iran-failing-here-why",
-      "published_at": null,
-      "ai_summary": "The piece argues that the US-Israeli campaign against Iran lacks coherent objectives and is therefore likely to fail; Iran can claim victory simply by enduring.",
-      "importance": 71,
-      "why": "The title and text indicate a geopolitical analysis of a major regional conflict involving the US, Israel, and Iran. It emphasizes strategic failure, incompatible war aims, and expanding conflict dynamics, which makes it important for understanding current Middle East tensions, but it is still a commentary/opinion rather than a direct report of events."
+      "why": "The text refers to a major regional military escalation with significant casualties and direct implications for the Israel-Lebanon conflict and broader Middle East tensions."
     },
     {
       "source": "Carnegie ME",
-      "title": "Hezbollah\u2019s Wartime Strategy",
-      "summary": "The party\u2019s objectives involve tying together the Lebanese and Iranian fronts, while surviving militarily and politically at home.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/hezbollahs-wartime-strategy",
-      "date": "Apr 1, 2026",
+      "title": "Iran Rewrites Its War Strategy",
+      "summary": "In an interview, Hamidreza Azizi discusses how Tehran has adapted in real time to the conflict with the United States and Israel.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/03/iran-rewrites-its-war-strategy",
+      "date": "Mar 30, 2026",
       "published_at": null,
-      "ai_summary": "Hezbollah\u2019s wartime strategy is to link the Lebanese and Iranian fronts while preserving its military and political survival in Lebanon.",
-      "importance": 79,
-      "why": "This is a concise strategic statement about Hezbollah\u2019s wartime goals, highlighting both regional coordination and domestic survival, which makes it fairly significant."
+      "ai_summary": "Hamidreza Azizi discusses how Tehran has adapted its war strategy in real time in response to conflict with the United States and Israel.",
+      "importance": 73,
+      "why": "The piece is about Iran\u2019s evolving military and strategic posture in a major regional conflict involving the U.S. and Israel, making it highly relevant for geopolitics and security analysis."
     },
     {
       "source": "Carnegie ME",
-      "title": "What Does the Strait of Hormuz\u2019s Closure Mean?",
-      "summary": "In an interview, Roger Diwan discusses where the global economy may be going in the third week of the U.S.-Israeli war with Iran.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/03/what-does-the-strait-of-hormuzs-closure-mean",
-      "date": "Mar 19, 2026",
+      "title": "Trump\u2019s Plan for Gaza is Not Irrelevant, It\u2019s Worse",
+      "summary": "The simple conclusion is that the scheme will bring neither peace nor prosperity, but will institutionalize devastation.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/03/trumps-plan-for-gaza-is-not-irrelevant-its-worse",
+      "date": "Mar 27, 2026",
       "published_at": null,
-      "ai_summary": "An interview with Roger Diwan about the implications of a possible Strait of Hormuz closure during the third week of the U.S.-Israeli war with Iran, and what it could mean for the global economy.",
-      "importance": 77,
-      "why": "The Strait of Hormuz is a critical global energy chokepoint, so any discussion of its closure has major implications for oil markets, shipping, and the wider economy."
-    },
-    {
-      "source": "Responsible Statecraft",
-      "title": "Did Trump just threaten genocide in Iran?",
-      "summary": "President Donald Trump\u2019s threat against Iran marks a grave political and moral decline. Speaking about a possible expansion of the bombing campaign, he said that \u201ca whole civilization will die tonight, never to be brought back again.\u201d That...",
-      "link": "https://responsiblestatecraft.org/trump-genocide/",
-      "published_at": "2026-04-07T14:53:26Z",
-      "ai_summary": "The text criticizes Trump\u2019s statement about Iran as a grave threat, arguing it suggests mass civilian destruction and possibly genocide.",
-      "importance": 80,
-      "why": "The title and opening frame the statement as a potentially genocidal threat involving a major geopolitical actor, making it highly significant and alarming."
+      "ai_summary": "The piece argues that Trump\u2019s Gaza plan will not bring peace or prosperity and will instead entrench ongoing devastation.",
+      "importance": 73,
+      "why": "It addresses a major geopolitical proposal concerning Gaza and its potential consequences, making it highly relevant to current international policy and conflict discussions."
     },
     {
       "source": "War on the Rocks",
-      "title": "Closing the Air and Missile Defense Gap in the Indo-Pacific",
-      "summary": "During last summer&#8217;s 12-day war between Iran, Israel, and the United States, the U.S. military supported Israeli air and missile defense operations by utilizing its regionally deployed air and missile defense assets to intercept...",
-      "link": "https://warontherocks.com/2026/04/closing-the-air-and-missile-defense-gap-in-the-indo-pacific/",
-      "published_at": "2026-04-07T07:30:22Z",
-      "ai_summary": "An article discussing how to close air and missile defense gaps in the Indo-Pacific, drawing lessons from a recent 12-day Iran-Israel-U.S. conflict and the use of regional U.S. defense assets to intercept attacks.",
-      "importance": 76,
-      "why": "The topic is strategically important because it addresses U.S. and allied air/missile defense readiness in a major theater of potential conflict. The subject has direct implications for Indo-Pacific deterrence, force posture, and regional security planning."
+      "title": "Iran\u2019s Asymmetric Counterair Campaign: Attacking the U.S. Air Force\u2019s Nests and Eggs",
+      "summary": "On March 27, Iranian drones and missiles struck Prince Sultan Air Base in Saudi Arabia, destroying an&#160;E-3 Sentry, an airborne command center for U.S. operations in the region, and damaging multiple KC-135 tankers. It was not the first...",
+      "link": "https://warontherocks.com/2026/04/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/",
+      "published_at": "2026-04-09T07:15:20Z",
+      "ai_summary": "The text describes an Iranian drone and missile strike on Prince Sultan Air Base in Saudi Arabia that destroyed an E-3 Sentry and damaged KC-135 tankers, illustrating Iran\u2019s asymmetric strategy against U.S. airpower assets.",
+      "importance": 84,
+      "why": "It highlights a significant attack on high-value U.S. military aviation assets and shows the broader strategic concept of asymmetric counterair warfare, which is important for understanding regional military threats and airpower vulnerability."
+    },
+    {
+      "source": "Responsible Statecraft",
+      "title": "Emergency waivers move arms for Israel, UAE to speed lane",
+      "summary": "Amid its war on Iran \u2014 now frozen by a tenuous ceasefire \u2014 the Trump administration has been exploiting emergency waivers to fast-track controversial foreign arms sales to Israel and Gulf states, tossing Congressional oversight to the...",
+      "link": "https://responsiblestatecraft.org/waivers-arms-sales/",
+      "published_at": "2026-04-09T04:05:01Z",
+      "ai_summary": "The Trump administration is using emergency waivers to accelerate controversial arms sales to Israel and Gulf states, reducing Congressional oversight amid the Iran conflict and ceasefire.",
+      "importance": 84,
+      "why": "This is a significant foreign policy and defense procurement development: it involves emergency powers, arms transfers to key Middle Eastern allies, and bypassing normal Congressional review during a tense regional conflict."
     }
   ]
 }
