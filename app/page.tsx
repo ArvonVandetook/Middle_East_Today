@@ -129,7 +129,7 @@ async function fetchLatestPost(rssUrl: string) {
 //
 const ANALYST_FEEDS = [
   { name: "Trita Parsi", rss: "https://tritaparsi.substack.com/feed" },
-  { name: "Holly Dagres", rss: "https://www.atlanticcouncil.org/blogs/iransource/feed/" },
+  { name: "Holly Dagres", rss: "https://www.theiranist.com/feed" },
   { name: "Aron Lund", rss: "https://tcf.org/author/aron-lund/feed/" },
   { name: "Renad Mansour", rss: "https://www.chathamhouse.org/rss/experts/renad-mansour" },
   { name: "Hussein Ibish", rss: "https://agsiw.org/author/hussein-ibish/feed/" },
