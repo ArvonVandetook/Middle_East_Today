@@ -28,7 +28,7 @@ export const metadata = {
     type: "website",
     images: [
     {
-      url: "https://middle-east-today.vercel.app/logo-middle-east.png",
+      url: "https://middle-east-today.vercel.app/logos/logo-middle-east.png",
       width: 1200,
       height: 630,
     },
