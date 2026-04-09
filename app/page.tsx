@@ -132,6 +132,7 @@ const ANALYST_FEEDS = [
   { name: "Holly Dagres", rss: "https://www.theiranist.com/feed" },
   { name: "Ali Ansari", rss: "https://iranshahr.substack.com/feed" },
   { name: "IranWire", rss: "https://iranwire.substack.com/feed" },
+  { name: "James M. Dorsey", rss: "https://jamesmdorsey.substack.com/feed" },
   { name: "Aron Lund", rss: "https://tcf.org/author/aron-lund/feed/" },
   { name: "Renad Mansour", rss: "https://www.chathamhouse.org/rss/experts/renad-mansour" },
   { name: "Hussein Ibish", rss: "https://agsiw.org/author/hussein-ibish/feed/" },
