@@ -32,7 +32,7 @@ const SOURCE_LOGOS: Record<string, string> = {
   "Responsible Statecraft": "/logos/rs.jpg",
   "War on the Rocks": "/logos/WOTR.jpg",
   "Carnegie ME": "/logos/Carnegie.jpg",
-  "Drop Site News": "/logos/dropsite.jpg"
+  "Drop Site News": "/logos/dropsite.png"
 };
 
 function Card({ item, variant }: { item: Item; variant?: string }) {
