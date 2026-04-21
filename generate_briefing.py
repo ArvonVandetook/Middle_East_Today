@@ -67,13 +67,11 @@ TOP_DEVELOPMENTS_AMWAJ_MAX_AGE_DAYS = 5
 TOP_DEVELOPMENTS_MIN_ITEMS = 9
 
 TOP_DEVELOPMENTS_SOURCE_ORDER = [
+    "Al Monitor",
+    "Middle East Eye",
+    "Al Jazeera",
     "Guardian",
     "Haaretz",
-    "Middle East Eye",
-    "Al Monitor",
-    "Al Jazeera",
-    "Amwaj",
-    "Carnegie ME",
     "Drop Site News",
 ]
 
