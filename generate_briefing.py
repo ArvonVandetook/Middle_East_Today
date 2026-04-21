@@ -27,7 +27,6 @@ TOP_STORY_MODEL = os.getenv("TOP_STORY_MODEL", "gpt-5.4")
 client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 RSS_SOURCES = [
-    ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
     ("Al Monitor", "https://www.al-monitor.com/rss"),
     ("Guardian", "https://www.theguardian.com/world/middleeast/rss"),
 
@@ -35,6 +34,7 @@ RSS_SOURCES = [
     ("Haaretz", "https://www.haaretz.com/cmlink/1.628752"),
     ("War on the Rocks", "https://warontherocks.com/feed/"),
     ("Responsible Statecraft", "https://responsiblestatecraft.org/feed/"),
+    ("Drop Site News", "https://www.dropsitenews.com/feed"),
 ]
 
 MAX_PER_SOURCE = {
@@ -53,6 +53,7 @@ MAX_PER_SOURCE = {
     # Controlled sources
     "War on the Rocks": 1,
     "Responsible Statecraft": 1,
+    "Drop Site News": 2,
 
     "default": 2
 }
@@ -61,11 +62,30 @@ TOP_N = 12
 REGIONAL_N = 9
 DEEP_N = 16
 
+TOP_DEVELOPMENTS_MAX_AGE_DAYS = 3
+TOP_DEVELOPMENTS_AMWAJ_MAX_AGE_DAYS = 5
+TOP_DEVELOPMENTS_MIN_ITEMS = 9
+
+TOP_DEVELOPMENTS_SOURCE_ORDER = [
+    "Guardian",
+    "Haaretz",
+    "Middle East Eye",
+    "Al Monitor",
+    "Al Jazeera",
+    "Amwaj",
+    "Carnegie ME",
+    "Drop Site News",
+]
+
 AMWAJ_SEED_URL = "https://amwaj.media/en/media-monitor/tehran-vows-regional-escalation-after-trump-threatens-iranian-power-grid"
 AMWAJ_MAX_ARTICLES = 20
+AMWAJ_DEEP_DIVE_MAX_AGE_DAYS = 30
 
 JADALIYYA_SEED_URL = "https://www.jadaliyya.com/"
 JAD_MAX_ARTICLES = 15
+
+AL_JAZEERA_MIDDLE_EAST_URL = "https://www.aljazeera.com/middle-east/"
+AL_JAZEERA_MAX_ARTICLES = 15
 
 CARNEGIE_DIWAN_URL = "https://carnegieendowment.org/middle-east/diwan"
 CARNEGIE_MAX_ARTICLES = 12
@@ -119,6 +139,90 @@ def parse_amwaj_date(article):
         return datetime.strptime(raw, "%b %d, %Y")
     except:
         return datetime(1970, 1, 1)
+
+def parse_article_datetime(article):
+    raw = article.get("published_at") or article.get("date") or ""
+
+    if not raw:
+        return None
+
+    raw = raw.strip()
+
+    try:
+        dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except:
+        pass
+
+    for fmt in ("%b. %d, %Y", "%b %d, %Y", "%B %d, %Y", "%d %B %Y %H:%M"):
+        try:
+            return datetime.strptime(raw, fmt).replace(tzinfo=timezone.utc)
+        except:
+            continue
+
+    return None
+
+def is_recent_top_development(article, now=None):
+    max_age_days = (
+        TOP_DEVELOPMENTS_AMWAJ_MAX_AGE_DAYS
+        if article.get("source") == "Amwaj"
+        else TOP_DEVELOPMENTS_MAX_AGE_DAYS
+    )
+    published = parse_article_datetime(article)
+
+    if not published:
+        print(f"[TOP RECENCY SKIP] missing date | {article.get('source')} | {article.get('title')}")
+        return False
+
+    now = now or datetime.now(timezone.utc)
+    cutoff_date = now.date() - timedelta(days=max_age_days)
+    is_recent = published.date() >= cutoff_date
+
+    if not is_recent:
+        print(
+            f"[TOP RECENCY SKIP] {published.date()} older than {max_age_days}d | "
+            f"{article.get('source')} | {article.get('title')}"
+        )
+
+    return is_recent
+
+def is_video_item(article):
+    title = article.get("title", "").lower()
+    summary = article.get("summary", "").lower()
+    link = article.get("link", article.get("url", "")).lower()
+
+    video_markers = [
+        "/video/",
+        "-video",
+        " video:",
+        " – video",
+        " - video",
+        "newsfeed",
+        "quotable",
+        "watch:",
+    ]
+
+    return any(marker in f"{title} {summary} {link}" for marker in video_markers)
+
+def is_live_wrapper_item(article):
+    title = article.get("title", "").lower()
+    link = article.get("link", article.get("url", "")).lower()
+
+    return (
+        "/live/" in link
+        or "/live-blog/" in link
+        or "live updates" in title
+        or "as it happened" in title
+    )
+
+def is_top_development_candidate(article):
+    return (
+        is_recent_top_development(article)
+        and not is_video_item(article)
+        and not is_live_wrapper_item(article)
+    )
 
 def get_latest_amwaj_sitrep():
     try:
@@ -685,6 +789,120 @@ def get_latest_amwaj_sitrep_from_articles(amwaj_articles):
     sitreps.sort(key=sort_key, reverse=True)
     return sitreps[0]
 
+def is_recent_amwaj_deep_dive(article, now=None):
+    published = parse_article_datetime(article)
+    if not published:
+        return False
+
+    now = now or datetime.now(timezone.utc)
+    return published.date() >= (now.date() - timedelta(days=AMWAJ_DEEP_DIVE_MAX_AGE_DAYS))
+
+def fetch_amwaj_article(url):
+    try:
+        r = session.get(url, timeout=15)
+        soup = BeautifulSoup(r.text, "lxml")
+
+        title_tag = soup.find("h1")
+        title = clean_text(title_tag.get_text()) if title_tag else ""
+
+        if not title:
+            title = clean_text(soup.find("meta", attrs={"property": "og:title"}).get("content", "")) if soup.find("meta", attrs={"property": "og:title"}) else ""
+
+        summary = ""
+        meta_desc = soup.find("meta", attrs={"name": "description"})
+        if meta_desc and meta_desc.get("content"):
+            summary = clean_text(meta_desc["content"])
+
+        if not summary:
+            og_desc = soup.find("meta", attrs={"property": "og:description"})
+            if og_desc and og_desc.get("content"):
+                summary = clean_text(og_desc["content"])
+
+        if not summary:
+            paras = [clean_text(p.get_text(" ", strip=True)) for p in soup.find_all("p")]
+            paras = [p for p in paras if len(p) > 50]
+            if paras:
+                summary = " ".join(paras[:3])
+
+        date_text = ""
+        published_at = None
+        m = re.search(r'PublishedAt\\":\\"([^\\"]+)', r.text)
+        if m:
+            try:
+                dt = datetime.fromisoformat(m.group(1).replace("Z", "+00:00"))
+                published_at = dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+                date_text = dt.strftime("%b. %-d, %Y")
+            except:
+                published_at = None
+
+        page_text = soup.get_text(" ", strip=True)
+        m = re.search(r"[A-Z][a-z]{2}\.\s\d{1,2},\s\d{4}", page_text)
+        if not published_at and m:
+            date_text = m.group(0)
+        else:
+            m = re.search(r"[A-Z][a-z]{2}\s\d{1,2},\s\d{4}", page_text)
+            if not published_at and m:
+                date_text = m.group(0)
+
+        if date_text and not published_at:
+            try:
+                dt = datetime.strptime(date_text, "%b. %d, %Y").replace(tzinfo=timezone.utc)
+                published_at = dt.isoformat().replace("+00:00", "Z")
+            except:
+                try:
+                    dt = datetime.strptime(date_text, "%b %d, %Y").replace(tzinfo=timezone.utc)
+                    published_at = dt.isoformat().replace("+00:00", "Z")
+                except:
+                    published_at = None
+
+        if not title or not summary:
+            return None
+
+        return {
+            "source": "Amwaj",
+            "title": title,
+            "summary": truncate(summary, 260),
+            "link": url,
+            "date": date_text,
+            "published_at": published_at
+        }
+
+    except Exception as e:
+        print("[AMWAJ ARTICLE ERROR]", url, e)
+        return None
+
+def get_latest_amwaj_deep_dive():
+    try:
+        r = session.get("https://amwaj.media/en", timeout=15)
+        hrefs = re.findall(r'href\\":\\"(/en/[^\\"]*deep-dive[^\\"]*)', r.text)
+        if not hrefs:
+            print("[AMWAJ DEEP DIVE] no embedded links found")
+            return None
+
+        seen = []
+        for href in hrefs:
+            url = urljoin("https://amwaj.media", href)
+            if url not in seen:
+                seen.append(url)
+
+        candidates = []
+        for url in seen[:6]:
+            article = fetch_amwaj_article(url)
+            if article and "deep dive" in article.get("title", "").lower():
+                candidates.append(article)
+
+        candidates = [a for a in candidates if is_recent_amwaj_deep_dive(a)]
+        if not candidates:
+            print("[AMWAJ DEEP DIVE] no recent candidates")
+            return None
+
+        candidates.sort(key=lambda a: parse_article_datetime(a) or datetime(1970, 1, 1, tzinfo=timezone.utc), reverse=True)
+        return candidates[0]
+
+    except Exception as e:
+        print("[AMWAJ DEEP DIVE ERROR]", e)
+        return None
+
 # ---------------------------
 # JADALIYYA
 # ---------------------------
@@ -854,8 +1072,21 @@ def crawl_middle_east_eye():
             # Fallback: look for visible date text
             if not published_at:
                 date_text = ""
+                page_text = soup.get_text(" ", strip=True)
+                m = re.search(r"Published date:\s*(\d{1,2}\s+[A-Za-z]+\s+\d{4}\s+\d{1,2}:\d{2})", page_text)
+                if m:
+                    date_text = m.group(1)
+
                 for el in soup.find_all(string=True):
+                    if date_text:
+                        break
+
                     txt = clean_text(el)
+                    m = re.search(r"Published date:\s*(\d{1,2}\s+[A-Za-z]+\s+\d{4}\s+\d{1,2}:\d{2})", txt)
+                    if m:
+                        date_text = m.group(1)
+                        break
+
                     if re.match(r"[A-Z][a-z]{2}\s+\d{1,2},\s+\d{4}", txt):
                         date_text = txt
                         break
@@ -865,7 +1096,11 @@ def crawl_middle_east_eye():
                         dt = datetime.strptime(date_text, "%b %d, %Y").replace(tzinfo=timezone.utc)
                         published_at = dt.isoformat().replace("+00:00", "Z")
                     except:
-                        published_at = None
+                        try:
+                            dt = datetime.strptime(date_text, "%d %B %Y %H:%M").replace(tzinfo=timezone.utc)
+                            published_at = dt.isoformat().replace("+00:00", "Z")
+                        except:
+                            published_at = None
 
             results.append({
                 "source": "Middle East Eye",
@@ -882,6 +1117,128 @@ def crawl_middle_east_eye():
     print(f"[MEE] crawled: {len(results)}")
 
     return results
+
+# ---------------------------
+# AL JAZEERA
+# ---------------------------
+
+def parse_al_jazeera_date(text):
+    m = re.search(r"Published On\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})", text or "")
+    if not m:
+        return None
+
+    day, month, year = m.groups()
+    try:
+        dt = datetime.strptime(f"{day} {month} {year}", "%d %b %Y").replace(tzinfo=timezone.utc)
+        return dt.isoformat().replace("+00:00", "Z")
+    except:
+        try:
+            dt = datetime.strptime(f"{day} {month} {year}", "%d %B %Y").replace(tzinfo=timezone.utc)
+            return dt.isoformat().replace("+00:00", "Z")
+        except:
+            return None
+
+def crawl_al_jazeera_middle_east():
+    results = []
+    seen = set()
+    base = "https://www.aljazeera.com"
+
+    try:
+        print("[AL JAZEERA] crawling Middle East section")
+        r = session.get(AL_JAZEERA_MIDDLE_EAST_URL, timeout=15)
+        soup = BeautifulSoup(r.text, "lxml")
+    except Exception as e:
+        print("[AL JAZEERA SECTION ERROR]", e)
+        return results
+
+    links = []
+
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+
+        if href.startswith("/"):
+            href = urljoin(base, href)
+
+        if not href.startswith(base):
+            continue
+
+        if href in seen:
+            continue
+
+        if not re.search(r"/(news|features|opinions)/\d{4}/\d{1,2}/\d{1,2}/", href):
+            continue
+
+        if any(x in href for x in ["/video/", "/liveblog/", "/program/", "/podcasts/"]):
+            continue
+
+        seen.add(href)
+        links.append(href)
+
+        if len(links) >= 25:
+            break
+
+    print(f"[AL JAZEERA] candidate links: {len(links)}")
+
+    for url in links[:AL_JAZEERA_MAX_ARTICLES]:
+        try:
+            page = session.get(url, timeout=15)
+            article_soup = BeautifulSoup(page.text, "lxml")
+
+            title_tag = article_soup.find("h1")
+            title = clean_text(title_tag.get_text()) if title_tag else ""
+
+            if not title:
+                continue
+
+            summary = ""
+            meta_desc = article_soup.find("meta", attrs={"name": "description"})
+            if meta_desc and meta_desc.get("content"):
+                summary = clean_text(meta_desc["content"])
+
+            if not summary:
+                og_desc = article_soup.find("meta", attrs={"property": "og:description"})
+                if og_desc and og_desc.get("content"):
+                    summary = clean_text(og_desc["content"])
+
+            if not summary:
+                paras = [
+                    clean_text(p.get_text(" ", strip=True))
+                    for p in article_soup.find_all("p")
+                ]
+                paras = [p for p in paras if len(p) > 40]
+                if paras:
+                    summary = paras[0]
+
+            if not summary:
+                continue
+
+            published_at = None
+            time_tag = article_soup.find("meta", attrs={"property": "article:published_time"})
+            if time_tag and time_tag.get("content"):
+                try:
+                    dt = datetime.fromisoformat(clean_text(time_tag["content"]).replace("Z", "+00:00"))
+                    published_at = dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+                except:
+                    published_at = None
+
+            if not published_at:
+                published_at = parse_al_jazeera_date(article_soup.get_text(" ", strip=True))
+
+            results.append({
+                "source": "Al Jazeera",
+                "title": title,
+                "summary": truncate(summary, 260),
+                "link": url,
+                "published_at": published_at
+            })
+
+        except Exception as e:
+            print("[AL JAZEERA ARTICLE ERROR]", url, e)
+            continue
+
+    print(f"[AL JAZEERA] crawled: {len(results)}")
+    return results
+
 # ---------------------------
 # CARNEGIE DIWAN
 # ---------------------------
@@ -1015,7 +1372,8 @@ REUTERS_SOURCE_PAGES = [
     "https://www.reuters.com/",
 ]
 
-REUTERS_BACKFILL_MAX_AGE_HOURS = 24
+REUTERS_BACKFILL_MAX_AGE_HOURS = 72
+REUTERS_BACKFILL_MAX_ITEMS = 4
 
 
 def _parse_reuters_relative_time(text):
@@ -1030,6 +1388,17 @@ def _parse_reuters_relative_time(text):
         return datetime.now(timezone.utc) - timedelta(hours=int(m.group(1)))
 
     return None
+
+def _parse_reuters_url_date(link):
+    m = re.search(r"/(\d{4})/(\d{2})/(\d{2})/", link or "")
+    if not m:
+        return None
+
+    y, mth, d = m.groups()
+    try:
+        return datetime.strptime(f"{y}-{mth}-{d}", "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except:
+        return None
 
 
 def _looks_like_reuters_live_item(title, link):
@@ -1081,7 +1450,7 @@ def _reuters_dupish(title, link, existing_items):
     return False
 
 
-def get_reuters_backfill_candidate(existing_top_developments):
+def get_reuters_backfill_candidates(existing_top_developments, limit=REUTERS_BACKFILL_MAX_ITEMS):
     now_utc = datetime.now(timezone.utc)
     candidates = []
     seen_links = set()
@@ -1155,6 +1524,9 @@ def get_reuters_backfill_candidate(existing_top_developments):
                         break
 
             if not published_dt:
+                published_dt = _parse_reuters_url_date(href)
+
+            if not published_dt:
                 continue
 
             age = now_utc - published_dt
@@ -1166,7 +1538,7 @@ def get_reuters_backfill_candidate(existing_top_developments):
                 print(f"[REUTERS SKIP] not relevant | {title}")
                 continue
 
-            if _reuters_dupish(title, href, existing_top_developments):
+            if _reuters_dupish(title, href, existing_top_developments + candidates):
                 print(f"[REUTERS SKIP] dupish | {title}")
                 continue
 
@@ -1174,7 +1546,7 @@ def get_reuters_backfill_candidate(existing_top_developments):
             candidates.append({
                 "source": "Reuters",
                 "title": title,
-                "url": href,
+                "link": href,
                 "summary": summary,
                 "published_at": published_dt.isoformat(),
                 "_dt": published_dt,
@@ -1183,13 +1555,20 @@ def get_reuters_backfill_candidate(existing_top_developments):
     print(f"[REUTERS] surviving candidates: {len(candidates)}")
 
     if not candidates:
-        return None
+        return []
 
     candidates.sort(key=lambda x: x["_dt"], reverse=True)
-    best = candidates[0]
-    best.pop("_dt", None)
-    print(f"[REUTERS] selected: {best['title']}")
-    return best
+    selected = candidates[:limit]
+
+    for item in selected:
+        item.pop("_dt", None)
+
+    print(f"[REUTERS] selected: {[item['title'] for item in selected]}")
+    return selected
+
+def get_reuters_backfill_candidate(existing_top_developments):
+    candidates = get_reuters_backfill_candidates(existing_top_developments, limit=1)
+    return candidates[0] if candidates else None
 
 # ---------------------------
 # HAARETZ
@@ -1319,6 +1698,10 @@ def fetch_all():
     mee_articles = [a for a in crawl_middle_east_eye() if is_relevant(a)]
     items.extend(mee_articles)
 
+    # 🔥 Al Jazeera Middle East crawler (replaces broad all-site RSS)
+    al_jazeera_articles = [a for a in crawl_al_jazeera_middle_east() if is_relevant(a)]
+    items.extend(al_jazeera_articles)
+
     # Add to main pool
     items.extend(amwaj_articles)
     items.extend(jad_articles)
@@ -1344,6 +1727,70 @@ def balance_section(articles, limit):
             break
 
     return selected
+
+def deal_top_developments_by_source(candidates, limit=TOP_N):
+    by_source = defaultdict(list)
+    seen_links = set()
+
+    for a in candidates:
+        link = a.get("link")
+        if link in seen_links:
+            continue
+
+        if not is_top_development_candidate(a):
+            continue
+
+        if is_podcast(a):
+            continue
+
+        if a.get("source") in ["Jadaliyya", "War on the Rocks", "Responsible Statecraft"]:
+            continue
+
+        seen_links.add(link)
+        by_source[a["source"]].append(a)
+
+    for source in by_source:
+        by_source[source].sort(key=lambda x: x.get("importance", 0), reverse=True)
+
+    source_rank = {
+        source: rank
+        for rank, source in enumerate(TOP_DEVELOPMENTS_SOURCE_ORDER)
+    }
+
+    source_order = sorted(
+        by_source,
+        key=lambda source: (
+            source_rank.get(source, len(TOP_DEVELOPMENTS_SOURCE_ORDER)),
+            -by_source[source][0].get("importance", 0)
+        )
+    )
+
+    selected = []
+    counts = defaultdict(int)
+
+    while len(selected) < limit:
+        added_this_round = False
+
+        for source in source_order:
+            if len(selected) >= limit:
+                break
+
+            max_for_source = MAX_PER_SOURCE.get(source, MAX_PER_SOURCE["default"])
+            if counts[source] >= max_for_source:
+                continue
+
+            source_items = by_source[source]
+            if counts[source] >= len(source_items):
+                continue
+
+            selected.append(source_items[counts[source]])
+            counts[source] += 1
+            added_this_round = True
+
+        if not added_this_round:
+            break
+
+    return selected[:limit]
 
 # ---------------------------
 # BUILD
@@ -1398,6 +1845,7 @@ def build():
         a for a in deduped
         if (
             classify_event(a)
+            and is_top_development_candidate(a)
             and not is_amwaj_deep_dive(a)
             and not is_amwaj_sitrep(a)
         )
@@ -1482,17 +1930,37 @@ def build():
         if a not in deep:
             deep.insert(0, a)
 
-    # 🔥 Backfill
-    if len(events) < TOP_N:
-        for a in sorted(regional, key=lambda x: x["importance"], reverse=True):
-            if a not in events:
-                events.append(a)
-            if len(events) >= TOP_N:
-                break
+    latest_amwaj_deep_dive = get_latest_amwaj_deep_dive()
+    if latest_amwaj_deep_dive:
+        latest_amwaj_deep_dive = summarize(latest_amwaj_deep_dive)
+
+        if not any(a.get("link") == latest_amwaj_deep_dive.get("link") for a in deep):
+            deep.insert(0, latest_amwaj_deep_dive)
+
+        if len(deep) > DEEP_N:
+            protected_link = latest_amwaj_deep_dive.get("link")
+            for i in range(len(deep) - 1, -1, -1):
+                if deep[i].get("link") != protected_link:
+                    deep.pop(i)
+                    break
+
+    top_backfill_candidates = [
+        a for a in deduped
+        if (
+            a not in events
+            and is_top_development_candidate(a)
+            and not is_amwaj_sitrep(a)
+            and not is_amwaj_deep_dive(a)
+            and not is_podcast(a)
+            and a.get("source") not in ["Jadaliyya", "War on the Rocks", "Responsible Statecraft"]
+        )
+    ]
+
+    top_development_deck = events + top_backfill_candidates
+    events = deal_top_developments_by_source(top_development_deck)
 
     regional = [a for a in regional if a not in events]
 
-    events = balance_section(events, TOP_N)
     regional = balance_section(regional, REGIONAL_N)
 
     # --- Ensure Haaretz representation AFTER balancing ---
@@ -1537,20 +2005,8 @@ def build():
 
     events, regional, deep = dedupe_across_sections(events, regional, deep)
 
-    # 🔥 Reuters backfill: only fill an open 9th Top Developments slot
-    print(f"[REUTERS BACKFILL] events before: {len(events)}")
-
-    if len(events) < 9:
-        reuters_item = get_reuters_backfill_candidate(events)
-        print(f"[REUTERS BACKFILL] candidate: {reuters_item}")
-        if reuters_item:
-            reuters_item["link"] = reuters_item.pop("url", reuters_item.get("link", ""))
-            reuters_item["summary"] = clean_html(reuters_item.get("summary", ""))
-            events.append(reuters_item)
-            print(f"[REUTERS BACKFILL] events after append: {len(events)}")
-
     # 🔥 FINAL Sitrep anchoring (deterministic + safe)
-    if latest_sitrep:
+    if latest_sitrep and is_top_development_candidate(latest_sitrep):
 
         def is_sitrep(a):
             return a.get("source") == "Amwaj" and "sitrep" in a.get("title", "").lower()
