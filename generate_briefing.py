@@ -75,6 +75,8 @@ TOP_DEVELOPMENTS_SOURCE_ORDER = [
     "Drop Site News",
 ]
 
+REGIONAL_EXCLUDED_SOURCES = {"Drop Site News"}
+
 AMWAJ_SEED_URL = "https://amwaj.media/en/media-monitor/tehran-vows-regional-escalation-after-trump-threatens-iranian-power-grid"
 AMWAJ_MAX_ARTICLES = 20
 AMWAJ_DEEP_DIVE_MAX_AGE_DAYS = 30
@@ -1855,6 +1857,7 @@ def build():
             not classify_event(a)
             and not is_amwaj_sitrep(a)
             and not is_amwaj_deep_dive(a)
+            and a["source"] not in REGIONAL_EXCLUDED_SOURCES
             and a["source"] not in ["War on the Rocks", "Responsible Statecraft", "Guardian", "Jadaliyya", "Carnegie ME"]
             and a["source"] != "Middle East Eye"
         )
@@ -1958,6 +1961,7 @@ def build():
     events = deal_top_developments_by_source(top_development_deck)
 
     regional = [a for a in regional if a not in events]
+    regional = [a for a in regional if a["source"] not in REGIONAL_EXCLUDED_SOURCES]
 
     regional = balance_section(regional, REGIONAL_N)
 
