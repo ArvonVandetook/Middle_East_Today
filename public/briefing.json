@@ -1,151 +1,139 @@
 {
-  "generated_at": "2026-04-28T03:40:39.200988Z",
-  "top_story": "Israel\u2019s 27 April strikes sharpened pressure on two fronts, with the deadliest day in southern Lebanon since the ceasefire began killing 14 and underscoring how fragile the Israel-Hezbollah truce has become. In Gaza, attacks on water infrastructure and personnel deepened an already severe shortage, turning displacement into a public health emergency as preventable disease spreads among families cut off from basic services. This deterioration follows weeks of wider regional tension after Washington\u2019s 23 March threat against Iran\u2019s power grid drew vows from Tehran to escalate across the region, reinforcing a climate in which local ceasefires and civilian systems are increasingly exposed. The immediate pattern is not only military confrontation but the steady erosion of civilian protection, with essential infrastructure and border communities bearing the cost of a broader escalation cycle.",
+  "generated_at": "2026-04-28T14:29:48.641820Z",
+  "top_story": "The UAE\u2019s reported exit from OPEC and OPEC+ on 28 April marks the day\u2019s most consequential shift, exposing a rift with Saudi-led oil coordination just as the war with Iran and disruption risk in the Strait of Hormuz sharpen pressure on energy markets. The move also deepens scrutiny of Abu Dhabi\u2019s regional posture, after an investigation published hours later traced Sudan\u2019s RSF leadership to a \u00a317.7m Dubai property network that sheltered wealth and family members while Sudan\u2019s war intensified. Beneath these elite realignments, Gaza\u2019s children continue to absorb the region\u2019s heaviest cost through disabling burns, toxic exposure, and the collapse of basic care. Taken together, the latest developments show a regional order in which strategic fragmentation and permissive financial hubs are widening the distance between state power and civilian survival.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Bahrain strips 69 people of citizenship for 'glorifying' Iran attacks",
-      "summary": "The revocations were carried out under legal provisions allowing the state to strip nationality from individuals whose actions are deemed to threaten national security.",
-      "link": "https://www.al-monitor.com/originals/2026/04/bahrain-strips-69-people-citizenship-glorifying-iran-attacks",
-      "published_at": "2026-04-27T19:44:25Z",
-      "ai_summary": "Bahrain revoked the citizenship of 69 people under national security laws, citing actions it said glorified attacks by Iran.",
-      "importance": 85,
-      "why": "This is a significant political and human-rights-related action involving mass citizenship revocation, state security powers, and tensions connected to Iran."
+      "title": "UAE leaves OPEC and OPEC+ in huge blow to global oil producers' group",
+      "summary": "DUBAI, April 28 (Reuters) - The United Arab Emirates said on Tuesday it quit OPEC and OPEC+, dealing a heavy blow to the oil exporting groups and their de facto leader, Saudi Arabia, at a time when the Iran war has caused a historic energy...",
+      "link": "https://www.al-monitor.com/originals/2026/04/uae-leaves-opec-and-opec-huge-blow-global-oil-producers-group",
+      "published_at": "2026-04-28T12:36:45Z",
+      "ai_summary": "Reuters-style report claiming the UAE has left OPEC and OPEC+, which would significantly weaken the producer group and Saudi Arabia\u2019s leadership amid an energy crisis tied to the Iran war.",
+      "importance": 99,
+      "why": "This is a major geopolitical and energy-market development involving a core OPEC member and could materially affect global oil supply, pricing, and diplomatic alignments."
     },
     {
       "source": "Middle East Eye",
-      "title": "The real reason Iran and the US cannot end the war: Money",
-      "summary": "Trump built his Iran policy on economic warfare, but his unwillingness to give it up could mean a deal is never reached, diplomats and analysts say",
-      "link": "https://www.middleeasteye.net/news/the-real-reason-iran-and-the-us-cannot-end-the-war-money",
-      "published_at": "2026-04-27T22:40:00Z",
-      "ai_summary": "The article argues that economic warfare is central to the US-Iran conflict, and that Trump\u2019s reliance on sanctions and pressure may prevent a negotiated deal.",
-      "importance": 85,
-      "why": "It highlights a key policy driver behind the Iran-US standoff: sanctions and economic leverage. This affects diplomacy, conflict resolution, and broader regional stability, making it highly relevant."
+      "title": "Netanyahu helped 'create a genocide in Gaza', top Biden official says",
+      "summary": "Wendy Sherman tells Bloomberg that Israel led the US 'down a road' that created a genocide and destabilised the region",
+      "link": "https://www.middleeasteye.net/news/netanyahu-helped-create-genocide-gaza-former-top-biden-official-says",
+      "published_at": "2026-04-28T12:54:00Z",
+      "ai_summary": "Top Biden official Wendy Sherman said Netanyahu helped lead the U.S. down a path that \"created a genocide\" in Gaza and destabilized the region.",
+      "importance": 86,
+      "why": "This is a high-profile allegation involving Israel, the Gaza war, and a senior former U.S. official, with potential implications for U.S. policy, international law, and regional stability."
     },
     {
       "source": "Al Jazeera",
-      "title": "Hezbollah and Israel swap threats and strikes across Lebanon\u2019s border",
-      "summary": "Iran-linked group reiterates defiance; Israeli defence minister threatens to \u2018burn all of Lebanon\u2019.",
-      "link": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border",
-      "published_at": "2026-04-27T00:00:00Z",
-      "ai_summary": "Hezbollah and Israel exchanged threats and strikes along the Lebanon border, with Hezbollah showing defiance and Israel\u2019s defence minister warning of severe retaliation.",
-      "importance": 85,
-      "why": "This involves a major regional security escalation between Hezbollah and Israel, with potential to widen conflict across Lebanon\u2019s border and affect broader Middle East stability."
+      "title": "Born during Israel\u2019s genocide: Gaza\u2019s child survivors bear the scars of war",
+      "summary": "Gaza\u2019s youngest survivors face lifelong disabilities from toxic gas and burns as the healthcare system collapses.",
+      "link": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war",
+      "published_at": "2026-04-28T00:00:00Z",
+      "ai_summary": "Gaza\u2019s youngest survivors are left with lifelong disabilities from war-related toxic exposure and burns as the healthcare system collapses.",
+      "importance": 94,
+      "why": "The text highlights severe, lasting harm to children and the collapse of healthcare amid an ongoing humanitarian crisis, making it highly urgent and consequential."
     },
     {
       "source": "Guardian",
-      "title": "Deadly Israeli attacks worsen Gaza\u2019s water shortage crisis",
-      "summary": "Engineer and two drivers killed in recent weeks as scarcity of clean water fuels spread of preventable diseasesIsraeli forces in Gaza killed a water engineer and two drivers who transported water to displaced families over four days in...",
-      "link": "https://www.theguardian.com/world/2026/apr/27/israeli-attacks-gaza-clean-water-shortage-crisis-disease-palestine",
-      "published_at": "2026-04-27T04:00:35Z",
-      "ai_summary": "Israeli attacks in Gaza have intensified a severe water shortage, killing a water engineer and two water truck drivers and worsening the spread of preventable disease among displaced families.",
-      "importance": 93,
-      "why": "The report describes a major humanitarian crisis affecting civilian survival needs: access to clean water, displacement, and disease spread, compounded by the deaths of workers delivering water."
+      "title": "Sudan paramilitary leaders acquired \u00a317.7m property portfolio in Dubai, investigation reveals",
+      "summary": "The RSF leadership, accused of committing genocide, used UAE as a \u2018safe haven\u2019 for family members and their wealth, records showA network linked to the leadership of a militia accused of genocide has amassed a vast property portfolio in...",
+      "link": "https://www.theguardian.com/global-development/2026/apr/28/sudan-paramilitary-rsf-leaders-property-portfolio-dubai-uae-investigation",
+      "published_at": "2026-04-28T04:00:39Z",
+      "ai_summary": "An investigation found that Sudan\u2019s RSF paramilitary leadership, accused of genocide, acquired a \u00a317.7 million property portfolio in Dubai and used the UAE as a safe haven for family members and wealth.",
+      "importance": 95,
+      "why": "This is highly important because it concerns alleged war crimes, cross-border asset concealment, and the role of a major international financial hub in sheltering wealth tied to a conflict actor."
     },
     {
       "source": "Haaretz",
-      "title": "IDF Says It Carried Out Over 20 Attacks in Lebanon, Targeting Hezbollah",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-27/ty-article-live/report-14-killed-37-wounded-in-idf-strikes-on-southern-lebanon/0000019d-cb7a-d505-afbd-ff7e9c740004",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-27/ty-article-live/report-14-killed-37-wounded-in-idf-strikes-on-southern-lebanon/0000019d-cb7a-d505-afbd-ff7e9c740004",
+      "title": "Shin Bet Insiders Say New Chief's Leadership Creating Deep Rift, Climate of Fear",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-04-27/ty-article-magazine/.premium/a-victim-mentality-deep-crisis-in-shin-bet-between-zini-and-senior-officials/0000019d-ce9f-db55-a1ff-ff9f5c230000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-04-27/ty-article-magazine/.premium/a-victim-mentality-deep-crisis-in-shin-bet-between-zini-and-senior-officials/0000019d-ce9f-db55-a1ff-ff9f5c230000",
       "published_at": "2026-04-27T00:00:00Z",
-      "ai_summary": "IDF said it carried out over 20 attacks in Lebanon targeting Hezbollah, amid reports of fatalities and injuries from strikes in southern Lebanon.",
-      "importance": 83,
-      "why": "This is a significant Israel-Hezbollah escalation report involving military operations, casualties, and potential regional security implications."
+      "ai_summary": "Haaretz reports that the Shin Bet is experiencing a serious internal crisis under its new chief, with senior insiders describing a widening rift, a climate of fear, and growing distrust between the leadership and experienced officials.",
+      "importance": 82,
+      "why": "This concerns leadership instability inside Israel\u2019s domestic security service, which can affect national security operations, internal morale, and broader political tensions. The article suggests a significant institutional breakdown rather than a routine personnel dispute."
     },
     {
       "source": "Drop Site News",
-      "title": "Displaced Lebanese Pool Money to Buy Satellite Images to See What Remains of their Homes",
-      "summary": "For many residents unable to return to southern Lebanon amid Israel&#8217;s invasion and demolition campaign, satellite imagery has become the only way they can find out the state of their homes.",
-      "link": "https://www.dropsitenews.com/p/displaced-southern-lebanese-aitaroun-israeli-military-satellite-images",
-      "published_at": "2026-04-25T14:59:32Z",
-      "ai_summary": "Displaced Lebanese residents are using pooled money to buy satellite images to check the condition of their homes in southern Lebanon, since they cannot return amid Israel\u2019s invasion and demolition campaign.",
-      "importance": 78,
-      "why": "The story is important because it highlights the human impact of the conflict on displaced civilians, the destruction of homes, and how satellite imagery has become a substitute for physical access to their communities."
+      "title": "Gaza\u2019s Deir Al-Balah Holds First Election Since 2005",
+      "summary": "While the vote was lauded as a step forward, it came in the context of an ongoing genocide and occupation and a recent law limiting which candidates can run.",
+      "link": "https://www.dropsitenews.com/p/gaza-deir-al-balah-municipal-election-hamas-fatah-west-bank",
+      "published_at": "2026-04-27T21:24:16Z",
+      "ai_summary": "Deir Al-Balah held its first election since 2005, but the vote was held amid ongoing genocide and occupation and under a recent law restricting who can run.",
+      "importance": 72,
+      "why": "This is politically significant because it marks a rare electoral event in Gaza after a long gap, while also highlighting major constraints on democratic participation due to conflict and legal restrictions."
     },
     {
       "source": "Amwaj",
-      "title": "US \u2018halts\u2019 physical petrodollars in bid to choke Iran\u2019s allies in Iraq",
-      "summary": "The story:\u00a0The Donald Trump administration has reportedly halted US cash dollar shipments and frozen some security cooperation with Iraq. The alleged move is apparently intended to pressure Baghdad to break with Tehran, and has sparked...",
-      "link": "https://amwaj.media/en/media-monitor/us-halts-physical-petrodollars-in-bid-to-choke-irans-allies-in-iraq",
-      "date": "Apr. 23, 2026",
-      "published_at": "2026-04-23T00:00:00Z",
-      "ai_summary": "The Trump administration reportedly halted U.S. cash dollar shipments and froze some security cooperation with Iraq to pressure Baghdad to distance itself from Tehran and weaken Iran\u2019s influence over allies in Iraq.",
+      "title": "Iran invites diaspora to volunteer to fight as judiciary targets dissidents",
+      "summary": "The story: Iran has expanded registration for its military volunteer campaign, allowing Iranians who live abroad to sign up to serve in the armed forces. At the same time, the judiciary is seizing assets of diaspora celebrities who are...",
+      "link": "https://amwaj.media/en/media-monitor/iran-invites-diaspora-to-volunteer-to-fight-as-judiciary-targets-dissidents",
+      "date": "Apr. 28, 2026",
+      "published_at": "2026-04-28T00:00:00Z",
+      "ai_summary": "Iran is expanding its military volunteer registration to include diaspora Iranians abroad while its judiciary moves against dissidents by seizing assets of diaspora celebrities.",
       "importance": 83,
-      "why": "This concerns U.S.-Iraq-Iran relations, financial leverage through dollar shipments, and potential shifts in regional security dynamics involving a key Middle Eastern state."
+      "why": "This is important because it links two significant political developments: military recruitment extending to the diaspora and intensified repression of dissent. It may affect Iranian communities abroad, signal broader mobilization efforts, and indicate escalating internal control measures by the state."
     },
     {
       "source": "Al Monitor",
-      "title": "Iraq\u2019s Shi\u2019ite alliance names Ali al-Zaidi as PM nominee",
-      "summary": "April 27 (Reuters) - Iraq's alliance of Shi'ite political blocs, the Coordination Framework, on Monday named Ali al-Zaidi as its nominee for the post of prime minister, said a coalition statement.Iraq's President Nizar Amedi invited Zaidi...",
-      "link": "https://www.al-monitor.com/originals/2026/04/iraqs-shiite-alliance-names-ali-al-zaidi-pm-nominee",
-      "published_at": "2026-04-27T20:36:40Z",
-      "ai_summary": "Iraq\u2019s Shi\u2019ite Coordination Framework named Ali al-Zaidi as its nominee for prime minister after President Nizar Amedi invited him.",
-      "importance": 81,
-      "why": "This is a significant political development in Iraq because it identifies the leading nominee for the prime minister post from the dominant Shi\u2019ite alliance, which can affect government formation and national policy."
+      "title": "Israel using water access as 'weapon' in Gaza: MSF",
+      "summary": "Israeli authorities are systematically depriving people in Gaza of the water they need to live, Doctors Without Borders warned Tuesday, decrying a campaign of \"collective punishment\" against Palestinians.The extensive destruction of...",
+      "link": "https://www.al-monitor.com/originals/2026/04/israel-using-water-access-weapon-gaza-msf",
+      "published_at": "2026-04-28T13:30:27Z",
+      "ai_summary": "Doctors Without Borders says Israeli authorities are systematically depriving people in Gaza of essential water, calling it collective punishment.",
+      "importance": 92,
+      "why": "The story concerns an ongoing humanitarian crisis involving civilian access to water in Gaza and alleges use of water deprivation as a weapon, making it highly significant for human rights, conflict, and aid coverage."
     },
     {
       "source": "Middle East Eye",
-      "title": "Israel sent air defence system and troops to UAE during Iran war, report says",
-      "summary": "Axios says the move marks the first time Israel has sent an Iron Dome battery to another country",
-      "link": "https://www.middleeasteye.net/news/report-israel-equipped-uae-iron-dome-system-troops-during-war-iran",
-      "published_at": "2026-04-27T11:10:00Z",
-      "ai_summary": "Israel reportedly sent an Iron Dome air defense system and troops to the UAE during the Iran war, marking the first time it deployed such a battery to another country.",
+      "title": "Israel's policy of endless war is fuelled by the crisis of Zionism",
+      "summary": "Driven by insecurity, Israel has become a chaos agent, capable only of sowing death and destruction without achieving the goal of stability or much-vaunted hegemony",
+      "link": "https://www.middleeasteye.net/opinion/israel-policy-endless-war-driven-crisis-Zionism",
+      "published_at": "2026-04-28T10:22:00Z",
+      "ai_summary": "The text argues that Israel\u2019s ongoing use of war is driven by deep insecurity and a crisis within Zionism, making it a destabilizing force that causes destruction rather than achieving stability or regional dominance.",
       "importance": 81,
-      "why": "This is a significant regional security development involving Israel, the UAE, and Iran, and it highlights a notable first in Israeli military deployment abroad."
+      "why": "It presents a strong geopolitical and ideological claim about Israel\u2019s strategy and its broader implications, but it is a concise opinion piece rather than a detailed factual report."
     },
     {
       "source": "Al Jazeera",
-      "title": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
-      "summary": "Choice of al-Zaidi breaks a months-long deadlock after Trump opposed appointment of pro-Iran former PM al-Maliki.",
-      "link": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate",
-      "published_at": "2026-04-27T00:00:00Z",
-      "ai_summary": "Iraq\u2019s president has named Shia bloc candidate Ali al-Zaidi as prime minister-designate, ending a months-long political deadlock after Trump opposed the appointment of pro-Iran former PM Nouri al-Maliki.",
-      "importance": 79,
-      "why": "This is a significant political development in Iraq because it resolves a prolonged government formation stalemate and reflects the influence of U.S. opposition and regional power dynamics over Iraqi leadership selection."
+      "title": "Amnesty calls for US strike on Yemen to be investigated as war crime",
+      "summary": "The attack last year on a migrant detention facility killed at least 68 people.",
+      "link": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime",
+      "published_at": "2026-04-28T00:00:00Z",
+      "ai_summary": "Amnesty says the US strike on a migrant detention facility in Yemen, which killed at least 68 people, should be investigated as a possible war crime.",
+      "importance": 83,
+      "why": "The event involves a large civilian death toll and serious allegations of war-crime conduct by a major military power, making it highly significant politically and legally."
     },
     {
       "source": "Guardian",
-      "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began",
-      "summary": "The Israeli government and Hezbollah have traded blame over breaches to the truce, which is set to run for several more weeksLebanon\u2019s health ministry said Israeli strikes on the country\u2019s south killed 14 people on Sunday, the deadliest...",
-      "link": "https://www.theguardian.com/world/2026/apr/27/lebanon-israeli-strikes-deadliest-day-since-ceasefire-began",
-      "published_at": "2026-04-27T00:26:19Z",
-      "ai_summary": "Lebanon\u2019s health ministry said Israeli strikes in southern Lebanon killed 14 people on Sunday, marking the deadliest day since the ceasefire began, amid mutual accusations between Israel and Hezbollah over truce violations.",
-      "importance": 91,
-      "why": "This is a major escalation in an ongoing Israel-Hezbollah ceasefire, with a significant death toll and clear implications for regional stability and the durability of the truce."
+      "title": "UAE quits Opec in win for Trump as oil cartel weakened",
+      "summary": "US president has accused organisation of \u2018ripping off the rest of the world\u2019 by inflating oil pricesBusiness live \u2013 latest updatesThe United Arab Emirates has quit the Opec oil cartel in a heavy blow to the group and its de facto leader,...",
+      "link": "https://www.theguardian.com/business/2026/apr/28/uae-quit-opec-oil-exporters-cartel-donald-trump",
+      "published_at": "2026-04-28T13:37:12Z",
+      "ai_summary": "The UAE has left Opec, dealing a major blow to the oil cartel and its de facto leader, with the move framed as a win for Trump amid criticism that the group inflates oil prices.",
+      "importance": 90,
+      "why": "This is highly significant because it concerns a major oil-producing country leaving Opec, which can affect global oil supply, prices, and geopolitics. It also ties into broader US\u2013Middle East energy politics and a public clash over oil market power."
     },
     {
       "source": "Haaretz",
-      "title": "Behind Bennett's Power Play to Seize the Lead in the anti-Netanyahu Bloc",
-      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-04-27/ty-article/.premium/union-of-ex-pms-bennet-and-lapid-is-a-knockout-in-the-arena-of-the-opposition/0000019d-cb22-d4b2-adff-efabbfdd0000",
-      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-04-27/ty-article/.premium/union-of-ex-pms-bennet-and-lapid-is-a-knockout-in-the-arena-of-the-opposition/0000019d-cb22-d4b2-adff-efabbfdd0000",
+      "title": "EU Mulls Sanctions on Israelis Over Stolen Ukrainian Wheat Smuggled by Russia",
+      "summary": "https://www.haaretz.com/israel-news/security-aviation/2026-04-27/ty-article/.premium/eu-mulls-sanctions-on-israelis-over-stolen-ukrainian-wheat-smuggled-from-russia/0000019d-cfd5-d24a-a59f-efdfc3b50000",
+      "link": "https://www.haaretz.com/israel-news/security-aviation/2026-04-27/ty-article/.premium/eu-mulls-sanctions-on-israelis-over-stolen-ukrainian-wheat-smuggled-from-russia/0000019d-cfd5-d24a-a59f-efdfc3b50000",
       "published_at": "2026-04-27T00:00:00Z",
-      "ai_summary": "Article about Naftali Bennett\u2019s efforts to dominate the anti-Netanyahu opposition bloc and potentially become its leading figure, highlighting the strategic alliance and competition with Yair Lapid ahead of future political battles.",
+      "ai_summary": "The EU is considering sanctions against Israelis allegedly involved in trafficking stolen Ukrainian wheat that Russia smuggled out, according to a Haaretz report.",
       "importance": 78,
-      "why": "This is a high-relevance Israeli politics piece because it concerns leadership dynamics within the main opposition bloc against Netanyahu, which could shape coalition-building, elections, and the broader political balance in Israel."
+      "why": "The item links the Russia-Ukraine war, alleged sanctions evasion, and possible EU punitive action involving Israeli actors. It could have diplomatic, trade, and legal implications beyond a single news cycle."
     }
   ],
   "regional_analysis": [
     {
-      "source": "Amwaj",
-      "title": "Beyond Hormuz: Can Iraq\u2019s \u2018Development Road\u2019 become a strategic corridor?",
-      "summary": "The disruption of maritime flows through the\u00a0Strait of Hormuz has underscored a structural vulnerability at the heart of the global economy. For decades, the Gulf\u2019s energy exports have relied on a narrow and increasingly contested passage,...",
-      "link": "https://amwaj.media/en/article/beyond-hormuz-can-iraqs-development-road-become-a-strategic-corridor",
-      "date": "Apr. 25, 2026",
-      "published_at": "2026-04-25T00:00:00Z",
-      "ai_summary": "The article argues that repeated disruptions or risks in the Strait of Hormuz expose a major weakness in global energy and trade routes, and examines whether Iraq\u2019s planned \u201cDevelopment Road\u201d \u2014 a land-based corridor linking the Gulf to Turkey and beyond \u2014 could evolve into a strategically important alternative transit route.",
-      "importance": 81,
-      "why": "It addresses a major geopolitical and economic chokepoint, the vulnerability of global energy shipments, and the strategic implications of a proposed infrastructure corridor that could reshape regional trade and transit patterns."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Parliamentary push to bring back conscription ignites debate in Iraq",
-      "summary": "The story: Iraq\u2019s parliament has completed its first reading of a bill that would reintroduce mandatory conscription for men. Backed by Parliament Speaker Haibat Al-Halbousi, supporters have promoted the draft legislation as a tool to...",
-      "link": "https://amwaj.media/en/media-monitor/parliamentary-push-to-bring-back-conscription-ignites-debate-in-iraq",
-      "date": "Apr. 28, 2026",
-      "published_at": "2026-04-28T00:00:00Z",
-      "ai_summary": "Iraq\u2019s parliament has held the first reading of a bill to reintroduce mandatory conscription for men, sparking debate about the proposal.",
-      "importance": 79,
-      "why": "This is a significant national policy issue in Iraq because it could reshape military recruitment, youth obligations, and civil-military relations, and it is already generating political debate."
+      "source": "Al Monitor",
+      "title": "UAE to leave OPEC on May 1",
+      "summary": "The United Arab Emirates says it will focus more on domestic production amid the US-Israel-Iran war.",
+      "link": "https://www.al-monitor.com/originals/2026/04/uae-leave-opec-may-1",
+      "published_at": "2026-04-28T12:32:43Z",
+      "ai_summary": "The UAE says it will leave OPEC on May 1 and shift focus toward domestic production amid the US-Israel-Iran war.",
+      "importance": 87,
+      "why": "This is a major oil-market and geopolitical development involving a key OPEC member, with potential implications for global energy supply, pricing, and regional politics."
     },
     {
       "source": "Amwaj",
@@ -154,29 +142,71 @@
       "link": "https://amwaj.media/en/media-monitor/despite-truce-extension-american-blockade-undercuts-iran-us-diplomacy",
       "date": "Apr. 23, 2026",
       "published_at": "2026-04-23T00:00:00Z",
-      "ai_summary": "The article says Iranian officials and hardliners are portraying Trump\u2019s indefinite ceasefire extension as a U.S. retreat, but the continued American blockade is still damaging Iran-U.S. diplomacy and fueling skepticism in Iran.",
-      "importance": 77,
-      "why": "It concerns major U.S.-Iran relations, sanctions/blockade effects, and how conflicting signals from Washington are shaping Iranian political perceptions and diplomacy."
+      "ai_summary": "Iranian officials and hardliners are portraying Trump\u2019s indefinite ceasefire extension as a US retreat, but the continued American blockade is undermining prospects for Iran-US diplomacy and fueling skepticism in Iran.",
+      "importance": 83,
+      "why": "This appears to concern a major US-Iran diplomatic development with implications for regional stability, sanctions/blockade policy, and public perception in Iran. It is important because it could affect ceasefire durability and future negotiations, though the provided text is brief and details are incomplete."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Factbox-UAE's foreign policy in the spotlight after OPEC exit",
+      "summary": "By Yousef SabaApril 28 (Reuters) - The United Arab Emirates has pursued an assertive foreign policy and carved its own sphere of influence across the Middle East and Africa, a strategy in the spotlight after it withdrew from OPEC and OPEC+...",
+      "link": "https://www.al-monitor.com/originals/2026/04/factbox-uaes-foreign-policy-spotlight-after-opec-exit",
+      "published_at": "2026-04-28T14:02:21Z",
+      "ai_summary": "The Reuters factbox says the UAE has pursued an assertive foreign policy and built its own sphere of influence across the Middle East and Africa, with renewed attention after its withdrawal from OPEC and OPEC+.",
+      "importance": 81,
+      "why": "It highlights a major Gulf state\u2019s regional strategy and influence, and the mention of leaving OPEC/OPEC+ makes it relevant to energy and geopolitics."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Beyond Hormuz: Can Iraq\u2019s \u2018Development Road\u2019 become a strategic corridor?",
+      "summary": "The disruption of maritime flows through the\u00a0Strait of Hormuz has underscored a structural vulnerability at the heart of the global economy. For decades, the Gulf\u2019s energy exports have relied on a narrow and increasingly contested passage,...",
+      "link": "https://amwaj.media/en/article/beyond-hormuz-can-iraqs-development-road-become-a-strategic-corridor",
+      "date": "Apr. 25, 2026",
+      "published_at": "2026-04-25T00:00:00Z",
+      "ai_summary": "The piece argues that rising risks in the Strait of Hormuz highlight the need for alternative trade routes, and assesses whether Iraq\u2019s \u2018Development Road\u2019 could emerge as a strategic corridor linking the Gulf to Turkey and Europe.",
+      "importance": 81,
+      "why": "It is geopolitically significant because it connects Gulf energy and trade security with infrastructure strategy, regional competition, and supply-chain resilience beyond a major chokepoint."
+    },
+    {
+      "source": "Amwaj",
+      "title": "US \u2018halts\u2019 physical petrodollars in bid to choke Iran\u2019s allies in Iraq",
+      "summary": "The story:\u00a0The Donald Trump administration has reportedly halted US cash dollar shipments and frozen some security cooperation with Iraq. The alleged move is apparently intended to pressure Baghdad to break with Tehran, and has sparked...",
+      "link": "https://amwaj.media/en/media-monitor/us-halts-physical-petrodollars-in-bid-to-choke-irans-allies-in-iraq",
+      "date": "Apr. 23, 2026",
+      "published_at": "2026-04-23T00:00:00Z",
+      "ai_summary": "The Trump administration reportedly stopped physical US dollar shipments to Iraq and froze some security cooperation to pressure Baghdad to distance itself from Tehran and weaken Iran\u2019s influence in Iraq.",
+      "importance": 79,
+      "why": "It concerns major US policy toward Iraq and Iran, affecting regional security, financial flows, and geopolitical leverage over a key Middle Eastern state."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "When will Strait of Hormuz be \u2018safe\u2019 for commercial shipping again?",
+      "summary": "Even if the strait reopens, shipping insurance could cost 20 times more than before the war, analysts say.",
+      "link": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again",
+      "published_at": "2026-04-28T00:00:00Z",
+      "ai_summary": "The Strait of Hormuz may reopen, but commercial shipping could remain economically constrained because insurance costs may stay dramatically elevated.",
+      "importance": 75,
+      "why": "The title asks about when the strait will be safe for commercial shipping again, and the text gives a key practical barrier: even after reopening, insurance may cost 20 times more than before the war. That makes it relevant for shipping, trade, and regional security, though the snippet is brief and lacks concrete timing."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+      "summary": "The White House confirms Trump met his national security advisers on Monday to discuss the plan.",
+      "link": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz",
+      "published_at": "2026-04-28T00:00:00Z",
+      "ai_summary": "Trump met with national security advisers to review an Iranian proposal related to reopening the Strait of Hormuz.",
+      "importance": 73,
+      "why": "The Strait of Hormuz is a major global oil shipping chokepoint, so any proposal involving reopening it has significant geopolitical and economic implications. The White House confirmation that Trump reviewed the plan with advisers suggests high-level attention and potential impact on international security and markets."
     },
     {
       "source": "Haaretz",
-      "title": "Making Israel's Case to ChatGPT and Grok: Hasbara Meets AI in Multi-million Dollar PR Push",
-      "summary": "https://www.haaretz.com/israel-news/podcasts/2026-04-24/ty-article-podcast/hasbara-meets-ai-in-multi-million-dollar-pr-push/0000019d-b9c4-dbb2-a19d-bfd60bfb0000",
-      "link": "https://www.haaretz.com/israel-news/podcasts/2026-04-24/ty-article-podcast/hasbara-meets-ai-in-multi-million-dollar-pr-push/0000019d-b9c4-dbb2-a19d-bfd60bfb0000",
-      "published_at": "2026-04-24T00:00:00Z",
-      "ai_summary": "The article discusses a major Israeli public-relations effort that is using AI tools like ChatGPT and Grok to help shape pro-Israel messaging, presenting this as a new phase of \u201chasbara\u201d in the era of generative AI.",
+      "title": "Rats, Fleas and Endless Queues: Inside the Daily Misery of Gaza's Tent Camps",
+      "summary": "https://www.haaretz.com/opinion/2026-04-28/ty-article-opinion/.premium/rats-fleas-and-endless-queues-inside-the-daily-misery-of-gazas-tent-camps/0000019d-c99d-d69c-a9df-dfff86cc0000",
+      "link": "https://www.haaretz.com/opinion/2026-04-28/ty-article-opinion/.premium/rats-fleas-and-endless-queues-inside-the-daily-misery-of-gazas-tent-camps/0000019d-c99d-d69c-a9df-dfff86cc0000",
+      "published_at": "2026-04-28T00:00:00Z",
+      "ai_summary": "An opinion piece describing the harsh daily life in Gaza\u2019s tent camps, focusing on overcrowding, unsanitary conditions, rats and fleas, long queues for basic needs, and the broader humanitarian misery faced by displaced residents.",
       "importance": 72,
-      "why": "It matters because it describes a significant and potentially influential use of AI in political communication and information campaigns, highlighting how governments and advocacy groups may try to steer public narratives through large-scale, AI-assisted PR efforts."
-    },
-    {
-      "source": "Haaretz",
-      "title": "The Problem With Naftali Bennett",
-      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-04-27/ty-article/.premium/the-problem-with-naftali-bennett/0000019d-cf15-d0b7-abdf-ff1527170000",
-      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-04-27/ty-article/.premium/the-problem-with-naftali-bennett/0000019d-cf15-d0b7-abdf-ff1527170000",
-      "published_at": "2026-04-27T00:00:00Z",
-      "ai_summary": "I can\u2019t access the linked article text from here, so I can\u2019t reliably summarize it.",
-      "importance": 50,
-      "why": "The title suggests a political analysis of Naftali Bennett, which is likely moderately important for Israeli politics, but without the article content I can\u2019t assess its specific claims or significance."
+      "why": "It highlights severe humanitarian conditions in Gaza and the lived consequences of displacement, which is relevant for understanding the ongoing crisis and its human impact."
     }
   ],
   "deep_analysis": [
@@ -186,19 +216,9 @@
       "summary": "The US\u2013Israeli war on Iran is the latest phase of the United States\u2019\u00a0long-war in the Persian Gulf, a fifty-year project to secure imperial power in a region defined as a \u201cvital interest\u201d since the 1970s. Yet this latest phase lays bare the...",
       "link": "https://www.jadaliyya.com/Details/47300/America,-War,-and-Imperial-Decline-in-the-Gulf",
       "published_at": null,
-      "ai_summary": "Analyzes the US\u2013Israeli war on Iran as part of a 50-year American effort to dominate the Persian Gulf, arguing that it exposes the limits and decline of US imperial power in the region.",
-      "importance": 84,
-      "why": "It addresses a major geopolitical conflict, frames it within long-term US strategy in the Gulf, and offers a broader interpretation of imperial decline that is likely significant for readers of international affairs."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "UAE 'aggressively' lobbying US to designate Yemen's Islah as a terror group, sources say",
-      "summary": "Abu Dhabi has been pressuring Washington to label Islah as a Specially Designated Global Terrorist group, a move that could likely inflame tensions with Saudi Arabia",
-      "link": "https://www.middleeasteye.net/news/uae-aggressively-lobbying-us-designate-yemen-islah-terror-group",
-      "published_at": "2026-04-27T10:00:00Z",
-      "ai_summary": "Abu Dhabi is reportedly lobbying Washington to designate Yemen\u2019s Islah as a Specially Designated Global Terrorist group, a move that could worsen tensions with Saudi Arabia.",
-      "importance": 80,
-      "why": "This concerns potential US terrorism designation policy, regional power politics, and Gulf alliance tensions involving the UAE, Saudi Arabia, and Yemen."
+      "ai_summary": "The text argues that a US\u2013Israeli war on Iran is part of a decades-long American project to dominate the Persian Gulf, revealing the limits and decline of US imperial power in the region.",
+      "importance": 90,
+      "why": "It addresses major geopolitics, US foreign policy, and regional power struggles, and frames the conflict as part of a broader historical pattern of imperial decline."
     },
     {
       "source": "Jadaliyya",
@@ -206,19 +226,39 @@
       "summary": "Two incidents unfolded in close succession, each seemingly discrete: one concerning access to sacred space in Jerusalem, the other concerning the treatment of journalists in the West Bank and Lebanon. Read together, however, they reveal a...",
       "link": "https://www.jadaliyya.com/Details/47341/The-Mistakes-That-Got-Fixed-and-Those-That-Didnt",
       "published_at": null,
-      "ai_summary": "The text argues that disputes over prayer access in Jerusalem and the treatment of journalists in the West Bank and Lebanon are connected expressions of a broader politics of recognition, authority, and control.",
-      "importance": 78,
-      "why": "It links two apparently separate incidents to a larger regional pattern of political power and symbolic recognition, making it analytically significant for understanding religion, media, and governance in Palestine and Lebanon."
+      "ai_summary": "The text links two incidents in Jerusalem, the West Bank, and Lebanon to show how access, voice, and recognition are politically controlled in Palestinian and Lebanese contexts.",
+      "importance": 84,
+      "why": "It connects separate events into a broader argument about power, religious and media access, and political recognition, making it relevant for understanding regional politics and civil rights."
     },
     {
       "source": "Middle East Eye",
-      "title": "Former Israeli PMs Bennett and Lapid merge parties ahead of elections",
-      "summary": "Named the Beyahad party - or \u2018Together\u2019 in Hebrew - the bloc aims to challenge Benjamin Netanyahu in the October vote",
-      "link": "https://www.middleeasteye.net/news/former-israeli-pm-and-opposition-leader-merge-parties-against-netanyahu",
-      "published_at": "2026-04-27T13:56:00Z",
-      "ai_summary": "Former Israeli prime ministers Naftali Bennett and Yair Lapid merged their parties into a bloc called Beyahad (\u2018Together\u2019) ahead of the October elections to challenge Benjamin Netanyahu.",
-      "importance": 76,
-      "why": "This is politically significant because it consolidates opposition forces around two prominent former prime ministers and could affect the balance of power in an upcoming national election."
+      "title": "Iraq: Businessman Ali al-Zaidi nominated to become new prime minister",
+      "summary": "Largest parliamentary bloc nominates former banker to form new government, five months after election",
+      "link": "https://www.middleeasteye.net/news/iraq-businessman-ali-al-zaidi-nominated-new-iraqi-prime-minister",
+      "published_at": "2026-04-28T11:07:00Z",
+      "ai_summary": "Iraq\u2019s largest parliamentary bloc has nominated businessman and former banker Ali al-Zaidi to become the country\u2019s new prime minister, five months after the election.",
+      "importance": 79,
+      "why": "This is politically significant because it signals movement in government formation after a prolonged post-election delay, and the choice of a former banker/businessman may affect Iraq\u2019s economic and governance direction."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Israel's campaign of terror in Lebanon takes another psychopathic turn",
+      "summary": "Not one to abide by ceasefires, Israel is carpet bombing Lebanese civilians, as its quest for devastation continues with no end in sight",
+      "link": "https://www.middleeasteye.net/opinion/israels-campaign-terror-lebanon-takes-another-psychopathic-turn",
+      "published_at": "2026-04-17T15:21:00Z",
+      "ai_summary": "The text alleges that Israel is continuing heavy bombing in Lebanon despite ceasefires, describing the campaign as targeted at civilians and escalating devastation.",
+      "importance": 75,
+      "why": "It concerns an active and potentially major international military conflict with civilian harm and ceasefire violations, which has significant geopolitical and humanitarian relevance."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "The real reason Iran and the US cannot end the war: Money",
+      "summary": "Trump built his Iran policy on economic warfare, but his unwillingness to give it up could mean a deal is never reached, diplomats and analysts say",
+      "link": "https://www.middleeasteye.net/news/the-real-reason-iran-and-the-us-cannot-end-the-war-money",
+      "published_at": "2026-04-27T22:40:00Z",
+      "ai_summary": "The article argues that the main obstacle to ending tensions between Iran and the US is economic pressure, especially sanctions, which Trump used as the core of his Iran policy and may be unwilling to relax enough to reach a deal.",
+      "importance": 75,
+      "why": "It explains a key geopolitical impasse affecting US-Iran relations and potential war/de-escalation outcomes, with implications for diplomacy, sanctions policy, and regional stability."
     },
     {
       "source": "Jadaliyya",
@@ -226,9 +266,9 @@
       "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
-      "ai_summary": "Jadaliyya announces a five-part interview series titled \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
+      "ai_summary": "Announcement of a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
       "importance": 48,
-      "why": "This is a media announcement for an interview series on an important political-economic topic, but the provided text is brief and appears to be promotional rather than substantive news."
+      "why": "It is a media announcement about a political-economy interview series, likely of interest to readers following Middle East politics, but it is not itself a substantive analytical article or major event report."
     },
     {
       "source": "Carnegie ME",
@@ -237,9 +277,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/lebanon-needs-another-negotiating-strategy-with-israel",
       "date": "Apr 22, 2026",
       "published_at": null,
-      "ai_summary": "Lebanon should adopt a more realistic negotiating strategy with Israel because unmet expectations could strengthen Hezbollah's narrative if talks falter.",
+      "ai_summary": "The text argues that Lebanon should adopt a new, more realistic negotiating strategy with Israel because overly high expectations could backfire and strengthen Hezbollah\u2019s narrative if talks falter.",
       "importance": 73,
-      "why": "The title and text point to a politically sensitive issue involving Lebanon-Israel negotiations and internal Lebanese power dynamics. It suggests strategic implications for regional diplomacy and Hezbollah's influence, making it moderately important."
+      "why": "It highlights a strategic policy issue involving Lebanon, Israel, and Hezbollah, with implications for regional diplomacy and domestic politics, but provides only a brief argument rather than detailed analysis."
     },
     {
       "source": "Carnegie ME",
@@ -248,19 +288,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/lake-qaraoun-and-migratory-pressures",
       "date": "Apr 17, 2026",
       "published_at": null,
-      "ai_summary": "The text says Lebanon\u2019s largest water reservoir, Lake Qaraoun, is facing multiple overlapping problems.",
-      "importance": 53,
-      "why": "It highlights a significant environmental and infrastructure issue, but the provided text is very brief and contains no specific details beyond the general statement of converging failures."
-    },
-    {
-      "source": "Responsible Statecraft",
-      "title": "Report:\u00a0\u200bUS burned through half or more of critical missile interceptors",
-      "summary": "A new report finds the U.S. has fired at least 45% of its critical Patriot missile interceptors, and over 53% of its THAAD interceptors during its war on Iran.The report, released by the Center for Strategic and International Studies...",
-      "link": "https://responsiblestatecraft.org/stockpiles-iran/",
-      "published_at": "2026-04-22T17:49:29Z",
-      "ai_summary": "Report says the U.S. has used at least 45% of its Patriot missile interceptors and over 53% of its THAAD interceptors during the war on Iran, raising concerns about depleted missile defense stockpiles.",
-      "importance": 86,
-      "why": "This is highly important because it concerns U.S. missile defense readiness, critical military stockpile depletion, and strategic vulnerability during an ongoing conflict."
+      "ai_summary": "Lake Qaraoun is described as a site where multiple environmental and management failures converge.",
+      "importance": 63,
+      "why": "The title and text suggest a significant issue involving Lebanon\u2019s largest reservoir, likely relevant to water resources, ecology, and migration-related pressures, but the excerpt is too brief to determine specific details or broader impact."
     },
     {
       "source": "War on the Rocks",
@@ -268,9 +298,19 @@
       "summary": "The U.S. military is firing million-dollar missiles at Iranian drones that cost a tiny fraction as much &#8212; a striking example of the kind of overmatch modern warfare punishes.The Department of Defense&#8217;s approach to...",
       "link": "https://warontherocks.com/cogs-of-war/airwaves-of-power-why-the-pentagon-should-shift-to-a-commercial-first-spectrum-model/",
       "published_at": "2026-04-24T08:00:32Z",
-      "ai_summary": "The text argues that the Pentagon should adopt a commercial-first spectrum strategy, using the military\u2019s costly missile-versus-drone imbalance as an example of why current defense approaches are too expensive and inefficient for modern warfare.",
-      "importance": 80,
-      "why": "It addresses a major U.S. defense policy issue: how the military manages spectrum and technology in an era of cheap drones and asymmetric threats. The argument has implications for cost, procurement, communications resilience, and operational effectiveness, making it relevant to national security and defense planning."
+      "ai_summary": "The text argues that the Pentagon should adopt a commercial-first spectrum model, using the contrast between expensive U.S. missiles and cheap Iranian drones to highlight how current military approaches can be inefficient and poorly matched to modern threats.",
+      "importance": 76,
+      "why": "It touches on U.S. defense policy, military modernization, and spectrum management, with implications for cost-effectiveness and national security strategy. The framing suggests a substantive policy argument rather than a niche technical note."
+    },
+    {
+      "source": "Responsible Statecraft",
+      "title": "Iran and Russia are gaming the United States, and winning",
+      "summary": "Both Russia and Iran illustrate that wars with oil-rich countries cause oil prices to surge. By using actual warfare alongside economic warfare, the Trump Administration has increased Iran\u2019s economic advantages at America\u2019s expense.With...",
+      "link": "https://responsiblestatecraft.org/putin-iran/",
+      "published_at": "2026-04-28T04:05:01Z",
+      "ai_summary": "The passage argues that Russia and Iran are benefiting from U.S. conflict and sanctions, which raise oil prices and give them economic leverage at America\u2019s expense.",
+      "importance": 76,
+      "why": "It makes a geopolitical and economic claim about how U.S. policy and warfare affect global oil markets and adversaries\u2019 advantages, which is relevant for understanding international relations and energy economics."
     },
     {
       "source": "Drop Site News",
@@ -278,9 +318,9 @@
       "summary": "After Khalil was apparently targeted by Israel, a commentator asserting a connection with the military said journalists \"affiliated with Hezbollah\" are \"destined for death.\"",
       "link": "https://www.dropsitenews.com/p/lebanon-journalist-amal-khalil-killed-israel",
       "published_at": "2026-04-22T23:14:54Z",
-      "ai_summary": "The text alleges that Lebanese journalist Amal Khalil was targeted in an Israeli bombing and that a commentator said journalists linked to Hezbollah are \"destined for death.\"",
-      "importance": 86,
-      "why": "It describes a serious alleged attack on a journalist and includes inflammatory language about journalists connected to Hezbollah, making it highly relevant to conflict reporting and press safety."
+      "ai_summary": "A Lebanese journalist, Amal Khalil, was reportedly bombed after being apparently targeted by Israel. A commentator said journalists linked to Hezbollah are \"destined for death.\"",
+      "importance": 88,
+      "why": "This concerns a suspected targeted attack on a journalist and alleged threats against media workers, raising serious press-freedom, civilian-harm, and conflict-escalation implications."
     }
   ]
 }
