@@ -1,98 +1,16 @@
 {
-  "generated_at": "2026-05-01T03:51:46.901800Z",
-  "top_story": "As the Iran war tightened around the Strait of Hormuz, aid groups warned on 29 April that the blockade was choking deliveries of food, fuel, and medicine to millions, turning a military confrontation into a broad civilian emergency. By 30 April, Ayatollah Ali Khamenei\u2019s defiant vow to confront \u201cenemy abuses\u201d in the waterway and protect Iran\u2019s nuclear and missile programs hardened Tehran\u2019s stance just as Donald Trump signaled a naval blockade that could last months, driving oil above $126 a barrel and deepening fears of prolonged disruption. This external escalation coincides with acute internal repression, with Narges Mohammadi\u2019s continued imprisonment despite severe health decline underscoring a state prepared to absorb humanitarian and political costs at home as pressure mounts abroad. The immediate regional picture is one of shrinking space for de-escalation, where coercive posturing is amplifying both market shock and civilian suffering.",
+  "generated_at": "2026-05-01T13:30:25.515334Z",
+  "top_story": "As Washington signaled that a naval blockade of Iran could last for months, markets priced in a prolonged disruption at the Strait of Hormuz, pushing oil above $126 a barrel and driving US gasoline to $4.30 a gallon after a sharp weekly jump. That external pressure is unfolding alongside a harsher domestic wartime posture in Iran, where authorities have executed 18 political prisoners in six weeks and kept Nobel laureate Narges Mohammadi in custody despite severe health deterioration. The convergence of economic coercion abroad and intensified repression at home points to an Iranian leadership preparing for a longer confrontation while shifting the social costs onto civilians, prisoners, and already strained households.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Iran war redraws sea routes with Africa as the pivot",
-      "summary": "The closure of the Strait of Hormuz as well as tensions in the Red Sea are reshaping trade routes, with Africa becoming a hub of global container ship traffic, according to logistics and maritime sources.Over the past two months, the...",
-      "link": "https://www.al-monitor.com/originals/2026/04/iran-war-redraws-sea-routes-africa-pivot",
-      "published_at": "2026-05-01T03:30:23Z",
-      "ai_summary": "The Iran war and related closures in the Strait of Hormuz and Red Sea are redirecting global shipping, making Africa a key transit hub for container traffic.",
-      "importance": 87,
-      "why": "It highlights a major geopolitical disruption with broad implications for global trade, shipping costs, and supply chains."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Nun assaulted in Jerusalem amid 'pattern' of anti-Christian attacks by Israelis",
-      "summary": "Police arrest suspect who struck a 48-year-old nun in the face while she was walking in the city",
-      "link": "https://www.middleeasteye.net/news/israeli-man-assaults-nun-jerusalem",
-      "published_at": "2026-04-30T13:14:00Z",
-      "ai_summary": "A nun was assaulted in Jerusalem, and police arrested a suspect. The incident is being described as part of a broader pattern of anti-Christian attacks by Israelis.",
-      "importance": 85,
-      "why": "The incident is notable because it involves alleged religiously motivated violence in a sensitive city and is presented as part of a wider pattern, making it relevant for public safety, interfaith tensions, and regional news."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018Act of piracy\u2019: World reacts to Israeli interception of Gaza aid flotilla",
-      "summary": "Officials around the globe condemn the interception of the boats bound for Gaza as violation of international law.",
-      "link": "https://www.aljazeera.com/news/2026/4/30/act-of-piracy-world-reacts-to-israeli-interception-of-gaza-aid-flotilla",
-      "published_at": "2026-04-30T00:00:00Z",
-      "ai_summary": "Officials around the globe condemned Israel\u2019s interception of a Gaza-bound aid flotilla, describing it as a violation of international law and, in some reactions, an act of piracy.",
-      "importance": 83,
-      "why": "The event drew international condemnation and involves Israel-Gaza tensions, aid access, and allegations of unlawful maritime interception, making it a significant geopolitical and humanitarian development."
-    },
-    {
-      "source": "Guardian",
-      "title": "Family of ailing Iranian Nobel laureate say keeping her in jail is a death sentence",
-      "summary": "Narges Mohammadi denied medical leave from prison in spite of sharp decline in health and drastic weight loss, say lawyersThe family of the jailed Iranian Nobel laureate Narges Mohammadi say they fear for her life after a sharp...",
-      "link": "https://www.theguardian.com/global-development/2026/apr/29/family-jailed-iranian-nobel-laureate-suspected-heart-attack-narges-mohammadi",
-      "published_at": "2026-04-29T17:21:34Z",
-      "ai_summary": "Family and lawyers of jailed Iranian Nobel laureate Narges Mohammadi say prison authorities have denied her medical leave despite a severe decline in health and drastic weight loss, raising fears that keeping her in prison could amount to a death sentence.",
-      "importance": 96,
-      "why": "This is highly important because it concerns the health and possible life-threatening treatment of a globally recognized Nobel laureate, highlights alleged human rights abuses in Iran, and has significant international political and humanitarian relevance."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Gaza Aid Flotilla Activists Transferred to Greece After IDF Seizure",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-04-30/ty-article-live/israeli-defense-officials-confirm-ongoing-seizure-of-gaza-bound-flotilla-vessels/0000019d-dc8d-d473-a1bf-fded8e920000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-04-30/ty-article-live/israeli-defense-officials-confirm-ongoing-seizure-of-gaza-bound-flotilla-vessels/0000019d-dc8d-d473-a1bf-fded8e920000",
-      "published_at": "2026-04-30T00:00:00Z",
-      "ai_summary": "Gaza-bound flotilla activists were transferred to Greece after the IDF seized their vessels during an ongoing operation.",
-      "importance": 72,
-      "why": "This is a notable Israel-Gaza security and humanitarian news item involving an international flotilla, Israeli naval enforcement, and the movement of activists after seizure, which can affect diplomatic tensions and aid-related developments."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "A Growing Rat Infestation Plagues Tent Cities in Gaza",
-      "summary": "&#8220;We are suffering from two wars,&#8221; Majd Sukar, the head of the Preventive Health Department in Gaza City, said. &#8220;The war of bombs, and the war of rats.&#8221;",
-      "link": "https://www.dropsitenews.com/p/gaza-rats-rodents-disease-displaced-palestinians-tents",
-      "published_at": "2026-04-29T21:06:45Z",
-      "ai_summary": "A Gaza health official says tent cities are facing a severe rat infestation, describing it as an additional crisis alongside the ongoing war.",
-      "importance": 72,
-      "why": "The text highlights a public health and humanitarian issue affecting displaced people in Gaza, adding context to the broader conflict and showing an emerging sanitary threat."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Shiite alliance taps wealthy entrepreneur as Iraq\u2019s youngest PM-designate",
-      "summary": "The story: Iraqi President Nizar Amedi has tasked 41-year-old businessman Ali Al-Zaidi with forming a government, making him the country\u2019s youngest prime minister-designate. The surprise choice comes after months of deadlock within the...",
-      "link": "https://amwaj.media/en/media-monitor/shiite-alliance-taps-wealthy-entrepreneur-as-iraqs-youngest-pm-designate",
-      "date": "Apr. 29, 2026",
-      "published_at": "2026-04-29T00:00:00Z",
-      "ai_summary": "Iraq\u2019s Shiite alliance has named 41-year-old businessman Ali Al-Zaidi as prime minister-designate after prolonged political deadlock, making him the country\u2019s youngest person to be tasked with forming a government.",
-      "importance": 87,
-      "why": "This is a major political development in Iraq involving government formation, elite power struggles, and a record-setting youngest prime minister-designate, all of which have significant domestic and regional implications."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "Where is the Groundwork for Lebanon\u2019s Negotiations With Israel?",
-      "summary": "A prerequisite of serious talks is that the country\u2019s leadership consolidates majority national support for such a process.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/lebanon-must-prepare-the-groundwork-for-negotiations-with-israel",
-      "date": "Apr 28, 2026",
-      "published_at": null,
-      "ai_summary": "The text argues that for Lebanon to engage in serious negotiations with Israel, its leadership must first build broad majority national support for the process.",
-      "importance": 79,
-      "why": "It addresses a significant diplomatic and political prerequisite for any Lebanon-Israel negotiation effort, highlighting the need for domestic legitimacy before talks can proceed."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Routine returns but Iranians struggle to afford daily life",
-      "summary": "Gyms and cafes have reopened in Tehran as life returns to a familiar rhythm under a ceasefire following weeks of US-Israeli airstrikes, but for IT worker Mayhar such everyday amenities are out of reach as financial pressures mount. Trendy...",
-      "link": "https://www.al-monitor.com/originals/2026/04/routine-returns-iranians-struggle-afford-daily-life",
-      "published_at": "2026-04-30T18:30:24Z",
-      "ai_summary": "Life in Tehran is returning to normal after a ceasefire and weeks of US-Israeli airstrikes, but many Iranians are struggling with rising financial pressures and cannot afford everyday activities like gyms and cafes.",
-      "importance": 81,
-      "why": "The story highlights a major post-conflict socioeconomic issue in Iran: while public life is resuming, many residents still face severe affordability problems. This is important because it shows the gap between political/military developments and ordinary people\u2019s economic hardship."
+      "title": "Man convicted of attempting terrorist attack at London's Israeli embassy",
+      "summary": "LONDON, May 1 (Reuters) - A man who last year tried to enter Israel's London embassy armed with two knives and carrying a \"martyrdom note\" was on Friday convicted in a London court of preparing an act of terrorism.Abdullah Albadri, 34, a...",
+      "link": "https://www.al-monitor.com/originals/2026/05/man-convicted-attempting-terrorist-attack-londons-israeli-embassy",
+      "published_at": "2026-05-01T12:01:41Z",
+      "ai_summary": "A man was convicted in London for preparing a terrorist act after trying to enter Israel's embassy with two knives and a \"martyrdom note\".",
+      "importance": 90,
+      "why": "This is a significant terrorism-related legal case involving an attempted attack on a diplomatic mission, which has public safety and international security implications."
     },
     {
       "source": "Middle East Eye",
@@ -100,19 +18,19 @@
       "summary": "Medics say 16-year-old boy was shot in the abdomen by troops",
       "link": "https://www.middleeasteye.net/news/israeli-forces-kill-palestinian-teen-west-bank-raid",
       "published_at": "2026-04-30T13:11:00Z",
-      "ai_summary": "Israeli forces killed a 16-year-old Palestinian boy during a West Bank raid after medics said he was shot in the abdomen by troops.",
-      "importance": 85,
-      "why": "The report describes a lethal incident involving Israeli forces and a Palestinian minor in the West Bank, making it highly relevant to the ongoing conflict and likely to attract significant news attention."
+      "ai_summary": "Israeli forces killed a 16-year-old Palestinian boy during a West Bank raid; medics say he was shot in the abdomen by troops.",
+      "importance": 81,
+      "why": "The report describes a fatal military raid involving a minor, which is a significant human rights and conflict-related event with potential political and humanitarian implications."
     },
     {
       "source": "Al Jazeera",
-      "title": "US military equipment worth billions of dollars destroyed in Iran war",
-      "summary": "The United States lost aerial equipment worth up to $2.8bn, according to a US-based think tank.",
-      "link": "https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war",
-      "published_at": "2026-04-30T00:00:00Z",
-      "ai_summary": "A US-based think tank says the United States lost aerial military equipment worth up to $2.8 billion in the Iran war.",
-      "importance": 83,
-      "why": "The item reports a large, quantified loss of US military equipment and involves a major international conflict, making it highly significant for defense and geopolitical coverage."
+      "title": "On May Day, Gaza\u2019s workers find whatever source of income they can",
+      "summary": "Gaza\u2019s economic collapse leaves workers in perilous jobs, with unemployment soaring amid ongoing devastation.",
+      "link": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can",
+      "published_at": "2026-05-01T00:00:00Z",
+      "ai_summary": "Gaza\u2019s economic collapse has pushed workers into perilous, informal jobs as unemployment soars amid ongoing devastation.",
+      "importance": 87,
+      "why": "The piece highlights severe humanitarian and economic hardship in Gaza, affecting a large population and reflecting the broader impact of ongoing conflict on livelihoods and survival."
     },
     {
       "source": "Guardian",
@@ -120,12 +38,30 @@
       "summary": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live \u2013 latest updatesThe global oil price hit $126 a barrel on Thursday, its highest level since 2022, after...",
       "link": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
       "published_at": "2026-04-30T13:38:54Z",
-      "ai_summary": "Oil prices surged to $126 a barrel after President Trump suggested a naval blockade of Iran could last for months, while Iran kept the Strait of Hormuz largely shut, raising fears of a prolonged supply disruption.",
-      "importance": 95,
-      "why": "This is highly important because it involves a major geopolitical flashpoint in the Strait of Hormuz, a critical route for global oil shipments, with immediate market impact and potential broader effects on energy prices and international stability."
-    }
-  ],
-  "regional_analysis": [
+      "ai_summary": "Oil prices rose to $126 a barrel after Trump warned that a naval blockade of Iran could last for months, intensifying fears that the Strait of Hormuz may remain effectively shut and disrupt global energy supply.",
+      "importance": 96,
+      "why": "This is highly important because it involves a major geopolitical risk to a critical oil shipping route, causing immediate global market disruption and potential broader economic impact."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Senior IDF Officer Warns of 'Palestinian Uprising' in Response to Settler Violence",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-05-01/ty-article/.premium/top-idf-officer-warns-of-palestinian-uprising-in-response-to-settler-violence/0000019d-dfad-d153-a3df-ffafce270000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-05-01/ty-article/.premium/top-idf-officer-warns-of-palestinian-uprising-in-response-to-settler-violence/0000019d-dfad-d153-a3df-ffafce270000",
+      "published_at": "2026-05-01T00:00:00Z",
+      "ai_summary": "Senior IDF leadership warned that escalating settler violence could trigger a broader Palestinian uprising, highlighting growing security risks and instability in the West Bank.",
+      "importance": 82,
+      "why": "This is a high-salience security and political development involving the IDF, settler violence, and the risk of wider unrest. It has implications for regional stability, Israeli domestic politics, and the Israeli-Palestinian conflict."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "A Growing Rat Infestation Plagues Tent Cities in Gaza",
+      "summary": "&#8220;We are suffering from two wars,&#8221; Majd Sukar, the head of the Preventive Health Department in Gaza City, said. &#8220;The war of bombs, and the war of rats.&#8221;",
+      "link": "https://www.dropsitenews.com/p/gaza-rats-rodents-disease-displaced-palestinians-tents",
+      "published_at": "2026-04-29T21:06:45Z",
+      "ai_summary": "Gaza\u2019s tent cities are suffering a severe rat infestation amid the conflict, adding a second major hardship alongside the bombings.",
+      "importance": 78,
+      "why": "The text highlights an additional public health and humanitarian crisis affecting displaced people in Gaza, with rats posing serious risks in an already war-stricken environment."
+    },
     {
       "source": "Amwaj",
       "title": "Amid standoff over US blockade, Iran marks \u2018Persian Gulf Day\u2019 with calls for American exit",
@@ -133,9 +69,71 @@
       "link": "https://amwaj.media/en/media-monitor/amid-standoff-over-us-blockade-iran-marks-persian-gulf-day-with-calls-for-america",
       "date": "May. 1, 2026",
       "published_at": "2026-05-01T00:00:00Z",
-      "ai_summary": "Iran\u2019s leaders used Persian Gulf Day to reject any US military presence in the waterway amid tensions over the US blockade/standoff, framing American forces as unwelcome and calling for their exit.",
-      "importance": 87,
-      "why": "This is a significant geopolitical escalation involving Iran, the US, and a strategically vital shipping route. It reflects regional security tensions and could affect military posture, diplomacy, and maritime stability."
+      "ai_summary": "Iran used Persian Gulf Day to denounce any US presence in the waterway amid a standoff over the US blockade, with senior political and military leaders calling for American withdrawal.",
+      "importance": 83,
+      "why": "The item highlights a notable regional security and geopolitical dispute involving Iran and the US, with potential implications for shipping, military tensions, and broader Middle East stability."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Iran war redraws sea routes with Africa as the pivot",
+      "summary": "The closure of the Strait of Hormuz as well as tensions in the Red Sea are reshaping trade routes, with Africa becoming a hub of global container ship traffic, according to logistics and maritime sources.Over the past two months, the...",
+      "link": "https://www.al-monitor.com/originals/2026/04/iran-war-redraws-sea-routes-africa-pivot",
+      "published_at": "2026-05-01T03:30:23Z",
+      "ai_summary": "The Iran war and related disruptions in the Strait of Hormuz and Red Sea are forcing container ships to reroute, making Africa an increasingly important hub in global shipping flows.",
+      "importance": 90,
+      "why": "The story highlights major geopolitical disruption to key maritime chokepoints that can significantly affect global trade, shipping costs, and supply chains. Africa\u2019s growing role as a rerouting hub suggests broad economic implications beyond the immediate conflict region."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Saudi Arabia to pull investment from LIV Golf tour",
+      "summary": "Kingdom's sovereign wealth fund to stop funding breakaway competition, as major projects continue to be scaled back",
+      "link": "https://www.middleeasteye.net/news/saudi-arabia-pull-investment-liv-golf-tour",
+      "published_at": "2026-04-30T13:32:00Z",
+      "ai_summary": "Saudi Arabia\u2019s sovereign wealth fund is reportedly set to stop funding LIV Golf as the kingdom scales back major projects.",
+      "importance": 77,
+      "why": "This is significant because it signals a potential shift in Saudi investment priorities and could affect the future of LIV Golf and wider sports-sponsorship strategy."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "More than 40 Iranian seafarers killed during US-Israeli war: Union leader",
+      "summary": "The Iranian Merchant Mariners Syndicate blamed US and Israeli attacks on Iran\u2019s ports and commercial fleet for deaths.",
+      "link": "https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union",
+      "published_at": "2026-05-01T00:00:00Z",
+      "ai_summary": "The Iranian Merchant Mariners Syndicate says more than 40 Iranian seafarers were killed as a result of US and Israeli attacks on Iran\u2019s ports and commercial fleet during the war.",
+      "importance": 79,
+      "why": "This is a politically significant casualty claim involving the US, Israel, and Iran\u2019s maritime sector. It suggests civilian/commercial losses and could affect conflict narratives, diplomacy, and regional tensions."
+    },
+    {
+      "source": "Guardian",
+      "title": "Family of ailing Iranian Nobel laureate say keeping her in jail is a death sentence",
+      "summary": "Narges Mohammadi denied medical leave from prison in spite of sharp decline in health and drastic weight loss, say lawyersThe family of the jailed Iranian Nobel laureate Narges Mohammadi say they fear for her life after a sharp...",
+      "link": "https://www.theguardian.com/global-development/2026/apr/29/family-jailed-iranian-nobel-laureate-suspected-heart-attack-narges-mohammadi",
+      "published_at": "2026-04-29T17:21:34Z",
+      "ai_summary": "Family and lawyers of jailed Iranian Nobel laureate Narges Mohammadi say prison authorities have denied her medical leave despite a sharp decline in health and drastic weight loss, calling continued detention a threat to her life.",
+      "importance": 93,
+      "why": "This is highly significant because it concerns a Nobel laureate, alleged denial of urgent medical care, and possible state responsibility for a life-threatening condition while in custody."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Two Israeli Soldiers Lightly Wounded in Drone Attack in Southern Lebanon",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-05-01/ty-article-live/iran-says-it-is-not-realistic-to-expect-quick-results-from-talks-with-u-s/0000019d-e13a-d153-a3df-e1be3d4e0000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-05-01/ty-article-live/iran-says-it-is-not-realistic-to-expect-quick-results-from-talks-with-u-s/0000019d-e13a-d153-a3df-e1be3d4e0000",
+      "published_at": "2026-05-01T00:00:00Z",
+      "ai_summary": "Two Israeli soldiers were lightly wounded in a drone attack in southern Lebanon, according to the report.",
+      "importance": 72,
+      "why": "This is a current security incident involving cross-border hostilities between Israel and Lebanon, which can affect regional stability and may signal escalation or retaliation dynamics."
+    }
+  ],
+  "regional_analysis": [
+    {
+      "source": "Al Monitor",
+      "title": "US Navy turns to AI firm Domino for options to counter Iranian mines",
+      "summary": "By Mike StoneWASHINGTON, May 1 (Reuters) - The U.S. Navy is ramping up its AI capabilities to hunt for Iranian mines in the Strait of Hormuz, one of the world's most critical shipping lanes, a recently awarded contract shows. President...",
+      "link": "https://www.al-monitor.com/originals/2026/05/us-navy-turns-ai-firm-domino-options-counter-iranian-mines",
+      "published_at": "2026-05-01T10:36:42Z",
+      "ai_summary": "The U.S. Navy has awarded a contract to AI firm Domino to help develop options for detecting and countering Iranian mines in the Strait of Hormuz, a vital global shipping route.",
+      "importance": 85,
+      "why": "This is highly relevant because it involves U.S. military capabilities, AI adoption in defense, and potential escalation or protection of a critical international shipping chokepoint. The Strait of Hormuz is strategically important to global energy and trade, so mine-countermeasure developments have broad geopolitical and economic significance."
     },
     {
       "source": "Amwaj",
@@ -144,9 +142,60 @@
       "link": "https://amwaj.media/en/article/syrias-shifting-map-is-casting-a-long-shadow-over-iraqi-kurdistan",
       "date": "Apr. 29, 2026",
       "published_at": "2026-04-29T00:00:00Z",
-      "ai_summary": "Syria\u2019s offensive against the Kurdish-led SDF has changed the regional balance, with Damascus regaining key areas and raising concerns for Iraqi Kurdistan.",
+      "ai_summary": "The article says a Syrian government offensive against the Kurdish-led SDF has altered the regional balance and may have major implications for Iraqi Kurdistan, especially around control of territory and oil resources.",
       "importance": 83,
-      "why": "The event affects Kurdish autonomy, regional security, and control of strategic resources, with implications for Iraq, Syria, and broader Middle East politics."
+      "why": "It concerns a significant geopolitical shift involving Syria\u2019s Kurds, regional security, and cross-border effects on Iraqi Kurdistan, with potential implications for oil, autonomy, and stability in the wider region."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Shiite alliance taps wealthy entrepreneur as Iraq\u2019s youngest PM-designate",
+      "summary": "The story: Iraqi President Nizar Amedi has tasked 41-year-old businessman Ali Al-Zaidi with forming a government, making him the country\u2019s youngest prime minister-designate. The surprise choice comes after months of deadlock within the...",
+      "link": "https://amwaj.media/en/media-monitor/shiite-alliance-taps-wealthy-entrepreneur-as-iraqs-youngest-pm-designate",
+      "date": "Apr. 29, 2026",
+      "published_at": "2026-04-29T00:00:00Z",
+      "ai_summary": "Iraqi President Nizar Amedi has named 41-year-old businessman Ali Al-Zaidi as prime minister-designate, making him Iraq\u2019s youngest PM-designate amid a long political deadlock.",
+      "importance": 83,
+      "why": "This is a major national political development in Iraq: a new government formation attempt after months of stalemate, involving a surprise pick and a record-young prime minister-designate. It could affect Iraq\u2019s leadership, coalition dynamics, and policy direction."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Gulf countries' plans to bypass Hormuz still far off, experts warn",
+      "summary": "The war in the Middle East has forced the Gulf monarchies to rethink their oil and trade routes, but rerouting them will be no simple task, experts say.Faced with the closure of the Strait of Hormuz, the only maritime entry point to the...",
+      "link": "https://www.al-monitor.com/originals/2026/05/gulf-countries-plans-bypass-hormuz-still-far-experts-warn",
+      "published_at": "2026-05-01T13:00:25Z",
+      "ai_summary": "Gulf monarchies are reconsidering oil and trade routes because of Middle East conflict and the risk of a Hormuz closure, but experts say bypassing the strait remains a long-term challenge rather than a near-term fix.",
+      "importance": 81,
+      "why": "This is important because the Strait of Hormuz is a critical global energy chokepoint. Any threat to its closure can affect oil exports, regional security, and world markets, and the article highlights that current alternative routes are still limited and far from fully replacing it."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Dubai chefs shrink menus as Iran war makes tomatillos, scallops harder to source",
+      "summary": "DUBAI, May 1 (Reuters) - Dubai chef Shaw Lash at Mexican restaurant Lila Molino flies in her avocados and tomatillos, small, tart green fruits native to Central America that are a staple of Mexican cuisine and key for her colourful and...",
+      "link": "https://www.al-monitor.com/originals/2026/05/dubai-chefs-shrink-menus-iran-war-makes-tomatillos-scallops-harder-source",
+      "published_at": "2026-05-01T06:36:37Z",
+      "ai_summary": "Dubai chefs are reducing and adapting menu items because regional conflict and trade disruptions tied to the Iran war are making imported ingredients like tomatillos and scallops harder and more expensive to source.",
+      "importance": 79,
+      "why": "The story highlights how geopolitical conflict is affecting food supply chains and restaurant operations in Dubai, with concrete impacts on imported ingredients, menu changes, and likely costs for consumers and businesses."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
+      "summary": "Pentagon chief testifies alongside top general for second day, in first public Congressional hearings since war began.",
+      "link": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways",
+      "published_at": "2026-04-30T00:00:00Z",
+      "ai_summary": "Pentagon chief Hegseth testified before a Senate committee about the Iran war, marking the first public Congressional hearings since the conflict began and highlighting key updates alongside the top general.",
+      "importance": 79,
+      "why": "This is a significant national security and foreign policy development involving the Pentagon chief, a Senate hearing, and the ongoing Iran war, which makes it highly newsworthy and politically important."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Netanyahu Shares AI Video Casting Rivals Bennett, Lapid as Arab Lawmakers as Election Campaigning Ramps Up",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-04-30/ty-article/.premium/netanyahu-shares-ai-video-casting-rivals-bennet-lapid-as-arab-lawmakers/0000019d-de2c-d153-a3df-ffae288f0000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-04-30/ty-article/.premium/netanyahu-shares-ai-video-casting-rivals-bennet-lapid-as-arab-lawmakers/0000019d-de2c-d153-a3df-ffae288f0000",
+      "published_at": "2026-04-30T00:00:00Z",
+      "ai_summary": "Netanyahu shared an AI-generated campaign video depicting rivals Bennett and Lapid as Arab lawmakers, intensifying Israel\u2019s election-season messaging and controversy.",
+      "importance": 78,
+      "why": "This is politically significant because it involves the sitting prime minister using AI-generated content to attack major rivals during an election campaign, raising concerns about misinformation, polarization, and campaign conduct."
     },
     {
       "source": "Amwaj",
@@ -155,69 +204,19 @@
       "link": "https://amwaj.media/en/media-monitor/noose-around-radicals-tightens-as-iranian-leaders-project-unity",
       "date": "Apr. 29, 2026",
       "published_at": "2026-04-29T00:00:00Z",
-      "ai_summary": "Iran\u2019s hardline camp, led by Saeed Jalili, is becoming more isolated as broader political factions maintain a united push for diplomacy to end the war with the US.",
-      "importance": 83,
-      "why": "The piece highlights a significant shift in Iran\u2019s internal political balance around a major foreign-policy crisis. Cross-partisan unity on diplomacy and the weakening of hardliners like Jalili could affect Iran\u2019s war strategy, negotiations, and broader regional stability."
+      "ai_summary": "Iran\u2019s hardline faction around Saeed Jalili is becoming more isolated as leaders across political lines back diplomacy to end the war with the US, while conservative Speaker criticism reflects a tightening consensus against the radicals.",
+      "importance": 77,
+      "why": "It concerns Iranian political alignment during a conflict with the US, signaling a meaningful shift in internal power dynamics and possible implications for war-ending diplomacy and regional stability."
     },
     {
       "source": "Al Jazeera",
-      "title": "RSF condemns \u2018kidnapping\u2019 of three journalists on board Gaza aid flotilla",
-      "summary": "Among the detained journalists are Al Jazeera correspondent Hafed Mribah and cameraman Mahmut Yavuz.",
-      "link": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla",
-      "published_at": "2026-04-30T00:00:00Z",
-      "ai_summary": "RSF condemns the detention of three journalists, including Al Jazeera correspondent Hafed Mribah and cameraman Mahmut Yavuz, on a Gaza aid flotilla.",
-      "importance": 79,
-      "why": "The item involves the alleged kidnapping/detention of journalists during a Gaza aid flotilla, raising press freedom, safety, and conflict-related concerns."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Netanyahu Shares AI Video Casting Rivals Bennet, Lapid as Arab Lawmakers as Election Campaigning Ramps Up",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-04-30/ty-article/.premium/netanyahu-shares-ai-video-casting-rivals-bennet-lapid-as-arab-lawmakers/0000019d-de2c-d153-a3df-ffae288f0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-04-30/ty-article/.premium/netanyahu-shares-ai-video-casting-rivals-bennet-lapid-as-arab-lawmakers/0000019d-de2c-d153-a3df-ffae288f0000",
-      "published_at": "2026-04-30T00:00:00Z",
-      "ai_summary": "Netanyahu shared an AI-generated campaign video depicting rivals Bennett and Lapid as Arab lawmakers, intensifying Israel\u2019s election-season rhetoric.",
-      "importance": 76,
-      "why": "This is politically significant because it involves the prime minister using AI-generated content in an election campaign to attack major rivals, raising concerns about misinformation, ethnic framing, and the tone of the race."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Soccer-'They are not representing Iran': Protesters urge\u00a0FIFA to ban Iran from World Cup",
-      "summary": "By Rory CarrollVANCOUVER, April 30 (Reuters) - Iran's soccer team represents the Islamic Revolutionary Guard Corps (IRGC), not the people of Iran, and FIFA should ban the team from participating in the upcoming World Cup, protesters...",
-      "link": "https://www.al-monitor.com/originals/2026/04/soccer-they-are-not-representing-iran-protesters-urge-fifa-ban-iran-world-cup",
-      "published_at": "2026-04-30T21:36:37Z",
-      "ai_summary": "Protesters in Vancouver urged FIFA to ban Iran from the World Cup, arguing the team represents the Islamic Revolutionary Guard Corps rather than the Iranian people.",
+      "title": "Oil prices rise again with little sign of war on Iran ending",
+      "summary": "Brent crude futures hit $126.41 on Thursday \u2013 a 5 percent rise for the week.",
+      "link": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending",
+      "published_at": "2026-05-01T00:00:00Z",
+      "ai_summary": "Brent crude futures rose to $126.41, up 5% for the week, as markets saw little sign that the conflict involving Iran was ending.",
       "importance": 75,
-      "why": "This is a notable sports-and-politics story involving the World Cup, FIFA, and protests over Iran's representation amid broader geopolitical tensions. It is important because it touches international football governance and human rights/political activism, though it is not a major global event on its own."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
-      "summary": "Pentagon chief testifies alongside top general for second day, in first public Congressional hearings since war began.",
-      "link": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways",
-      "published_at": "2026-04-30T00:00:00Z",
-      "ai_summary": "Pentagon chief Hegseth testified before the Senate on the Iran war, marking the first public congressional hearings since the conflict began.",
-      "importance": 75,
-      "why": "This is a major U.S. national security and congressional oversight event involving the Pentagon chief, a senior military general, and an active war, so it is highly newsworthy and politically significant."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel rights group petitions top court to order release of 14 Gaza doctors",
-      "summary": "Physicians for Human Rights-Israel accuses authorities of hindering the rehabilitation of Gaza\u2019s healthcare system.",
-      "link": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors",
-      "published_at": "2026-04-30T00:00:00Z",
-      "ai_summary": "Physicians for Human Rights-Israel petitioned the Israeli Supreme Court to order the release of 14 detained Gaza doctors, saying their continued detention is obstructing efforts to rebuild Gaza\u2019s healthcare system.",
-      "importance": 73,
-      "why": "This is a significant human rights and public health issue involving detained medical professionals and the functioning of Gaza\u2019s healthcare system, with potential legal and humanitarian implications."
-    },
-    {
-      "source": "Haaretz",
-      "title": "'American Jews Really Hate Trump. But They Hate Netanyahu Even More'",
-      "summary": "https://www.haaretz.com/israel-news/podcasts/2026-04-28/ty-article-podcast/american-jews-really-hate-trump-but-they-hate-netanyahu-even-more/0000019d-d35f-d95a-afbd-f35f1be80000",
-      "link": "https://www.haaretz.com/israel-news/podcasts/2026-04-28/ty-article-podcast/american-jews-really-hate-trump-but-they-hate-netanyahu-even-more/0000019d-d35f-d95a-afbd-f35f1be80000",
-      "published_at": "2026-04-28T00:00:00Z",
-      "ai_summary": "Haaretz podcast/article about how American Jews' political attitudes toward Trump and Netanyahu differ, arguing that while many strongly oppose Trump, their dislike of Netanyahu is even greater.",
-      "importance": 72,
-      "why": "The piece is relevant to U.S.-Israel politics, Jewish diaspora opinion, and the relationship between American Jews, Trump, and Netanyahu. It likely reflects broader political sentiment and is useful for understanding current attitudes and tensions, though it is more interpretive/opinion-driven than hard news."
+      "why": "This is important because it reports a meaningful move in global oil prices tied to geopolitical tensions, which can affect inflation, energy costs, and markets more broadly."
     }
   ],
   "deep_analysis": [
@@ -227,9 +226,9 @@
       "summary": "The US\u2013Israeli war on Iran is the latest phase of the United States\u2019\u00a0long-war in the Persian Gulf, a fifty-year project to secure imperial power in a region defined as a \u201cvital interest\u201d since the 1970s. Yet this latest phase lays bare the...",
       "link": "https://www.jadaliyya.com/Details/47300/America,-War,-and-Imperial-Decline-in-the-Gulf",
       "published_at": null,
-      "ai_summary": "Argues that the US\u2013Israeli war on Iran is part of a 50-year US project to dominate the Persian Gulf, but this latest phase exposes the limits and decline of American imperial power in the region.",
-      "importance": 88,
-      "why": "The text is politically and geopolitically significant because it frames current conflict as part of a long imperial strategy and suggests major implications for US power, Middle East stability, and Iran-related policy."
+      "ai_summary": "The text argues that a US\u2013Israeli war on Iran is part of a decades-long US effort to maintain imperial dominance in the Persian Gulf, a region Washington has treated as strategically vital since the 1970s, and suggests this latest phase exposes the limits and decline of that imperial project.",
+      "importance": 84,
+      "why": "It addresses major geopolitical conflict, US strategy in the Gulf, and broader implications for imperial power and regional stability."
     },
     {
       "source": "Jadaliyya",
@@ -237,19 +236,29 @@
       "summary": "Two incidents unfolded in close succession, each seemingly discrete: one concerning access to sacred space in Jerusalem, the other concerning the treatment of journalists in the West Bank and Lebanon. Read together, however, they reveal a...",
       "link": "https://www.jadaliyya.com/Details/47341/The-Mistakes-That-Got-Fixed-and-Those-That-Didnt",
       "published_at": null,
-      "ai_summary": "The text likely analyzes how access, speech, and visibility are politically controlled in Palestine and Lebanon, linking restrictions on prayer, sacred space, and journalism as forms of recognition and exclusion.",
-      "importance": 82,
-      "why": "The title and opening suggest a comparative political analysis of authority and rights in contested spaces. It appears to connect religion, media, and state or institutional control, which makes it significant for understanding broader dynamics of power, recognition, and civil liberties in the region."
+      "ai_summary": "The text introduces two closely timed incidents\u2014one about access to sacred space in Jerusalem and another about how journalists were treated in the West Bank and Lebanon\u2014and frames them as connected examples of politics of recognition in Palestine and Lebanon.",
+      "importance": 78,
+      "why": "The title and opening indicate a politically and socially significant analysis linking religion, media, and state authority across Palestine and Lebanon. It suggests broader issues of recognition, access, and control that are likely important for understanding current regional tensions."
     },
     {
       "source": "Middle East Eye",
-      "title": "Gaza was the scandal that should have ended Keir Starmer\u2019s political career",
-      "summary": "If the Mandelson saga does finally do for Starmer, it could clear the way for his true moral reckoning - appearing at The Hague over his unwavering support for Israel's genocide",
-      "link": "https://www.middleeasteye.net/opinion/gaza-scandal-should-ended-keir-starmer-political-career",
-      "published_at": "2026-04-30T14:16:00Z",
-      "ai_summary": "The text argues that the Mandelson scandal could end Keir Starmer\u2019s career and suggests his true reckoning should be facing The Hague for supporting Israel\u2019s actions in Gaza.",
+      "title": "Israel 'sent advanced laser defence system to UAE' during Iran war",
+      "summary": "FT reports sophisticated weapons were sent to Abu Dhabi, including a lightweight system to detect incoming drones",
+      "link": "https://www.middleeasteye.net/news/israel-sent-advanced-laser-defence-system-uae-during-iran-war-report-says",
+      "published_at": "2026-05-01T11:14:00Z",
+      "ai_summary": "FT reports that Israel sent advanced laser defence technology to Abu Dhabi during the Iran war, including a lightweight system designed to detect incoming drones.",
       "importance": 75,
-      "why": "It is a sharply political and inflammatory opinion piece, making a serious accusation about a major UK political figure and referencing international legal accountability over the Gaza war."
+      "why": "This involves sensitive military cooperation between Israel and the UAE, advanced air-defence technology, and developments connected to the Iran war, making it geopolitically significant."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "US criticises allies over failure to stop Gaza aid flotilla",
+      "summary": "Department of State highlights allies\u2019 inaction amid rising tensions between Washington and Europe",
+      "link": "https://www.middleeasteye.net/news/us-condemns-allies-not-preventing-gaza-aid-flotilla",
+      "published_at": "2026-05-01T12:54:00Z",
+      "ai_summary": "The US criticised allies for failing to stop a Gaza aid flotilla, highlighting growing tensions between Washington and Europe.",
+      "importance": 66,
+      "why": "This is a notable diplomatic tension involving the US, European allies, and the Gaza conflict. It matters for international relations and regional policy, but it is not as globally significant as a major military escalation or formal policy change."
     },
     {
       "source": "Jadaliyya",
@@ -257,20 +266,20 @@
       "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
-      "ai_summary": "Announcement of a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Jadaliyya co-editor Bassam Haddad about Israel\u2019s political economy.",
-      "importance": 48,
-      "why": "It is mainly a media/academic series launch rather than a standalone news event, but it may be relevant to readers interested in Middle East political economy, Israel, and critical analysis."
+      "ai_summary": "Announcement of a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
+      "importance": 51,
+      "why": "This is a media/academic content launch rather than a major news event. It is relevant for those interested in political economy, Israel/Palestine, and critical analysis, but it does not appear to report new policy changes or urgent developments."
     },
     {
       "source": "Carnegie ME",
-      "title": "Lake Qaraoun and Migratory Pressures",
-      "summary": "Lebanon\u2019s largest water reservoir is a house of many mansions when it comes to converging failures.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/lake-qaraoun-and-migratory-pressures",
-      "date": "Apr 17, 2026",
+      "title": "Lebanon Needs a New Negotiating Strategy with Israel",
+      "summary": "Unless Beirut lowers expectations, any setbacks will end up bolstering Hezbollah\u2019s narrative.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/lebanon-needs-another-negotiating-strategy-with-israel",
+      "date": "Apr 22, 2026",
       "published_at": null,
-      "ai_summary": "Lake Qaraoun, Lebanon\u2019s largest reservoir, is described as facing multiple overlapping failures.",
-      "importance": 69,
-      "why": "The title points to an environmental and resource-management issue involving Lebanon\u2019s largest water reservoir, suggesting broader significance for water security, ecology, and policy."
+      "ai_summary": "The text argues that Lebanon should adopt a new negotiating strategy with Israel, because if Beirut keeps its expectations too high, any failure in talks will strengthen Hezbollah\u2019s narrative.",
+      "importance": 79,
+      "why": "It highlights a significant foreign-policy and domestic-political issue for Lebanon, with potential implications for negotiations, state strategy, and Hezbollah\u2019s influence."
     },
     {
       "source": "Carnegie ME",
@@ -279,29 +288,29 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/04/a-military-balance-sheet-in-war-with-iran",
       "date": "Apr 23, 2026",
       "published_at": null,
-      "ai_summary": "An interview with Jim Lamson examines the ongoing U.S.-Israeli war with Iran and concludes that the regional conflict has an unclear balance of winners and losers.",
-      "importance": 55,
-      "why": "It concerns a significant geopolitical and military conflict involving the U.S., Israel, and Iran, but the provided text is very brief and offers only a high-level interview summary without concrete developments or outcomes."
+      "ai_summary": "An interview with Jim Lamson examines the ongoing U.S.-Israeli conflict with Iran and argues that the regional picture remains unclear, with no obvious winners or losers yet.",
+      "importance": 63,
+      "why": "It concerns a major geopolitical and military conflict involving the U.S., Israel, and Iran, which has significant regional and international implications, but the provided text is brief and lacks specific new developments."
     },
     {
       "source": "Responsible Statecraft",
-      "title": "Lowballing? Critics balk at military's $25 billion cost estimate of war",
-      "summary": "A Pentagon official told the House Armed Services Committee Wednesday that the war in Iran cost the United States $25 billion in the first two months. Facing questions from ranking member Rep. Adam Smith (D-Wash.), Acting Defense...",
-      "link": "https://responsiblestatecraft.org/cost-of-war-iran/",
-      "published_at": "2026-04-29T16:57:59Z",
-      "ai_summary": "A Pentagon official told Congress the war in Iran cost the U.S. $25 billion in its first two months, prompting skepticism from critics who questioned whether the estimate was understated.",
+      "title": "UAE leaves OPEC: what it means for the US, oil markets & Saudi",
+      "summary": "This morning, the United Arab Emirates announced that it was going to formally withdraw from the Organization of Petroleum Exporting Countries (OPEC). The move comes as yet another signal of a deepening split between Saudi Arabia and the...",
+      "link": "https://responsiblestatecraft.org/opec-uae/",
+      "published_at": "2026-04-28T16:44:16Z",
+      "ai_summary": "The UAE announced it will formally withdraw from OPEC, signaling a deepening rift with Saudi Arabia and raising questions about implications for U.S. policy, global oil markets, and regional power dynamics.",
       "importance": 80,
-      "why": "The story concerns a major war cost estimate presented to Congress and highlights potential underestimation of a large military conflict's financial impact, which is significant for public spending and oversight."
+      "why": "The article covers a major geopolitical and energy-market development involving a key OPEC producer. UAE departure would affect OPEC cohesion, oil supply coordination, pricing, and the Saudi-led bloc, making it highly relevant for markets and international relations."
     },
     {
       "source": "War on the Rocks",
-      "title": "Airwaves of Power: Why the Pentagon Should Shift to a Commercial-First Spectrum Model",
-      "summary": "The U.S. military is firing million-dollar missiles at Iranian drones that cost a tiny fraction as much &#8212; a striking example of the kind of overmatch modern warfare punishes.The Department of Defense&#8217;s approach to...",
-      "link": "https://warontherocks.com/cogs-of-war/airwaves-of-power-why-the-pentagon-should-shift-to-a-commercial-first-spectrum-model/",
-      "published_at": "2026-04-24T08:00:32Z",
-      "ai_summary": "The article argues that the Pentagon should adopt a commercial-first spectrum strategy, using civilian wireless infrastructure and market-led access to radio frequencies to improve resilience, lower costs, and keep pace with modern electronic warfare and drone threats.",
-      "importance": 79,
-      "why": "It addresses a major defense-policy and technology issue: how the U.S. military manages spectrum and communications in contested environments. The topic has implications for operational effectiveness, procurement, industrial base coordination, and broader national security strategy, especially as cheap drones and electronic warfare expose the limits of legacy military-only systems."
+      "title": "Why Lebanon Is Nonnegotiable for Iran",
+      "summary": "As American and Iranian diplomats gathered in early April in Islamabad for Pakistan&#8209;mediated ceasefire talks to end the U.S.-Israeli war with Iran and its regional allies, including Hizballah, a sticking point emerged: whether the...",
+      "link": "https://warontherocks.com/why-lebanon-is-nonnegotiable-for-iran/",
+      "published_at": "2026-05-01T07:15:02Z",
+      "ai_summary": "The piece argues that Lebanon, and especially Hizballah\u2019s role there, is strategically indispensable to Iran, making it a nonnegotiable part of Tehran\u2019s regional posture even amid ceasefire diplomacy.",
+      "importance": 72,
+      "why": "The title and opening indicate a high-level geopolitical analysis about Iran\u2019s regional strategy and the U.S.-Israeli conflict, with Lebanon as a key lever through Hizballah. It is important for understanding Middle East power dynamics, but the provided text is only a partial excerpt, so the exact argument and implications are somewhat limited."
     },
     {
       "source": "Drop Site News",
@@ -309,9 +318,9 @@
       "summary": "After Khalil was apparently targeted by Israel, a commentator asserting a connection with the military said journalists \"affiliated with Hezbollah\" are \"destined for death.\"",
       "link": "https://www.dropsitenews.com/p/lebanon-journalist-amal-khalil-killed-israel",
       "published_at": "2026-04-22T23:14:54Z",
-      "ai_summary": "The text alleges that Lebanese journalist Amal Khalil was targeted in an Israeli bombing and claims a commentator said journalists linked to Hezbollah are 'destined for death.'",
+      "ai_summary": "A Lebanese journalist, Amal Khalil, was reportedly bombed and left to die after being apparently targeted by Israel, prompting commentary that journalists alleged to be affiliated with Hezbollah are 'destined for death.'",
       "importance": 88,
-      "why": "This is a politically and militarily sensitive allegation involving a journalist, Israel, and Hezbollah, with potential implications for press freedom, civilian harm, and the ongoing conflict."
+      "why": "The text reports a lethal attack on a journalist and includes a claim about Israel targeting media figures, which makes it highly newsworthy and politically significant."
     }
   ]
 }
