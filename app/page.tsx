@@ -111,7 +111,7 @@ async function fetchLatestPost(feed: AnalystFeed): Promise<AnalystPost | null> {
 
     if (feed.kind === "carnegie-person") {
       const pinnedMatch = text.match(
-        /pinnedContent.*?href\\":\\"([^\\"]+)\\".*?title\\":\\"([^\\"]+)\\"/s
+        /pinnedContent[\s\S]*?href\\":\\"([^\\"]+)\\"[\s\S]*?title\\":\\"([^\\"]+)\\"/
       );
 
       if (!pinnedMatch) return null;
