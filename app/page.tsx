@@ -92,11 +92,75 @@ function Card({ item, variant }: { item: Item; variant?: string }) {
   );
 }
 
-async function fetchLatestPost(rssUrl: string) {
-  
+type AnalystFeed = {
+  name: string;
+  url: string;
+  kind?: "rss" | "carnegie-person";
+};
+
+type AnalystPost = {
+  title: string;
+  link: string;
+  daysAgo: number | null;
+};
+
+async function fetchLatestPost(feed: AnalystFeed): Promise<AnalystPost | null> {
   try {
-    const res = await fetch(`/api/rss?url=${encodeURIComponent(rssUrl)}`);
+    const res = await fetch(`/api/rss?url=${encodeURIComponent(feed.url)}`);
     const text = await res.text();
+
+    if (feed.kind === "carnegie-person") {
+      const pinnedMatch = text.match(
+        /pinnedContent.*?href\\":\\"([^\\"]+)\\".*?title\\":\\"([^\\"]+)\\"/s
+      );
+
+      if (!pinnedMatch) return null;
+
+      const [, pinnedRelativeLink] = pinnedMatch;
+      const pinnedLink = pinnedRelativeLink.startsWith("http")
+        ? pinnedRelativeLink
+        : `https://carnegieendowment.org${pinnedRelativeLink}`;
+
+      const articleRes = await fetch(`/api/rss?url=${encodeURIComponent(pinnedLink)}`);
+      const articleText = await articleRes.text();
+      const articleDoc = new DOMParser().parseFromString(articleText, "text/html");
+
+      const recentHeading = Array.from(articleDoc.querySelectorAll("p")).find(
+        (p) => p.textContent?.trim() === "Recent Work"
+      );
+      const recentList = recentHeading?.parentElement;
+      const recentAnchors = recentList
+        ? Array.from(
+            recentList.querySelectorAll<HTMLAnchorElement>('li a[href^="/middle-east/diwan/"]')
+          )
+        : [];
+
+      const recentMichaelYoungPost = recentAnchors.find((anchor) => {
+        const listItemText = anchor.closest("li")?.textContent || "";
+        return listItemText.includes("Michael Young");
+      });
+
+      if (recentMichaelYoungPost) {
+        const relativeLink = recentMichaelYoungPost.getAttribute("href") || "";
+        const title = recentMichaelYoungPost.textContent?.trim() || "";
+
+        if (!relativeLink || !title) return null;
+
+        return {
+          title,
+          link: relativeLink.startsWith("http")
+            ? relativeLink
+            : `https://carnegieendowment.org${relativeLink}`,
+          daysAgo: null
+        };
+      }
+
+      return {
+        title: pinnedMatch[2],
+        link: pinnedLink,
+        daysAgo: null
+      };
+    }
 
     const parser = new DOMParser();
     const xml = parser.parseFromString(text, "text/xml");
@@ -119,8 +183,8 @@ async function fetchLatestPost(rssUrl: string) {
       daysAgo: timeAgo
     };
 
-  } catch (e) {
-    console.error("RSS fetch failed:", rssUrl);
+  } catch {
+    console.error("RSS fetch failed:", feed.url);
     return null;
   }
 }
@@ -128,24 +192,27 @@ async function fetchLatestPost(rssUrl: string) {
 //
 // ✅ NEW: Analyst Voices config
 //
-const ANALYST_FEEDS = [
-  { name: "Trita Parsi", rss: "https://tritaparsi.substack.com/feed" },
-  { name: "Holly Dagres", rss: "https://www.theiranist.com/feed" },
-  { name: "Ali Ansari", rss: "https://iranshahr.substack.com/feed" },
-  { name: "Middle East Politics", rss: "https://mideastpolitics.substack.com/feed" },
-  { name: "IranWire", rss: "https://iranwire.substack.com/feed" },
-  { name: "James M. Dorsey", rss: "https://jamesmdorsey.substack.com/feed" },
-  { name: "Fatima Abo Alasrar", rss: "https://www.ideologymachine.com/feed" },
-  { name: "Greg Carlstrom", rss: "https://www.economist.com/middle-east-and-africa/rss.xml" },
- 
+const ANALYST_FEEDS: AnalystFeed[] = [
+  { name: "Trita Parsi", url: "https://tritaparsi.substack.com/feed" },
+  { name: "Holly Dagres", url: "https://www.theiranist.com/feed" },
+  { name: "Ali Ansari", url: "https://iranshahr.substack.com/feed" },
+  { name: "Middle East Politics", url: "https://mideastpolitics.substack.com/feed" },
+  { name: "IranWire", url: "https://iranwire.substack.com/feed" },
+  { name: "James M. Dorsey", url: "https://jamesmdorsey.substack.com/feed" },
+  { name: "Fatima Abo Alasrar", url: "https://www.ideologymachine.com/feed" },
+  {
+    name: "Michael Young",
+    url: "https://carnegieendowment.org/middle-east/people/michael-young",
+    kind: "carnegie-person"
+  }
 ];
 
 function AnalystVoices() {
-  const [posts, setPosts] = useState<Record<string, any>>({});
+  const [posts, setPosts] = useState<Record<string, AnalystPost | null>>({});
 
   useEffect(() => {
   ANALYST_FEEDS.forEach(async (a) => {
-    const post = await fetchLatestPost(a.rss);
+    const post = await fetchLatestPost(a);
 
     setPosts((prev) => ({
       ...prev,
