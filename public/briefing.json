@@ -1,107 +1,36 @@
 {
-  "generated_at": "2026-05-30T11:15:31.146962Z",
-  "top_story": "As U.S.-Iran negotiations remain unresolved, Washington has sharpened coercive pressure from Trump\u2019s March threat against Iran\u2019s power grid to the Pentagon\u2019s new warning that strikes could resume if talks fail, sustaining a crisis atmosphere that keeps regional actors braced for escalation. Tehran has signaled it would answer any such move across the region rather than absorb it quietly, raising the risk that a breakdown in diplomacy would spill beyond the bilateral track into shipping lanes, allied fronts, and already fragile civilian infrastructure. In Gaza, the ceasefire has not translated into security for Palestinians, as Israeli discussion of annexation and ethnic cleansing is now paired with offshore gas exploration plans widely seen as entrenching control over Palestinian land and resources. The regional picture is one of ceasefire without stabilization and diplomacy without de-escalation, leaving civilians exposed to both renewed interstate confrontation and deepening dispossession.",
+  "generated_at": "2026-05-30T22:50:14.758481Z",
+  "top_story": "A March spike in US-Iran coercive rhetoric left a standing risk of wider confrontation after Trump threatened Iran\u2019s power grid and Tehran answered with warnings of regional escalation, keeping Gulf shipping and energy security under strain. That backdrop now intersects with sharper scrutiny of wartime conduct after the UN formally added Israel and Russia on 29 May to its blacklist for conflict-related sexual violence, reinforcing pressure over detainee abuse and obstruction of investigators. On 30 May, a very different but equally destabilising shock hit eastern Syria as emergency spillway releases on the Euphrates displaced thousands in Deir Ezzor, compounding the vulnerability of communities already exposed to conflict and weak infrastructure. The regional picture is one of layered insecurity in which military brinkmanship, accountability battles, and climate-linked displacement are converging to deepen civilian fragility.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Pentagon chief says U.S. ready to restart strikes on Iran if no deal",
-      "summary": "SINGAPORE, May 30 (Reuters) - The U.S. is ready to restart attacks on Iran if a deal cannot be reached, Defense Secretary Pete Hegseth said on Saturday, as negotiators from Washington and Tehran worked to bridge major differences blocking...",
-      "link": "https://www.al-monitor.com/originals/2026/05/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal",
-      "published_at": "2026-05-30T04:01:39Z",
-      "ai_summary": "Pentagon chief Pete Hegseth said the U.S. is prepared to resume strikes on Iran if negotiations fail to produce a deal, while U.S. and Iranian negotiators continue trying to resolve major differences.",
-      "importance": 92,
-      "why": "This is highly important because it concerns possible renewed U.S.-Iran military action, which could sharply escalate regional tensions, affect global energy markets, and have major geopolitical consequences."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Israel's colonisation of south Lebanon is already under way",
-      "summary": "Israeli ministers are openly calling for annexation while settlers enter Lebanese villages, yet certain Lebanese politicians and media outlets continue to deny the threat",
-      "link": "https://www.middleeasteye.net/opinion/israels-colonisation-south-lebanon-already-under-way",
-      "published_at": "2026-05-27T16:24:00Z",
-      "ai_summary": "The text claims Israel is already moving toward colonisation of south Lebanon, citing annexation rhetoric from Israeli ministers, settlers entering Lebanese villages, and denial of the threat by some Lebanese politicians and media outlets.",
-      "importance": 85,
-      "why": "It describes a potentially major regional security and sovereignty issue involving territorial claims, civilian movement into border villages, and political/media denial, which could affect conflict dynamics and public perception."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Just what are Israel\u2019s long-term plans for Gaza?",
-      "summary": "Despite an apparent ceasefire, Israel\u2019s leaders continue to hint at annexation and ethnic cleansing.",
-      "link": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for",
-      "published_at": "2026-05-29T00:00:00Z",
-      "ai_summary": "The text says that, despite a ceasefire, Israeli leaders are still suggesting possible annexation and ethnic cleansing in Gaza.",
-      "importance": 93,
-      "why": "It concerns the long-term political and humanitarian implications of the Gaza conflict, including territory control and potential mass displacement, which are highly consequential and widely debated."
-    },
-    {
-      "source": "Guardian",
-      "title": "Netanyahu orders Israeli army to seize \u201870% of Gaza Strip\u2019, violating ceasefire deal",
-      "summary": "Speaking in West Bank settlement, Israeli PM, who is fighting for political survival before elections, says \u2018we are squeezing Hamas\u2019Middle East crisis \u2013 live updatesBenjamin Netanyahu has said he has given orders to the Israeli army to...",
-      "link": "https://www.theguardian.com/world/2026/may/28/netanyahu-orders-israeli-army-seize-70-gaza-strip-violating-ceasefire-deal",
-      "published_at": "2026-05-28T18:14:28Z",
-      "ai_summary": "Netanyahu says he ordered the Israeli army to seize 70% of Gaza, claiming Israel is \"squeezing Hamas,\" in a move described as violating the ceasefire deal.",
-      "importance": 92,
-      "why": "This is highly significant because it involves a major escalation in the Gaza conflict, directly affects ceasefire compliance, and comes from Israel\u2019s prime minister, making it politically and militarily consequential for the region."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Report: U.S. and Iran Agree on Truce Deal Pending Trump's Approval, Sources Say",
-      "summary": "https://www.haaretz.com/middle-east-news/iran/2026-05-28/ty-article/.premium/report-u-s-and-iran-agree-on-truce-deal-pending-trumps-approval-sources-say/0000019e-6f0e-df34-a39e-7f2e1ac20000",
-      "link": "https://www.haaretz.com/middle-east-news/iran/2026-05-28/ty-article/.premium/report-u-s-and-iran-agree-on-truce-deal-pending-trumps-approval-sources-say/0000019e-6f0e-df34-a39e-7f2e1ac20000",
-      "published_at": "2026-05-28T00:00:00Z",
-      "ai_summary": "A report says the U.S. and Iran have agreed to a truce deal that still awaits Trump\u2019s approval, according to sources.",
-      "importance": 88,
-      "why": "This is a major geopolitical development involving the U.S. and Iran, with potential implications for regional conflict, energy markets, and international diplomacy. The fact that the deal is only pending approval also makes it highly consequential and time-sensitive."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Hungry Palestinians in Gaza Protest World Central Kitchen Scaling Back Amid Rising Food Costs and Israeli Blockade",
-      "summary": "&#8220;If the World Central Kitchen stops, there will be no breakfast, no lunch, and no dinner.&#8221;",
-      "link": "https://www.dropsitenews.com/p/gaza-world-central-kitchen-food-hunger-israel-blockade",
-      "published_at": "2026-05-28T17:02:24Z",
-      "ai_summary": "Protests in Gaza are highlighted as World Central Kitchen scales back operations amid rising food costs and the Israeli blockade, with residents fearing loss of essential meals.",
-      "importance": 86,
-      "why": "The item concerns acute food insecurity in Gaza, impacts on humanitarian aid delivery, and the broader consequences of the blockade and rising prices for civilians."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Pledge to put armed Sadrists under state control sharpens Iraqi debate on security reform",
-      "summary": "The story:\u00a0A rumored proposal to fold several contentious security institutions into a unified federal ministry has riled raucous debate in Iraq. Proponents claim such a move would help the government assert its sovereignty amid Iran-US...",
-      "link": "https://amwaj.media/en/media-monitor/pledge-to-put-armed-sadrists-under-state-control-sharpens-iraqi-debate-on-securit",
-      "date": "May. 29, 2026",
-      "published_at": "2026-05-29T00:00:00Z",
-      "ai_summary": "Iraq is debating a rumored security reform proposal that would merge several contentious armed institutions into a unified federal ministry, with particular focus on bringing armed Sadrists under state control and strengthening government sovereignty amid U.S.-Iran tensions.",
-      "importance": 83,
-      "why": "The topic is politically significant because it concerns Iraq\u2019s security architecture, state sovereignty, and the integration of powerful armed groups. It could affect internal stability and the balance between Iraqi institutions, militias, Iran, and the United States."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "US warns capable of resuming war with Iran as deal remains elusive",
-      "summary": "The United States warned on Saturday it was \"more than capable\" of resuming war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons.The White...",
-      "link": "https://www.al-monitor.com/originals/2026/05/us-warns-capable-resuming-war-iran-deal-remains-elusive",
+      "title": "US says capable of resuming war with Iran as deal remains elusive",
+      "summary": "The United States warned on Saturday it was \"more than capable\" of resuming its war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons.The...",
+      "link": "https://www.al-monitor.com/originals/2026/05/us-says-capable-resuming-war-iran-deal-remains-elusive",
       "published_at": "2026-05-30T05:30:24Z",
-      "ai_summary": "The US warned it is capable of resuming war with Iran if a deal is not reached, while Trump said any agreement must ensure Iran can never develop nuclear weapons.",
-      "importance": 91,
-      "why": "This is a major geopolitical and security development involving the US and Iran, nuclear proliferation concerns, and the possibility of renewed conflict. It has significant implications for regional stability and international diplomacy."
+      "ai_summary": "The U.S. said it remains ready to resume war with Iran if needed, while President Trump said any peace deal must meet strict red lines, including preventing Iran from ever developing nuclear weapons.",
+      "importance": 89,
+      "why": "This is geopolitically significant because it involves the possibility of renewed war between the U.S. and Iran, a major regional power, and centers on Iran\u2019s nuclear program, which has broad implications for international security, diplomacy, and energy markets."
     },
     {
       "source": "Middle East Eye",
-      "title": "Why Pakistan will likely refuse to join the Abraham Accords",
-      "summary": "Despite Trump's pressure, costs of normalising ties with Israel are higher in Pakistan than in Arab states due to its more vibrant and contested political landscape",
-      "link": "https://www.middleeasteye.net/news/why-pakistan-will-likely-refuse-joining-abraham-accords",
-      "published_at": "2026-05-29T20:02:00Z",
-      "ai_summary": "Pakistan is likely to refuse the Abraham Accords because the political and social costs of normalizing ties with Israel are much higher there than in Arab states.",
-      "importance": 81,
-      "why": "The headline identifies a significant foreign-policy constraint: even with U.S. pressure, Pakistan\u2019s more vibrant and contested political landscape makes normalization with Israel politically costly, so the issue matters for regional diplomacy and U.S.-Pakistan relations."
+      "title": "Euphrates flooding displaces thousands in Syria's Deir Ezzor",
+      "summary": "Syrian authorities opened dam spillways for the first time in three decades as rising Euphrates waters displaced thousands across eastern Syria.",
+      "link": "https://www.middleeasteye.net/news/euphrates-flooding-displaces-thousands-eastern-syrias-deir-ezzor",
+      "published_at": "2026-05-30T20:43:00Z",
+      "ai_summary": "Rising Euphrates waters in eastern Syria forced authorities to open dam spillways for the first time in 30 years, displacing thousands in Deir Ezzor.",
+      "importance": 91,
+      "why": "The event affects thousands of people, involves rare emergency infrastructure use, and indicates significant flooding with humanitarian impact in a conflict-affected region."
     },
     {
       "source": "Al Jazeera",
-      "title": "Israeli plan to extend control in Gaza provokes German concern",
-      "summary": "Comments mark a shift in Berlin\u2019s stance towards one of its key allies, of which it has long been a strong supporter.",
-      "link": "https://www.aljazeera.com/news/2026/5/29/israeli-plan-to-extend-control-in-gaza-provokes-german-concern",
-      "published_at": "2026-05-29T00:00:00Z",
-      "ai_summary": "Germany expressed concern over Israel\u2019s plan to extend control in Gaza, signaling a notable shift in Berlin\u2019s stance toward a long-standing ally.",
-      "importance": 80,
-      "why": "The item is important because it reflects a change in Germany\u2019s position on a major Israel-Gaza policy issue, which could affect diplomatic relations, European policy debates, and broader international reactions."
+      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon\u2019s biggest cities",
+      "summary": "Israel\u2019s military has advanced beyond Lebanon\u2019s Litani River for the first time since 2006.",
+      "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities",
+      "published_at": "2026-05-30T00:00:00Z",
+      "ai_summary": "Israeli soldiers advanced to Nabatieh in southern Lebanon, crossing beyond the Litani River for the first time since 2006.",
+      "importance": 88,
+      "why": "This reports a significant military escalation and a notable breach of a long-standing geographic limit associated with prior conflict dynamics in Lebanon."
     },
     {
       "source": "Guardian",
@@ -109,31 +38,29 @@
       "summary": "Organisation cites abuse, including rape of male detainees, by security forces of governments which have blocked UN investigatorsThe UN has added Israel and Russia to a blacklist for sexual violence in conflict, citing abuse by security...",
       "link": "https://www.theguardian.com/world/2026/may/29/un-israel-russia-blacklist-sexual-violence-conflict",
       "published_at": "2026-05-29T17:37:33Z",
-      "ai_summary": "The UN added Israel and Russia to a blacklist for sexual violence in conflict, citing alleged abuse by security forces, including rape of male detainees, and noting both governments have blocked UN investigators.",
-      "importance": 89,
-      "why": "This is a significant international news development involving the UN, allegations of serious human rights violations, and the formal blacklisting of two major states, which can affect diplomacy and global scrutiny."
+      "ai_summary": "The UN added Israel and Russia to a blacklist for sexual violence in conflict, citing abuses including rape of male detainees and obstruction of UN investigators.",
+      "importance": 91,
+      "why": "This is a major international human rights and geopolitical development involving allegations against state security forces and formal UN action, which can affect diplomacy, accountability efforts, and global attention."
     },
     {
       "source": "Haaretz",
-      "title": "Hezbollah Rocket Falls in Northern Israeli City After Several Overnight Barrages",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-05-30/ty-article/.premium/hezbollah-rocket-falls-in-northern-israeli-city-after-several-overnight-barrages/0000019e-775a-dd51-affe-ff5a96340000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-05-30/ty-article/.premium/hezbollah-rocket-falls-in-northern-israeli-city-after-several-overnight-barrages/0000019e-775a-dd51-affe-ff5a96340000",
-      "published_at": "2026-05-30T00:00:00Z",
-      "ai_summary": "Hezbollah fired several overnight rocket barrages toward northern Israel, with one rocket landing in a northern Israeli city; no further details are provided in the prompt.",
-      "importance": 78,
-      "why": "The item reports active cross-border hostilities involving Hezbollah and northern Israel, which is a significant regional security development. It matters for assessing escalation risk, civilian safety, and broader Israel-Lebanon tensions."
-    }
-  ],
-  "regional_analysis": [
+      "title": "Report: U.S. and Iran Agree on Truce Deal Pending Trump's Approval, Sources Say",
+      "summary": "https://www.haaretz.com/middle-east-news/iran/2026-05-28/ty-article/.premium/report-u-s-and-iran-agree-on-truce-deal-pending-trumps-approval-sources-say/0000019e-6f0e-df34-a39e-7f2e1ac20000",
+      "link": "https://www.haaretz.com/middle-east-news/iran/2026-05-28/ty-article/.premium/report-u-s-and-iran-agree-on-truce-deal-pending-trumps-approval-sources-say/0000019e-6f0e-df34-a39e-7f2e1ac20000",
+      "published_at": "2026-05-28T00:00:00Z",
+      "ai_summary": "Haaretz reports that the U.S. and Iran have agreed on a truce deal, but it is still awaiting approval from Trump, according to unnamed sources.",
+      "importance": 88,
+      "why": "A potential U.S.-Iran truce is a major geopolitical development with implications for regional conflict, nuclear negotiations, oil markets, and global security. The report is significant even though it is unconfirmed and conditional on Trump\u2019s approval."
+    },
     {
-      "source": "Al Monitor",
-      "title": "IMF, World Bank, others warn Middle East war is straining energy supplies",
-      "summary": "May 29 (Reuters) - The heads of the International Energy Agency, International Monetary Fund, World Bank and World Trade Organization warned on Friday that the war in the Middle East was straining global energy supplies and hitting...",
-      "link": "https://www.al-monitor.com/originals/2026/05/imf-world-bank-others-warn-middle-east-war-straining-energy-supplies",
-      "published_at": "2026-05-29T20:01:45Z",
-      "ai_summary": "IMF, World Bank, IEA and WTO leaders warned that the Middle East war is straining global energy supplies and hurting the broader economy.",
-      "importance": 84,
-      "why": "This is a major geopolitical and economic risk involving top global institutions, with potential impacts on energy markets, inflation, trade, and worldwide growth."
+      "source": "Drop Site News",
+      "title": "Surging Inflation and Soaring Unemployment Batter Iranian Economy",
+      "summary": "As Trump weighs peace deal, Iranians face inflation and unemployment from sanctions and a U.S. blockade.",
+      "link": "https://www.dropsitenews.com/p/inflation-unemployment-iran-trump-war",
+      "published_at": "2026-05-29T21:15:21Z",
+      "ai_summary": "Iran\u2019s economy is being hit hard by sanctions and a U.S. blockade, with rising inflation and unemployment worsening living conditions as Trump considers a peace deal.",
+      "importance": 82,
+      "why": "The headline and text describe severe macroeconomic distress in Iran\u2014surging inflation and unemployment\u2014linked to sanctions and blockade pressure, which affects a national economy and ongoing U.S.-Iran policy considerations."
     },
     {
       "source": "Amwaj",
@@ -142,41 +69,62 @@
       "link": "https://amwaj.media/en/article/the-saudi-somali-uae-triangle-and-risks-for-horn-of-africa",
       "date": "May. 28, 2026",
       "published_at": "2026-05-28T00:00:00Z",
-      "ai_summary": "The article argues that Somalia is becoming a key arena for Gulf rivalries, especially among Saudi Arabia, the UAE, and their regional competitors, with Somalia\u2019s shifting diplomacy creating instability risks across the Horn of Africa.",
-      "importance": 83,
-      "why": "It highlights geopolitical competition involving major Middle Eastern powers and its direct impact on a fragile Horn of Africa state, making it significant for regional security and foreign policy analysis."
+      "ai_summary": "Somalia is becoming a key arena for Gulf Arab rivalries, with its diplomacy shifting amid tensions involving Saudi Arabia, the UAE, and broader Horn of Africa politics.",
+      "importance": 87,
+      "why": "The topic is geopolitically significant because it links Gulf rivalries to instability in the Horn of Africa, a strategically important region affecting maritime security, regional alignments, and external influence."
     },
     {
       "source": "Al Monitor",
-      "title": "Israel orders new evacuations as forces push deeper into Lebanon",
-      "summary": "Israel's military issued evacuation warnings on Saturday for residents of seven villages in southern Lebanon, after Prime Minister Benjamin Netanyahu said Israeli forces had pushed deeper into the country.The latest warnings came a day...",
-      "link": "https://www.al-monitor.com/originals/2026/05/israel-orders-new-evacuations-forces-push-deeper-lebanon",
-      "published_at": "2026-05-30T04:00:22Z",
-      "ai_summary": "Israel ordered new evacuations in seven villages in southern Lebanon as its forces advanced deeper into the country, escalating the cross-border conflict.",
-      "importance": 81,
-      "why": "This is a significant regional security development involving military escalation, civilian evacuations, and potential wider instability between Israel and Lebanon."
+      "title": "IMF, World Bank, others warn Middle East war is straining energy supplies",
+      "summary": "May 29 (Reuters) - The heads of the International Energy Agency, International Monetary Fund, World Bank and World Trade Organization warned on Friday that the war in the Middle East was straining global energy supplies and hitting...",
+      "link": "https://www.al-monitor.com/originals/2026/05/imf-world-bank-others-warn-middle-east-war-straining-energy-supplies",
+      "published_at": "2026-05-29T20:01:45Z",
+      "ai_summary": "Top leaders from the IMF, World Bank, IEA and WTO warned that the Middle East war is straining global energy supplies and hurting the wider economy.",
+      "importance": 85,
+      "why": "The report highlights a major geopolitical conflict with potential global economic consequences, especially for energy markets, trade, inflation, and growth. Warnings from multiple top international institutions make it highly relevant."
     },
     {
-      "source": "Al Monitor",
-      "title": "What options as UN force's Lebanon exit looms?",
-      "summary": "Lebanon is seeking an international force to replace a decades-long United Nations peacekeeping mission whose mandate ends this year following US and Israeli pressure, even as the latest Israel-Hezbollah war continues.Concerns over the...",
-      "link": "https://www.al-monitor.com/originals/2026/05/what-options-un-forces-lebanon-exit-looms",
-      "published_at": "2026-05-29T18:00:21Z",
-      "ai_summary": "Lebanon is considering options for an international force to replace the long-running UN peacekeeping mission as its mandate nears expiry, amid US and Israeli pressure and ongoing Israel-Hezbollah conflict.",
-      "importance": 81,
-      "why": "This is a significant geopolitical and security development involving Lebanon, Israel, Hezbollah, and the future of a major UN mission, with potential implications for regional stability and international diplomacy."
+      "source": "Middle East Eye",
+      "title": "Israel issues new expulsion orders as forces press deeper into Lebanon",
+      "summary": "Israeli troops advance beyond Litani River, while Hezbollah fires rockets at northern Israel",
+      "link": "https://www.middleeasteye.net/news/israel-issues-new-expulsion-orders-forces-press-deeper-lebanon",
+      "published_at": "2026-05-30T12:50:00Z",
+      "ai_summary": "Israel issued new expulsion orders as its forces pushed deeper into Lebanon, advancing beyond the Litani River while Hezbollah launched rockets into northern Israel.",
+      "importance": 91,
+      "why": "This describes an active cross-border military escalation involving Israel and Hezbollah, including ground advances, expulsion orders, and rocket fire. It has high regional security significance and could affect civilians and wider conflict dynamics."
     },
     {
-      "source": "Amwaj",
-      "title": "Inside story: Blocked assets, Lebanon in focus as Iran, US inch closer to understanding",
-      "summary": "A tentative understanding between Tehran and Washington to forge peace appears to be advancing. However, amid ambiguity over whether Iran has submitted a finalized draft to the US, Iranian sources are warning against reading too much into...",
-      "link": "https://amwaj.media/en/article/inside-story-blocked-assets-lebanon-in-focus-as-iran-us-inch-closer-to-understand",
-      "date": "May. 30, 2026",
+      "source": "Al Jazeera",
+      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+      "summary": "Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.",
+      "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire",
       "published_at": "2026-05-30T00:00:00Z",
-      "ai_summary": "The article says Iran and the US are moving closer to a tentative understanding on peace, but uncertainty remains over whether Iran has formally submitted a final draft. Iranian sources urge caution against overinterpreting the progress, while Lebanon and blocked assets are highlighted as part of the talks.",
-      "importance": 77,
-      "why": "It concerns possible de-escalation or agreement between Iran and the US, which could affect regional stability, Lebanon, and sanctions/asset issues."
+      "ai_summary": "Egypt is urgently trying to preserve the Gaza ceasefire after renewed Israeli attacks and threats of displacement put the agreement at risk of collapsing.",
+      "importance": 87,
+      "why": "The item concerns a fragile ceasefire in the Israel-Gaza conflict, with regional mediator Egypt warning of serious escalation. This has high geopolitical significance because it could affect civilian safety, regional stability, and ongoing diplomatic efforts."
     },
+    {
+      "source": "Guardian",
+      "title": "Netanyahu orders Israeli army to seize \u201870% of Gaza Strip\u2019, violating ceasefire deal",
+      "summary": "Speaking in West Bank settlement, Israeli PM, who is fighting for political survival before elections, says \u2018we are squeezing Hamas\u2019Middle East crisis \u2013 live updatesBenjamin Netanyahu has said he has given orders to the Israeli army to...",
+      "link": "https://www.theguardian.com/world/2026/may/28/netanyahu-orders-israeli-army-seize-70-gaza-strip-violating-ceasefire-deal",
+      "published_at": "2026-05-28T18:14:28Z",
+      "ai_summary": "Netanyahu said he ordered the Israeli army to seize 70% of the Gaza Strip, saying Israel is squeezing Hamas, in a move described as violating the ceasefire deal.",
+      "importance": 90,
+      "why": "This is highly important because it concerns a major escalation in the Israel-Gaza conflict, directly affects the ceasefire, and has significant implications for regional stability, civilian harm, and international diplomacy."
+    },
+    {
+      "source": "Haaretz",
+      "title": "IDF Strikes in Lebanon Kill 16, Wound 34 in Past 24 Hours, Lebanese Health Ministry Says",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-05-30/ty-article-live/iranian-report-american-zionist-drone-shot-down-near-irans-qeshm-island/0000019e-76fd-dc9e-adfe-feffff140000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-05-30/ty-article-live/iranian-report-american-zionist-drone-shot-down-near-irans-qeshm-island/0000019e-76fd-dc9e-adfe-feffff140000",
+      "published_at": "2026-05-30T00:00:00Z",
+      "ai_summary": "Lebanese Health Ministry says IDF strikes in Lebanon killed 16 people and wounded 34 over the past 24 hours.",
+      "importance": 82,
+      "why": "This is a significant conflict-related casualty report involving cross-border strikes and fatalities, indicating notable escalation or continuation of hostilities with immediate humanitarian and regional security implications."
+    }
+  ],
+  "regional_analysis": [
     {
       "source": "Amwaj",
       "title": "Talk of new ministry emerges as Iraq grapples with PMU reform",
@@ -184,19 +132,71 @@
       "link": "https://amwaj.media/en/article/talk-of-new-ministry-emerges-as-iraq-grapples-with-pmu-reform",
       "date": "May. 27, 2026",
       "published_at": "2026-05-27T00:00:00Z",
-      "ai_summary": "Iraq\u2019s prime minister says the state will monopolize weapons as debate grows over reforming the Popular Mobilization Units and possibly creating a new ministry to manage them.",
+      "ai_summary": "The article discusses Iraq\u2019s struggle to reform the Popular Mobilization Units (PMU) and recent political talk about creating a new ministry as Prime Minister Ali Al-Zaidi promises to centralize all weapons under state control.",
+      "importance": 83,
+      "why": "It concerns Iraq\u2019s security sector reform, state control over armed groups, and possible government restructuring\u2014issues with major implications for stability, governance, and regional politics."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "What options as UN force's Lebanon exit looms?",
+      "summary": "Lebanon is seeking an international force to replace a decades-long United Nations peacekeeping mission whose mandate ends this year following US and Israeli pressure, even as the latest Israel-Hezbollah war continues.Concerns over the...",
+      "link": "https://www.al-monitor.com/originals/2026/05/what-options-un-forces-lebanon-exit-looms",
+      "published_at": "2026-05-29T18:00:21Z",
+      "ai_summary": "Lebanon is weighing alternatives as the long-running UN peacekeeping mission\u2019s mandate nears expiry under US and Israeli pressure, while the Israel-Hezbollah conflict continues and Beirut seeks an international replacement force.",
+      "importance": 81,
+      "why": "This is a significant geopolitical and security development involving Lebanon, Israel, Hezbollah, and the future of a longstanding UN peacekeeping presence, with implications for regional stability and international diplomacy."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Pledge to put armed Sadrists under state control sharpens Iraqi debate on security reform",
+      "summary": "The story:\u00a0A rumored proposal to fold several contentious security institutions into a unified federal ministry has riled raucous debate in Iraq. Proponents claim such a move would help the government assert its sovereignty amid Iran-US...",
+      "link": "https://amwaj.media/en/media-monitor/pledge-to-put-armed-sadrists-under-state-control-sharpens-iraqi-debate-on-securit",
+      "date": "May. 29, 2026",
+      "published_at": "2026-05-29T00:00:00Z",
+      "ai_summary": "A rumored Iraqi proposal to merge armed security institutions into a unified federal ministry has triggered debate over sovereignty and security reform, especially amid tensions involving the armed Sadrists and Iran-US influence.",
       "importance": 77,
-      "why": "It concerns Iraq\u2019s security sector, PMU reform, and the government\u2019s effort to centralize armed power\u2014issues with major political and regional implications."
+      "why": "The topic is politically significant because it concerns state control over armed groups, Iraqi sovereignty, and security-sector reform in a highly unstable regional context. It also touches on the balance of power among major factions, which can affect governance and conflict dynamics."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Erbil moves to turn over new leaf in Baghdad amid shrinking leverage",
+      "summary": "The story:\u00a0Top Kurdistan Democratic Party (KDP) official Masrour Barzani\u2019s recent visit to Baghdad has set off fierce debate in Iraq over his party\u2019s future. Some observers have suggested that the flurry of engagement is aimed at resetting...",
+      "link": "https://amwaj.media/en/media-monitor/erbil-moves-to-turn-over-new-leaf-in-baghdad-amid-shrinking-leverage",
+      "date": "May. 27, 2026",
+      "published_at": "2026-05-27T00:00:00Z",
+      "ai_summary": "Masrour Barzani\u2019s visit to Baghdad has sparked debate over whether the KDP is trying to reset its relationship with the Iraqi federal government as its leverage appears to be shrinking.",
+      "importance": 77,
+      "why": "This appears politically significant because it concerns Kurdish-Baghdad relations, the KDP\u2019s strategy, and shifting power dynamics in Iraq. However, the provided text is too limited to indicate a major immediate event beyond a notable political recalibration."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "US issues new Iran-related counter-terrorism sanctions",
+      "summary": "May 29 (Reuters) - The United States issued new counter-terrorism sanctions on Friday targeting Iranian individuals and entities, among others, a notice on the Treasury Department website showed.(Reporting by Ismail Shakil and Bhargav...",
+      "link": "https://www.al-monitor.com/originals/2026/05/us-issues-new-iran-related-counter-terrorism-sanctions",
+      "published_at": "2026-05-29T20:36:39Z",
+      "ai_summary": "The United States imposed new counter-terrorism sanctions targeting Iranian individuals and entities, according to a Treasury Department notice.",
+      "importance": 74,
+      "why": "This is a notable U.S. sanctions action involving Iran and counter-terrorism policy, which can affect diplomacy, financial restrictions, and geopolitical tensions."
     },
     {
       "source": "Al Jazeera",
-      "title": "French prosecutors to probe Israeli treatment of flotilla activists",
-      "summary": "Foreign minister asserts abuse against French nationals likely to amount to criminal offences if proven.",
-      "link": "https://www.aljazeera.com/news/2026/5/29/french-prosecutors-to-probe-israeli-treatment-of-flotilla-activists",
+      "title": "The Iran war is dividing Muslims in the Philippines",
+      "summary": "Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.",
+      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines",
+      "published_at": "2026-05-30T00:00:00Z",
+      "ai_summary": "The Iran war is causing division among Muslims in the Philippines because foreign political narratives are being wrongly framed as religious issues.",
+      "importance": 73,
+      "why": "It highlights a politically and socially sensitive issue affecting Muslim communities and the risk of external conflicts deepening internal divisions."
+    },
+    {
+      "source": "Haaretz",
+      "title": "'History Is on My Side': Why One of Israel's Harshest Internal Critics Still Has Hope",
+      "summary": "https://www.haaretz.com/magazine/2026-05-29/ty-article-magazine/.premium/history-is-on-my-side-why-one-of-israels-harshest-internal-critics-still-has-hope/0000019e-6ef3-d149-a9be-6fffbc550000",
+      "link": "https://www.haaretz.com/magazine/2026-05-29/ty-article-magazine/.premium/history-is-on-my-side-why-one-of-israels-harshest-internal-critics-still-has-hope/0000019e-6ef3-d149-a9be-6fffbc550000",
       "published_at": "2026-05-29T00:00:00Z",
-      "ai_summary": "French prosecutors will investigate allegations that Israeli authorities mistreated activists from a flotilla, with the foreign minister saying any abuse of French nationals could amount to criminal offences if confirmed.",
-      "importance": 74,
-      "why": "It involves alleged mistreatment of foreign nationals, possible criminal offenses, and official prosecutorial action, making it a notable diplomatic and legal development."
+      "ai_summary": "The article profiles one of Israel\u2019s sharpest internal critics and explores why, despite harsh realities and political backlash, he still believes change is possible. It combines personal reflection with a broader argument that historical trends may ultimately favor a more just future.",
+      "importance": 72,
+      "why": "This is important because it offers insight into Israeli internal dissent, the current political climate, and a historically grounded argument for hope amid conflict and polarization. The topic is significant for readers tracking Israeli society, politics, and the wider implications of criticism from within."
     },
     {
       "source": "Haaretz",
@@ -204,41 +204,31 @@
       "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-05-28/ty-article/.premium/not-lapid-or-bennett-could-this-former-idf-chief-be-israels-next-leader/0000019e-6e77-dc57-a7be-ff7fb9250000",
       "link": "https://www.haaretz.com/israel-news/israel-politics/2026-05-28/ty-article/.premium/not-lapid-or-bennett-could-this-former-idf-chief-be-israels-next-leader/0000019e-6e77-dc57-a7be-ff7fb9250000",
       "published_at": "2026-05-28T00:00:00Z",
-      "ai_summary": "The article discusses a possible future leadership scenario in Israeli politics in which a former IDF chief could emerge as a contender for prime minister instead of familiar figures like Lapid or Bennett.",
-      "importance": 72,
-      "why": "It concerns high-level Israeli political succession and a potentially significant shift in the leadership landscape, which could affect national policy and coalition dynamics."
-    },
-    {
-      "source": "Haaretz",
-      "title": "'Too Many People Are Calling It a Win': Three Ordinary Israelis Who Campaigned for the Hostages' Return Reflect on Trump and Grief",
-      "summary": "https://www.haaretz.com/israel-news/2026-05-30/ty-article-magazine/.premium/3-israelis-who-campaigned-for-the-hostages-return-reflect-on-trump-and-grief/0000019e-4531-d394-addf-ff3bf0410000",
-      "link": "https://www.haaretz.com/israel-news/2026-05-30/ty-article-magazine/.premium/3-israelis-who-campaigned-for-the-hostages-return-reflect-on-trump-and-grief/0000019e-4531-d394-addf-ff3bf0410000",
-      "published_at": "2026-05-30T00:00:00Z",
-      "ai_summary": "The article appears to focus on three ordinary Israelis who advocated for the return of hostages and now reflect on the emotional aftermath, including reactions to Trump and ongoing grief.",
-      "importance": 72,
-      "why": "This is a human-interest political/news feature tied to the hostage issue, Israeli public sentiment, and reactions to Trump. It is likely significant for understanding public mood and the social impact of the hostage campaign, though it is more reflective than breaking news."
+      "ai_summary": "The article discusses speculation that a former IDF chief could emerge as a future Israeli prime minister instead of familiar political figures like Lapid or Bennett.",
+      "importance": 42,
+      "why": "It is a political-analysis piece about potential leadership succession in Israel, which is relevant for understanding current power dynamics, but it appears speculative and not directly tied to an immediate policy decision or major breaking event."
     }
   ],
   "deep_analysis": [
+    {
+      "source": "Middle East Eye",
+      "title": "UAE joined US-Israeli war against Iran from the outset: Report",
+      "summary": "WSJ report reveals UAE carried out strikes on Iran alongside US and Israel from start of war, operating as a third member of coalition",
+      "link": "https://www.middleeasteye.net/news/uae-joined-us-israeli-campaign-against-iran-outset-report",
+      "published_at": "2026-05-29T21:59:00Z",
+      "ai_summary": "WSJ reports that the UAE participated in strikes on Iran alongside the US and Israel from the beginning of the conflict, effectively acting as a third coalition member.",
+      "importance": 90,
+      "why": "The claim is geopolitically significant because it suggests direct UAE military involvement in a major regional war, potentially affecting escalation, diplomacy, and regional alliances."
+    },
     {
       "source": "Jadaliyya",
       "title": "For a Political Ecology of Bilad as-Sham: Material Struggles, Colonial Legacies, and Agrarian Futures",
       "summary": "In\u00a0South Lebanon, the smell of burnt olive trees mixes with tear gas and the fumes from\u00a0Israeli\u00a0drones. What was once a source of livelihood, kinship, and rootedness becomes, overnight, a front line. This scene echoes across Bilad as-Sham:...",
       "link": "https://www.jadaliyya.com/Details/47391/For-a-Political-Ecology-of-Bilad-as-Sham-Material-Struggles,-Colonial-Legacies,-and-Agrarian-Futures",
       "published_at": null,
-      "ai_summary": "The text frames South Lebanon and Bilad as-Sham as spaces where agriculture, war, colonial legacies, and environmental degradation are intertwined, with olive trees and rural livelihoods becoming sites of conflict and political struggle.",
-      "importance": 78,
-      "why": "It is important because it connects ecological destruction, colonial history, and agrarian life in a politically significant region, suggesting broader implications for resistance, land, and future rural futures in Bilad as-Sham."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Trump's war on Iran is a Suez moment - but not in the way you might think",
-      "summary": "The US is using its failed war on Iran to monopolise global energy and prop up the dollar - just as Britain used Suez to build the offshore financial system that replaced its empire",
-      "link": "https://www.middleeasteye.net/opinion/trumps-war-iran-suez-moment-not-way-you-think",
-      "published_at": "2026-05-29T12:19:00Z",
-      "ai_summary": "Argues that the US is leveraging its conflict with Iran to control global energy markets and strengthen the dollar, drawing an analogy to how Britain used the Suez crisis to transition from empire to offshore financial dominance.",
-      "importance": 77,
-      "why": "It links a major geopolitical conflict to the international monetary and energy order, offering a broad strategic interpretation with implications for global markets and US power."
+      "ai_summary": "An article on the political ecology of Bilad as-Sham, focusing on South Lebanon and how war, colonial legacies, and agrarian transformations shape struggles over land, livelihood, and environmental futures.",
+      "importance": 84,
+      "why": "The title and excerpt indicate an academically and politically significant discussion of ecology, colonial history, and agrarian conflict in a highly contested region. It is important for understanding how environmental change and material struggles intersect with displacement, militarization, and rural livelihoods in Bilad as-Sham."
     },
     {
       "source": "Jadaliyya",
@@ -246,61 +236,39 @@
       "summary": "Israel-friendly framing of news was commonplace at the BBC during the two decades I worked there, but one colleague stood out for his single-minded promotion of Zionist narratives. He has since risen to an influential editorial position...",
       "link": "https://www.jadaliyya.com/Details/47423/Raffi-Berg-In-His-Own-Words",
       "published_at": null,
-      "ai_summary": "A critical profile alleging that a BBC colleague strongly promoted Zionist narratives and later became influential editorially, framed in an anti-Israel context.",
-      "importance": 69,
-      "why": "The title suggests a notable profile or expos\u00e9 about a BBC editor, which could matter for media bias, editorial influence, and coverage of Israel-related topics. The text is brief but indicates a potentially significant criticism of newsroom framing at a major broadcaster."
+      "ai_summary": "The text alleges that during the author\u2019s time at the BBC, pro-Israel framing was common, and singles out one colleague as especially committed to promoting Zionist narratives, noting that this person later reached a significant editorial role.",
+      "importance": 74,
+      "why": "It appears to be part of a broader media-critique or profile about editorial bias and influence within a major news organization, which could matter to readers interested in journalism, media framing, and public discourse."
     },
     {
       "source": "Jadaliyya",
-      "title": "'Rethinking US Middle Eastern Policy' Lecture Series: US Chrstians & the Middle East with Melani McAlister",
-      "summary": "[The following is the second in a lecture series as part of\u00a0\"Rethinking US Middle East Policy: Past, Present, and Prospects,\"\u00a0a new research intiative brought by\u00a0Security in Context\u00a0and the Arab Studies Institute.] In this video, Melani...",
-      "link": "https://www.jadaliyya.com/Details/47416/Rethinking-US-Middle-Eastern-Policy-Lecture-Series-US-Chrstians--the-Middle-East-with-Melani-McAlister",
+      "title": "Israel's Zombie Economy (Part 5): The Disinformation Bubble",
+      "summary": "[This is the fifth and final artcle in a five-part article series on \u201cIsrael\u2019s Zombie Economy,\u201d based on the breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever. Click\u00a0here\u00a0to watch the interviews for this...",
+      "link": "https://www.jadaliyya.com/Details/47404/Israels-Zombie-Economy-Part-5-The-Disinformation-Bubble-47404",
       "published_at": null,
-      "ai_summary": "A lecture in the \u201cRethinking US Middle East Policy: Past, Present, and Prospects\u201d series featuring Melani McAlister, focused on the role of US Christians and Christianity in shaping American attitudes and policy toward the Middle East.",
-      "importance": 64,
-      "why": "It is relevant to understanding the intersection of religion and US foreign policy, especially how Christian constituencies influence American engagement with the Middle East. However, the excerpt is introductory and does not provide substantive policy details or major new developments."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "A Geographic and Social Reconfiguration in Lebanon",
-      "summary": "Israel is encroaching on the country\u2019s territory, while the Lebanese look askance at one another.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/05/a-geographic-and-social-reconfiguration-in-lebanon",
-      "date": "May 15, 2026",
-      "published_at": "2026-05-15T00:00:00Z",
-      "ai_summary": "Lebanon is facing territorial pressure from Israel alongside growing internal distrust among its people.",
-      "importance": 77,
-      "why": "The title and text suggest a significant geopolitical and social shift: external encroachment on national territory combined with internal fragmentation, both of which can affect stability and security."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "Rubble is Israel\u2019s Doctrine, Not a Case of Improvisation",
-      "summary": "Adversaries are to be degraded so deeply, that reconstitution becomes difficult or impossible.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/05/rubble-is-israels-doctrine-not-a-byproduct",
-      "date": "May 21, 2026",
-      "published_at": "2026-05-21T00:00:00Z",
-      "ai_summary": "The text argues that Israel\u2019s use of extensive destruction is a deliberate military doctrine aimed at preventing adversaries from rebuilding.",
-      "importance": 75,
-      "why": "It states a clear strategic principle about degrading enemies beyond quick recovery, which is a significant framing of military doctrine and conflict strategy."
+      "ai_summary": "The article is the fifth and final installment in a series on Israel\u2019s political economy, focusing on a \u201cdisinformation bubble\u201d that distorts public understanding of the country\u2019s economic and political reality.",
+      "importance": 68,
+      "why": "It appears to be part of a substantive political-economy analysis series, likely offering commentary on media, policy, and public perception. Its importance is moderate because it is the final piece in a larger series and seems aimed at explaining structural economic issues rather than reporting a standalone breaking event."
     },
     {
       "source": "Responsible Statecraft",
-      "title": "Congress quietly moves to integrate US and Israeli militaries",
-      "summary": "At a time when the American public is expressing unprecedented levels of distrust in the Israeli government, Congress just proposed tying the U.S. to the Israeli military more than ever before. Buried in the House's version of the 2027...",
-      "link": "https://responsiblestatecraft.org/israel-us-military/",
-      "published_at": "2026-05-29T10:57:48Z",
-      "ai_summary": "Congress is reportedly proposing measures that would more closely integrate U.S. and Israeli military forces, despite growing public distrust of the Israeli government.",
-      "importance": 84,
-      "why": "This is a significant U.S. foreign policy and defense development involving military integration, congressional action, and a contentious alliance issue with potential strategic, political, and public trust implications."
+      "title": "Nothing more dangerous than a Netanyahu scorned",
+      "summary": "The emerging deal between the United States and Iran represents an existential danger to Israeli Prime Minister Benjamin Netanyahu\u2019s political future. With his coalition fracturing and elections approaching, Netanyahu can\u2019t survive a peace...",
+      "link": "https://responsiblestatecraft.org/netanyahu-iran-deal-lebanon/",
+      "published_at": "2026-05-28T04:05:01Z",
+      "ai_summary": "The article argues that an emerging U.S.-Iran deal poses a major threat to Benjamin Netanyahu\u2019s political survival, as it could undermine his coalition and weaken his hardline political strategy ahead of elections.",
+      "importance": 85,
+      "why": "This is highly important because it concerns U.S.-Iran diplomacy, Israeli domestic politics, and the potential impact on regional security and leadership stability."
     },
     {
       "source": "Drop Site News",
-      "title": "Israel Has Physically Divided Gaza With Over 25 Kilometers of Earthen Barriers",
-      "summary": "Newly constructed Israeli military bases along the &#8220;yellow line&#8221; appear like elevated military forts in Gaza&#8217;s devastated landscape.",
-      "link": "https://www.dropsitenews.com/p/gaza-israel-earth-berms-military-bases-ceasefire",
-      "published_at": "2026-05-25T16:13:04Z",
-      "ai_summary": "Israel has reportedly physically divided Gaza with more than 25 kilometers of earthen barriers, and newly built military bases along the \"yellow line\" now resemble elevated forts in the devastated landscape.",
+      "title": "Hungry Palestinians in Gaza Protest World Central Kitchen Scaling Back Amid Rising Food Costs and Israeli Blockade",
+      "summary": "&#8220;If the World Central Kitchen stops, there will be no breakfast, no lunch, and no dinner.&#8221;",
+      "link": "https://www.dropsitenews.com/p/gaza-world-central-kitchen-food-hunger-israel-blockade",
+      "published_at": "2026-05-28T17:02:24Z",
+      "ai_summary": "Gazans protested World Central Kitchen\u2019s decision to scale back operations as food prices rise and the Israeli blockade worsens shortages, with residents warning they rely on the aid for basic meals.",
       "importance": 82,
-      "why": "This indicates a major and potentially lasting change to Gaza\u2019s geography and military control, with significant implications for movement, access, security, and the humanitarian situation."
+      "why": "The item concerns acute humanitarian conditions in Gaza, including food insecurity, aid dependency, and the impact of the blockade on civilians, making it highly significant."
     }
   ]
 }
