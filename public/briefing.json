@@ -1,66 +1,56 @@
 {
-  "generated_at": "2026-07-05T22:53:49.778945Z",
-  "top_story": "Iran\u2019s six-day state funeral for Ali Khamenei, which began on 4 July in Tehran, has drawn mass crowds and visiting dignitaries, allowing the state to project continuity even as attention turns to succession around Mojtaba Khamenei. That display of control contrasts with Gaza\u2019s entrenched devastation after the 25 June Israeli strike on beach tents sheltering displaced Palestinians, underscoring how war and displacement continue to shape civilian life far from any stabilizing political horizon. Israel now faces added internal strain after the government\u2019s 5 July decision to defy a Supreme Court ruling on the broadcast regulator, pushing a judicial confrontation into open view. The regional picture is one of governments asserting authority through spectacle or institutional force while civilians absorb the costs of war, repression, and political uncertainty.",
+  "generated_at": "2026-07-06T13:39:35.855147Z",
+  "top_story": "Iran\u2019s six-day funeral for Ali Khamenei, which began on 4 July and drew mass processions through Tehran by 6 July, has become more than a mourning ritual: the regime is using public grief, anti-US and anti-Israel slogans, and the spectacle of collective turnout to project continuity after his assassination and to suppress visible uncertainty over succession. The open calls on 5 July for Donald Trump\u2019s killing sharpened that message into mobilized vengeance, signaling that elite consolidation is being fused with a harder public posture that could narrow space for de-escalation. In the occupied West Bank, the killing of nine-year-old Mohammad al-Hallaq reflects a broader 2025 pattern of child deaths under Israeli military action, grounding the region\u2019s rhetoric of resistance and retaliation in daily civilian loss rather than abstract geopolitics. The regional picture is one in which state violence and mass mourning are feeding each other, strengthening maximalist politics while deepening the human damage that sustains them.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Huge crowds gather as Khamenei funeral ceremonies begin in Iran",
-      "summary": "Funeral ceremonies for Iran's supreme leader Ali Khamenei officially began on Saturday, state television reported, an event drawing thousands and intended to serve as a show of strength to the Islamic republic's foes.Iranian authorities...",
-      "link": "https://www.al-monitor.com/originals/2026/07/huge-crowds-gather-khamenei-funeral-ceremonies-begin-iran",
-      "published_at": "2026-07-04T01:00:15Z",
-      "ai_summary": "Funeral ceremonies for Iran's supreme leader Ali Khamenei began in Iran, drawing large crowds and signaling a show of strength by the government.",
-      "importance": 95,
-      "why": "The event concerns the death/funeral of a top national and religious leader of Iran, which is highly consequential for domestic politics, regional stability, and international relations."
+      "title": "Lebanon says Israeli strike on south kills 4, including 3 women",
+      "summary": "Lebanese state media said an Israeli strike on a car in the country's south on Monday killed four people, including three women, despite a ceasefire between Israel and Hezbollah.Lebanon's official National News Agency (NNA) said a school...",
+      "link": "https://www.al-monitor.com/originals/2026/07/lebanon-says-israeli-strike-south-kills-4-including-3-women",
+      "published_at": "2026-07-06T13:00:20Z",
+      "ai_summary": "Lebanese state media reported that an Israeli strike on a car in southern Lebanon killed four people, including three women, despite the Israel-Hezbollah ceasefire.",
+      "importance": 85,
+      "why": "The report describes a lethal cross-border strike amid an existing ceasefire, involving civilian casualties and potential escalation of tensions between Israel and Hezbollah."
     },
     {
       "source": "Middle East Eye",
-      "title": "Israel eyes return to Gaza war within months, Channel 12 reports",
-      "summary": "Israeli broadcaster says officials expect 'Board of Peace' to rule Hamas has breached the ceasefire, potentially clearing the way for a renewed assault",
-      "link": "https://www.middleeasteye.net/news/israel-eyes-return-gaza-war-within-months-channel-12-reports",
-      "published_at": "2026-07-05T15:19:00Z",
-      "ai_summary": "Channel 12 reports Israeli officials expect a future 'Board of Peace' could determine Hamas violated the ceasefire, which may justify resuming the Gaza war within months.",
-      "importance": 85,
-      "why": "It signals a potentially major escalation in the Gaza conflict and a possible collapse of the ceasefire, with significant implications for regional stability, civilian harm, and international diplomacy."
+      "title": "The West must to act to save Dr Hussam Abu Safiya from being killed by Israel",
+      "summary": "Dr Abu Safiya must be immediately released. So too should all Palestinian detainees, including the 82 other healthcare workers still in Israeli prisons",
+      "link": "https://www.middleeasteye.net/opinion/gaza-west-must-act-save-hussam-abu-safiya-risk-killed-captivity",
+      "published_at": "2026-07-06T13:53:00Z",
+      "ai_summary": "The text calls for the immediate release of Dr Hussam Abu Safiya and all Palestinian detainees, including 82 other healthcare workers held in Israeli prisons, arguing that the West must act to prevent his killing by Israel.",
+      "importance": 84,
+      "why": "It is a direct human-rights and urgent political appeal involving life-threatening detention, a named individual, and broader treatment of healthcare workers and detainees in an active conflict."
     },
     {
       "source": "Al Jazeera",
-      "title": "Houthi rebels kill 16 Yemeni government troops in fiercest clashes in years",
-      "summary": "Medical sources on the Red Sea coast report 16 dead from pro-government forces and 22 wounded.",
-      "link": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting",
+      "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+      "summary": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care",
       "published_at": "2026-07-05T00:00:00Z",
-      "ai_summary": "Houthi rebels killed 16 Yemeni government troops and wounded 22 in major clashes on the Red Sea coast, according to medical sources.",
-      "importance": 85,
-      "why": "This reports a significant escalation in Yemen\u2019s ongoing conflict, with notable casualties and the potential for wider regional or military consequences."
+      "ai_summary": "Israeli forces blocked urgent medical care for a Palestinian baby in the West Bank, leading to the baby\u2019s death, while also killing a 16-year-old boy in the occupied West Bank and two Palestinians in Gaza.",
+      "importance": 93,
+      "why": "The report describes multiple deaths, including a baby, and allegations of blocked medical access and military killings across the West Bank and Gaza, making it highly significant for humanitarian, political, and conflict-related coverage."
     },
     {
       "source": "Guardian",
-      "title": "Two Romanians jailed over stabbing of Iranian TV journalist in London",
-      "summary": "Judge says evidence indicates attack on Pouria Zeraati outside home was carried out on behalf of Tehran regimeTwo Romanians who took part in a \u201ctargeted\u201d knife attack on a television journalist in London \u201con behalf of the Iranian state\u201d...",
-      "link": "https://www.theguardian.com/uk-news/2026/jul/03/two-romanians-jailed-stabbing-iranian-journalist-in-london",
-      "published_at": "2026-07-03T18:15:02Z",
-      "ai_summary": "Two Romanian men were jailed for their role in a targeted stabbing attack on Iranian TV journalist Pouria Zeraati in London, which a judge said was carried out on behalf of the Iranian state.",
-      "importance": 91,
-      "why": "This is a serious, internationally relevant case involving an alleged state-backed attack on a journalist in the UK, raising issues of press freedom, transnational repression, and public safety."
+      "title": "My nine-year-old son Mohammad, killed by Israeli soldiers, is not just another number | Alia Abdel Majid Al-Hallaq",
+      "summary": "Mohammad was shot after going to play football \u2013 and we joined the 54 families in the occupied West Bank whose children were killed by Israel in 2025 aloneMy name is Aliyah Abdel Majid al-Halaq. I am 33 years old, from the village of...",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/06/children-killed-israeli-soldiers-occupied-west-bank",
+      "published_at": "2026-07-06T05:00:03Z",
+      "ai_summary": "An article by Aliyah Abdel Majid al-Hallaq about her nine-year-old son Mohammad, who was killed by Israeli soldiers after going out to play football, and about the broader pattern of child deaths in the occupied West Bank in 2025.",
+      "importance": 98,
+      "why": "The piece is highly significant because it documents the killing of a child and places it in a wider human rights and conflict context, highlighting civilian casualties, the impact on families, and a reported pattern of violence in the occupied West Bank."
     },
     {
       "source": "Haaretz",
-      "title": "Brad Lander: 'Israelis Will Not Be Truly Safe Until Palestinians Are Free, and U.S. Policy Should Reflect That'",
-      "summary": "https://www.haaretz.com/jewish/2026-07-04/ty-article-magazine/.premium/israelis-will-not-be-truly-safe-until-palestinians-are-free/0000019f-2414-d4dc-a3bf-2cf43a730000",
-      "link": "https://www.haaretz.com/jewish/2026-07-04/ty-article-magazine/.premium/israelis-will-not-be-truly-safe-until-palestinians-are-free/0000019f-2414-d4dc-a3bf-2cf43a730000",
-      "published_at": "2026-07-04T00:00:00Z",
-      "ai_summary": "Brad Lander argues that Israelis cannot be truly safe without Palestinian freedom and that U.S. policy should change to reflect a two-peoples, human-rights-based approach to the conflict.",
-      "importance": 78,
-      "why": "The piece is notable because Brad Lander is a prominent Jewish-American political figure, and his stance reflects a significant public critique of current U.S. policy toward Israel-Palestine. It is politically relevant, likely to draw attention in Jewish, progressive, and foreign-policy circles, and the framing links Israeli security directly to Palestinian liberation, which is a consequential and debated position."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Lebanon\u2019s Surrender Agreement: Hezbollah Expert Amal Saad on Beirut\u2019s \u201cFramework\u201d With Israel",
-      "summary": "Jeremy Scahill speaks with the Axis of Resistance scholar about Iran, Hezbollah, Israel, and Trump&#8212;and why she believes another regional war is inevitable.",
-      "link": "https://www.dropsitenews.com/p/lebanon-israel-iran-hezbollah-trump-amal-saad-jeremy-scahill",
-      "published_at": "2026-07-02T14:24:22Z",
-      "ai_summary": "An interview with Hezbollah scholar Amal Saad about Lebanon\u2019s framework with Israel, Iran, Hezbollah, and the likelihood of another regional war.",
-      "importance": 67,
-      "why": "It addresses major Middle East actors and the possibility of renewed regional conflict, making it relevant to geopolitics and security, though it is an interview/opinion piece rather than a primary breaking development."
+      "title": "Netanyahu's Crime Ring Has Escalated Its War on Israeli Democracy. Next Up: The Ballot Box",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-07-06/ty-article/.premium/cabinet-defying-the-high-court-is-a-dry-run-for-election-interference/0000019f-343d-d337-a39f-f57da9af0000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-07-06/ty-article/.premium/cabinet-defying-the-high-court-is-a-dry-run-for-election-interference/0000019f-343d-d337-a39f-f57da9af0000",
+      "published_at": "2026-07-06T00:00:00Z",
+      "ai_summary": "Opinion piece arguing that Netanyahu\u2019s government is undermining Israeli democracy and may be preparing to interfere with future elections, using defiance of the High Court as a warning sign.",
+      "importance": 87,
+      "why": "The headline and framing suggest a major political development about democratic erosion and possible election interference in Israel, which is highly significant for governance, rule of law, and upcoming elections."
     },
     {
       "source": "Al Monitor",
@@ -68,9 +58,59 @@
       "summary": "By Steven ScheerJERUSALEM, July 5 (Reuters) - Israeli cabinet members on Sunday voted to defy a Supreme Court decision regarding the country's broadcast regulator, raising concerns of a constitutional crisis.This is the first time Prime...",
       "link": "https://www.al-monitor.com/originals/2026/07/israel-government-says-it-will-defy-supreme-court-ruling-media-regulator",
       "published_at": "2026-07-05T18:01:44Z",
-      "ai_summary": "Israel's government voted to defy a Supreme Court ruling on the broadcast regulator, raising fears of a constitutional crisis.",
-      "importance": 91,
-      "why": "This is a major political and legal development involving direct conflict between the executive branch and the judiciary, with potential implications for media regulation, democratic checks and balances, and broader governance stability in Israel."
+      "ai_summary": "Israeli cabinet members voted to defy a Supreme Court ruling on the country\u2019s broadcast regulator, prompting concerns about a possible constitutional crisis.",
+      "importance": 85,
+      "why": "It involves an open clash between the executive branch and the Supreme Court in Israel, which is highly significant for governance, rule of law, and political stability."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "UK urged to sanction Netanyahu and justice minister over Israeli torture of Palestinians",
+      "summary": "Over 70 British lawmakers say Israeli premier and his deputy are responsible for 'systematic and well-documented torture of Palestinian civilians'",
+      "link": "https://www.middleeasteye.net/news/uk-government-urged-sanction-netanyahu-and-israeli-justice-minister-over-torture-palestinian",
+      "published_at": "2026-07-06T10:53:00Z",
+      "ai_summary": "Over 70 British lawmakers are urging the UK to sanction Israeli Prime Minister Benjamin Netanyahu and a deputy justice minister, citing alleged systematic torture of Palestinian civilians by Israeli authorities.",
+      "importance": 82,
+      "why": "The item concerns a major international political and human rights allegation involving senior Israeli officials and potential UK sanctions, which could affect diplomatic relations and draw significant media and policy attention."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Sons of Iran\u2019s leader Ali Khamenei attend funeral, but Mojtaba is absent",
+      "summary": "Massive crowds gathered in Tehran to mourn Khamenei\u2019s death, with chants calling for revenge against the US and Israel.",
+      "link": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent",
+      "published_at": "2026-07-05T00:00:00Z",
+      "ai_summary": "Massive crowds gathered in Tehran for Supreme Leader Ali Khamenei\u2019s funeral, with anti-US and anti-Israel chants; his sons attended except Mojtaba, who was absent.",
+      "importance": 90,
+      "why": "The death of Iran\u2019s supreme leader is a major geopolitical event, and the funeral crowds plus revenge chants suggest immediate regional and international security implications."
+    },
+    {
+      "source": "Guardian",
+      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "summary": "Up to 30 million people expected to attend delayed events for Ali Khamenei, killed at start of war with US and IsraelHuge crowds have gathered at the funeral of the former Iranian supreme leader after the gates of the sprawling Grand...",
+      "link": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+      "published_at": "2026-07-04T12:51:41Z",
+      "ai_summary": "Crowds gathered for the six-day funeral of former Iranian supreme leader Ali Khamenei, with reports that up to 30 million people may attend the delayed events after he was killed at the start of a war involving the US and Israel.",
+      "importance": 95,
+      "why": "This is a major geopolitical event involving the death of Iran\u2019s former supreme leader, mass public mourning, and references to a wider war involving the US and Israel, all of which have significant regional and international implications."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Hamas Says Its Gaza Government Resigns to Hand Power to Palestinian Technocrats",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-07-06/ty-article/.premium/hamas-says-its-gaza-government-resigns-to-hand-power-to-palestinian-technocrats/0000019f-3700-d0b8-ab9f-7fff9cb50000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-07-06/ty-article/.premium/hamas-says-its-gaza-government-resigns-to-hand-power-to-palestinian-technocrats/0000019f-3700-d0b8-ab9f-7fff9cb50000",
+      "published_at": "2026-07-06T00:00:00Z",
+      "ai_summary": "Hamas says its Gaza government has resigned, saying it will transfer administrative control to Palestinian technocrats.",
+      "importance": 82,
+      "why": "This could signal a major political shift in Gaza\u2019s governance and potentially affect ceasefire talks, reconstruction planning, and the balance of power between Hamas, the Palestinian Authority, and other stakeholders. The significance is high, though the practical impact depends on whether the handoff is actually implemented."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "French President Macron to visit Syria, Syrian presidency says",
+      "summary": "July 5 (Reuters) - French President Emmanuel Macron will visit Syria to discuss ways to strengthen bilateral relations and issues of mutual interest, Syria's presidential media directorate said on Sunday.Macron, accompanied by a delegation...",
+      "link": "https://www.al-monitor.com/originals/2026/07/french-president-macron-visit-syria-syrian-presidency-says",
+      "published_at": "2026-07-05T12:01:37Z",
+      "ai_summary": "French President Emmanuel Macron is expected to visit Syria to discuss strengthening bilateral relations and other mutual interests, according to Syria\u2019s presidential media directorate.",
+      "importance": 82,
+      "why": "This is important because it signals a potential high-level diplomatic engagement between France and Syria, which could affect bilateral relations, regional politics, and international policy toward Syria."
     },
     {
       "source": "Middle East Eye",
@@ -78,71 +118,41 @@
       "summary": "The Israeli prime minister claimed Lebanese Christians want Israeli annexation, despite Israel\u2019s attacks on churches and Christian sites",
       "link": "https://www.middleeasteye.net/news/netanyahu-says-christians-seek-israeli-annexation-israel-reduces-churches-rubble",
       "published_at": "2026-07-05T21:37:00Z",
-      "ai_summary": "Netanyahu said Israel protects Christians, but the article says Israeli strikes have hit churches and Christian sites in Lebanon, undermining that claim.",
-      "importance": 80,
-      "why": "This is politically significant because it concerns Israel\u2019s messaging about Christians versus reported military damage to Christian sites in Lebanon, which could affect international opinion and regional tensions."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-      "summary": "Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.",
-      "link": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says",
-      "published_at": "2026-07-05T00:00:00Z",
-      "ai_summary": "A rights group says jailed Gaza hospital chief Hussam Abu Safia is in life-threatening condition, with his son Elyas saying he can barely breathe or speak after more than 555 days in Israeli prison.",
-      "importance": 79,
-      "why": "The report concerns the health and detention of a prominent Gaza hospital chief and alleges a life-threatening condition in prison, which is significant for human rights, conflict-related detention, and medical-care concerns."
-    },
-    {
-      "source": "Guardian",
-      "title": "Gaza\u2019s musicians reopen bomb-shattered conservatory \u2013 in tents",
-      "summary": "Even though most of their instruments have been destroyed, teachers are restarting classes, using music to give relief to traumatised peopleThe three tents line a stretch of overcrowded, windswept sand, their windows open on to a view of...",
-      "link": "https://www.theguardian.com/world/2026/jul/05/gazas-musicians-reopen-bomb-shattered-conservatory-in-tents",
-      "published_at": "2026-07-05T15:00:31Z",
-      "ai_summary": "Gaza musicians are reopening a bomb-damaged conservatory in tents, restarting classes despite destroyed instruments to provide relief to traumatized people.",
-      "importance": 77,
-      "why": "It highlights cultural resilience and the role of music in psychological recovery amid the Gaza conflict, but it is a localized human-interest story rather than a major policy or geopolitical development."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Netanyahu Rebukes Vance, Says Israel Has 'Many Allies'",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-07-05/ty-article-live/live-updates/0000019f-2f08-d746-adff-ff49dbaf0000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-07-05/ty-article-live/live-updates/0000019f-2f08-d746-adff-ff49dbaf0000",
-      "published_at": "2026-07-05T00:00:00Z",
-      "ai_summary": "Netanyahu publicly pushed back on criticism from Vance, saying Israel still has many allies despite the dispute.",
-      "importance": 72,
-      "why": "The item concerns a public disagreement involving Israel\u2019s leader and a major U.S. political figure, which can affect diplomatic relations and signals about U.S.-Israel alignment. It is politically significant, though the linked live-update format suggests details may be limited or evolving."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Iranians flock to week-long funeral rites for Khamenei",
-      "summary": "By Parisa Hafezi, Ahmed Elimam and Eman AbouhassiraDUBAI, July 4 (Reuters) - Mourners thronged a vast prayer complex in Tehran on Saturday as the week-long funeral ceremonies of Iranian Supreme Leader Ayatollah Ali Khamenei began with the...",
-      "link": "https://www.al-monitor.com/originals/2026/07/iranians-flock-week-long-funeral-rites-khamenei",
-      "published_at": "2026-07-04T07:36:35Z",
-      "ai_summary": "Reuters reports that mourners gathered in Tehran for the start of a week-long funeral ceremony for Iranian Supreme Leader Ayatollah Ali Khamenei.",
-      "importance": 91,
-      "why": "This is a major political and regional event involving the death of Iran\u2019s top leader, which can trigger major succession, domestic, and geopolitical implications."
+      "ai_summary": "Netanyahu claimed Israel protects Christians and suggested Lebanese Christians want Israeli annexation, even as Israeli attacks hit churches and Christian sites in Lebanon.",
+      "importance": 81,
+      "why": "The item is politically significant because it involves a regional conflict, claims about protecting Christians, and alleged attacks on religious sites, which can inflame sectarian tensions and international criticism."
     }
   ],
   "regional_analysis": [
     {
-      "source": "Al Monitor",
-      "title": "Israel hasn't said who its soldiers abused. Two Gaza mothers think it's their son",
-      "summary": "By Mahmoud Issa and Rami AyyubGAZA/JERUSALEM, July 4 (Reuters) - The photo depicts a blindfolded Gaza man stripped to his underwear and restrained face down on a cot while in Israeli custody.Israel says the image is genuine and has...",
-      "link": "https://www.al-monitor.com/originals/2026/07/israel-hasnt-said-who-its-soldiers-abused-two-gaza-mothers-think-its-their-son",
-      "published_at": "2026-07-04T16:36:30Z",
-      "ai_summary": "Report on a Reuters story about an image of a blindfolded, partially stripped Gaza detainee allegedly abused in Israeli custody, with two Gaza mothers believing the man may be their son because Israel has not identified him.",
-      "importance": 86,
-      "why": "The story concerns alleged mistreatment of a detainee during the Gaza war, possible human rights abuses, and the unresolved identity of the person in the photo, making it politically and humanly significant."
+      "source": "Haaretz",
+      "title": "Brad Lander: 'Israelis Will Not Be Truly Safe Until Palestinians Are Free, and U.S. Policy Should Reflect That'",
+      "summary": "https://www.haaretz.com/jewish/2026-07-04/ty-article-magazine/.premium/israelis-will-not-be-truly-safe-until-palestinians-are-free/0000019f-2414-d4dc-a3bf-2cf43a730000",
+      "link": "https://www.haaretz.com/jewish/2026-07-04/ty-article-magazine/.premium/israelis-will-not-be-truly-safe-until-palestinians-are-free/0000019f-2414-d4dc-a3bf-2cf43a730000",
+      "published_at": "2026-07-04T00:00:00Z",
+      "ai_summary": "Brad Lander argues that Israelis cannot achieve true security unless Palestinians are free, and says U.S. policy should be aligned with that principle.",
+      "importance": 78,
+      "why": "The piece features a prominent political figure making a clear policy argument about the Israeli-Palestinian conflict and U.S. policy, which makes it newsworthy and potentially influential, though it is primarily an opinion/interview-style item rather than a hard-breaking event."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
+      "summary": "Disturbing image showing restrained detainee adds to agony of two mothers, each of whom is certain he is their son.",
+      "link": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers",
+      "published_at": "2026-07-05T00:00:00Z",
+      "ai_summary": "A disturbing photo of a restrained Palestinian detainee has left two Gaza mothers in anguish, each believing the man may be her son.",
+      "importance": 75,
+      "why": "The item concerns human suffering, possible detainee abuse, and the emotional impact on families during the Gaza conflict. It is newsworthy because it reflects a broader humanitarian issue and could have public or political significance, though it is not a major strategic or breaking geopolitical development on its own."
     },
     {
       "source": "Al Monitor",
-      "title": "Violent crime wave beleaguers Israel's Arab youth",
-      "summary": "In the four years since her father was fatally stabbed near the entrance of their home in northern Israel, 10-year-old Shireen has carried the burden of grief on her tiny shoulders.\"I loved him so much, I felt safe with him,\" Shireen,...",
-      "link": "https://www.al-monitor.com/originals/2026/07/violent-crime-wave-beleaguers-israels-arab-youth",
-      "published_at": "2026-07-05T01:30:18Z",
-      "ai_summary": "The article describes a violent crime wave affecting Israel's Arab youth, centered on the story of a 10-year-old girl mourning her father, who was fatally stabbed in northern Israel.",
-      "importance": 76,
-      "why": "It highlights a significant social and public safety issue impacting a large minority community in Israel, with human and political relevance due to rising violence and its consequences for families and youth."
+      "title": "Pro-Palestinian protesters convicted of misdemeanor charges in 2024 Golden Gate Bridge protest",
+      "summary": "By Kanishka SinghWASHINGTON, July 2 (Reuters) - Seven protesters who blocked traffic on the Golden Gate Bridge in a 2024 pro-Palestinian protest against Israel's assault on Gaza were convicted of misdemeanor charges by a San Francisco jury...",
+      "link": "https://www.al-monitor.com/originals/2026/07/pro-palestinian-protesters-convicted-misdemeanor-charges-2024-golden-gate-bridge",
+      "published_at": "2026-07-06T12:01:39Z",
+      "ai_summary": "Seven pro-Palestinian protesters were convicted of misdemeanor charges for blocking traffic on San Francisco\u2019s Golden Gate Bridge during a 2024 protest against Israel\u2019s assault on Gaza.",
+      "importance": 65,
+      "why": "This is a notable legal outcome tied to a high-profile political protest and broader U.S. debate over Gaza-related activism, but it is not a major national policy or security event."
     },
     {
       "source": "Al Monitor",
@@ -150,9 +160,9 @@
       "summary": "Formula 1 president Stefano Domenicali says he wants to restore to this season's calendar at least one of the two races in the Middle East which were cancelled because of the war in the region. The two rounds scheduled for Bahrain and...",
       "link": "https://www.al-monitor.com/originals/2026/07/f1-boss-domenicali-hopes-restore-cancelled-gulf-grand-prix",
       "published_at": "2026-07-05T13:30:20Z",
-      "ai_summary": "Stefano Domenicali says Formula 1 wants to bring back at least one of the two Middle East races cancelled due to the regional war, specifically the Bahrain and another Gulf round.",
+      "ai_summary": "Formula 1 president Stefano Domenicali says he hopes to reinstate at least one of the two cancelled Middle East races, including Bahrain, after their removal from the calendar due to the regional war.",
       "importance": 65,
-      "why": "This is a sports calendar and scheduling update involving Formula 1, a major global sport, but it is not a high-impact breaking event beyond the season lineup."
+      "why": "This is relevant motorsport calendar and governance news, especially for Formula 1 fans and stakeholders, but it is not a major breaking development beyond scheduling plans."
     },
     {
       "source": "Al Jazeera",
@@ -160,19 +170,19 @@
       "summary": "The transitional parliament aims to draft a new elections law during its 30-month term.",
       "link": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation",
       "published_at": "2026-07-05T00:00:00Z",
-      "ai_summary": "Syria postponed the first session of its transitional parliament, which is intended to draft a new elections law over a 30-month term.",
+      "ai_summary": "Syria has delayed the first session of its transitional parliament without providing an explanation. The parliament is expected to draft a new elections law over a 30-month term.",
       "importance": 64,
-      "why": "This is politically significant because it affects Syria\u2019s transition process and the timeline for electoral reform, but the provided text is brief and lacks details about causes, actors, or immediate consequences."
+      "why": "This is a politically significant development in Syria\u2019s transition, affecting the timetable for institutional reform and future elections. It matters, but the brief text gives limited detail and no indication of immediate broader consequences."
     },
     {
-      "source": "Haaretz",
-      "title": "'I Promise I Haven't Joined the Israel Haters': Brad Lander Sits Down With Haaretz",
-      "summary": "https://www.haaretz.com/israel-news/podcasts/2026-07-03/ty-article-podcast/i-promise-i-havent-joined-the-israel-haters/0000019f-2212-de55-a5bf-2ab3695c0000",
-      "link": "https://www.haaretz.com/israel-news/podcasts/2026-07-03/ty-article-podcast/i-promise-i-havent-joined-the-israel-haters/0000019f-2212-de55-a5bf-2ab3695c0000",
-      "published_at": "2026-07-03T00:00:00Z",
-      "ai_summary": "Haaretz podcasts features Brad Lander in a conversation about his political views, identity, and stance on Israel amid accusations and polarized debate.",
-      "importance": 63,
-      "why": "It involves a prominent political figure and a politically sensitive topic\u2014Israel, criticism of Israel, and public positioning\u2014making it relevant for readers following politics, Jewish affairs, and current discourse. The importance is moderate because the available text is only a link/title, so the specific news value is limited."
+      "source": "Al Jazeera",
+      "title": "Is the US really preparing to drop Israel?",
+      "summary": "With relations between Israel and the US fraught, some are speculating whether special relationship may be at an end.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/is-the-us-really-preparing-to-drop-israel",
+      "published_at": "2026-07-06T00:00:00Z",
+      "ai_summary": "The text says that US-Israel relations are strained and raises speculation about whether the special relationship may be ending.",
+      "importance": 62,
+      "why": "This is a geopolitical relationship topic involving the US and Israel, which is moderately important due to potential foreign policy implications, but the text itself is brief and speculative rather than reporting a concrete development."
     },
     {
       "source": "Haaretz",
@@ -180,19 +190,9 @@
       "summary": "https://www.haaretz.com/israel-news/haaretz-today/2026-07-05/ty-article/.highlight/khameneis-jewish-brothers-what-israel-and-tehrans-ayatollahs-have-in-common/0000019f-322f-d10e-a7df-febfc6340000",
       "link": "https://www.haaretz.com/israel-news/haaretz-today/2026-07-05/ty-article/.highlight/khameneis-jewish-brothers-what-israel-and-tehrans-ayatollahs-have-in-common/0000019f-322f-d10e-a7df-febfc6340000",
       "published_at": "2026-07-05T00:00:00Z",
-      "ai_summary": "The article likely compares ideological, historical, or political similarities between Israel and Iran\u2019s clerical leadership, using the provocative framing of Khamenei and Jewish identity to explore shared themes or contradictions.",
-      "importance": 62,
-      "why": "The title suggests a nuanced political commentary touching on Israel-Iran relations, identity, and ideology. It is probably relevant to readers following Middle East politics, but the exact significance is limited without the article text."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Lebanon\u2019s Aoun calls on US to keep \u2018always standing beside\u2019 his country",
-      "summary": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can \u2018open a new page of hope\u2019.",
-      "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country",
-      "published_at": "2026-07-04T00:00:00Z",
-      "ai_summary": "Lebanon\u2019s Aoun sent a US Independence Day message calling on the United States to continue standing by Lebanon and expressing hope for a new chapter of hope for the country.",
-      "importance": 32,
-      "why": "It reflects a diplomatic appeal and Lebanon-US relations, but the statement is brief and contains no major policy change or urgent event."
+      "ai_summary": "Cannot access the linked article directly. From the title alone, it appears to compare Iran\u2019s Supreme Leader Ali Khamenei, Jewish identity/history, and parallels between Israel and Tehran\u2019s religious-political establishments.",
+      "importance": 42,
+      "why": "The topic is politically and historically significant because it touches on Israel-Iran relations, identity politics, and religious authority. However, without the article text, this is only a title-based estimate, so the importance is moderate rather than high."
     }
   ],
   "deep_analysis": [
@@ -202,9 +202,29 @@
       "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
       "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
       "published_at": null,
-      "ai_summary": "The text introduces an interview with Adam Hanieh arguing that the war on Iran should be understood not only as a military conflict or energy-market event, but as part of a broader political economy shaping regional power, capital, and imperial strategy.",
+      "ai_summary": "An interview with Adam Hanieh frames Israel\u2019s June 2025 attack on Iran as more than a military escalation or oil-market event, arguing it should be understood through the broader political economy of regional power, capital, and imperial strategy.",
       "importance": 80,
-      "why": "It frames the conflict in terms of political economy rather than just security or oil, which is valuable for understanding broader implications, though the provided excerpt is brief and mostly introductory."
+      "why": "The piece connects a major geopolitical conflict to wider economic and political structures, offering interpretive value beyond the immediate news event. It is important for readers interested in Middle East politics, energy markets, and the relationship between war and global capitalism."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Why Turkey must challenge Israeli moves in Syria",
+      "summary": "It will be difficult for Ankara to turn the tide in this strategic game without taking a more explicit deterrent stance",
+      "link": "https://www.middleeasteye.net/opinion/why-turkey-must-challenge-israel-moves-syria",
+      "published_at": "2025-08-26T12:45:00Z",
+      "ai_summary": "The text argues that Turkey needs to adopt a clearer deterrent position against Israeli actions in Syria if it wants to influence the strategic balance there.",
+      "importance": 75,
+      "why": "It concerns a major regional power\u2019s strategy in Syria and the implications of Turkish-Israeli competition, which is geopolitically significant, though the provided text is very brief."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "After the frontlines: Palmyra\u2019s fight for cultural and economic revival",
+      "summary": "Syria\u2019s cultural icon was ravaged by conflict. Tourism is key to its revival",
+      "link": "https://www.middleeasteye.net/news/after-frontlines-palmyra-fight-cultural-economic-revival",
+      "published_at": "2026-07-06T09:50:00Z",
+      "ai_summary": "The text says Palmyra, a major Syrian cultural landmark damaged by conflict, is now focused on revival, with tourism seen as essential to restoring its cultural and economic life.",
+      "importance": 75,
+      "why": "It highlights the recovery of an internationally significant heritage site and the role of tourism in post-conflict reconstruction, which has cultural and economic significance."
     },
     {
       "source": "Jadaliyya",
@@ -212,49 +232,9 @@
       "summary": "[This is the fifth and final artcle in a five-part article series on \u201cIsrael\u2019s Zombie Economy,\u201d based on the breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever. Click\u00a0here\u00a0to watch the interviews for this...",
       "link": "https://www.jadaliyya.com/Details/47404/Israels-Zombie-Economy-Part-5-The-Disinformation-Bubble-47404",
       "published_at": null,
-      "ai_summary": "The article is the fifth and final part of a series on Israel\u2019s political economy, focusing on the role of disinformation in sustaining what the author calls Israel\u2019s \u201czombie economy.\u201d It builds on interviews with Shir Hever and argues that misleading narratives help obscure structural economic and political problems.",
-      "importance": 80,
-      "why": "This is a substantive political-economy analysis tied to a broader five-part series, likely relevant to readers interested in Israel, media narratives, and economic critique. Its importance is moderate-high because it synthesizes a final thematic argument rather than reporting a standalone event."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Iran\u2019s funeral diplomacy: The Quran verses that ranked allies, rivals and sent Saudi Arabia a message",
-      "summary": "The Quran recitations at Ali Khamenei's funeral revealed Tehran speaking as a victor, not a mourner",
-      "link": "https://www.middleeasteye.net/news/irans-funeral-diplomacy-quran-verses-ranked-allies-rivals-and-message-saudi-arabia",
-      "published_at": "2026-07-04T22:15:00Z",
-      "ai_summary": "The piece argues that Quran recitations at Ali Khamenei's funeral functioned as a diplomatic signal, with Tehran presenting itself as a victor and using the ceremony to rank allies, rivals, and send a message to Saudi Arabia.",
-      "importance": 75,
-      "why": "It highlights how a major religious and political event was used for regional signaling, offering insight into Iran\u2019s foreign-policy messaging and power dynamics in the Middle East."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Inside the UAE-backed RSF siege of Sudan's el-Obeid",
-      "summary": "'The suffering endured by the citizens of el-Obeid due to the war is beyond comprehension,' one resident says, after weeks of drone strikes",
-      "link": "https://www.middleeasteye.net/news/inside-uae-backed-rsf-siege-sudans-el-obeid",
-      "published_at": "2026-07-03T15:49:00Z",
-      "ai_summary": "A resident of Sudan\u2019s el-Obeid describes the city\u2019s suffering amid the UAE-backed RSF siege and weeks of drone strikes during the war.",
-      "importance": 75,
-      "why": "It reports an ongoing conflict and humanitarian impact in a strategically significant Sudanese city, with allegations of external backing and active military pressure."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "Keith David Watenpaugh, \u201cThe Pomegranate and the Orange: A Comparative Framework for Genocide in the Middle East \u2013 The Ottoman Armenian Medz Yeghern and the Palestinian al-Nakba\u201d (New Texts Out Now)",
-      "summary": "Keith David Watenpaugh, \u201cThe Pomegranate and the Orange: A Comparative Framework for Genocide in the Middle East \u2013 The Ottoman Armenian\u00a0Medz Yeghern\u00a0and the Palestinian\u00a0al-Nakba,\u201d\u00a0Journal of Genocide Research,\u00a02026, 14 (3-4). Jadaliyya...",
-      "link": "https://www.jadaliyya.com/Details/47477/Keith-David-Watenpaugh,-%E2%80%9CThe-Pomegranate-and-the-Orange-A-Comparative-Framework-for-Genocide-in-the-Middle-East-%E2%80%93-The-Ottoman-Armenian-Medz-Yeghern-and-the-Palestinian-al-Nakba%E2%80%9D-New-Texts-Out-Now",
-      "published_at": null,
-      "ai_summary": "Announcement of Keith David Watenpaugh\u2019s 2026 Journal of Genocide Research article comparing the Ottoman Armenian Medz Yeghern and the Palestinian al-Nakba as genocidal frameworks in the Middle East.",
-      "importance": 68,
-      "why": "The item highlights a scholarly publication on genocide studies and comparative Middle East history, making it relevant for academic, historical, and political discourse, though it is primarily a citation/announcement rather than a substantive news event."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "In photos: Egypt fever sweeps Gaza as World Cup draws crowds",
-      "summary": "Fans gather across the Gaza Strip to back Egypt, with public screenings offering a rare moment of escape",
-      "link": "https://www.middleeasteye.net/news/egypt-fever-sweeps-gaza-world-cup-draws-crowds",
-      "published_at": "2026-07-04T13:42:00Z",
-      "ai_summary": "Public screenings across Gaza drew large crowds of football fans backing Egypt, offering a rare moment of relief and escape.",
-      "importance": 55,
-      "why": "The item is culturally and socially notable, showing how the World Cup created a shared public experience in Gaza, but it is not a major geopolitical or economic event."
+      "ai_summary": "An article in a five-part series on Israel\u2019s political economy, focusing on the role of disinformation and media narratives in sustaining what the author calls Israel\u2019s \u201cZombie Economy.\u201d",
+      "importance": 64,
+      "why": "It appears to be the concluding installment of a series analyzing Israel\u2019s political economy, likely tying together themes of propaganda, public perception, and structural economic problems. The topic is meaningful for readers interested in Israeli politics, media criticism, and economic analysis, but the snippet alone does not indicate major breaking-news significance."
     },
     {
       "source": "Carnegie ME",
@@ -263,9 +243,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/06/new-syria-old-lebanon-absence-of-the-state",
       "date": "Jun 29, 2026",
       "published_at": null,
-      "ai_summary": "The text warns that if the U.S. tries to pressure Damascus into militarily confronting Hezbollah, it would likely lead to disastrous consequences.",
-      "importance": 83,
-      "why": "It highlights a potentially major regional policy move with serious geopolitical and security implications for Syria, Lebanon, Hezbollah, and U.S. strategy."
+      "ai_summary": "The text warns that if the United States tried to pressure Damascus into militarily confronting Hezbollah, the consequences would be disastrous.",
+      "importance": 77,
+      "why": "It highlights a potentially high-stakes foreign policy move involving Syria, Lebanon, Hezbollah, and the United States, with the potential for severe regional instability."
     },
     {
       "source": "Carnegie ME",
@@ -274,9 +254,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/06/the-wests-climate-colonialism-in-the-greater-middle-east",
       "date": "Jun 30, 2026",
       "published_at": null,
-      "ai_summary": "The text argues that the Western-led green transition may reproduce colonial power structures in the Greater Middle East, mirroring the old global energy economy.",
-      "importance": 73,
-      "why": "It presents a provocative geopolitical critique linking climate policy, energy transition, and colonialism, which is relevant for understanding global equity and resource politics."
+      "ai_summary": "The text argues that the West\u2019s green transition may reproduce colonial power dynamics in the Greater Middle East, mirroring the old global energy economy.",
+      "importance": 72,
+      "why": "It frames a geopolitical and environmental critique that connects climate policy to colonial structures, which is potentially significant for discussions of energy justice, global power, and the politics of decarbonization."
     },
     {
       "source": "Responsible Statecraft",
@@ -284,9 +264,9 @@
       "summary": "Massad Boulos, the Trump Administration's top adviser for Africa and point man on Sudan, recently spoke before the United Nations Security Council and warned that the international community \u201ccannot sit back\u201d while El Obeid, a city of over...",
       "link": "https://responsiblestatecraft.org/sudan-civil-war-massacre/",
       "published_at": "2026-07-02T04:05:01Z",
-      "ai_summary": "The text says the US is aware that the UAE is helping fuel the war in Sudan, but major economic interests\u2014described as $1.4 trillion\u2014are complicating any response.",
-      "importance": 79,
-      "why": "It concerns a major geopolitical conflict, alleged foreign involvement, and a potential conflict between human rights/war policy and large economic interests, which is highly newsworthy."
+      "ai_summary": "The article says the U.S. is aware that the UAE is fueling the war in Sudan, but major economic and strategic ties\u2014described as $1.4 trillion\u2014are making Washington reluctant to confront Abu Dhabi directly. It centers on Massad Boulos\u2019s warning at the UN about the worsening Sudan conflict and the limits of international action.",
+      "importance": 80,
+      "why": "This is a high-importance geopolitical story involving a major civil war, alleged foreign backing of one side, and tension between human rights concerns and U.S.-UAE strategic/economic interests. It could affect regional stability, U.S. foreign policy, and the humanitarian situation in Sudan."
     },
     {
       "source": "War on the Rocks",
@@ -294,9 +274,9 @@
       "summary": "The Kurds&#8217; fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers&#8217; Party (PKK) to dissolve and engage in talks with the Turkish...",
       "link": "https://warontherocks.com/the-shifting-fortunes-of-the-kurds/",
       "published_at": "2026-06-30T17:45:40Z",
-      "ai_summary": "The text discusses changing Kurdish political fortunes, especially after the fall of Syria\u2019s Assad regime in December 2024 and the PKK\u2019s 2025 decision to dissolve and enter talks with Turkey.",
-      "importance": 72,
-      "why": "It concerns major geopolitical developments affecting Kurds across Syria, Turkey, and the wider region, including conflict resolution and regional power shifts."
+      "ai_summary": "The article discusses changing Kurdish political fortunes, focusing on the fall of the Assad regime in Syria in December 2024 and the PKK\u2019s 2025 decision to dissolve and enter talks with Turkey.",
+      "importance": 70,
+      "why": "It covers major developments affecting Kurdish politics and regional stability across Syria, Turkey, and the wider Middle East."
     },
     {
       "source": "Drop Site News",
@@ -304,19 +284,19 @@
       "summary": "&#8220;This area is made up of tents sheltering civilians&#8212;displaced people, people who lived through oppression, humiliation, famine, war and siege. And the whole place was bombed.&#8221;",
       "link": "https://www.dropsitenews.com/p/israel-bombs-gaza-coastline-tents-beach-displaced-palestinians",
       "published_at": "2026-06-25T21:01:48Z",
-      "ai_summary": "An article reports that an Israeli strike hit beach tents sheltering displaced civilians in Gaza, with a witness describing the area as full of people who had already endured oppression, famine, war, and siege.",
-      "importance": 92,
-      "why": "This is a major conflict-related event involving civilian casualties and humanitarian impact in Gaza, which is highly significant for ongoing regional and international news coverage."
+      "ai_summary": "Report of an Israeli strike on tents sheltering displaced Palestinians on a beach in Gaza, described as bombing civilians who have already endured war, famine, and siege.",
+      "importance": 90,
+      "why": "The text describes a major civilian bombing incident in an active conflict, with potential mass-casualty implications and significant humanitarian and geopolitical relevance."
     },
     {
       "source": "Drop Site News",
-      "title": "Palestinians Are Being Denied Return to West Bank Refugee Camps After Israel Bulldozed Their Homes",
-      "summary": "In Jenin, Israel is building the first permanent military base in Area A since the Oslo Accords in the 1990s.",
-      "link": "https://www.dropsitenews.com/p/west-bank-jenin-tulkarm-israeli-military-base-oslo-permits",
-      "published_at": "2026-06-30T21:32:16Z",
-      "ai_summary": "Israel is building its first permanent military base in Area A of the West Bank since the Oslo Accords, alongside actions that have left Palestinians unable to return to refugee camps after home demolitions.",
-      "importance": 86,
-      "why": "The report concerns major developments in the West Bank, including a new permanent Israeli military base in Area A and the denial of return for displaced Palestinians. This has significant implications for the Israeli-Palestinian conflict, civilian displacement, and the status quo established by the Oslo Accords."
+      "title": "Lebanon\u2019s Surrender Agreement: Hezbollah Expert Amal Saad on Beirut\u2019s \u201cFramework\u201d With Israel",
+      "summary": "Jeremy Scahill speaks with the Axis of Resistance scholar about Iran, Hezbollah, Israel, and Trump&#8212;and why she believes another regional war is inevitable.",
+      "link": "https://www.dropsitenews.com/p/lebanon-israel-iran-hezbollah-trump-amal-saad-jeremy-scahill",
+      "published_at": "2026-07-02T14:24:22Z",
+      "ai_summary": "A discussion with Hezbollah expert Amal Saad on Lebanon\u2019s framework with Israel, Iran, Hezbollah, and the broader regional conflict, arguing that another war appears inevitable.",
+      "importance": 74,
+      "why": "The piece addresses major Middle East actors and escalating tensions involving Lebanon, Israel, Hezbollah, and Iran, with implications for regional security and potential war."
     }
   ]
 }
