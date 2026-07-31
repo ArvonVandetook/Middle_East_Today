@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-30T22:57:11.562802Z",
-  "top_story": "US strikes on Iranian targets in Qeshm, Bushehr, and elsewhere overnight on 29\u201330 July pushed a volatile US-Iran confrontation into a more dangerous phase, with Jordan intercepting missiles soon after and Tehran signaling retaliation through pressure on US allies rather than direct de-escalation. The escalation lands as mediators keep peace channels open, but it also deepens a regional climate in which civilians are already absorbing severe harm, from Gaza cancer patients trapped by Israel\u2019s siege and blocked from treatment to prisoners in Iran\u2019s largest jail staging extreme hunger-strike protests amid a surge in executions. Iran\u2019s prison unrest, visible before the strikes, points to internal coercive strain that may harden further under external attack and nationalist mobilization. The near-term outlook is for diplomacy to survive only in parallel with widening retaliation cycles, while the human costs across Iran, Gaza, and neighboring states continue to mount fastest.",
+  "generated_at": "2026-07-31T11:53:23.170788Z",
+  "top_story": "US strikes on dozens of targets in Iran overnight on 30 July widened the regional confrontation and prompted Iranian retaliation against US partners, keeping diplomacy alive but under visible strain. Hours later, Hamas said it had accepted a Trump-backed Gaza formula that includes complete disarmament and transfer of weapons to a Palestinian governing committee, yet by 31 July Israel still had not endorsed the plan and far-right ministers were openly pressing for maximalist war aims and Palestinian displacement. That political deadlock sits atop an acute humanitarian collapse in Gaza, where Israel\u2019s siege is blocking cancer treatment and leaving seriously ill patients to deteriorate without care. The immediate regional picture is one of simultaneous military escalation and fragile bargaining, with Gaza civilians bearing the cost while Israeli acceptance remains the key barrier to any shift from coercion to settlement.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Trump says Board of Peace reaches Gaza disarmament deal",
-      "summary": "July 30 (Reuters) - U.S. President Donald Trump said on Thursday the Board of Peace had reached an agreement for the complete disarmament of Hamas and all other armed groups in Gaza, which would be carried out in phases and eventually lead...",
-      "link": "https://www.al-monitor.com/originals/2026/07/trump-says-board-peace-reaches-gaza-disarmament-deal",
-      "published_at": "2026-07-30T22:46:43Z",
-      "ai_summary": "Trump said the Board of Peace reached an agreement for the phased, complete disarmament of Hamas and other armed groups in Gaza, as part of a broader plan that would eventually lead to further steps on the territory\u2019s future.",
+      "title": "Hamas agrees to disarm under Trump plan, but no word from Israel",
+      "summary": "Hamas said Friday it had agreed to a deal announced by US President Donald Trump to end the war with Israel, that includes it handing over its weapons to a Palestinian governing committee and the gradual withdrawal of Israeli forces from...",
+      "link": "https://www.al-monitor.com/originals/2026/07/hamas-agrees-disarm-under-trump-plan-no-word-israel",
+      "published_at": "2026-07-30T23:30:37Z",
+      "ai_summary": "Hamas said it agreed to a Trump-announced deal to end the war with Israel, including disarming and handing over weapons to a Palestinian governing committee, while Israel had not yet responded.",
       "importance": 92,
-      "why": "This is highly important because it concerns a major development in the Gaza conflict, involving disarmament terms and a U.S.-backed peace framework. It could affect regional security, ceasefire negotiations, and international diplomacy."
+      "why": "This is highly important because it concerns a major potential breakthrough in the Israel-Hamas war, involving disarmament, troop withdrawal, and the possibility of ending the conflict. It has significant implications for regional stability and international diplomacy."
     },
     {
       "source": "Middle East Eye",
@@ -18,19 +18,19 @@
       "summary": "Israel\u2019s restrictions on medicines and medical evacuations leave thousands of cancer patients without life-saving treatment",
       "link": "https://www.middleeasteye.net/news/i-am-dying-slowly-gaza-professor-blocked-cancer-treatment-israels-siege",
       "published_at": "2026-07-30T12:14:00Z",
-      "ai_summary": "A Gaza professor with cancer says Israel\u2019s siege and restrictions on medicines and medical evacuations are preventing him and thousands of other cancer patients from receiving life-saving treatment.",
-      "importance": 95,
-      "why": "The item concerns access to urgent medical care during a conflict, affecting a large number of vulnerable patients and raising serious humanitarian and policy implications."
+      "ai_summary": "A Gaza professor says she is dying slowly because Israel\u2019s siege and restrictions have blocked her from receiving urgent cancer treatment, leaving thousands of cancer patients without life-saving care.",
+      "importance": 98,
+      "why": "The story highlights a severe humanitarian and medical crisis affecting many cancer patients, with immediate life-or-death implications and broader significance about access to healthcare under siege."
     },
     {
       "source": "Al Jazeera",
-      "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-      "summary": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
-      "link": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip",
-      "published_at": "2026-07-30T00:00:00Z",
-      "ai_summary": "Israeli strikes killed at least four people, including children, across the Gaza Strip while Hamas officials met with mediators in Cairo to discuss a truce.",
-      "importance": 85,
-      "why": "This is a high-impact conflict update involving civilian casualties and ongoing ceasefire negotiations, making it newsworthy and significant for regional stability."
+      "title": "Eleven Palestinians, including children, injured in Israel\u2019s Nablus raids",
+      "summary": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus",
+      "published_at": "2026-07-31T00:00:00Z",
+      "ai_summary": "Eleven Palestinians, including children, were injured during Israeli raids in Nablus and related violence in the occupied West Bank, where settlers and soldiers stormed towns and arrests were made in Tal.",
+      "importance": 79,
+      "why": "The report describes a significant escalation of violence involving injuries to civilians, including children, and military/police activity in the occupied West Bank, making it politically and humanly important."
     },
     {
       "source": "Guardian",
@@ -38,79 +38,19 @@
       "summary": "Central Command says strikes aimed at diminishing Iranian military while mediators say talks are continuingMiddle East crisis \u2013 live updatesThe US struck Iran overnight and Tehran retaliated at US allies in the region, reigniting the...",
       "link": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
       "published_at": "2026-07-30T15:30:33Z",
-      "ai_summary": "The US carried out overnight strikes on dozens of targets in Iran, with Iran responding against US allies in the region, while mediators say peace talks are still continuing.",
-      "importance": 98,
-      "why": "This is a major escalation involving direct US-Iran military action and regional retaliation, with significant implications for Middle East security, global diplomacy, and energy markets."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Hormuz and Gulf Are Just the Start: Inside Iran's Plans to Dominate the Middle East",
-      "summary": "https://www.haaretz.com/middle-east-news/2026-07-30/ty-article/.premium/beyond-the-gulf-irans-ambitious-strategy-for-a-new-regional-order/0000019f-b000-d993-af9f-b057047a0000",
-      "link": "https://www.haaretz.com/middle-east-news/2026-07-30/ty-article/.premium/beyond-the-gulf-irans-ambitious-strategy-for-a-new-regional-order/0000019f-b000-d993-af9f-b057047a0000",
-      "published_at": "2026-07-30T00:00:00Z",
-      "ai_summary": "The article argues that Iran\u2019s ambitions go well beyond threatening the Strait of Hormuz or the Persian Gulf, and that it is pursuing a broader strategy to reshape the regional order across the Middle East.",
-      "importance": 83,
-      "why": "The topic is geopolitically significant because it concerns Iran\u2019s long-term regional strategy, which affects security, diplomacy, shipping routes, and conflict dynamics across multiple countries. Even without the full text, the headline indicates a high-impact analysis of Middle East power balance rather than a narrow tactical issue."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Israeli Settlers Set Up At Least Six New Colonial Outposts After Friday Killings in the Occupied West Bank",
-      "summary": "Israeli soldiers and settlers have unleashed a campaign of terror on Palestinians across the occupied West Bank with home raids, shootings, assaults, mass detentions, and house demolitions.",
-      "link": "https://www.dropsitenews.com/p/west-bank-tal-israeli-settlers-army-outposts-arrests-home-demolitions",
-      "published_at": "2026-07-27T22:06:37Z",
-      "ai_summary": "Israeli settlers established at least six new outposts in the occupied West Bank after Friday killings, amid widespread raids, shootings, assaults, detentions, and demolitions targeting Palestinians.",
-      "importance": 89,
-      "why": "The report describes significant escalation in violence and settlement expansion in the occupied West Bank, affecting civilian safety, territorial control, and the broader Israeli-Palestinian conflict."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Nobel Peace Prize winner Murad says justice for Yazidis far too slow",
-      "summary": "Twelve years after the Islamic State's \"genocide\" of Yazidis in Iraq, Nadia Murad, a former sex slave of the jihadist group, said Thursday that progress towards justice remains far too slow. IS jihadists seized large swathes of northern...",
-      "link": "https://www.al-monitor.com/originals/2026/07/nobel-peace-prize-winner-murad-says-justice-yazidis-far-too-slow",
-      "published_at": "2026-07-30T18:30:39Z",
-      "ai_summary": "Nobel Peace Prize laureate Nadia Murad said that justice for Yazidis, targeted in the Islamic State's genocide in Iraq, is still moving far too slowly twelve years later.",
-      "importance": 85,
-      "why": "The article concerns a major human rights issue involving genocide, accountability, and a prominent Nobel Peace Prize winner speaking publicly. It is significant for international justice, minority rights, and ongoing post-conflict accountability efforts."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "War on Iran: Rescuers search for survivors on Qeshm Island after US kills toddler and parents",
-      "summary": "A mother, father and child died in the attack, as US forces launched a wave of attacks on Iran following Tehran's targeting of a Jordanian-American base",
-      "link": "https://www.middleeasteye.net/news/war-iran-rescuers-search-survivors-qeshm-after-us-kills-child-and-two-others",
-      "published_at": "2026-07-30T10:24:00Z",
-      "ai_summary": "US strikes on Iran reportedly killed a mother, father, and toddler on Qeshm Island amid a broader wave of attacks following Tehran\u2019s targeting of a Jordanian-American base.",
-      "importance": 91,
-      "why": "This reports a deadly military escalation involving US strikes on Iran and civilian fatalities, which is highly significant for regional conflict and international relations."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-      "summary": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
-      "link": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea",
-      "published_at": "2026-07-30T00:00:00Z",
-      "ai_summary": "Saudi Arabia is forming a coalition to protect Red Sea shipping from attacks by Iran-backed Houthi forces in Yemen.",
-      "importance": 73,
-      "why": "This is geopolitically significant because it involves regional security, maritime trade protection, and the ongoing conflict in Yemen, with potential impacts on global shipping routes."
-    },
-    {
-      "source": "Guardian",
-      "title": "Prisoners at Iran\u2019s largest jail sew lips shut in hunger strike as executions soar",
-      "summary": "At least 1,500 protest after six men on drug-related charges put in solitary confinement before possible executionPrisoners at Iran\u2019s largest jail have sewn their lips shut as hundreds of them joined a mass hunger strike amid a surge in...",
-      "link": "https://www.theguardian.com/world/2026/jul/28/prisoners-iran-largest-jail-sew-lips-shut-hunger-strike-executions-soar",
-      "published_at": "2026-07-28T10:26:38Z",
-      "ai_summary": "Prisoners at Iran\u2019s largest jail launched a mass hunger strike and some sewed their lips shut in protest after six men on drug-related charges were placed in solitary confinement ahead of possible execution, amid a wider rise in executions and prison unrest.",
+      "ai_summary": "The US carried out overnight strikes against dozens of targets in Iran, aiming to weaken Iranian military capabilities, while Iran responded by targeting US allies in the region. Despite the escalation, mediators say peace talks are still continuing.",
       "importance": 96,
-      "why": "The story is highly important because it involves a large-scale protest by at least 1,500 prisoners, allegations of imminent executions, and a broader pattern of escalating state repression in Iran. It also has significant human rights and international attention implications."
+      "why": "This is a major international military escalation involving the US, Iran, and regional allies, with direct implications for broader Middle East stability, global security, and energy markets."
     },
     {
       "source": "Haaretz",
-      "title": "Hamas Agrees to Hand Over Weapons \u2013 but Not to Israel \u2013 Palestinian Sources Say",
-      "summary": "https://www.haaretz.com/gaza/2026-07-30/ty-article/.premium/hamas-agrees-to-hand-over-weapons-but-not-to-israel-palestinian-sources-say/0000019f-b1e8-da04-a7ff-b9ecf9f30000",
-      "link": "https://www.haaretz.com/gaza/2026-07-30/ty-article/.premium/hamas-agrees-to-hand-over-weapons-but-not-to-israel-palestinian-sources-say/0000019f-b1e8-da04-a7ff-b9ecf9f30000",
-      "published_at": "2026-07-30T00:00:00Z",
-      "ai_summary": "Palestinian sources say Hamas is willing to hand over its weapons, but not to Israel, in the context of ongoing Gaza negotiations.",
-      "importance": 82,
-      "why": "This suggests a potentially significant shift in Hamas\u2019s position on disarmament, which could affect ceasefire talks, postwar governance arrangements in Gaza, and broader regional negotiations."
+      "title": "Trump Announces 'Historic' Gaza Deal; Hamas: Disarmament After IDF Withdrawal",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-07-31/ty-article/.premium/trump-announces-historic-hamas-disarmament-deal-new-gaza-government/0000019f-b537-d993-af9f-b577383f0001",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-07-31/ty-article/.premium/trump-announces-historic-hamas-disarmament-deal-new-gaza-government/0000019f-b537-d993-af9f-b577383f0001",
+      "published_at": "2026-07-31T00:00:00Z",
+      "ai_summary": "Trump announced a proposed Gaza deal described as historic, with Hamas saying disarmament would come only after an IDF withdrawal and a new Gaza government arrangement.",
+      "importance": 87,
+      "why": "The item concerns a major Israel-Gaza diplomatic and security development involving Hamas disarmament, Israeli military withdrawal, and a possible new governing framework in Gaza, which could significantly affect the regional conflict and international policy."
     },
     {
       "source": "Drop Site News",
@@ -118,9 +58,69 @@
       "summary": "In 2012, then-Saudi defense minister Salman bin Abdulaziz instructed the Special Committee of the Council of Ministers to engineer a rift to target Ansarallah.",
       "link": "https://www.dropsitenews.com/p/yemen-saudi-special-committee-cables-houthis-ansarallah-salman",
       "published_at": "2026-07-28T22:16:09Z",
-      "ai_summary": "Leaked Saudi cables suggest that in 2012 Salman bin Abdulaziz instructed a special ministerial committee to create divisions in order to target Ansarallah in Yemen.",
-      "importance": 78,
-      "why": "It reveals high-level Saudi policy planning toward Yemen and indicates deliberate covert political engineering, making it significant for understanding the conflict and regional strategy."
+      "ai_summary": "Leaked Saudi cables suggest that in 2012, then-Defense Minister Salman bin Abdulaziz directed the Special Committee of the Council of Ministers to create internal divisions aimed at targeting Ansarallah in Yemen.",
+      "importance": 76,
+      "why": "This is politically significant because it points to high-level Saudi involvement in shaping Yemen policy through covert or indirect measures, and it sheds light on decision-making behind the conflict."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Man suspected of spying on UK military base for Iran arrested in Cyprus",
+      "summary": "LONDON, July 31 (Reuters) - A dual British-Azerbaijani national has been arrested in Cyprus on suspicion of spying on a British air base on the Mediterranean island and passing information to Iran's Islamic Revolutionary Guard Corps,...",
+      "link": "https://www.al-monitor.com/originals/2026/07/man-suspected-spying-uk-military-base-iran-arrested-cyprus",
+      "published_at": "2026-07-31T07:46:41Z",
+      "ai_summary": "A dual British-Azerbaijani national was arrested in Cyprus on suspicion of spying on a British air base and passing information to Iran's Islamic Revolutionary Guard Corps.",
+      "importance": 86,
+      "why": "The report involves alleged espionage linked to Iran and a British military base, which is a significant national security and diplomatic issue."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Amnesty: India sent 2,596 arms shipments to Israel during genocide in Gaza",
+      "summary": "Amnesty said its 'conservative' methodology meant it was likely underestimating the true extent of India's contribution to Israel",
+      "link": "https://www.middleeasteye.net/news/made-india-new-amnesty-report-shows-indian-arms-sales-israel-during-genocide",
+      "published_at": "2026-07-30T00:01:00Z",
+      "ai_summary": "Amnesty says India sent 2,596 arms shipments to Israel during the Gaza genocide, likely an underestimate due to its conservative methodology.",
+      "importance": 86,
+      "why": "It alleges significant arms transfers from India to Israel during the Gaza conflict, which is politically and humanitarianly important and could have international legal and diplomatic implications."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli forces blow up structures near Lebanon\u2019s Beaufort Castle",
+      "summary": "Israel claims army blew up Hezbollah tunnels in southern Lebanon, amid reports of blasts near UNESCO-listed fortress.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle",
+      "published_at": "2026-07-31T00:00:00Z",
+      "ai_summary": "Israeli forces reportedly blew up structures near Lebanon\u2019s Beaufort Castle, with Israel saying it targeted Hezbollah tunnels in southern Lebanon.",
+      "importance": 63,
+      "why": "The event involves cross-border military action between Israel and Hezbollah in a sensitive border area, with potential regional security implications and reports near a UNESCO-listed site."
+    },
+    {
+      "source": "Guardian",
+      "title": "US joins forces with Saudis to strike Tehran-backed militias in Iraq",
+      "summary": "Oil price spikes after flare-up of fighting and claimed Iranian attacks on three tankers in strait of HormuzThe US military said it knocked down an Iranian missile barrage and worked with Saudi Arabia forces to strike sites in Iraq that...",
+      "link": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+      "published_at": "2026-07-29T09:52:44Z",
+      "ai_summary": "US and Saudi forces responded to escalating tensions in the Gulf by striking Tehran-backed militia targets in Iraq after reported Iranian attacks on tankers and a missile barrage.",
+      "importance": 88,
+      "why": "This is a major geopolitical and military escalation involving the US, Saudi Arabia, Iran, Iraq, and the Strait of Hormuz, with direct implications for regional security and global oil markets."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Int'l Arrest Warrant, Criminal Trial, Oct. 7 Inquiry: The Traps Awaiting Netanyahu if He Loses Israel's Next Election",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-07-30/ty-article/.premium/from-arrest-warrant-to-trial-the-traps-awaiting-netanyahu-if-he-loses-power/0000019f-af69-d6af-a9ff-aff9e4220000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-07-30/ty-article/.premium/from-arrest-warrant-to-trial-the-traps-awaiting-netanyahu-if-he-loses-power/0000019f-af69-d6af-a9ff-aff9e4220000",
+      "published_at": "2026-07-30T00:00:00Z",
+      "ai_summary": "The article examines the legal and political risks facing Benjamin Netanyahu if he loses Israel\u2019s next election, including potential exposure to criminal trial, the ongoing international arrest warrant, and consequences tied to investigations related to the Oct. 7 attack inquiry.",
+      "importance": 82,
+      "why": "It concerns a major sitting political figure and outlines possible legal outcomes that could affect Israel\u2019s leadership transition, domestic politics, and international standing."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Nobel Peace Prize winner Murad says justice for Yazidis far too slow",
+      "summary": "Twelve years after the Islamic State's \"genocide\" of Yazidis in Iraq, Nadia Murad, a former sex slave of the jihadist group, said Thursday that progress towards justice remains far too slow. IS jihadists seized large swathes of northern...",
+      "link": "https://www.al-monitor.com/originals/2026/07/nobel-peace-prize-winner-murad-says-justice-yazidis-far-too-slow",
+      "published_at": "2026-07-30T18:30:39Z",
+      "ai_summary": "Nobel Peace Prize winner Nadia Murad said justice for Yazidis remains far too slow, 12 years after the Islamic State\u2019s genocide in Iraq.",
+      "importance": 81,
+      "why": "The story is significant because it concerns an enduring genocide, accountability for Islamic State crimes, and a prominent human rights advocate speaking on behalf of Yazidi survivors."
     }
   ],
   "regional_analysis": [
@@ -130,9 +130,9 @@
       "summary": "WASHINGTON, July 30 (Reuters) - The United States on Thursday issued new sanctions on Thursday targeting global networks supporting Mahan Air, the Iranian carrier Washington says transports Iran's Revolutionary Guards personnel, as well as...",
       "link": "https://www.al-monitor.com/originals/2026/07/us-issues-sanctions-targeting-support-networks-irans-mahan-air",
       "published_at": "2026-07-30T17:46:44Z",
-      "ai_summary": "The U.S. imposed new sanctions on global networks supporting Iran\u2019s Mahan Air, which Washington says transports personnel for Iran\u2019s Revolutionary Guards.",
+      "ai_summary": "The U.S. imposed new sanctions on networks supporting Iran\u2019s Mahan Air, which Washington says helps transport Revolutionary Guards personnel.",
       "importance": 81,
-      "why": "This is a notable U.S. sanctions action tied to Iran\u2019s military and aviation support networks, but it is a specific policy enforcement step rather than a major geopolitical breakthrough."
+      "why": "This is a notable U.S.-Iran sanctions action affecting an airline linked by Washington to Iran\u2019s Revolutionary Guards, with potential implications for regional security and international aviation/finance networks."
     },
     {
       "source": "Al Monitor",
@@ -140,49 +140,39 @@
       "summary": "Riyadh won political backing from 14 countries for its proposed maritime defense coalition, but members have yet to commit to joining as Washington weighs its position.",
       "link": "https://www.al-monitor.com/originals/2026/07/turkey-pakistan-among-14-countries-backing-saudi-arabias-anti-houthi-red-sea",
       "published_at": "2026-07-30T18:30:53Z",
-      "ai_summary": "Turkey, Pakistan and 12 other countries gave political backing to Saudi Arabia\u2019s proposed maritime defense coalition against Houthi threats in the Red Sea, though none have yet committed to formally joining and Washington is still considering its stance.",
-      "importance": 75,
-      "why": "This is geopolitically significant because it concerns Red Sea security, a major trade and shipping route, and reflects shifting regional alignments around Saudi Arabia\u2019s anti-Houthi initiative."
+      "ai_summary": "Saudi Arabia received political backing from 14 countries, including Turkey and Pakistan, for a proposed maritime defense coalition against Houthi threats in the Red Sea, though no one has yet formally committed to join and Washington is still considering its stance.",
+      "importance": 77,
+      "why": "It involves regional security, major powers\u2019 alignment, and a potential multinational Red Sea maritime coalition affecting shipping and conflict dynamics."
     },
     {
       "source": "Al Monitor",
-      "title": "Turkey ready to participate in post-UNIFIL force in Lebanon, Erdogan tells Aoun",
-      "summary": "Aoun paid a one-day visit to Ankara amid Lebanon's push to secure an Israeli withdrawal and end the fighting between Israel and Hezbollah.",
-      "link": "https://www.al-monitor.com/originals/2026/07/turkey-ready-participate-post-unifil-force-lebanon-erdogan-tells-aoun",
-      "published_at": "2026-07-30T16:35:16Z",
-      "ai_summary": "Turkey is prepared to join a future force in Lebanon after UNIFIL, according to President Erdogan, during talks with Lebanese President Aoun in Ankara about efforts to secure an Israeli withdrawal and end fighting with Hezbollah.",
+      "title": "UK singer Boy George pulls out of musical after pro-Israel song backlash",
+      "summary": "British singer Boy George pulled out of a West End production of the musical \"Jesus Christ Superstar\" after facing a backlash for releasing a pro-Israel song, \"We Will Dance Again\". The 65-year-old musician \"will no longer be appearing in...",
+      "link": "https://www.al-monitor.com/originals/2026/07/uk-singer-boy-george-pulls-out-musical-after-pro-israel-song-backlash",
+      "published_at": "2026-07-31T08:30:37Z",
+      "ai_summary": "Boy George withdrew from a West End production of \"Jesus Christ Superstar\" after criticism over his pro-Israel song \"We Will Dance Again\".",
       "importance": 75,
-      "why": "This is important because it signals possible Turkish involvement in post-conflict security arrangements in Lebanon and relates to wider regional efforts to end the Israel-Hezbollah fighting and shape a post-UNIFIL stabilization framework."
+      "why": "The story involves a high-profile public figure, controversy tied to the Israel-Palestine conflict, and a notable West End production, making it moderately significant entertainment and culture news."
     },
     {
       "source": "Haaretz",
-      "title": "IDF Destroys Iran-funded Hezbollah Tunnel Network in Lebanon",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-07-30/ty-article-live/u-s-strikes-iranian-targets-after-trump-vows-to-hit-iran-very-hard/0000019f-b0bb-d6af-a9ff-b3fb78f40000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-07-30/ty-article-live/u-s-strikes-iranian-targets-after-trump-vows-to-hit-iran-very-hard/0000019f-b0bb-d6af-a9ff-b3fb78f40000",
-      "published_at": "2026-07-30T00:00:00Z",
-      "ai_summary": "The article reports that the IDF destroyed a Hezbollah tunnel network in Lebanon that was funded by Iran, amid broader regional tensions involving strikes on Iranian targets.",
-      "importance": 74,
-      "why": "It concerns a significant military action against a major Iran-backed nonstate actor, with implications for Israel-Lebanon security, regional escalation, and Iran\u2019s influence in the conflict."
+      "title": "The U.S. and Iran Are Stuck in a Loop; Israel Is Stuck Out of It",
+      "summary": "https://www.haaretz.com/middle-east-news/iran/2026-07-31/ty-article/.premium/the-u-s-and-iran-are-stuck-in-loop-israel-is-stuck-out-of-it/0000019f-b443-d3fa-a19f-bdd397b20000",
+      "link": "https://www.haaretz.com/middle-east-news/iran/2026-07-31/ty-article/.premium/the-u-s-and-iran-are-stuck-in-loop-israel-is-stuck-out-of-it/0000019f-b443-d3fa-a19f-bdd397b20000",
+      "published_at": "2026-07-31T00:00:00Z",
+      "ai_summary": "The article argues that the U.S. and Iran are trapped in a recurring cycle of confrontation and limited diplomacy, while Israel remains outside that process and increasingly unable to shape it directly.",
+      "importance": 72,
+      "why": "It appears to address a significant Middle East geopolitical dynamic involving the U.S., Iran, and Israel. The topic is important because it affects regional security, nuclear diplomacy, and alliance strategy, though the exact details are limited by the inaccessible source text."
     },
     {
       "source": "Haaretz",
-      "title": "Three Months to Israel's Election: Why Is Netanyahu Really Going to Washington?",
-      "summary": "https://www.haaretz.com/israel-news/podcasts/2026-07-27/ty-article-podcast/three-months-to-israels-election-why-is-netanyahu-really-going-to-washington/0000019f-a301-df92-a7ff-a7839a380000",
-      "link": "https://www.haaretz.com/israel-news/podcasts/2026-07-27/ty-article-podcast/three-months-to-israels-election-why-is-netanyahu-really-going-to-washington/0000019f-a301-df92-a7ff-a7839a380000",
-      "published_at": "2026-07-27T00:00:00Z",
-      "ai_summary": "The article/podcast appears to analyze Netanyahu\u2019s Washington visit in the context of Israel\u2019s upcoming election, suggesting the trip is driven less by routine diplomacy and more by domestic political strategy. It likely examines how the visit could shape his image, influence voters, and signal priorities on security, U.S. ties, and the war or regional tensions.",
-      "importance": 74,
-      "why": "This is politically significant because a sitting Israeli leader\u2019s U.S. visit shortly before an election can affect campaign messaging, coalition dynamics, and foreign-policy perceptions. It is also relevant for understanding Israel-U.S. relations and how international travel can be used for domestic electoral advantage."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
-      "summary": "Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.",
-      "link": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home",
+      "title": "Is Someone Close to Netanyahu Manipulating Polymarket Bets on His Election Victory?",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-07-30/ty-article-magazine/.highlight/is-someone-close-to-netanyahu-manipulating-polymarket-bets-on-his-election-win/0000019f-af43-debc-a79f-efe3da6d0000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-07-30/ty-article-magazine/.highlight/is-someone-close-to-netanyahu-manipulating-polymarket-bets-on-his-election-win/0000019f-af43-debc-a79f-efe3da6d0000",
       "published_at": "2026-07-30T00:00:00Z",
-      "ai_summary": "Syrian families returning from abroad, including from Toronto to Damascus, are hoping to rebuild their country and restore community despite major challenges.",
-      "importance": 73,
-      "why": "The piece highlights a meaningful post-conflict social and diaspora-repatriation story: people returning home with hopes of reconstruction, community restoration, and resilience. It is important because it reflects broader rebuilding efforts in Syria, though it is more human-interest than policy-critical."
+      "ai_summary": "Article investigates whether a person close to Benjamin Netanyahu may be influencing Polymarket bets tied to his election prospects, raising concerns about possible market manipulation and political intelligence.",
+      "importance": 72,
+      "why": "It touches on potential election-market manipulation involving a major political figure, which is newsworthy for both Israeli politics and the integrity of prediction markets. The piece appears investigative rather than purely opinion-based, so it could matter to readers tracking elections, fintech, or influence operations."
     }
   ],
   "deep_analysis": [
@@ -192,29 +182,9 @@
       "summary": "Denial of access to the injured and killed, with corpses left to rot, is a systematic strategy of Israel\u2019s genocidal war against Palestinians",
       "link": "https://www.middleeasteye.net/opinion/gaza-dont-only-see-death-smell-breathe-it",
       "published_at": "2024-01-14T09:28:00Z",
-      "ai_summary": "The text argues that in Gaza, the war\u2019s devastation is not only visible but also experienced through the smell and presence of death, claiming that blocked access to the injured and dead and leaving corpses to rot is part of Israel\u2019s systematic genocidal strategy against Palestinians.",
-      "importance": 88,
-      "why": "It addresses a highly consequential and ongoing conflict, makes a strong allegation of genocide, and highlights humanitarian abuse involving access to the dead and injured, which is significant for public understanding and international scrutiny."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "The Fate of Mossadegh in Contemporary Nationalism: Revisiting a Contest over Memory",
-      "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
-      "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
-      "published_at": null,
-      "ai_summary": "The passage argues that Iranian nationalism has recently resurged, with debates over figures like Mossadegh becoming central to contemporary struggles over public memory and political legitimacy.",
-      "importance": 88,
-      "why": "It highlights a major intellectual and political trend in Iran and frames Mossadegh as a key symbol in ongoing contests over nationalism, memory, and identity."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Tell killings: Does the right of self-defence apply only to Jews?",
-      "summary": "Armed settlers attacked a West Bank village, yet Israeli society blamed Palestinians for the violence. When self-defence depends on nationality, equality before the law ceases to exist",
-      "link": "https://www.middleeasteye.net/opinion/tell-killings-does-right-self-defence-apply-only-jews",
-      "published_at": "2026-07-27T08:46:00Z",
-      "ai_summary": "The piece argues that when self-defence is treated as a right reserved for Jews or Israelis, Palestinians are denied equal protection and equality before the law is undermined.",
-      "importance": 85,
-      "why": "It addresses a major political and legal issue: how self-defence, violence, and legal equality are framed in the Israeli-Palestinian context. The headline and excerpt suggest a consequential critique of discriminatory double standards, making it significant for understanding the conflict and human rights debate."
+      "ai_summary": "The text argues that Israel\u2019s war in Gaza systematically denies access to the injured and dead, leaving corpses to rot, as part of a genocidal strategy against Palestinians.",
+      "importance": 91,
+      "why": "It makes a strong, politically charged claim about the conduct of the war in Gaza and frames it as evidence of genocide, which is highly consequential and likely to be widely discussed."
     },
     {
       "source": "Jadaliyya",
@@ -222,9 +192,9 @@
       "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
       "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
       "published_at": null,
-      "ai_summary": "An interview with Adam Hanieh argues that Israel\u2019s June 2025 attack on Iran should be understood not only as a military escalation, but as part of a broader political-economic struggle tied to regional power, energy, sanctions, and imperial influence in the Middle East.",
-      "importance": 84,
-      "why": "It connects a major current conflict to larger issues of global energy, sanctions, regional capitalism, and geopolitical strategy, offering substantive context beyond immediate battlefield developments."
+      "ai_summary": "An interview with Adam Hanieh arguing that the war on Iran should be understood not just as a military conflict or an energy-market event, but as part of a wider political economy shaped by imperial power, regional capitalism, and control over resources and trade.",
+      "importance": 88,
+      "why": "The piece appears to offer analysis of a major 2025 conflict with implications for geopolitics, energy markets, and regional political economy. Its significance is high because it frames the Iran war in a broader structural context that is relevant to understanding Middle East power dynamics and global capitalism."
     },
     {
       "source": "Jadaliyya",
@@ -232,41 +202,41 @@
       "summary": "Basit Kareem Iqbal,\u00a0The Dread Heights: Tribulation and Refuge after the Syrian Revolution\u00a0(Fordham University Press, 2025). Jadaliyya (J): What made you write this book? Basit Kareem Iqbal (BKI):\u00a0I lived in Syria for one formative year...",
       "link": "https://www.jadaliyya.com/Details/47514/Basit-Kareem-Iqbal,-The-Dread-Heights-Tribulation-and-Refuge-after-the-Syrian-Revolution-New-Texts-Out-Now",
       "published_at": null,
-      "ai_summary": "Interview announcing Basit Kareem Iqbal\u2019s book The Dread Heights: Tribulation and Refuge after the Syrian Revolution, which explores Syria through the author\u2019s formative year living there and the aftermath of the revolution.",
-      "importance": 64,
-      "why": "This is a humanities/cultural studies book announcement tied to the Syrian Revolution and refugee/tribulation themes. It is likely relevant to readers interested in Middle East studies, forced migration, and contemporary political history, but it is not a major breaking-news item."
+      "ai_summary": "Interview announcing Basit Kareem Iqbal\u2019s book *The Dread Heights: Tribulation and Refuge after the Syrian Revolution* (Fordham University Press, 2025), with an opening discussion of what motivated him to write it and his formative year living in Syria.",
+      "importance": 48,
+      "why": "This is a publication announcement and author interview about a scholarly book on the Syrian revolution and refugee experience. It is relevant for readers tracking Middle East studies, Syria, and new academic texts, but it does not appear to report urgent news or major breaking developments."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "'Rethinking US Middle Eastern Policy' Lecture Series: Space and Regionalism in the Persian Gulf with Arang Keshavarzian",
+      "summary": "[The following is the sixth in a lecture series as part of\u00a0\"Rethinking US Middle East Policy: Past, Present, and Prospects,\"\u00a0a new research intiative brought by\u00a0Security in Context\u00a0and the Arab Studies Institute.] In this video, Professor...",
+      "link": "https://www.jadaliyya.com/Details/47455/Rethinking-US-Middle-Eastern-Policy-Lecture-Series-Space-and-Regionalism-in-the-Persian-Gulf-with-Arang-Keshavarzian",
+      "published_at": null,
+      "ai_summary": "Announcement for the sixth lecture in the \u201cRethinking US Middle East Policy: Past, Present, and Prospects\u201d series, featuring Professor Arang Keshavarzian speaking on space and regionalism in the Persian Gulf.",
+      "importance": 37,
+      "why": "This is a lecture-series announcement about Middle East policy and Gulf regionalism, which may be relevant to academic or policy-oriented audiences, but it is primarily informational and not urgent news."
     },
     {
       "source": "Carnegie ME",
-      "title": "New Syria, Old Lebanon: Absence of the State",
-      "summary": "Any move by the United States to make good on Trump\u2019s suggestion that Washington persuade Damascus to confront Hezbollah militarily would have catastrophic consequences.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/06/new-syria-old-lebanon-absence-of-the-state",
-      "date": "Jun 29, 2026",
+      "title": "In the Trump Gaza Plan, Diplomatic Failure is Success",
+      "summary": "By failing to address Palestinian representation, the current process is bound to lead to just another temporary arrangement.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/07/in-gaza-diplomatic-failure-is-success",
+      "date": "Jul 20, 2026",
       "published_at": null,
-      "ai_summary": "The text warns that any U.S. attempt to push Damascus into militarily confronting Hezbollah would likely have catastrophic consequences.",
-      "importance": 83,
-      "why": "It highlights a potentially severe regional escalation involving Syria, Lebanon, Hezbollah, and U.S. policy, making it strategically significant."
+      "ai_summary": "The piece argues that the Trump Gaza plan is fundamentally flawed because it fails to address Palestinian representation, making any resulting agreement likely temporary rather than durable.",
+      "importance": 73,
+      "why": "It comments on a major Middle East peace initiative and highlights a structural weakness\u2014lack of Palestinian representation\u2014that could determine whether the plan succeeds or fails."
     },
     {
       "source": "Carnegie ME",
-      "title": "The West\u2019s Climate Colonialism in the Greater Middle East",
-      "summary": "There is a disturbing structural parallel between the old global energy economy and the new green transition.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/06/the-wests-climate-colonialism-in-the-greater-middle-east",
-      "date": "Jun 30, 2026",
+      "title": "Kurdish Rebel Groups Are Wary of Tehran\u2019s Next Move",
+      "summary": "Following its deal with the United States, Iran may act against Iraq-based dissidents.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/07/kurdish-rebel-groups-are-wary-of-tehrans-next-move",
+      "date": "Jul 7, 2026",
       "published_at": null,
-      "ai_summary": "The text argues that the Western-led green transition may reproduce colonial power dynamics in the Greater Middle East by creating a new form of climate colonialism similar to the old fossil-fuel economy.",
-      "importance": 79,
-      "why": "It raises a significant geopolitical and ethical critique of the energy transition, connecting climate policy to historical patterns of extraction and unequal power relations in a strategically important region."
-    },
-    {
-      "source": "War on the Rocks",
-      "title": "Parsing Trump\u2019s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia",
-      "summary": "On June 22, the United States announced that it had signed a nuclear cooperation agreement with Saudi Arabia. This type of agreement broadly authorizes trade in nuclear technology, equipment, and materials, but only if the agreement and...",
-      "link": "https://warontherocks.com/parsing-trumps-decision-to-maybe-give-uranium-enrichment-to-saudi-arabia/",
-      "published_at": "2026-07-29T07:30:23Z",
-      "ai_summary": "The article analyzes a U.S.-Saudi nuclear cooperation agreement announced on June 22, focusing on the implications of potentially allowing Saudi uranium enrichment and the broader policy, security, and proliferation concerns tied to Trump\u2019s decision.",
-      "importance": 76,
-      "why": "It concerns nuclear nonproliferation, U.S. foreign policy, and Middle East security, with potentially significant strategic and geopolitical consequences."
+      "ai_summary": "Iran may target Iraq-based Kurdish dissidents after its deal with the United States, prompting concern among Kurdish rebel groups.",
+      "importance": 73,
+      "why": "The item signals a potential shift in Iran\u2019s regional behavior and possible pressure on armed dissident groups in Iraq, which could affect cross-border security and regional politics."
     },
     {
       "source": "Responsible Statecraft",
@@ -274,9 +244,29 @@
       "summary": "On June 26, two official delegations \u2014 one from Israel and one from Lebanon \u2014 signed a framework agreement with great fanfare in Washington. Secretary of State Marco Rubio, openly enthusiastic, framed the event as paving the way toward...",
       "link": "https://responsiblestatecraft.org/trump-hezbollah-lebanon/",
       "published_at": "2026-07-30T04:05:01Z",
-      "ai_summary": "The article argues that the Trump administration\u2019s optimistic push to expand normalization and security agreements involving Lebanon is colliding with harsh political and regional realities, limiting what Washington can actually achieve.",
+      "ai_summary": "The article argues that Trump\u2019s Lebanon policy is colliding with political and security realities, despite optimistic U.S. messaging around recent Israel-Lebanon diplomatic steps.",
+      "importance": 74,
+      "why": "It concerns U.S. Middle East policy, Israel-Lebanon diplomacy, and the limits of American leverage in a volatile regional conflict, all of which have broader strategic significance."
+    },
+    {
+      "source": "War on the Rocks",
+      "title": "Parsing Trump\u2019s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia",
+      "summary": "On June 22, the United States announced that it had signed a nuclear cooperation agreement with Saudi Arabia. This type of agreement broadly authorizes trade in nuclear technology, equipment, and materials, but only if the agreement and...",
+      "link": "https://warontherocks.com/parsing-trumps-decision-to-maybe-give-uranium-enrichment-to-saudi-arabia/",
+      "published_at": "2026-07-29T07:30:23Z",
+      "ai_summary": "Analysis of a U.S.\u2013Saudi nuclear cooperation agreement, focusing on the possible transfer or authorization of uranium enrichment and its geopolitical implications.",
       "importance": 70,
-      "why": "It concerns U.S. foreign policy in the Middle East, especially Lebanon-Israel relations and the limits of diplomatic leverage. The topic has regional security implications and reflects broader tensions between political messaging and on-the-ground feasibility."
+      "why": "The topic involves U.S. nuclear policy, Saudi Arabia, and nonproliferation risks, which have significant strategic and security implications, though it is a single policy analysis piece rather than a major breaking event."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Israeli Settlers Set Up At Least Six New Colonial Outposts After Friday Killings in the Occupied West Bank",
+      "summary": "Israeli soldiers and settlers have unleashed a campaign of terror on Palestinians across the occupied West Bank with home raids, shootings, assaults, mass detentions, and house demolitions.",
+      "link": "https://www.dropsitenews.com/p/west-bank-tal-israeli-settlers-army-outposts-arrests-home-demolitions",
+      "published_at": "2026-07-27T22:06:37Z",
+      "ai_summary": "Israeli soldiers and settlers carried out raids, shootings, assaults, mass detentions, and house demolitions across the occupied West Bank, alongside the establishment of at least six new settler outposts after Friday killings.",
+      "importance": 90,
+      "why": "The report describes a major escalation of violence and settlement expansion in the occupied West Bank, involving both state and settler actions and likely affecting regional stability and civilian safety."
     }
   ]
 }
