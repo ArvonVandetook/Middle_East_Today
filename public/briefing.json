@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-02T11:11:55.397922Z",
-  "top_story": "A Gaza deal framework announced on 31 July quickly collided with conditions on the ground: by 1 August, strikes in Gaza had killed seven people and damaged hospital supplies despite Hamas signaling acceptance of the next stage, underscoring how little protection diplomacy still offers civilians already shaped by repeated family loss and displacement. That same day, Iran\u2019s attack on two tankers under US escort in the Strait of Hormuz broadened the confrontation with Washington from military exchange to maritime coercion, pushing energy prices higher and sharpening Gulf fears of a wider war. By 2 August, Trump had delayed new US strikes after Saudi alarm and Iranian threats raised the costs of escalation, suggesting regional pressure is constraining military options more effectively than formal bargaining. The regional picture is one of fragile political openings repeatedly overtaken by force, with civilians and economic lifelines absorbing the immediate consequences.",
+  "generated_at": "2026-08-02T22:46:16.946299Z",
+  "top_story": "Iran\u2019s reported strike on two tankers under U.S. escort in the Strait of Hormuz on 31 July widened the confrontation beyond military targets, jolting energy markets and exposing how quickly regional commerce and civilian livelihoods can be pulled into U.S.-Iran escalation. Trump\u2019s 2 August decision to cancel planned strikes suggests both Washington and regional states are trying to contain a broader war, even after direct attacks tested deterrence and raised the cost of miscalculation. This de-escalatory turn sits against Gaza\u2019s enduring reality, where the long-running conditions of death, denied recovery, and social devastation have continued into repeated family annihilation, underscored by Fatima Nofal\u2019s loss of yet another son in central Gaza. The regional picture is one of leaders stepping back from one acute interstate crisis while Palestinians remain trapped in a chronic catastrophe that keeps reshaping civilian life faster than diplomacy can respond.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Gaza officials say Israeli strikes kill seven day after deal",
-      "summary": "Gaza authorities said that seven people were killed in Israeli strikes Saturday that also damaged a hospital's medical supplies, a day after Hamas said it agreed to the latest stage of a deal to end the war. The Israeli military for its...",
-      "link": "https://www.al-monitor.com/originals/2026/08/gaza-officials-say-israeli-strikes-kill-seven-day-after-deal",
-      "published_at": "2026-08-01T19:30:36Z",
-      "ai_summary": "Gaza authorities reported seven people killed in Israeli strikes and damage to a hospital\u2019s medical supplies, despite Hamas saying it had agreed to the latest stage of a deal to end the war.",
+      "title": "Israeli strikes kill 18 in Gaza, minister says no deal to halt attacks",
+      "summary": "By Nidal al-Mughrabi and Steven ScheerCAIRO/JERUSALEM, Aug 2 (Reuters) - Israeli airstrikes hit Gaza for a second straight day on Sunday, killing at least 18 Palestinians, medics said, despite U.S. President Donald Trump's announcement of...",
+      "link": "https://www.al-monitor.com/originals/2026/08/israeli-strikes-kill-18-gaza-minister-says-no-deal-halt-attacks",
+      "published_at": "2026-08-02T00:46:39Z",
+      "ai_summary": "Israeli airstrikes continued in Gaza for a second day, killing at least 18 Palestinians, while Israeli officials said there was no deal to stop the attacks despite U.S. President Donald Trump's announcement.",
       "importance": 90,
-      "why": "This is a conflict-related development involving fatalities, attacks on medical infrastructure, and a possible shift in ceasefire or peace negotiations, making it highly newsworthy and geopolitically significant."
+      "why": "This is a major breaking conflict update involving ongoing casualties in Gaza, Israeli military action, and a diplomatic situation touching U.S. involvement and ceasefire prospects."
     },
     {
       "source": "Middle East Eye",
@@ -18,19 +18,19 @@
       "summary": "Fatima Nofal gave birth to Zaid after losing three sons in an Israeli air strike in 2023. Fifteen months later, another Israeli strike killed him in central Gaza",
       "link": "https://www.middleeasteye.net/news/after-israel-killed-her-three-sons-she-found-hope-newborn-then-israel-killed-him-too",
       "published_at": "2026-08-01T10:59:00Z",
-      "ai_summary": "Fatima Nofal lost three sons in an Israeli air strike in 2023, then found hope in her newborn Zaid, who was killed 15 months later in another Israeli strike in central Gaza.",
+      "ai_summary": "Fatima Nofal, who found hope in her newborn son Zaid after losing three sons in an Israeli air strike in 2023, later lost Zaid too when another Israeli strike killed him in central Gaza.",
       "importance": 95,
-      "why": "The story is highly significant because it describes repeated civilian child deaths in the Gaza conflict and the deep personal toll on one family, making it both emotionally powerful and representative of broader humanitarian harm."
+      "why": "This is a highly tragic and emotionally powerful human-interest story tied to the ongoing Israel-Gaza conflict. It highlights repeated civilian loss, grief, and the humanitarian impact of the war, making it significant for both newsworthiness and public understanding."
     },
     {
       "source": "Al Jazeera",
-      "title": "\u2018Marathon\u2019 shines light on Gaza\u2019s orphaned children and humanitarian crisis",
-      "summary": "More than 58,000 children have lost one or both parents by Israel\u2019s war, highlighting urgent humanitarian challenges.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis",
-      "published_at": "2026-08-01T00:00:00Z",
-      "ai_summary": "A report on \u2018Marathon\u2019 highlights Gaza\u2019s orphaned children and the wider humanitarian crisis, noting that more than 58,000 children have lost one or both parents in the war.",
-      "importance": 89,
-      "why": "This is highly important because it quantifies the scale of child orphanhood in Gaza and frames it as part of an urgent humanitarian emergency with major civilian impact."
+      "title": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war",
+      "summary": "US president halted strikes after earlier threatening Iran with unprecedented force.",
+      "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war",
+      "published_at": "2026-08-02T00:00:00Z",
+      "ai_summary": "Saudi Crown Prince MBS urged Trump to prioritize dialogue in the US-Iran conflict after Trump halted strikes following earlier threats of unprecedented force.",
+      "importance": 75,
+      "why": "This involves high-stakes US-Iran tensions and direct intervention by a major regional power, which could affect war, diplomacy, and global security."
     },
     {
       "source": "Guardian",
@@ -38,19 +38,19 @@
       "summary": "Energy prices have soared again since fighting between US and Iran resumed two weeks ago as conflict spreads across Middle EastIran has said it struck two tankers trying to pass through the strait of Hormuz under the escort of the US...",
       "link": "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet",
       "published_at": "2026-07-31T14:48:53Z",
-      "ai_summary": "Iran struck two tankers attempting to pass through the Strait of Hormuz under US escort as fighting with the US resumed and spread across the Middle East, driving energy prices sharply higher.",
-      "importance": 95,
-      "why": "The story involves direct military confrontation between Iran and US-escorted shipping in the Strait of Hormuz, a critical global energy chokepoint. It signals major escalation risk, immediate market impact, and potential wider regional war, all of which make it highly significant."
+      "ai_summary": "Iran reportedly struck two tankers in the Strait of Hormuz under U.S. escort as fighting with the U.S. resumes and spreads across the Middle East, driving energy prices higher.",
+      "importance": 93,
+      "why": "The Strait of Hormuz is a critical global oil transit chokepoint, so attacks there can quickly affect energy markets, shipping, and wider regional security. The mention of Trump convening his cabinet to discuss war indicates a major escalation with potential international consequences."
     },
     {
       "source": "Haaretz",
-      "title": "Report: U.S., Israel Preparing Extensive Strikes on Iranian Energy Sites as Soon as This Weekend",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-07-31/ty-article-live/idf-destroys-iran-funded-hezbollah-tunnel-network-in-lebanon/0000019f-b5da-d993-af9f-b5dfb3790000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-07-31/ty-article-live/idf-destroys-iran-funded-hezbollah-tunnel-network-in-lebanon/0000019f-b5da-d993-af9f-b5dfb3790000",
-      "published_at": "2026-07-31T00:00:00Z",
-      "ai_summary": "Report says the U.S. and Israel may be preparing extensive strikes on Iranian energy sites as soon as this weekend.",
-      "importance": 89,
-      "why": "This is highly consequential because it suggests imminent military action by two major powers against critical Iranian infrastructure, which could sharply escalate regional conflict, affect global energy markets, and trigger broader geopolitical and security repercussions."
+      "title": "Source: Israel Demands Right to Strike Gaza Areas Set for International Force",
+      "summary": "https://www.haaretz.com/gaza/2026-08-02/ty-article/.premium/source-israel-wants-freedom-to-strike-in-gaza-areas-to-be-handed-to-intl-force/0000019f-c12a-da0f-a59f-e5ef7ffa0000",
+      "link": "https://www.haaretz.com/gaza/2026-08-02/ty-article/.premium/source-israel-wants-freedom-to-strike-in-gaza-areas-to-be-handed-to-intl-force/0000019f-c12a-da0f-a59f-e5ef7ffa0000",
+      "published_at": "2026-08-02T00:00:00Z",
+      "ai_summary": "Israel is reportedly seeking the right to continue striking parts of Gaza even after those areas are transferred to an international force.",
+      "importance": 74,
+      "why": "This is a significant development in the Gaza war and any post-conflict governance arrangement. It affects ceasefire dynamics, international peacekeeping plans, and the risk of renewed escalation."
     },
     {
       "source": "Al Monitor",
@@ -59,28 +59,28 @@
       "link": "https://www.al-monitor.com/originals/2026/08/us-embassies-urge-citizens-consider-departing-middle-east",
       "published_at": "2026-08-01T16:30:46Z",
       "ai_summary": "US embassies across the Middle East warned citizens of possible unforeseen escalation and urged them to be ready to depart the region.",
-      "importance": 89,
-      "why": "This is a significant geopolitical and security alert involving multiple US embassies and a potential regional conflict escalation, which could affect many people and has broader international implications."
+      "importance": 90,
+      "why": "This is a significant geopolitical and safety alert involving multiple US embassies and a potential regional escalation, which could affect travel, security, and diplomatic developments."
     },
     {
       "source": "Middle East Eye",
-      "title": "'We cried instead of celebrating': War and loss shadow Gaza's top students",
-      "summary": "Some topped Palestine. Others were killed before their results were announced",
-      "link": "https://www.middleeasteye.net/news/we-cried-instead-celebrating-war-and-loss-shadow-gazas-top-students",
-      "published_at": "2026-08-01T13:29:00Z",
-      "ai_summary": "War and loss overshadowed Gaza\u2019s top students, with some of the highest achievers in Palestine either killed before exam results were released or unable to celebrate due to the conflict.",
-      "importance": 89,
-      "why": "The piece highlights the human cost of the Gaza war through the stories of top students whose achievements were marked by death, displacement, and grief, making it socially and emotionally significant."
+      "title": "Israel's genocide has frozen a generation of Gaza's young doctors",
+      "summary": "With crossings closed and hospitals destroyed, medical training is at a standstill - and the specialists Gaza needs to rebuild may never exist",
+      "link": "https://www.middleeasteye.net/opinion/israels-genocide-has-frozen-generation-gazas-young-doctors",
+      "published_at": "2026-08-02T15:15:00Z",
+      "ai_summary": "The article says Israel\u2019s assault on Gaza has halted medical education by closing crossings and destroying hospitals, leaving a generation of young doctors unable to train and threatening Gaza\u2019s future supply of specialists.",
+      "importance": 91,
+      "why": "It highlights a major humanitarian and long-term public health impact of the war: the collapse of medical training in Gaza could have lasting consequences for the territory\u2019s healthcare system and recovery."
     },
     {
       "source": "Al Jazeera",
-      "title": "Palestinian children among those detained by Israel in West Bank raids",
-      "summary": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids",
-      "published_at": "2026-08-01T00:00:00Z",
-      "ai_summary": "Reports say settler violence is escalating across the West Bank, with illegal outposts and frequent attacks in Ramallah, Hebron and Nablus, and Palestinian children among those detained in Israeli raids.",
-      "importance": 87,
-      "why": "This concerns an ongoing and significant escalation in West Bank violence and detentions, including reports involving children and multiple major areas, indicating high humanitarian and political importance."
+      "title": "Yemen\u2019s crumbling roads mean an arduous quest for water for Taiz villagers",
+      "summary": "Poor road infrastructure is exacerbating Yemen\u2019s water crisis, leading to hardships for thousands in Taiz governorate.",
+      "link": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers",
+      "published_at": "2026-08-02T00:00:00Z",
+      "ai_summary": "Poor road infrastructure in Yemen is worsening the water crisis for villagers in Taiz, making access to water increasingly difficult.",
+      "importance": 73,
+      "why": "The piece highlights how damaged roads directly intensify an already severe humanitarian problem by obstructing water access for thousands of people in Taiz governorate."
     },
     {
       "source": "Guardian",
@@ -88,61 +88,51 @@
       "summary": "Trump\u2019s conflict keeps escalating, with Saudi Arabia joining airstrikes in Iraq and reportedly planning an attack on the Houthis. A recession could followThe US war against Iran is spiraling out of control. Over the past week, the conflict...",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/01/us-iran-war-trump-recession",
       "published_at": "2026-08-01T09:00:49Z",
-      "ai_summary": "The article argues that the US conflict with Iran is rapidly escalating and becoming harder to control, with regional actors like Saudi Arabia getting drawn in and the risk of broader instability, including recession, increasing.",
-      "importance": 90,
-      "why": "This is a major geopolitical escalation involving the US, Iran, Saudi Arabia, Iraq, and the Houthis, with potential consequences for regional war, global oil markets, and the world economy."
+      "ai_summary": "The article argues that the US conflict with Iran is escalating rapidly and could trigger broader regional war and economic fallout, including Saudi participation, attacks in Iraq and Yemen, and a potential recession.",
+      "importance": 91,
+      "why": "It discusses a major international security crisis involving the US, Iran, Saudi Arabia, Iraq, and the Houthis, with potential consequences for regional stability and the global economy. The piece is significant because it frames the conflict as escalating beyond control and warns of serious geopolitical and economic impacts."
     },
     {
       "source": "Haaretz",
-      "title": "Source: Israel Demands Right to Strike Gaza Areas Set for International Force",
-      "summary": "https://www.haaretz.com/gaza/2026-08-02/ty-article/.premium/source-israel-wants-freedom-to-strike-in-gaza-areas-to-be-handed-to-intl-force/0000019f-c12a-da0f-a59f-e5ef7ffa0000",
-      "link": "https://www.haaretz.com/gaza/2026-08-02/ty-article/.premium/source-israel-wants-freedom-to-strike-in-gaza-areas-to-be-handed-to-intl-force/0000019f-c12a-da0f-a59f-e5ef7ffa0000",
-      "published_at": "2026-08-02T00:00:00Z",
-      "ai_summary": "Israel is reported to be demanding the right to continue striking parts of Gaza even after those areas are handed over to an international force.",
-      "importance": 78,
-      "why": "The piece concerns a major Gaza post-war security arrangement and Israel\u2019s operational freedom under an international deployment, which could affect ceasefire terms, regional stability, and diplomatic negotiations."
+      "title": "Report: U.S. Short on Forces to Defend Israel From Iranian Missiles, General Warns",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-08-01/ty-article/report-u-s-lacks-forces-to-defend-israel-from-iranian-missiles-general-warns/0000019f-bd56-ded7-adbf-fddf0d070000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-08-01/ty-article/report-u-s-lacks-forces-to-defend-israel-from-iranian-missiles-general-warns/0000019f-bd56-ded7-adbf-fddf0d070000",
+      "published_at": "2026-08-01T00:00:00Z",
+      "ai_summary": "A report says a U.S. general warned that the United States may not have enough forces positioned to help defend Israel against an Iranian missile attack.",
+      "importance": 72,
+      "why": "This concerns U.S.-Israel military readiness and regional security, with potential implications for deterrence, escalation, and air/missile defense capacity."
     },
     {
       "source": "Al Monitor",
-      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
-      "summary": "By Yasmine Ghania and Menna AlaaElDinCAIRO, Aug 2 (Reuters) - President Donald Trump has said the U.S. will hold off on a fresh attack on Iran as long as a deal can be reached quickly to halt Iran's nuclear ambitions and reopen the Strait...",
-      "link": "https://www.al-monitor.com/originals/2026/08/trump-says-he-will-hold-fresh-iran-attack-hope-quick-deal",
-      "published_at": "2026-08-01T22:46:38Z",
-      "ai_summary": "Trump said the U.S. will pause any new attack on Iran if a deal to curb Iran\u2019s nuclear program can be reached quickly and the Strait of Hormuz can be reopened.",
+      "title": "OPEC+ boosts September production by 188,000 barrels/day",
+      "summary": "Saudi Arabia, Russia and five other key members of OPEC+ agreed in an online meeting Sunday to boost oil production by 188,000 barrels a day from September, against a backdrop of disruption caused by the Mideast war. \"The seven...",
+      "link": "https://www.al-monitor.com/originals/2026/08/opec-boosts-september-production-188000-barrelsday",
+      "published_at": "2026-08-02T03:30:39Z",
+      "ai_summary": "OPEC+ agreed to raise oil production by 188,000 barrels per day starting in September, despite Middle East conflict-related disruptions.",
       "importance": 87,
-      "why": "This is highly important because it concerns U.S.-Iran military tensions, potential nuclear negotiations, and global shipping disruption through the Strait of Hormuz, all of which can affect regional security and energy markets."
+      "why": "This is important because OPEC+ decisions directly affect global oil supply, prices, and energy markets. A coordinated production increase by major producers like Saudi Arabia and Russia can influence inflation, fuel costs, and geopolitical dynamics."
     },
     {
       "source": "Middle East Eye",
-      "title": "Spanish commentators accuse Israel and US of involvement in Ceuta crisis",
-      "summary": "Some 60,000 people crossed into Ceuta from Morocco this week, including around 8,000 children",
-      "link": "https://www.middleeasteye.net/news/spanish-minister-clashes-israeli-diplomat-over-migrants-entering-ceuta-morocco",
-      "published_at": "2026-08-01T14:03:00Z",
-      "ai_summary": "Spanish commentators accused Israel and the United States of involvement in the Ceuta migration crisis after around 60,000 people crossed from Morocco into the Spanish enclave, including about 8,000 children.",
-      "importance": 77,
-      "why": "The event involves a major border and migration crisis affecting Spain and Morocco, with notable political accusations involving Israel and the US. It is significant regionally and could have diplomatic implications."
+      "title": "'They almost killed my child': Women in Syria's Roj camp describe night of gunfire and fear",
+      "summary": "Women detained in northeast Syria's Roj camp say bullets tore through tents housing children during a confrontation with Kurdish-led security forces",
+      "link": "https://www.middleeasteye.net/news/they-almost-killed-my-child-women-syrias-roj-camp-describe-night-gunfire-and-fear",
+      "published_at": "2026-08-02T16:01:00Z",
+      "ai_summary": "Women detained in northeast Syria\u2019s Roj camp say a confrontation with Kurdish-led security forces led to gunfire that tore through tents housing children, leaving them fearful and saying their children were nearly killed.",
+      "importance": 81,
+      "why": "This reports a violent incident affecting detained women and children in a conflict zone, highlighting safety risks in a camp setting and potential human rights concerns."
     }
   ],
   "regional_analysis": [
     {
-      "source": "Al Jazeera",
-      "title": "Gaza students overcome Israel\u2019s genocide to mark Tawjihi results",
-      "summary": "Students in Gaza overcome distressing conditions amid Israel\u2019s genocide to finish their Tawjihi high school exams.",
-      "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results",
-      "published_at": "2026-08-02T00:00:00Z",
-      "ai_summary": "Gaza students completed Tawjihi high school exams despite the extreme hardship of Israel\u2019s genocide.",
-      "importance": 83,
-      "why": "The item reports a significant education milestone achieved under severe wartime conditions in Gaza, highlighting resilience amid an ongoing humanitarian crisis."
-    },
-    {
       "source": "Al Monitor",
-      "title": "OPEC+ tipped to raise production again but new quotas loom",
-      "summary": "Saudi Arabia, Russia and five other members of OPEC+ are expected to raise their oil production quotas for September when they meet online Sunday as the Middle East war continues to disrupt global energy supplies. The enlarged Organisation...",
-      "link": "https://www.al-monitor.com/originals/2026/08/opec-tipped-raise-production-again-new-quotas-loom",
-      "published_at": "2026-08-02T03:30:39Z",
-      "ai_summary": "OPEC+ is expected to raise oil production quotas for September, even as Middle East conflict continues to disrupt energy markets, with new quota levels likely to be set at an online meeting.",
-      "importance": 81,
-      "why": "This is important because OPEC+ quota decisions can significantly affect global oil supply, prices, inflation, and energy market stability, especially amid ongoing regional conflict."
+      "title": "Trump's on-again-off-again war against Iran: in his own words",
+      "summary": "Donald Trump has made some of the most aggressive public threats about military action of any modern US president. He has walked back many of them too.&nbsp; The 80-year-old Republican's comments about the US war against Iran have shifted,...",
+      "link": "https://www.al-monitor.com/originals/2026/08/trumps-again-again-war-against-iran-his-own-words",
+      "published_at": "2026-08-02T17:30:34Z",
+      "ai_summary": "Article about Donald Trump\u2019s highly aggressive but often inconsistent public rhetoric toward Iran, highlighting that he has repeatedly threatened military action and then softened or reversed those threats.",
+      "importance": 77,
+      "why": "It concerns a major geopolitical issue involving the U.S., Iran, and military escalation, and it highlights Trump\u2019s shifting stance, which can affect foreign policy, markets, and international security."
     },
     {
       "source": "Al Monitor",
@@ -150,19 +140,9 @@
       "summary": "Under a blazing sun, clad in black and clutching portraits of their slain leader Ali Khamenei, Iranian pilgrims streamed across the border into Iraq to observe the Arbaeen, the most revered event in Shia Islam. Some stamped on a portrait...",
       "link": "https://www.al-monitor.com/originals/2026/08/iranian-pilgrims-flood-iraq-first-arbaeen-war",
       "published_at": "2026-08-01T10:30:47Z",
-      "ai_summary": "Iranian pilgrims are crossing into Iraq in large numbers for Arbaeen, marking the first such pilgrimage since the war and symbolizing the event\u2019s religious and political significance.",
-      "importance": 81,
-      "why": "The story highlights a major cross-border religious movement tied to a highly significant Shia observance, with implications for regional politics, post-war relations, and mass pilgrimage logistics."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-      "summary": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift",
-      "published_at": "2026-08-01T00:00:00Z",
-      "ai_summary": "Turkiye and Iraq renewed a one-year oil pipeline agreement, keeping crude flows at 750,000 barrels per day through the Iraq-Turkiye pipeline.",
-      "importance": 69,
-      "why": "This matters because it secures a major regional energy transit route and preserves a substantial oil flow that can affect supply, revenues, and geopolitical relations between Iraq and Turkiye."
+      "ai_summary": "Iranian pilgrims are crossing into Iraq in large numbers to take part in Arbaeen, marking the first such pilgrimage since the war.",
+      "importance": 70,
+      "why": "The report covers a major religious event and cross-border movement tied to Iraq-Iran relations, with potential political and regional significance, though it is not a breaking global crisis."
     },
     {
       "source": "Haaretz",
@@ -170,9 +150,9 @@
       "summary": "https://www.haaretz.com/israel-news/podcasts/2026-07-31/ty-article-podcast/.premium/this-israeli-ultra-orthodox-feminist-activist-has-a-warning-for-u-s-jews/0000019f-b789-d3fa-a19f-bf9917ea0000",
       "link": "https://www.haaretz.com/israel-news/podcasts/2026-07-31/ty-article-podcast/.premium/this-israeli-ultra-orthodox-feminist-activist-has-a-warning-for-u-s-jews/0000019f-b789-d3fa-a19f-bf9917ea0000",
       "published_at": "2026-07-31T00:00:00Z",
-      "ai_summary": "A podcast/article featuring an Israeli ultra-Orthodox feminist activist who warns U.S. Jews about the growing influence of religious and political extremism in Israel and the risks it poses for Jewish communities abroad.",
-      "importance": 67,
-      "why": "The piece is likely significant because it connects Israeli internal religious-political dynamics with concerns for U.S. Jews, highlighting a perspective from an ultra-Orthodox feminist activist that may be unusual and newsworthy. It matters for readers following Israeli society, Jewish diaspora politics, and debates over religion, gender, and democracy."
+      "ai_summary": "The piece appears to feature an Israeli ultra-Orthodox feminist activist warning U.S. Jews about developments in Israeli society and politics, likely focusing on religious, gender, and communal tensions.",
+      "importance": 58,
+      "why": "It is a focused opinion/interview-style article with relevance to Israel-Diaspora Jewish relations and debates over religion and gender, but it is not obviously a major breaking news event."
     },
     {
       "source": "Haaretz",
@@ -180,41 +160,21 @@
       "summary": "https://www.haaretz.com/israel-news/elections/2026-07-31/ty-article-magazine/.premium/eisenkot-keeps-running-away-from-what-everyone-knows-he-believes/0000019f-b7ca-de01-a5bf-f7cacc350000",
       "link": "https://www.haaretz.com/israel-news/elections/2026-07-31/ty-article-magazine/.premium/eisenkot-keeps-running-away-from-what-everyone-knows-he-believes/0000019f-b7ca-de01-a5bf-f7cacc350000",
       "published_at": "2026-07-31T00:00:00Z",
-      "ai_summary": "The article argues that Gadi Eisenkot is avoiding openly stating his real political positions, even though they are widely understood, and that this evasiveness may be hurting his credibility and leadership potential.",
-      "importance": 64,
-      "why": "It is a political analysis piece about a prominent Israeli public figure and his likely stance ahead of elections. The importance is moderate because it may matter to readers tracking coalition dynamics, centrist politics, and leadership prospects, but it is not, from the title alone, a major breaking-news event."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
-      "summary": "What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?",
-      "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations",
-      "published_at": "2026-08-01T00:00:00Z",
-      "ai_summary": "The text asks what triggered a mass migrant surge into Ceuta and whether Israel was involved, implying a possible link to strained Spain-Israel relations.",
-      "importance": 49,
-      "why": "It references a major migration crisis involving Spain and hints at diplomatic tension with Israel, but the excerpt itself provides no concrete facts or resolution."
+      "ai_summary": "Opinion piece arguing that Gadi Eisenkot is avoiding clearly stated political positions that many assume he privately holds.",
+      "importance": 35,
+      "why": "The title suggests a commentary about a prominent Israeli political/military figure and his ambiguity ahead of elections, which is moderately relevant for Israeli politics. Without the article text itself, the likely significance is mainly interpretive rather than a major breaking development."
     }
   ],
   "deep_analysis": [
-    {
-      "source": "Jadaliyya",
-      "title": "The Political Economy of the War on Iran: An Interview with Adam Hanieh",
-      "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
-      "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
-      "published_at": null,
-      "ai_summary": "An interview with Adam Hanieh argues that the war on Iran should be understood not only as a military conflict or an oil-market shock, but as part of a broader political-economic struggle tied to regional power, U.S. strategy, and capitalist interests.",
-      "importance": 88,
-      "why": "The piece appears to offer a structural analysis of a major geopolitical conflict, linking war, energy, and imperial strategy. That makes it important for understanding the broader economic and political stakes beyond immediate headlines."
-    },
     {
       "source": "Middle East Eye",
       "title": "In Gaza, you don\u2019t only see death. You smell it. You breathe it",
       "summary": "Denial of access to the injured and killed, with corpses left to rot, is a systematic strategy of Israel\u2019s genocidal war against Palestinians",
       "link": "https://www.middleeasteye.net/opinion/gaza-dont-only-see-death-smell-breathe-it",
       "published_at": "2024-01-14T09:28:00Z",
-      "ai_summary": "The piece argues that in Gaza, Israel\u2019s war is not only killing people but also denying access to the dead and injured, leaving bodies to decompose as part of a broader systematic strategy of genocide.",
-      "importance": 85,
-      "why": "It addresses the humanitarian catastrophe in Gaza, alleges systematic war crimes/genocidal policy, and speaks to a major ongoing international conflict with significant political and legal implications."
+      "ai_summary": "The title and text argue that in Gaza, death is not only visible but pervasive in smell and air, describing denial of access to the injured and dead and corpses left to rot as part of a systematic Israeli war strategy against Palestinians.",
+      "importance": 94,
+      "why": "This is highly important because it describes a grave humanitarian and political issue involving mass civilian suffering, alleged war crimes or genocide, and the conditions in Gaza during the conflict. It also frames the situation as a systematic policy, making it significant for understanding the scale and nature of the crisis."
     },
     {
       "source": "Jadaliyya",
@@ -222,19 +182,29 @@
       "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
       "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
       "published_at": null,
-      "ai_summary": "The text discusses the renewed appeal of nationalist discourses in Iran and frames Mossadegh as a contested symbol in contemporary struggles over historical memory and political identity.",
+      "ai_summary": "The text discusses the renewed popularity of nationalist discourse in Iran and frames Mossadegh as a contested symbol in contemporary struggles over national memory and identity.",
       "importance": 84,
-      "why": "It touches on a major political and intellectual trend in Iran\u2014nationalism and memory politics\u2014and uses Mossadegh, a highly significant historical figure, as a lens to understand current debates."
+      "why": "It addresses a major political and intellectual trend in Iran, focusing on how historical memory of Mossadegh is being reinterpreted in current nationalist debates."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "The Political Economy of the War on Iran: An Interview with Adam Hanieh",
+      "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
+      "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
+      "published_at": null,
+      "ai_summary": "The piece argues that the war on Iran should be understood not just as a military and energy-market event, but as a struggle embedded in broader regional political economy and imperial power relations.",
+      "importance": 84,
+      "why": "It addresses a major ongoing geopolitical conflict and offers a structural analysis that goes beyond headlines, making it relevant for understanding Middle East politics, energy, and international relations."
     },
     {
       "source": "Middle East Eye",
-      "title": "Columbia University student workers\u2019 union withdraws Israel divestment demand",
-      "summary": "Move signifies major shift in the union\u2019s politics and orientation, as it has devoted itself to the pro-Palestinian student movement since the start of Israel\u2019s genocide",
-      "link": "https://www.middleeasteye.net/news/columbia-university-student-workers-union-withdraws-israel-divestment-demand",
-      "published_at": "2026-07-31T22:27:00Z",
-      "ai_summary": "Columbia University student workers\u2019 union withdraws its demand for Israel divestment, marking a notable shift in the union\u2019s political stance and priorities.",
-      "importance": 75,
-      "why": "This is significant because it reflects a major change in the union\u2019s orientation and could affect campus activism, labor politics, and the broader pro-Palestinian student movement at Columbia."
+      "title": "Tell killings: Does the right of self-defence apply only to Jews?",
+      "summary": "Armed settlers attacked a West Bank village, yet Israeli society blamed Palestinians for the violence. When self-defence depends on nationality, equality before the law ceases to exist",
+      "link": "https://www.middleeasteye.net/opinion/tell-killings-does-right-self-defence-apply-only-jews",
+      "published_at": "2026-07-27T08:46:00Z",
+      "ai_summary": "The piece argues that when self-defence is treated as a privilege based on nationality, equality before the law is undermined. It highlights a West Bank attack by armed settlers and criticizes Israeli society for blaming Palestinians.",
+      "importance": 81,
+      "why": "This is a politically charged commentary about violence, nationality, and legal equality in the Israeli-Palestinian conflict. It is important because it addresses a major human-rights and rule-of-law issue, but it is not a breaking global event on its own."
     },
     {
       "source": "Jadaliyya",
@@ -242,9 +212,31 @@
       "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
-      "ai_summary": "Jadaliyya is launching a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
+      "ai_summary": "Jadaliyya launches a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
       "importance": 68,
-      "why": "The item announces a structured expert interview series on an important political and economic topic. It is notable within academic and policy discussions, though the excerpt is mainly an introduction rather than a substantive news development."
+      "why": "It announces a new multi-part series focused on a significant political and economic topic, with named contributors and likely relevance to readers interested in Israel/Palestine political economy."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "New Syria, Old Lebanon: Absence of the State",
+      "summary": "Any move by the United States to make good on Trump\u2019s suggestion that Washington persuade Damascus to confront Hezbollah militarily would have catastrophic consequences.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/06/new-syria-old-lebanon-absence-of-the-state",
+      "date": "Jun 29, 2026",
+      "published_at": null,
+      "ai_summary": "The text warns that any U.S. effort to pressure Damascus into militarily confronting Hezbollah would likely be disastrous.",
+      "importance": 75,
+      "why": "It addresses a potentially high-stakes regional policy move involving Syria, Lebanon, Hezbollah, and the United States, with direct warning of catastrophic consequences."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "Kurdish Rebel Groups Are Wary of Tehran\u2019s Next Move",
+      "summary": "Following its deal with the United States, Iran may act against Iraq-based dissidents.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/07/kurdish-rebel-groups-are-wary-of-tehrans-next-move",
+      "date": "Jul 7, 2026",
+      "published_at": null,
+      "ai_summary": "Iran may target Iraq-based Kurdish dissidents after its deal with the United States, prompting concern among Kurdish rebel groups.",
+      "importance": 73,
+      "why": "The item highlights a potential shift in Iran\u2019s regional behavior that could affect Iraq, Kurdish rebel groups, and wider U.S.-Iran dynamics, making it geopolitically significant."
     },
     {
       "source": "War on the Rocks",
@@ -252,9 +244,9 @@
       "summary": "In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities...",
       "link": "https://warontherocks.com/the-atlantic-brief-the-strait-of-hormuz-and-the-future-of-free-navigation/",
       "published_at": "2026-07-31T20:27:03Z",
-      "ai_summary": "An Atlantic Brief about the 2026 Middle East war involving the United States, Israel, and Iran, focusing on the Strait of Hormuz and the implications for free navigation amid strikes, ceasefire instability, and blockade threats.",
-      "importance": 86,
-      "why": "The Strait of Hormuz is a critical global oil and shipping chokepoint, so conflict or blockade there has major geopolitical and economic consequences. The article directly concerns war, maritime security, and free navigation, making it highly significant."
+      "ai_summary": "The piece discusses the 2026 Middle East war involving the U.S., Israel, and Iran, focusing on repeated hostilities, a fragile ceasefire, and the strategic disruption of the Strait of Hormuz.",
+      "importance": 90,
+      "why": "The Strait of Hormuz is a critical global chokepoint for energy and shipping, so conflict and blockade there have major geopolitical and economic implications."
     },
     {
       "source": "Responsible Statecraft",
@@ -262,9 +254,9 @@
       "summary": "On July 28, Saudi air defenses shot down drones launched from Iraqi territory by \u201cIran-affiliated terrorist militias,\u201d a Saudi ministry of defense statement read.The attacks targeted oil facilities in the Eastern Province and at the...",
       "link": "https://responsiblestatecraft.org/houthi-attack-saudi-arabia/",
       "published_at": "2026-07-30T04:05:01Z",
-      "ai_summary": "Saudi air defenses intercepted drones launched from Iraq by Iran-linked militias, reportedly targeting oil facilities in eastern Saudi Arabia, signaling a widening regional confrontation involving the Houthis, Saudi Arabia, and Iranian-aligned groups.",
-      "importance": 81,
-      "why": "The incident involves attacks on critical energy infrastructure and suggests escalation from a local conflict into a broader regional security threat, with implications for oil markets, Saudi-Iran tensions, and wider Middle East stability."
+      "ai_summary": "Saudi air defenses intercepted drones launched from Iraqi territory by Iran-affiliated militias, highlighting the expansion of Houthi/Saudi-related conflict into a broader regional confrontation targeting oil infrastructure.",
+      "importance": 80,
+      "why": "The incident directly threatens Saudi oil facilities and shows escalation beyond Yemen into Iraq-linked proxy attacks, increasing regional security and energy-market significance."
     },
     {
       "source": "Drop Site News",
@@ -272,9 +264,9 @@
       "summary": "Israeli soldiers and settlers have unleashed a campaign of terror on Palestinians across the occupied West Bank with home raids, shootings, assaults, mass detentions, and house demolitions.",
       "link": "https://www.dropsitenews.com/p/west-bank-tal-israeli-settlers-army-outposts-arrests-home-demolitions",
       "published_at": "2026-07-27T22:06:37Z",
-      "ai_summary": "Israeli settlers established at least six new outposts in the occupied West Bank after Friday killings, amid a broader escalation of raids, shootings, assaults, detentions, and demolitions against Palestinians.",
-      "importance": 86,
-      "why": "The item reports a significant escalation in settler expansion and violence in the occupied West Bank, involving multiple new outposts and widespread abuses affecting Palestinian civilians. This has clear implications for regional stability, human rights, and the ongoing Israeli-Palestinian conflict."
+      "ai_summary": "Israeli settlers established at least six new outposts in the occupied West Bank following Friday killings, amid broader attacks, raids, shootings, detentions, and demolitions against Palestinians.",
+      "importance": 85,
+      "why": "The item describes a significant escalation in settler activity and violence in the occupied West Bank, with potential consequences for civilian safety, land control, and regional tensions."
     },
     {
       "source": "Drop Site News",
@@ -282,9 +274,9 @@
       "summary": "In 2012, then-Saudi defense minister Salman bin Abdulaziz instructed the Special Committee of the Council of Ministers to engineer a rift to target Ansarallah.",
       "link": "https://www.dropsitenews.com/p/yemen-saudi-special-committee-cables-houthis-ansarallah-salman",
       "published_at": "2026-07-28T22:16:09Z",
-      "ai_summary": "Leaked Saudi cables indicate that in 2012 then-Defense Minister Salman bin Abdulaziz directed a special cabinet committee to help engineer a rift aimed at targeting Ansarallah in Yemen.",
-      "importance": 78,
-      "why": "The text points to direct Saudi state involvement in shaping anti-Ansarallah policy and suggests covert, high-level decision-making on Yemen, making it geopolitically significant and relevant to the conflict's origins."
+      "ai_summary": "Leaked Saudi cables say that in 2012 then-defense minister Salman bin Abdulaziz directed a special cabinet committee to create a rift and target Ansarallah in Yemen.",
+      "importance": 74,
+      "why": "It reveals internal Saudi decision-making on Yemen and suggests deliberate escalation planning against a major actor in the conflict, which is highly relevant to understanding the war\u2019s origins and regional policy."
     }
   ]
 }
