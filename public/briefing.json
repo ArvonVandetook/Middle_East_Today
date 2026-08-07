@@ -1,96 +1,107 @@
 {
-  "generated_at": "2026-08-06T11:58:45.981290Z",
-  "top_story": "In Gaza, the recovery and burial on 4 August of 112 people killed in an Israeli strike in 2023 turned a past attack into a present political and social wound, underscoring how destruction continues to shape family life, public mourning, and the enclave\u2019s civic fabric years later. That same prolonged devastation has frozen the training pipeline for young doctors by wrecking hospitals, isolating medical students, and blocking specialist advancement, which deepens the territory\u2019s long-term dependence just as immediate needs remain acute. On 5 August, Iran\u2019s threat to strike Gulf energy infrastructure if Washington attacks again widened the crisis horizon beyond Gaza, tying the risk of renewed U.S.-Iran confrontation to vulnerable Gulf economies and populations. The regional picture is one of accumulating aftershocks: Gaza\u2019s war damage is hardening into generational loss while deterrent posturing around Iran raises the chance that another front could magnify civilian insecurity across the Middle East.",
+  "generated_at": "2026-08-07T01:29:39.112705Z",
+  "top_story": "Across Gaza and the West Bank, the past week sharpened a pattern in which mass killing, institutional collapse, and weak accountability are converging into a broader crisis of Palestinian survival. In Gaza City, the burial on 4 August of 112 members of one family killed in a 2023 Israeli strike revived the scale of unresolved civilian loss, while the 2 August account of shattered medical training showed that destroyed hospitals and sealed crossings are freezing the territory\u2019s future capacity to care for its population. In the West Bank, a 5 August call in Kafr Malik for a multinational protection force reflected deepening fear of settler violence and displacement, and the 6 August manslaughter charge against settler Yinon Levi stood out precisely because such prosecutions remain exceptional. Rights groups\u2019 6 August finding that the killing of journalist Amal Khalil in Lebanon was a war crime extends the same regional picture: violence against civilians and civil society is spreading across fronts faster than any credible mechanism to deter it.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Iran threatens to hit Gulf states if US launches new strikes",
-      "summary": "By Parisa Hafezi and Samia NakhoulAug 5 (Reuters) - Iran has warned Gulf states that any new U.S. attack on its territory would trigger retaliation against critical energy infrastructure across the region, according to five sources, as...",
-      "link": "https://www.al-monitor.com/originals/2026/08/iran-threatens-hit-gulf-states-if-us-launches-new-strikes",
-      "published_at": "2026-08-05T19:46:45Z",
-      "ai_summary": "Iran warned Gulf states that if the U.S. launches new strikes on Iranian territory, it could retaliate by targeting critical energy infrastructure across the region.",
-      "importance": 91,
-      "why": "This is highly important because it suggests a major regional escalation risk involving Iran, Gulf states, U.S. military action, and vulnerable energy infrastructure that could affect global oil and security stability."
+      "title": "Iranian parliamentary committee reviews draft bill to bar US, Israeli ships from Hormuz, Fars says",
+      "summary": "Aug 6 (Reuters) - An Iranian parliamentary committee is reviewing a preliminary bill that would bar U.S., Israeli and other \"hostile\" vessels from transiting the Strait of Hormuz, Iran's semi-official Fars news agency reported, citing a...",
+      "link": "https://www.al-monitor.com/originals/2026/08/iranian-parliamentary-committee-reviews-draft-bill-bar-us-israeli-ships-hormuz",
+      "published_at": "2026-08-06T17:35:07Z",
+      "ai_summary": "An Iranian parliamentary committee is reviewing a draft bill that would prohibit U.S., Israeli, and other \"hostile\" ships from passing through the Strait of Hormuz, according to Fars news agency.",
+      "importance": 87,
+      "why": "The Strait of Hormuz is a critical global oil shipping chokepoint, so any move to restrict transit there could have significant geopolitical and energy-market implications, especially involving the U.S. and Israel."
     },
     {
       "source": "Middle East Eye",
-      "title": "Israel is not 'testing' its ceasefires. It's violating them",
-      "summary": "As the Israeli military ignores deals in Gaza and Lebanon and continues its industrial-scale killing, the western media turns a blind eye",
-      "link": "https://www.middleeasteye.net/opinion/israel-not-testing-its-ceasefires-its-violating-them",
-      "published_at": "2026-08-04T08:23:00Z",
-      "ai_summary": "The piece argues that Israel is not merely \"testing\" ceasefires but actively violating them in Gaza and Lebanon, while Western media minimizes or ignores the ongoing violence and large-scale killing.",
-      "importance": 91,
-      "why": "It addresses an active war and ceasefire violations involving major regional and international actors, with significant humanitarian and geopolitical consequences."
+      "title": "What freedom feels like after Gaza",
+      "summary": "In London, I meet two Palestinian friends who survived the genocide. Hanging over us is the same bewilderment at a world that appears normal yet has also normalised the hell we left",
+      "link": "https://www.middleeasteye.net/opinion/what-freedom-feels-after-gaza",
+      "published_at": "2026-08-06T20:49:00Z",
+      "ai_summary": "The piece reflects on the emotional disorientation of Palestinians who survived Gaza and are now in London, confronting a world that feels normal while having normalized the violence they escaped.",
+      "importance": 81,
+      "why": "It addresses the human impact of the Gaza genocide, the psychological aftermath for survivors, and the contrast between lived catastrophe and global normality, making it socially and politically significant."
     },
     {
       "source": "Al Jazeera",
-      "title": "UN rights chief says Iran executed at least 56 people since March",
-      "summary": "Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march",
-      "published_at": "2026-08-05T00:00:00Z",
-      "ai_summary": "UN rights chief Volker Turk says Iran has executed at least 56 people since March amid a surge in executions allegedly aimed at suppressing dissent following the January uprising.",
-      "importance": 89,
-      "why": "This is a significant human rights and geopolitical development: it reports a sharp increase in executions by Iran, cites a UN rights chief, and links the actions to political repression after unrest."
+      "title": "UNICEF says one child killed per day in Gaza since \u2018ceasefire\u2019",
+      "summary": "At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2",
+      "published_at": "2026-08-06T00:00:00Z",
+      "ai_summary": "UNICEF says at least 300 children have been killed in Gaza over 300 days since the October 2025 truce.",
+      "importance": 88,
+      "why": "This is a high-impact humanitarian claim involving child deaths in an ongoing conflict, making it significant for human rights, international news, and policy attention."
     },
     {
       "source": "Guardian",
-      "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait",
-      "summary": "Optimism echoes Trump\u2019s claims on Monday that deal is close as mediators say they are exchanging proposals Middle East crisis live \u2013 latest updatesUS and Qatari officials have said progress is being made in restoring a ceasefire in the...",
-      "link": "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
-      "published_at": "2026-08-04T17:19:58Z",
-      "ai_summary": "US and Qatari officials say mediation is making progress on restoring a ceasefire and reopening the Strait of Hormuz, echoing Trump\u2019s claim that a deal with Iran may be close.",
-      "importance": 89,
-      "why": "This concerns a major Middle East crisis involving Iran, the US, Qatar, and the strategic Strait of Hormuz, which is critical for global oil shipping and regional stability."
+      "title": "Israel charges West Bank settler over death of renowned Palestinian activist",
+      "summary": "Yinon Levi faces trial for reckless manslaughter related to the 2025 killing of Awdah Hathaleen Israeli prosecutors have charged a Jewish settler over the killing of a Palestinian community leader in the occupied West Bank last year \u2013 the...",
+      "link": "https://www.theguardian.com/world/2026/aug/06/israel-charges-west-bank-settler-killing-palestinian-activist-awdah-hathaleen",
+      "published_at": "2026-08-06T14:38:40Z",
+      "ai_summary": "Israeli prosecutors have charged settler Yinon Levi with reckless manslaughter in the killing of Palestinian activist and community leader Awdah Hathaleen in the West Bank, marking a rare legal case tied to settler violence.",
+      "importance": 91,
+      "why": "The case involves the death of a prominent Palestinian activist, alleged settler violence in the occupied West Bank, and formal Israeli charges\u2014making it significant for human rights, regional tensions, and accountability."
     },
     {
       "source": "Haaretz",
-      "title": "Israel Captured 230 Square Miles of Lebanon, Razed Villages and Built New Bases",
-      "summary": "https://www.haaretz.com/israel-news/security-aviation/2026-08-05/ty-article-magazine/israel-captured-230-square-miles-of-lebanon-razed-villages-and-built-new-bases/0000019f-cc0c-db9d-a9ff-fdbcb2660000",
-      "link": "https://www.haaretz.com/israel-news/security-aviation/2026-08-05/ty-article-magazine/israel-captured-230-square-miles-of-lebanon-razed-villages-and-built-new-bases/0000019f-cc0c-db9d-a9ff-fdbcb2660000",
-      "published_at": "2026-08-05T00:00:00Z",
-      "ai_summary": "Haaretz reports that Israel has taken control of about 230 square miles in Lebanon, demolished villages, and established new military bases there.",
-      "importance": 89,
-      "why": "This appears to describe a major territorial and military development with significant implications for the Israel-Lebanon conflict, regional stability, and international law. The scale of land control and village destruction makes it highly newsworthy."
+      "title": "Two Israeli Reservists Killed, Four Wounded in Southern Lebanon Explosion",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-08-06/ty-article/.premium/two-israeli-reservists-killed-four-wounded-in-southern-lebanon-explosion/0000019f-d519-d310-a3df-d51b82b10000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-08-06/ty-article/.premium/two-israeli-reservists-killed-four-wounded-in-southern-lebanon-explosion/0000019f-d519-d310-a3df-d51b82b10000",
+      "published_at": "2026-08-06T00:00:00Z",
+      "ai_summary": "Two Israeli reservists were killed and four others wounded in an explosion in southern Lebanon.",
+      "importance": 86,
+      "why": "The report involves lethal casualties among Israeli reservists in a cross-border conflict zone, indicating a significant security incident with potential military and political implications."
     },
     {
       "source": "Drop Site News",
-      "title": "\"For Your Eyes Only\": Israel\u2019s Mole Inside the United Nations",
-      "summary": "Hacked emails show Yahav Lichner, a UN official, repeatedly supplied Israeli diplomats with confidential UN reports and private briefings. He now directs UNICEF&#8217;s Washington office.",
-      "link": "https://www.dropsitenews.com/p/for-your-eyes-only-israels-mole-inside",
-      "published_at": "2026-08-04T21:27:52Z",
-      "ai_summary": "Hacked emails allegedly show a UN official repeatedly sharing confidential UN reports and private briefings with Israeli diplomats; he now heads UNICEF\u2019s Washington office.",
+      "title": "As the Board of Peace Cosplays Diplomacy, Israel Once Again Ramps Up Killing in Gaza",
+      "summary": "After Hamas agreed to a roadmap for implementing the next phases of the Gaza &#8220;ceasefire,&#8221; Israel escalated its assault on Gaza and the Board of Peace backtracked.",
+      "link": "https://www.dropsitenews.com/p/gaza-board-of-peace-israel-disarmament-escalated-attacks",
+      "published_at": "2026-08-06T12:59:43Z",
+      "ai_summary": "The text says that after Hamas accepted a roadmap for the next phases of the Gaza ceasefire, Israel intensified its attacks on Gaza and the Board of Peace backed away.",
       "importance": 78,
-      "why": "The claim involves alleged espionage or unauthorized disclosure inside the UN, a major international institution, and could affect diplomacy, trust, and UN integrity. The fact that the individual later led UNICEF\u2019s Washington office adds further significance."
+      "why": "It describes a significant development in the Gaza conflict and ceasefire process, involving major actors and escalation of violence, which is geopolitically important."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "August 4 and Criminal Impunity",
+      "summary": "Lying at the heart of Lebanon\u2019s dysfunction is an inability to secure accountability and institutional legitimacy.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/august-4-and-criminal-impunity",
+      "date": "Aug 4, 2026",
+      "published_at": null,
+      "ai_summary": "The text argues that Lebanon\u2019s core dysfunction stems from a failure to ensure accountability and build institutional legitimacy, especially in relation to the August 4 issue and broader criminal impunity.",
+      "importance": 79,
+      "why": "It identifies a central structural problem in Lebanon\u2019s governance\u2014lack of accountability\u2014which is highly relevant to political stability, public trust, and justice."
     },
     {
       "source": "Al Monitor",
-      "title": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker",
-      "summary": "NEW DELHI, Aug 6 (Reuters) - Shipping traffic through the Strait of Hormuz and the Bab-el-Mandeb strait, the key maritime chokepoints in the Gulf, reduced significantly on Wednesday from the previous day, shipping data showed.Just two...",
-      "link": "https://www.al-monitor.com/originals/2026/08/gulf-shipping-traffic-down-after-houthis-say-they-attacked-saudi-tanker",
-      "published_at": "2026-08-06T05:46:46Z",
-      "ai_summary": "Shipping traffic through the Strait of Hormuz and Bab-el-Mandeb fell sharply after the Houthis said they attacked a Saudi tanker, highlighting rising risk to key Gulf shipping routes.",
-      "importance": 89,
-      "why": "It concerns major global shipping chokepoints and a reported attack on a Saudi tanker, which could affect energy markets, maritime security, and regional tensions."
+      "title": "Turkey\u2019s Erdogan heads to Saudi Arabia for talks with MBS, Pakistan\u2019s Sharif",
+      "summary": "The visit comes as the three countries ramp up coordination to weather the regional fallout from the Iran war.&nbsp;",
+      "link": "https://www.al-monitor.com/originals/2026/08/turkeys-erdogan-heads-saudi-arabia-talks-mbs-pakistans-sharif",
+      "published_at": "2026-08-06T19:33:25Z",
+      "ai_summary": "Turkey\u2019s president Erdo\u011fan is traveling to Saudi Arabia for talks with Crown Prince Mohammed bin Salman, alongside Pakistan\u2019s Prime Minister Shehbaz Sharif, as the three countries coordinate responses to regional fallout from the Iran war.",
+      "importance": 77,
+      "why": "The trip involves senior leaders from three major regional players meeting amid escalating Middle East tensions, suggesting potential diplomatic and strategic significance beyond a routine bilateral visit."
     },
     {
       "source": "Middle East Eye",
-      "title": "Palestinian-Israeli movement calls for multinational force in occupied West Bank",
-      "summary": "Campaign launched in Kafr Malik says international protection is urgently needed as settler violence escalates and Palestinians face growing displacement",
-      "link": "https://www.middleeasteye.net/news/palestinian-israeli-movement-calls-multinational-force-occupied-west-bank",
-      "published_at": "2026-08-05T15:26:00Z",
-      "ai_summary": "A Palestinian-Israeli movement launched a campaign in Kafr Malik calling for an urgent multinational force in the occupied West Bank to provide international protection amid escalating settler violence and growing Palestinian displacement.",
-      "importance": 81,
-      "why": "This is a politically significant development involving security, occupation, and potential international intervention in the West Bank. It highlights escalating violence and displacement, which could affect regional stability and diplomatic debates."
+      "title": "UK charity regulator to investigate donations to illegal Israeli settlements",
+      "summary": "Charity Commission probes eight charities to determine how funds sent to illegal Israeli settlements were used",
+      "link": "https://www.middleeasteye.net/news/uk-charity-regulator-investigate-donations-illegal-israeli-settlements",
+      "published_at": "2026-08-05T13:57:00Z",
+      "ai_summary": "UK charity regulator is investigating eight charities over donations sent to illegal Israeli settlements, to determine how the funds were used.",
+      "importance": 77,
+      "why": "This is significant because it involves a regulatory probe into possible misuse of charitable funds tied to internationally disputed and illegal settlements, with legal, political, and reputational implications for the charities involved."
     },
     {
       "source": "Al Jazeera",
-      "title": "Iraq faces crisis as Shia armed groups defy disarmament",
-      "summary": "Iraqi PM faces a serious crisis as powerful Shia paramilitaries refuse to disarm as September 30 deadline looms.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament",
-      "published_at": "2026-08-05T00:00:00Z",
-      "ai_summary": "Iraq\u2019s prime minister is facing a serious crisis as powerful Shia paramilitary groups refuse to disarm before a September 30 deadline.",
-      "importance": 87,
-      "why": "This reflects a significant internal security and political challenge in Iraq, involving armed non-state actors defying the government. It could affect stability, state authority, and regional security."
+      "title": "Two killed, several wounded in minibus blast near Syria\u2019s Damascus",
+      "summary": "Body parts found at scene and at least 14 wounded after explosion on minibus in town of Jaramana, Health Ministry says.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/blast-hits-vehicle-on-outskirts-of-syrias-damascus-state-media",
+      "published_at": "2026-08-06T00:00:00Z",
+      "ai_summary": "A minibus explosion in Jaramana near Damascus, Syria, killed two people and wounded at least 14 others, according to the Health Ministry.",
+      "importance": 86,
+      "why": "This is a lethal blast in or near the Syrian capital area, indicating a potentially significant security incident with multiple casualties and possible broader instability."
     },
     {
       "source": "Guardian",
@@ -98,9 +109,51 @@
       "summary": "Hits on two towns among deadliest bombings since start of June ceasefire An Israeli airstrike in south Lebanon killed one person and injured 11, the Lebanese ministry of health said, in one of Israel\u2019s deadliest bombings since the start of...",
       "link": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
       "published_at": "2026-08-05T16:34:58Z",
-      "ai_summary": "An Israeli airstrike in southern Lebanon killed one person and injured 11, with strikes on two towns described as among the deadliest since the June ceasefire.",
-      "importance": 87,
-      "why": "This is a recent cross-border military escalation with fatalities and multiple injuries, indicating significant regional security relevance and potential to affect the ceasefire."
+      "ai_summary": "An Israeli airstrike in southern Lebanon killed one person and injured 11, marking one of the deadliest bombings since the June ceasefire began.",
+      "importance": 85,
+      "why": "This is a significant cross-border military incident with casualties and potential implications for the fragile ceasefire and regional stability."
+    },
+    {
+      "source": "Haaretz",
+      "title": "'I Saw Pictures of Dead Children. In the Israeli Army, They Told Us We Only Kill Terrorists'",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-08-06/ty-article-magazine/i-saw-pictures-of-dead-kids-in-the-army-they-told-us-we-only-kill-terrorists/0000019f-d5bc-d825-afbf-f7fe8de90000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-08-06/ty-article-magazine/i-saw-pictures-of-dead-kids-in-the-army-they-told-us-we-only-kill-terrorists/0000019f-d5bc-d825-afbf-f7fe8de90000",
+      "published_at": "2026-08-06T00:00:00Z",
+      "ai_summary": "An article about an Israeli soldier describing a disconnect between official military messaging\u2014that the army only kills terrorists\u2014and exposure to images of dead children, raising moral and political questions about the conduct of the war.",
+      "importance": 86,
+      "why": "The piece appears to be a significant firsthand account touching on civilian casualties, military ethics, and public narratives around the Israel-Gaza conflict. It is likely important for understanding allegations, accountability, and broader debate about the war."
+    }
+  ],
+  "regional_analysis": [
+    {
+      "source": "Al Jazeera",
+      "title": "Travel restrictions \u2013 from Israel and Europe \u2013 trap students in Gaza",
+      "summary": "Blockades and bureaucracy turn education into an uphill journey for talented Gaza students seeking a brighter future.",
+      "link": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza",
+      "published_at": "2026-08-06T00:00:00Z",
+      "ai_summary": "Travel restrictions and bureaucratic barriers are preventing talented Gaza students from leaving to study abroad, making education an uphill struggle.",
+      "importance": 79,
+      "why": "The topic highlights how conflict-related movement restrictions directly affect education and future opportunities for students in Gaza, making it socially and politically significant."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Is Israel\u2019s Netanyahu preparing to fight Iran alone?",
+      "summary": "Experts question Netanyahu\u2019s strategy, labelling US war on Iran a strategic failure with global economic impacts.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/is-israels-netanyahu-preparing-to-fight-iran-alone",
+      "published_at": "2026-08-06T00:00:00Z",
+      "ai_summary": "The piece questions whether Netanyahu is preparing Israel to confront Iran without relying on U.S. military support, while experts warn that a U.S. war on Iran would be strategically disastrous and economically destabilizing globally.",
+      "importance": 79,
+      "why": "It concerns a major Middle East security issue involving Israel, Iran, and the United States, with potential consequences for regional war, global energy markets, and international strategy."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Eight countries \u2018strongly denounce\u2019 ongoing Israeli violations in Gaza",
+      "summary": "Foreign ministers of Arab and Muslim nations slam Israel targeting Gaza\u2019s hospitals, demand action to protect medics.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/eight-countries-strongly-denounce-ongoing-israeli-violations-in-gaza",
+      "published_at": "2026-08-06T00:00:00Z",
+      "ai_summary": "Eight countries strongly denounced ongoing Israeli actions in Gaza, with foreign ministers of Arab and Muslim nations condemning attacks on hospitals and calling for protection of medical workers.",
+      "importance": 79,
+      "why": "The statement reflects significant international diplomatic condemnation involving multiple countries and focuses on the urgent humanitarian issue of protecting hospitals and medics in Gaza."
     },
     {
       "source": "Haaretz",
@@ -108,41 +161,9 @@
       "summary": "https://www.haaretz.com/israel-news/elections/2026-08-05/ty-article/.premium/netanyahu-struggles-to-balance-likuds-extremist-base-with-the-moderate-right/0000019f-cf0f-d312-a3ff-ef0fe3500000",
       "link": "https://www.haaretz.com/israel-news/elections/2026-08-05/ty-article/.premium/netanyahu-struggles-to-balance-likuds-extremist-base-with-the-moderate-right/0000019f-cf0f-d312-a3ff-ef0fe3500000",
       "published_at": "2026-08-05T00:00:00Z",
-      "ai_summary": "The article examines how Benjamin Netanyahu is trying to manage growing tensions inside Likud between its increasingly hardline extremist base and more moderate right-wing voters, a political dynamic he helped create and now struggles to contain.",
-      "importance": 72,
-      "why": "It is important because it sheds light on internal Israeli right-wing politics, Netanyahu\u2019s leadership dilemma, and how Likud\u2019s ideological shift could affect coalition-building, policy direction, and the broader political landscape in Israel."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "The Gaza \u201cCeasefire\u201d Farce and the Battle for Michigan",
-      "summary": "Sami Al-Arian joins Jeremy Scahill to discuss the latest on Hamas and the Board of Peace. Then, Jeremy and Ryan Grim discuss today's Michigan primary and potential 2028 candidates.",
-      "link": "https://www.dropsitenews.com/p/the-gaza-ceasefire-farce-and-the",
-      "published_at": "2026-08-04T19:12:57Z",
-      "ai_summary": "A discussion featuring Sami Al-Arian on Hamas and the proposed Board of Peace, followed by Jeremy Scahill and Ryan Grim on the Michigan primary and possible 2028 presidential contenders.",
-      "importance": 54,
-      "why": "It covers current Middle East politics and U.S. electoral politics, including the Michigan primary and early 2028 candidate speculation, which is moderately relevant but not highly consequential on its own."
-    }
-  ],
-  "regional_analysis": [
-    {
-      "source": "Al Jazeera",
-      "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
-      "summary": "Foreign ministers warn Christian and Islamic holy sites \u2018threatened\u2019 by Israel \u2018as never before\u2019.",
-      "link": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites",
-      "published_at": "2026-08-05T00:00:00Z",
-      "ai_summary": "Top Arab and Muslim diplomats launched a plan to protect Jerusalem\u2019s religious sites, warning that Christian and Islamic holy places are under unprecedented threat from Israel.",
-      "importance": 83,
-      "why": "The item concerns Jerusalem, a highly sensitive religious and geopolitical flashpoint, and involves coordinated action by top Arab and Muslim diplomats. The warning about threatened holy sites and Israel\u2019s role makes it significant for regional tensions and international diplomacy."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Exclusive-Sinopec steps up Russian oil imports to offset Mideast supply cuts, traders and tracker say",
-      "summary": "By Chen Aizhu, Siyi Liu and Trixie YapSINGAPORE, Aug 6 (Reuters) - China's state-owned Sinopec Corp, the world's biggest refiner, has ramped up purchases of Far East Russian oil to compensate for Middle East supplies diminished by the Iran...",
-      "link": "https://www.al-monitor.com/originals/2026/08/exclusive-sinopec-steps-russian-oil-imports-offset-mideast-supply-cuts-traders",
-      "published_at": "2026-08-06T04:46:37Z",
-      "ai_summary": "Sinopec has increased imports of Russian Far East crude to offset reduced Middle East supply, according to traders and vessel-tracking data.",
-      "importance": 81,
-      "why": "This is significant because it highlights how a major Chinese refiner is actively reshaping crude sourcing in response to geopolitical and supply disruptions in the Middle East. It has implications for global oil trade flows, sanctions-sensitive Russian exports, and regional energy market dynamics."
+      "ai_summary": "The article examines how Benjamin Netanyahu is struggling to contain the more extreme elements within Likud after helping empower them, as he tries to balance the party\u2019s hardline base with the broader moderate right ahead of future political challenges.",
+      "importance": 78,
+      "why": "It focuses on internal power dynamics in Israel\u2019s ruling right-wing camp and Netanyahu\u2019s strategy, which can affect coalition stability, policy direction, and election positioning."
     },
     {
       "source": "Haaretz",
@@ -150,39 +171,9 @@
       "summary": "https://www.haaretz.com/israel-news/podcasts/2026-08-03/ty-article-podcast/could-a-jewish-politician-joining-an-islamist-party-shake-up-israels-election/0000019f-c6da-d2d0-af9f-fefa76c80000",
       "link": "https://www.haaretz.com/israel-news/podcasts/2026-08-03/ty-article-podcast/could-a-jewish-politician-joining-an-islamist-party-shake-up-israels-election/0000019f-c6da-d2d0-af9f-fefa76c80000",
       "published_at": "2026-08-03T00:00:00Z",
-      "ai_summary": "A Haaretz podcast explores the unusual and politically significant prospect of a Jewish politician joining an Islamist party, and how that could affect Israel\u2019s election dynamics.",
+      "ai_summary": "The article discusses an unprecedented political development in Israel: a Jewish politician considering or joining an Islamist party ahead of the election, and the potential impact this could have on Israeli politics and coalition dynamics.",
       "importance": 78,
-      "why": "The title signals a highly unusual cross-communal political development with potential electoral consequences in Israel. Even without the full article text, it appears relevant to Israeli politics, coalition-building, and broader questions about representation and political strategy."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds",
-      "summary": "By Jason Lange and Simon LewisWASHINGTON, Aug 6 (Reuters) - Five months into the U.S. war with Iran, Americans who expect the Middle East to slide toward chaos outnumber those who see the war bringing more stability by three to one,...",
-      "link": "https://www.al-monitor.com/originals/2026/08/iran-war-drags-americans-are-bracing-more-chaos-middle-east-reutersipsos-poll",
-      "published_at": "2026-08-06T10:46:42Z",
-      "ai_summary": "Reuters/Ipsos poll finds Americans increasingly expect the U.S. war with Iran to make the Middle East more chaotic rather than more stable, reflecting broad concern as the conflict drags on.",
-      "importance": 75,
-      "why": "The item reports public opinion on an ongoing U.S.-Iran war and its perceived regional consequences, making it relevant for geopolitical risk, U.S. foreign policy, and market/policy watchers."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "AIPAC to oppose El-Sayed after major Michigan primary victory",
-      "summary": "The America Israel Public Affairs Committee said it will work to oppose Abdul El-Sayed\u2019s \u201cradical anti-Israel agenda\u201d as his opponent seeks to paint him as extreme.",
-      "link": "https://www.al-monitor.com/originals/2026/08/aipac-oppose-el-sayed-after-major-michigan-primary-victory",
-      "published_at": "2026-08-05T19:55:17Z",
-      "ai_summary": "AIPAC says it will oppose Abdul El-Sayed after his major Michigan primary victory, calling his position a \u201cradical anti-Israel agenda.\u201d",
-      "importance": 71,
-      "why": "This is a politically significant development involving a major pro-Israel lobbying group and a prominent Michigan primary winner, suggesting potential influence on the general election and broader debate over U.S.-Israel policy."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US-Israel war on Iran upends Europe\u2019s summer holiday travel patterns",
-      "summary": "Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.",
-      "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel",
-      "published_at": "2026-08-06T00:00:00Z",
-      "ai_summary": "The US-Israel war on Iran is changing European summer travel behavior, with holidaymakers choosing destinations closer to home and tourism operators adjusting accordingly.",
-      "importance": 69,
-      "why": "It highlights a geopolitical conflict affecting consumer behavior and the travel/tourism industry across Europe during peak holiday season, with broader economic and regional implications."
+      "why": "It highlights an unusual cross-identity political alliance in a highly polarized election environment, which could affect voter behavior, party strategy, and the broader balance of power in Israel."
     }
   ],
   "deep_analysis": [
@@ -192,19 +183,19 @@
       "summary": "With crossings closed and hospitals destroyed, medical training is at a standstill - and the specialists Gaza needs to rebuild may never exist",
       "link": "https://www.middleeasteye.net/opinion/israels-genocide-has-frozen-generation-gazas-young-doctors",
       "published_at": "2026-08-02T15:15:00Z",
-      "ai_summary": "Israel\u2019s war on Gaza has devastated medical infrastructure and blocked crossings, halting the training of young doctors and threatening Gaza\u2019s future supply of specialists.",
-      "importance": 94,
-      "why": "The text describes a major humanitarian and long-term public health crisis: destruction of hospitals and closure of crossings have frozen medical education, which could leave Gaza without the specialists needed to rebuild its health system."
+      "ai_summary": "The piece says Israel\u2019s war on Gaza has devastated medical education: crossings are closed, hospitals are destroyed, and young doctors\u2019 training has stalled, threatening Gaza\u2019s future supply of specialists.",
+      "importance": 95,
+      "why": "This is highly important because it highlights a long-term humanitarian and health-system crisis, not just immediate wartime destruction. The loss of medical training capacity could affect Gaza\u2019s healthcare for generations."
     },
     {
-      "source": "Jadaliyya",
-      "title": "When Reconstruction Becomes War Governance in Gaza",
-      "summary": "Graves in Gaza are being disturbed by fresh bombardment at the very moment reconstruction plans are unveiled. A ceasefire came into effect in October 2025, framed by U.S. officials as the stage that would enable Gaza\u2019s \u201cfull...",
-      "link": "https://www.jadaliyya.com/Details/47577/When-Reconstruction-Becomes-War-Governance-in-Gaza",
-      "published_at": null,
-      "ai_summary": "The text describes the contradiction between announced Gaza reconstruction plans and renewed bombardment that is disturbing graves, arguing that post-ceasefire reconstruction is being turned into a form of war governance rather than genuine recovery.",
+      "source": "Middle East Eye",
+      "title": "In Gaza, you don\u2019t only see death. You smell it. You breathe it",
+      "summary": "Denial of access to the injured and killed, with corpses left to rot, is a systematic strategy of Israel\u2019s genocidal war against Palestinians",
+      "link": "https://www.middleeasteye.net/opinion/gaza-dont-only-see-death-smell-breathe-it",
+      "published_at": "2024-01-14T09:28:00Z",
+      "ai_summary": "The text argues that in Gaza, the effects of war are not only visible but physically pervasive, claiming that Israel\u2019s denial of access to the injured and dead leaves bodies to rot and serves as a systematic part of its war against Palestinians.",
       "importance": 90,
-      "why": "It addresses a major ongoing conflict, humanitarian harm, and the political framing of reconstruction under ceasefire conditions, which has significant regional and international relevance."
+      "why": "This is a highly charged political statement about the Gaza war and allegations of systematic abuse and genocide, making it significant for understanding the discourse, humanitarian claims, and accusations surrounding the conflict."
     },
     {
       "source": "Jadaliyya",
@@ -212,9 +203,9 @@
       "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
       "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
       "published_at": null,
-      "ai_summary": "An interview with Adam Hanieh argues that the war on Iran should be understood not only as a military conflict or an oil-market shock, but as part of a broader political-economic struggle tied to regional power, US-Israel strategy, capital flows, and the restructuring of the Middle East order.",
+      "ai_summary": "An interview examining the political economy of Israel\u2019s June 2025 attack on Iran, arguing that the conflict should be understood not only as military escalation or an oil-market event but as part of broader regional power, capitalism, and imperial competition.",
       "importance": 84,
-      "why": "The piece is important because it offers a framework for interpreting a major 2025 conflict beyond immediate battlefield developments, linking war to energy, imperial strategy, and regional political economy. It is relevant to readers interested in geopolitics, Middle East affairs, and the economic drivers behind military conflict."
+      "why": "It addresses a major geopolitical conflict involving Iran, Israel, and global energy/power structures, offering analytical framing that is likely significant for readers interested in international politics, the Middle East, and political economy."
     },
     {
       "source": "Jadaliyya",
@@ -222,19 +213,30 @@
       "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
       "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
       "published_at": null,
-      "ai_summary": "The text discusses the resurgence of nationalist discourse in Iran and revisits the contested memory of Mohammad Mossadegh, especially his place in contemporary political identity and historical narratives.",
+      "ai_summary": "The text discusses the resurgence of nationalist discourse in Iran, centered on contested public memory of Mohammad Mossadegh and his political legacy.",
       "importance": 84,
-      "why": "It addresses a major theme in Iranian politics and collective memory: how Mossadegh\u2019s legacy is used in present-day nationalist and reformist discourse, making it highly relevant to understanding contemporary political culture."
+      "why": "It addresses a major contemporary political and intellectual trend in Iran and frames Mossadegh as a key symbol in ongoing debates over nationalism, memory, and political identity."
     },
     {
-      "source": "Middle East Eye",
-      "title": "In defence of Benjamin Netanyahu",
-      "summary": "Efforts to single out the Israeli prime minister as uniquely responsible for state policy obscure a long record of expansion and repression",
-      "link": "https://www.middleeasteye.net/opinion/defence-benjamin-netanyahu",
-      "published_at": "2026-03-30T20:20:00Z",
-      "ai_summary": "The text argues that blaming Benjamin Netanyahu alone for Israeli state policy is misleading because Israel has a long-standing history of expansion and repression that predates him.",
-      "importance": 75,
-      "why": "The title and description indicate a political opinion piece about Israel and Netanyahu, likely relevant to international politics and Middle East policy, but not necessarily breaking news or globally critical on its own."
+      "source": "Jadaliyya",
+      "title": "Basit Kareem Iqbal, The Dread Heights: Tribulation and Refuge after the Syrian Revolution (New Texts Out Now)",
+      "summary": "Basit Kareem Iqbal,\u00a0The Dread Heights: Tribulation and Refuge after the Syrian Revolution\u00a0(Fordham University Press, 2025). Jadaliyya (J): What made you write this book? Basit Kareem Iqbal (BKI):\u00a0I lived in Syria for one formative year...",
+      "link": "https://www.jadaliyya.com/Details/47514/Basit-Kareem-Iqbal,-The-Dread-Heights-Tribulation-and-Refuge-after-the-Syrian-Revolution-New-Texts-Out-Now",
+      "published_at": null,
+      "ai_summary": "An interview introducing Basit Kareem Iqbal\u2019s book, The Dread Heights: Tribulation and Refuge after the Syrian Revolution, and beginning with his explanation of what inspired him to write it, including his experience living in Syria for a formative year.",
+      "importance": 68,
+      "why": "It is a book announcement/interview tied to Syria, the Syrian Revolution, and new academic work, which gives it moderate relevance for readers interested in Middle East politics, refugee studies, and contemporary scholarship."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "The West\u2019s Climate Colonialism in the Greater Middle East",
+      "summary": "There is a disturbing structural parallel between the old global energy economy and the new green transition.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/06/the-wests-climate-colonialism-in-the-greater-middle-east",
+      "date": "Jun 30, 2026",
+      "published_at": null,
+      "ai_summary": "The text argues that Western-led climate policy in the Greater Middle East may reproduce colonial-style power relations, creating a structural parallel between the old fossil-fuel energy system and the new green transition.",
+      "importance": 84,
+      "why": "It points to a major geopolitical critique of climate policy, suggesting the energy transition could reinforce historical inequalities and influence how global decarbonization is understood and implemented."
     },
     {
       "source": "War on the Rocks",
@@ -242,9 +244,9 @@
       "summary": "In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities...",
       "link": "https://warontherocks.com/the-atlantic-brief-the-strait-of-hormuz-and-the-future-of-free-navigation/",
       "published_at": "2026-07-31T20:27:03Z",
-      "ai_summary": "The piece concerns the 2026 Middle East war involving the U.S., Israel, and Iran, focusing on repeated strikes, a fragile ceasefire, and especially the blocking of the Strait of Hormuz and its implications for free navigation.",
-      "importance": 86,
-      "why": "The Strait of Hormuz is a critical global shipping chokepoint, so any conflict or blockade there has major implications for energy markets, international trade, and maritime security. The topic is geopolitically significant and likely affects global stability well beyond the immediate region."
+      "ai_summary": "The piece discusses the Strait of Hormuz as a critical chokepoint for global shipping amid a 2026 Middle East war involving the U.S., Israel, and Iran, highlighting the risks to free navigation and energy flows.",
+      "importance": 84,
+      "why": "It concerns a major geopolitical conflict affecting a vital international shipping route and global energy security, with implications for trade, military escalation, and maritime law."
     },
     {
       "source": "Responsible Statecraft",
@@ -252,19 +254,9 @@
       "summary": "Those who anticipated that a U.S. war against Iran would risk igniting a region-wide conflagration are looking prescient. The latest metastasis of the conflict has included airstrikes by both the United States and Saudi Arabia in Iraq,...",
       "link": "https://responsiblestatecraft.org/world-war-three/",
       "published_at": "2026-08-03T04:05:01Z",
-      "ai_summary": "The passage argues that fears of a U.S. war with Iran triggering a wider regional conflict are proving correct, as the fighting has spread through airstrikes by the United States and Saudi Arabia in Iraq.",
-      "importance": 80,
-      "why": "It highlights a major geopolitical development involving multiple states and the spread of conflict across the Middle East, making it highly relevant to regional stability and international relations."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Leaked Saudi Cables Reveal the Shadowy Committee That Oversees the Kingdom\u2019s Policy on Yemen",
-      "summary": "In 2012, then-Saudi defense minister Salman bin Abdulaziz instructed the Special Committee of the Council of Ministers to engineer a rift to target Ansarallah.",
-      "link": "https://www.dropsitenews.com/p/yemen-saudi-special-committee-cables-houthis-ansarallah-salman",
-      "published_at": "2026-07-28T22:16:09Z",
-      "ai_summary": "Leaked Saudi cables indicate that in 2012 Salman bin Abdulaziz told a special ministerial committee to create a rift aimed at targeting Ansarallah in Yemen.",
-      "importance": 78,
-      "why": "This reveals possible high-level Saudi involvement in shaping policy toward Yemen and targeting Ansarallah, which is politically significant and relevant to understanding the conflict's origins and state decision-making."
+      "ai_summary": "An article arguing that escalating U.S., Saudi, and regional military actions are eroding national sovereignty across the Middle East, with Iraq as a key example.",
+      "importance": 81,
+      "why": "The title and excerpt describe a major geopolitical analysis of regional war dynamics and the weakening of state sovereignty, a high-level issue with broad implications for Middle East stability and international policy."
     }
   ]
 }
