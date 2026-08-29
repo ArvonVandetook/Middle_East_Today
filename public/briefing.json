@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T21:04:02.548615Z",
-  "top_story": "Israel\u2019s conduct in Gaza is hardening in ways that deepen both legal exposure and civilian danger: reporting on 27 August described Israeli protection for armed Gaza militias implicated in abuses, and on 28 August an officer who ordered the strike that killed World Central Kitchen staff openly justified the attack without remorse. Together, these developments point to a permissive operational climate in which irregular force partnerships and lethal actions against aid-linked targets are defended rather than contained. In Iran, the 26 August move to criminalise contact with foreign media extends a broader repression campaign designed to choke off documentation and external scrutiny as regional abuses draw sharper attention. The combined effect is a regional environment in which coercive actors are tightening control over both violence on the ground and the information that could mobilise accountability.",
+  "generated_at": "2026-08-29T03:27:15.904488Z",
+  "top_story": "Iran is tightening internal control as it moves to criminalize contact with foreign media and hands a photojournalist a 15-year sentence, widening the space in which ordinary civic activity can be recast as a security offense. Two days later, Washington targeted Banque Misr\u2019s UAE branches for allegedly moving more than $1 billion through Iranian shadow banking networks, underscoring how pressure on Iran now extends through Gulf-based financial channels and draws Arab institutions into the sanctions arena. In Gaza, the slower but equally consequential collapse of hospital equipment under spare-parts restrictions is stripping basic care from civilians, with oxygen access and routine treatment becoming contingent on a blockade regime rather than medical need. The combined picture is a region where coercive state tools\u2014financial, legal, and logistical\u2014are intensifying across borders and falling most heavily on civic space and civilian survival.",
   "top_developments": [
     {
       "source": "Al Monitor",
@@ -8,69 +8,9 @@
       "summary": "The Treasury Department said&nbsp;Banque Misr's UAE branches had processed over $1 billion for Iranian shadow banking networks.",
       "link": "https://www.al-monitor.com/originals/2026/08/us-treasury-targets-egyptian-banks-uae-branches-over-iran-dealings",
       "published_at": "2026-08-28T15:03:32Z",
-      "ai_summary": "The U.S. Treasury targeted Banque Misr\u2019s UAE branches after saying they processed over $1 billion for Iranian shadow banking networks.",
-      "importance": 85,
-      "why": "This is a significant sanctions and financial compliance action involving a major bank and alleged large-scale support for Iranian financial networks, which can affect regional banking and U.S.-Iran policy."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "'Not sorry': Israeli officer who killed international aid workers in Gaza justifies strike",
-      "summary": "Colonel Nochi Mendel ordered the attack that killed World Central Kitchen workers including Palestinian, British, Australian, Canadian and Polish nationals",
-      "link": "https://www.middleeasteye.net/news/israeli-officer-who-ordered-wck-strike-gaza-says-he-not-sorry",
-      "published_at": "2026-08-28T09:14:00Z",
-      "ai_summary": "An Israeli officer who ordered the strike that killed World Central Kitchen aid workers in Gaza defended the attack and said he was not sorry.",
-      "importance": 100,
-      "why": "The item concerns a highly sensitive international incident involving the deaths of humanitarian aid workers from multiple countries, making it newsworthy and diplomatically significant."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Gaza forced to use unreliable online payments amid \u2018cash famine\u2019",
-      "summary": "Israeli restrictions and war damage have created a liquidity crisis, crippling Gaza\u2019s banking system and daily commerce.",
-      "link": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine",
-      "published_at": "2026-08-28T00:00:00Z",
-      "ai_summary": "Gaza\u2019s banking system and daily commerce are being crippled by a severe cash shortage caused by Israeli restrictions and war damage, forcing people to rely on unreliable online payments.",
-      "importance": 90,
-      "why": "The story describes a major humanitarian and economic crisis affecting basic financial access for civilians in Gaza, with broad implications for daily life and commerce."
-    },
-    {
-      "source": "Guardian",
-      "title": "Iran seeks to criminalise all contact with foreign media in \u2018chilling\u2019 crackdown",
-      "summary": "As photojournalist sentenced to 15 years, rights groups warn law would turn civic engagement into security crimeIran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said...",
-      "link": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
-      "published_at": "2026-08-26T05:00:35Z",
-      "ai_summary": "Iran is moving to criminalize contact with foreign media as part of a broader crackdown, following a harsh 15-year sentence for a photojournalist.",
-      "importance": 92,
-      "why": "The article concerns a significant human rights and press freedom issue: a proposed law that could make ordinary contact with foreign media a security crime, alongside a severe sentence for a journalist. This has major implications for civil liberties, journalism, and political repression in Iran."
-    },
-    {
-      "source": "Haaretz",
-      "title": "'Israel Is Sending Armed Militias in Gaza to Commit War Crimes \u2013 and I Have to Protect Them'",
-      "summary": "https://www.haaretz.com/israel-news/security-aviation/2026-08-27/ty-article-magazine/gaza-israel-sending-militias-commit-war-crimes-i-have-to-protect-them/0000019f-f0f0-df61-a3ff-f9fe6ca70000",
-      "link": "https://www.haaretz.com/israel-news/security-aviation/2026-08-27/ty-article-magazine/gaza-israel-sending-militias-commit-war-crimes-i-have-to-protect-them/0000019f-f0f0-df61-a3ff-f9fe6ca70000",
-      "published_at": "2026-08-27T00:00:00Z",
-      "ai_summary": "The article appears to argue that Israel is deploying and protecting armed militias in Gaza that are implicated in war crimes, and that this creates a severe moral and legal dilemma for those assigned to secure or shield them.",
-      "importance": 92,
-      "why": "The topic is highly important because it concerns alleged war crimes in an active conflict, the conduct of state-backed armed groups, and potential legal and ethical accountability. The claim also has major implications for international law, human rights, and public understanding of the Gaza war."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "\u201cAccess to Oxygen Is Not a Medical Luxury\u201d: With No Spare Parts Allowed In, Gaza\u2019s Hospital Equipment Is Collapsing",
-      "summary": "Israel&#8217;s restrictions on medical supplies and equipment are still making health care in Gaza all but impossible.",
-      "link": "https://www.dropsitenews.com/p/gaza-hospitals-medical-equipment-supplies-israeli-blockade",
-      "published_at": "2026-08-26T14:33:56Z",
-      "ai_summary": "Gaza\u2019s hospitals are struggling to function because Israel\u2019s restrictions on medical supplies and equipment prevent essential spare parts and replacements from entering, causing critical equipment to fail.",
-      "importance": 89,
-      "why": "The text describes a severe humanitarian and public health crisis affecting life-saving hospital care in Gaza, with system-wide implications for patient survival and medical infrastructure."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Oil prices fall after Iran steps up truce efforts, US says Hormuz mines cleared",
-      "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said in an interview on Thursday that Iran was preparing a list of conditions for reopening the Strait of Hormuz.",
-      "link": "https://www.al-monitor.com/originals/2026/08/oil-prices-fall-after-iran-steps-truce-efforts-us-says-hormuz-mines-cleared",
-      "published_at": "2026-08-28T13:16:22Z",
-      "ai_summary": "Iran said it is preparing conditions for reopening the Strait of Hormuz as oil prices fell amid stepped-up truce efforts and US claims that mines in the area were cleared.",
-      "importance": 77,
-      "why": "This is highly relevant to global energy markets because the Strait of Hormuz is a critical oil shipping chokepoint, and any changes in tensions there can quickly move oil prices and affect geopolitical risk."
+      "ai_summary": "US Treasury says Banque Misr\u2019s UAE branches processed over $1 billion for Iranian shadow banking networks, prompting targeting of the bank\u2019s UAE operations.",
+      "importance": 91,
+      "why": "This is a significant U.S. sanctions/enforcement action involving a major Egyptian bank, Iran-linked illicit finance, and over $1 billion in suspected transactions, with potential regional and international banking implications."
     },
     {
       "source": "Middle East Eye",
@@ -78,9 +18,69 @@
       "summary": "US and European officials are concerned that Russian missiles cannot be stopped",
       "link": "https://www.middleeasteye.net/news/us-missile-interceptor-shortfall-beyond-critical-due-war-iran-report",
       "published_at": "2026-08-27T20:14:00Z",
-      "ai_summary": "Report says US missile interceptor stockpiles are dangerously low, with shortfalls described as beyond critical amid concerns linked to a war with Iran; officials are also worried about an inability to stop Russian missiles.",
+      "ai_summary": "Report says the U.S. missile interceptor shortfall is now \"beyond critical\" after the war on Iran, with officials also worried that Russian missiles cannot be stopped.",
       "importance": 90,
-      "why": "It concerns US and European missile defense readiness, national security, and potential vulnerability to missile attacks involving major adversaries and a regional war scenario."
+      "why": "This concerns major U.S. and European defense readiness and implies a serious gap in missile defense capability with potential strategic consequences for regional and global security."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gaza forced to use unreliable online payments amid \u2018cash famine\u2019",
+      "summary": "Israeli restrictions and war damage have created a liquidity crisis, crippling Gaza\u2019s banking system and daily commerce.",
+      "link": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine",
+      "published_at": "2026-08-28T00:00:00Z",
+      "ai_summary": "Gaza faces a severe cash shortage caused by Israeli restrictions and war damage, forcing residents and businesses to rely on unreliable online payments as the banking system and daily commerce are crippled.",
+      "importance": 89,
+      "why": "This describes a major humanitarian and economic crisis affecting an entire civilian population, with broad implications for access to money, trade, and daily survival."
+    },
+    {
+      "source": "Guardian",
+      "title": "Iran seeks to criminalise all contact with foreign media in \u2018chilling\u2019 crackdown",
+      "summary": "As photojournalist sentenced to 15 years, rights groups warn law would turn civic engagement into security crimeIran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said...",
+      "link": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
+      "published_at": "2026-08-26T05:00:35Z",
+      "ai_summary": "Iran is moving to criminalise contact with foreign media as part of a broader crackdown, while a photojournalist has been sentenced to 15 years, prompting human rights groups to warn that ordinary civic engagement could be treated as a security crime.",
+      "importance": 90,
+      "why": "The item signals a significant escalation in repression of press freedom and civil society in Iran, with broad implications for journalists, activists, and ordinary citizens. It is important because it affects human rights, media access, and the political climate, and may indicate a widening crackdown with international concern."
+    },
+    {
+      "source": "Haaretz",
+      "title": "'Israel Is Sending Armed Militias in Gaza to Commit War Crimes \u2013 and I Have to Protect Them'",
+      "summary": "https://www.haaretz.com/israel-news/security-aviation/2026-08-27/ty-article-magazine/gaza-israel-sending-militias-commit-war-crimes-i-have-to-protect-them/0000019f-f0f0-df61-a3ff-f9fe6ca70000",
+      "link": "https://www.haaretz.com/israel-news/security-aviation/2026-08-27/ty-article-magazine/gaza-israel-sending-militias-commit-war-crimes-i-have-to-protect-them/0000019f-f0f0-df61-a3ff-f9fe6ca70000",
+      "published_at": "2026-08-27T00:00:00Z",
+      "ai_summary": "The article argues that Israel is allegedly deploying armed militias in Gaza to carry out abuses and war crimes, and that the speaker is under pressure to protect or shield them. The piece appears to be a strongly framed, highly critical report/commentary about misconduct in the Gaza conflict.",
+      "importance": 86,
+      "why": "This is a politically and legally significant claim involving alleged war crimes, military conduct, and accountability in the Gaza war. It is likely important for readers tracking the conflict, international law implications, and Israeli internal/security policy debates."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "\u201cAccess to Oxygen Is Not a Medical Luxury\u201d: With No Spare Parts Allowed In, Gaza\u2019s Hospital Equipment Is Collapsing",
+      "summary": "Israel&#8217;s restrictions on medical supplies and equipment are still making health care in Gaza all but impossible.",
+      "link": "https://www.dropsitenews.com/p/gaza-hospitals-medical-equipment-supplies-israeli-blockade",
+      "published_at": "2026-08-26T14:33:56Z",
+      "ai_summary": "Gaza\u2019s hospitals are running out of usable equipment because spare parts and medical supplies are heavily restricted, making basic health care increasingly impossible.",
+      "importance": 92,
+      "why": "The piece highlights a severe humanitarian and public health crisis: essential hospital equipment is collapsing under restrictions, directly affecting life-saving care for a large civilian population."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "War weighs on Iran's economy as US intensifies sanctions",
+      "summary": "By Eman Abouhassira and Yasmine GhaniaDUBAI/CAIRO, Aug 29 (Reuters) - Iranian leaders are acknowledging the economic toll of war with the United States, with the supreme leader calling on the government to address the hardship while the...",
+      "link": "https://www.al-monitor.com/originals/2026/08/war-weighs-irans-economy-us-intensifies-sanctions",
+      "published_at": "2026-08-29T02:46:36Z",
+      "ai_summary": "Reuters reports that Iranian leaders are increasingly acknowledging the economic strain caused by heightened conflict and intensified U.S. sanctions, with Supreme Leader Ayatollah Ali Khamenei urging the government to address public hardship.",
+      "importance": 85,
+      "why": "This is geopolitically significant because it links U.S.-Iran tensions, sanctions pressure, and domestic economic consequences, which can affect regional stability, energy markets, and future policy decisions."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "US satellite imagery restrictions leave journalists in the dark on Iran and Gaza",
+      "summary": "Tightened satellite\u2011imagery access over the Middle East raises fears conflicts are slipping out of view and pushes journalists toward Chinese and European providers",
+      "link": "https://www.middleeasteye.net/news/us-satellite-imagery-restrictions-leave-journalists-dark-iran-and-gaza",
+      "published_at": "2026-08-28T09:20:00Z",
+      "ai_summary": "US satellite imagery restrictions are making it harder for journalists to cover conflicts in Iran and Gaza, increasing reliance on non-US providers.",
+      "importance": 81,
+      "why": "This is important because it affects access to independent information about active conflicts, potentially limiting reporting, transparency, and public understanding. The shift toward Chinese and European imagery providers also has broader implications for media dependency and geopolitical information control."
     },
     {
       "source": "Al Jazeera",
@@ -88,9 +88,9 @@
       "summary": "Students in Houthi areas fear lost opportunities after government decision not to authenticate some certificates.",
       "link": "https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo",
       "published_at": "2026-08-28T00:00:00Z",
-      "ai_summary": "Students in Houthi-controlled areas fear their certificates may not be recognized after the government decided not to authenticate some documents, putting their education and future opportunities at risk.",
+      "ai_summary": "Yemen\u2019s divided education system is causing uncertainty for students, as a government decision not to authenticate some certificates threatens their future opportunities, especially for students in Houthi-controlled areas.",
       "importance": 83,
-      "why": "This affects students\u2019 ability to pursue higher education, jobs, and other opportunities, and reflects broader consequences of Yemen\u2019s divided political and educational systems."
+      "why": "This is important because it affects students\u2019 ability to continue education, apply for jobs, and have their qualifications recognized, with broader implications for Yemen\u2019s already fragile social and economic future."
     },
     {
       "source": "Guardian",
@@ -98,71 +98,9 @@
       "summary": "Efforts to rebuild domestic food production face severe challenges and have come at deadly costAs Gaza\u2019s population of 2.1 million has been hemmed into an ever smaller slice of the territory, farmers are using every last remaining patch of...",
       "link": "https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat",
       "published_at": "2026-08-26T11:00:11Z",
-      "ai_summary": "Gaza farmers are struggling to sustain domestic food production on dwindling land under constant threat, with rebuilding efforts facing severe obstacles and deadly consequences.",
+      "ai_summary": "The article describes how Gaza farmers are trying to rebuild domestic food production on shrinking scraps of land while facing constant danger and deadly conditions.",
       "importance": 87,
-      "why": "The article covers a major humanitarian and food-security issue affecting Gaza\u2019s 2.1 million residents, highlighting the collapse of local agriculture, ongoing danger to farmers, and the broader impact on survival and recovery."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Defense Minister Says IDF Has 'Occupied' Jenin Refugee Camp in West Bank",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-08-28/ty-article-live/reports-israeli-forces-enter-villages-in-southern-syria-fire-two-shells/000001a0-4607-d6dd-a1ad-e667f0750000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-08-28/ty-article-live/reports-israeli-forces-enter-villages-in-southern-syria-fire-two-shells/000001a0-4607-d6dd-a1ad-e667f0750000",
-      "published_at": "2026-08-28T00:00:00Z",
-      "ai_summary": "Haaretz reports that Israel\u2019s defense minister said the IDF has \u201coccupied\u201d the Jenin refugee camp in the West Bank, indicating a significant escalation in military control there.",
-      "importance": 84,
-      "why": "This is important because it signals a major development in the West Bank, with direct implications for Israeli-Palestinian tensions, security conditions, and potential regional escalation."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Imran Khan\u2019s Health, Iran Under Sanctions",
-      "summary": "Drop Site reporters Murtaza Hussain and Waqas Ahmed discuss the fate of Imran Khan; Murtaza is later joined by analyst Esfandyar Batmanghelidj to discuss the impact of economic sanctions on Iran.",
-      "link": "https://www.dropsitenews.com/p/imran-khans-health-iran-under-sanctions",
-      "published_at": "2026-08-26T00:37:00Z",
-      "ai_summary": "Discussion of Imran Khan\u2019s fate and Iran\u2019s economy under sanctions, featuring Drop Site reporters Murtaza Hussain and Waqas Ahmed, later joined by analyst Esfandyar Batmanghelidj.",
-      "importance": 63,
-      "why": "The topic covers two politically significant issues: Imran Khan\u2019s situation in Pakistan and the economic effects of sanctions on Iran. It is relevant for regional politics and policy analysis, though it appears to be a discussion rather than a major breaking event."
-    }
-  ],
-  "regional_analysis": [
-    {
-      "source": "Al Jazeera",
-      "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-      "summary": "Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.",
-      "link": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements",
-      "published_at": "2026-08-28T00:00:00Z",
-      "ai_summary": "Al Jazeera reports that UK public funds are being used in contracts with companies linked to illegal Israeli settlements in occupied territory.",
-      "importance": 83,
-      "why": "This involves alleged misuse of public money, links to illegal settlements, and a politically sensitive foreign policy issue with legal and ethical implications."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
-      "summary": "The Iran war is settling into attrition, with no regime collapse and Gulf economies facing growing uncertainty.",
-      "link": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions",
-      "published_at": "2026-08-28T00:00:00Z",
-      "ai_summary": "Six months into the Iran-US war, it has become an attritional conflict without regime collapse, while Arab Gulf states face growing economic uncertainty and strategic pressure.",
-      "importance": 79,
-      "why": "The item matters because it signals a prolonged regional conflict involving major powers, with direct implications for Gulf security, energy markets, and Arab states\u2019 economic and diplomatic positions."
-    },
-    {
-      "source": "Haaretz",
-      "title": "We Found a Secret Netanyahu Campaign. When We Reached Out for Comment, It Was Taken Down",
-      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-08-27/ty-article/.premium/we-found-a-secret-netanyahu-campaign-when-we-reached-out-it-was-taken-down/000001a0-42f2-d6e9-a1aa-e7ffd3680000",
-      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-08-27/ty-article/.premium/we-found-a-secret-netanyahu-campaign-when-we-reached-out-it-was-taken-down/000001a0-42f2-d6e9-a1aa-e7ffd3680000",
-      "published_at": "2026-08-27T00:00:00Z",
-      "ai_summary": "Article about an apparently hidden Netanyahu-linked campaign discovered by Haaretz, which was removed after the publication contacted for comment.",
-      "importance": 78,
-      "why": "It concerns covert political campaigning involving a sitting major political figure, possible transparency or election-law issues, and direct media accountability. The removal after inquiry suggests the story may have public-interest significance and could affect perceptions of Netanyahu\u2019s campaign strategy."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Israel, Hamas bide their time as Gaza peace plan stalls",
-      "summary": "As the Israel-Hamas ceasefire approaches the one-year mark in October, the Board of Peace is under pressure to deliver results in the Gaza Strip.",
-      "link": "https://www.al-monitor.com/originals/2026/08/israel-hamas-bide-their-time-gaza-peace-plan-stalls-0",
-      "published_at": "2026-08-28T13:21:25Z",
-      "ai_summary": "The Israel-Hamas ceasefire is nearing its one-year mark, but the Gaza peace plan remains stalled and the Board of Peace is under pressure to produce results.",
-      "importance": 77,
-      "why": "This is a significant ongoing geopolitical issue involving Israel, Hamas, and Gaza peace efforts, with implications for regional stability and international diplomacy."
+      "why": "It highlights a major humanitarian and food-security issue affecting Gaza\u2019s 2.1 million residents, with implications for survival, livelihoods, and ongoing conflict."
     },
     {
       "source": "Haaretz",
@@ -170,9 +108,41 @@
       "summary": "https://www.haaretz.com/israel-news/elections/2026-08-26/ty-article/poll-likuds-decline-continues-new-right-wing-party-fails-to-cross-threshold/000001a0-3f77-d1ec-a7ec-7fff54df0000",
       "link": "https://www.haaretz.com/israel-news/elections/2026-08-26/ty-article/poll-likuds-decline-continues-new-right-wing-party-fails-to-cross-threshold/000001a0-3f77-d1ec-a7ec-7fff54df0000",
       "published_at": "2026-08-26T00:00:00Z",
-      "ai_summary": "A poll reported by Haaretz shows Likud falling to 19 seats while a new right-wing party fails to cross the electoral threshold, indicating a shift in Israel\u2019s right-wing vote.",
-      "importance": 74,
-      "why": "This is politically significant because it reflects changes in party strength, potential coalition arithmetic, and voter realignment ahead of an election. It may affect government formation and the broader balance of power in Israeli politics."
+      "ai_summary": "Haaretz reports a poll showing Likud dropping to 19 seats while a new right-wing party fails to cross the electoral threshold.",
+      "importance": 82,
+      "why": "The item is politically significant because it reflects a notable shift in Israeli party support, especially for Likud, and highlights potential changes in coalition dynamics ahead of elections."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Imran Khan\u2019s Health, Iran Under Sanctions",
+      "summary": "Drop Site reporters Murtaza Hussain and Waqas Ahmed discuss the fate of Imran Khan; Murtaza is later joined by analyst Esfandyar Batmanghelidj to discuss the impact of economic sanctions on Iran.",
+      "link": "https://www.dropsitenews.com/p/imran-khans-health-iran-under-sanctions",
+      "published_at": "2026-08-26T00:37:00Z",
+      "ai_summary": "Discussion of Imran Khan\u2019s fate and, separately, the impact of economic sanctions on Iran.",
+      "importance": 62,
+      "why": "The topic touches on the high-profile status of Imran Khan and a significant geopolitical issue affecting Iran, making it moderately important and broadly relevant."
+    }
+  ],
+  "regional_analysis": [
+    {
+      "source": "Al Monitor",
+      "title": "Leaders of Russia, China, Iran to attend summit in Kyrgyzstan",
+      "summary": "Russia's Vladimir Putin and China's Xi Jinping are expected in Central Asia's Kyrgyzstan Monday for a two-day summit, also attended by Iran's and India's leaders, of a regional bloc seeking to be a counter-influence to the West.&nbsp;...",
+      "link": "https://www.al-monitor.com/originals/2026/08/leaders-russia-china-iran-attend-summit-kyrgyzstan",
+      "published_at": "2026-08-29T01:30:27Z",
+      "ai_summary": "Putin and Xi are expected to attend a two-day summit in Kyrgyzstan alongside leaders from Iran and India for a regional bloc aiming to counter Western influence.",
+      "importance": 85,
+      "why": "The event involves multiple major powers and could signal coordination among countries seeking alternatives to Western-led institutions, making it geopolitically significant."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+      "summary": "Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.",
+      "link": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements",
+      "published_at": "2026-08-28T00:00:00Z",
+      "ai_summary": "Al Jazeera reports that UK public funds are being paid to companies connected to Israeli settlements in occupied land, raising concerns about complicity in settlement activity.",
+      "importance": 83,
+      "why": "The issue involves alleged misuse of public money, international law, and UK involvement in a highly sensitive geopolitical conflict, making it politically and legally significant."
     },
     {
       "source": "Al Jazeera",
@@ -180,9 +150,39 @@
       "summary": "Al Jazeera tracks six months of the Iran war, from the dead and displaced to the shock delivered to the global economy.",
       "link": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers",
       "published_at": "2026-08-28T00:00:00Z",
-      "ai_summary": "An Al Jazeera piece tracking the six-month impact of a US-Israel war on Iran, focusing on casualties, displacement, and global economic effects.",
-      "importance": 74,
-      "why": "It appears to be a broad conflict analysis covering human, regional, and economic consequences over time, which makes it significant for geopolitics and current affairs."
+      "ai_summary": "A data-focused overview of the first six months of the US-Israel war on Iran, highlighting casualties, displacement, and wider economic impacts.",
+      "importance": 83,
+      "why": "It covers an ongoing international war involving major powers and likely significant humanitarian, regional, and global economic consequences."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Six months on, Iran is still standing, but survival is becoming more costly",
+      "summary": "Economic pressure is testing Iran where it is weakest and sharpening divisions within its leadership.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly",
+      "published_at": "2026-08-28T00:00:00Z",
+      "ai_summary": "Iran remains intact after six months, but escalating economic pressure is straining the country and deepening internal leadership divisions.",
+      "importance": 79,
+      "why": "The headline signals a significant geopolitical and economic situation involving Iran\u2019s resilience under pressure. It suggests ongoing sanctions or external pressure are having material effects and could influence regional stability and leadership dynamics, making it important for policy and security contexts."
+    },
+    {
+      "source": "Haaretz",
+      "title": "IDF Publishes, Deletes Video Giving Draft-dodging Advice to Haredim",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-08-27/ty-article/.premium/idf-publishes-deletes-video-giving-draft-dodging-advice-to-haredim/000001a0-420f-d341-aff6-fb7fa8830000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-08-27/ty-article/.premium/idf-publishes-deletes-video-giving-draft-dodging-advice-to-haredim/000001a0-420f-d341-aff6-fb7fa8830000",
+      "published_at": "2026-08-27T00:00:00Z",
+      "ai_summary": "An IDF-published video offering advice to ultra-Orthodox (Haredi) viewers on how to avoid or handle military draft obligations was posted and then quickly deleted, prompting controversy.",
+      "importance": 78,
+      "why": "The item is politically and socially significant in Israel because it touches on the highly contentious issue of Haredi military conscription and the IDF's public messaging. The fact that the video was published and then removed suggests institutional sensitivity and potential backlash, making it newsworthy beyond the immediate incident."
+    },
+    {
+      "source": "Haaretz",
+      "title": "We Found a Secret Netanyahu Campaign. When We Reached Out for Comment, It Was Taken Down",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-08-27/ty-article/.premium/we-found-a-secret-netanyahu-campaign-when-we-reached-out-it-was-taken-down/000001a0-42f2-d6e9-a1aa-e7ffd3680000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-08-27/ty-article/.premium/we-found-a-secret-netanyahu-campaign-when-we-reached-out-it-was-taken-down/000001a0-42f2-d6e9-a1aa-e7ffd3680000",
+      "published_at": "2026-08-27T00:00:00Z",
+      "ai_summary": "The article alleges the discovery of a covert campaign linked to Netanyahu that was removed after the outlet requested comment, implying attempted concealment or rapid takedown following exposure.",
+      "importance": 78,
+      "why": "The topic is politically significant because it concerns possible undisclosed campaign activity tied to a major Israeli political figure and the reaction to journalistic scrutiny. If substantiated, it could affect public trust, election transparency, and media accountability."
     },
     {
       "source": "Al Monitor",
@@ -190,51 +190,41 @@
       "summary": "Israeli Prime Minister Benjamin Netanyahu's Likud party on Friday upbraided a far-right cabinet member for refusing to run on a joint slate with another ultranationalist, warning a split vote risked tanking their coalition in upcoming...",
       "link": "https://www.al-monitor.com/originals/2026/08/netanyahu-party-uproar-far-right-refuses-pleas-unite",
       "published_at": "2026-08-28T14:30:27Z",
-      "ai_summary": "Netanyahu\u2019s Likud is angry that a far-right cabinet member rejected a request to run on a joint slate with another ultranationalist, fearing the split could hurt the coalition in the upcoming election.",
-      "importance": 66,
-      "why": "This is politically significant because it concerns coalition unity and election strategy in Israel\u2019s governing bloc, which could affect Netanyahu\u2019s ability to maintain power."
+      "ai_summary": "Netanyahu\u2019s Likud criticized a far-right cabinet member for refusing to join a joint electoral slate with another ultranationalist, warning that a split vote could weaken the coalition in the upcoming election.",
+      "importance": 77,
+      "why": "This is politically significant because it concerns coalition stability, election strategy, and potential fragmentation within Israel\u2019s governing right-wing bloc, which could affect Netanyahu\u2019s ability to maintain power."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Israel, Hamas bide their time as Gaza peace plan stalls",
+      "summary": "As the Israel-Hamas ceasefire approaches the one-year mark in October, the Board of Peace is under pressure to deliver results in the Gaza Strip.",
+      "link": "https://www.al-monitor.com/originals/2026/08/israel-hamas-bide-their-time-gaza-peace-plan-stalls-0",
+      "published_at": "2026-08-28T13:21:25Z",
+      "ai_summary": "The Israel-Hamas ceasefire is nearing its one-year mark, while the Board of Peace faces pressure to produce tangible progress in Gaza as the peace plan remains stalled.",
+      "importance": 77,
+      "why": "This is geopolitically significant because it involves the Israel-Hamas conflict, a prolonged ceasefire, and stalled peace efforts in Gaza. The situation has implications for regional stability and international diplomacy."
     }
   ],
   "deep_analysis": [
-    {
-      "source": "Jadaliyya",
-      "title": "The Political Economy of the War on Iran: An Interview with Adam Hanieh",
-      "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
-      "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
-      "published_at": null,
-      "ai_summary": "An interview with Adam Hanieh argues that the June 2025 war on Iran should be understood not just as a military or energy-market event, but as part of a wider political-economic struggle tied to regional power, imperial interests, and the restructuring of the Middle East.",
-      "importance": 88,
-      "why": "It addresses a major ongoing geopolitical conflict and offers an analytical frame that goes beyond headlines, connecting war, oil, and regional political economy. This makes it highly relevant for understanding broader Middle East dynamics and global economic implications."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Former Israeli spy detained by ICE in US",
-      "summary": "Allison Alon worked for US tech companies before kidnapping acquaintance",
-      "link": "https://www.middleeasteye.net/news/transgender-former-israeli-spy-convicted-detained-ice-us",
-      "published_at": "2026-08-28T17:54:00Z",
-      "ai_summary": "Former Israeli spy Allison Alon was detained by ICE in the US after reportedly kidnapping an acquaintance, following prior work for US tech companies.",
-      "importance": 85,
-      "why": "The item involves a former intelligence operative, detention by US immigration authorities, and an alleged kidnapping, all of which are legally and politically significant and likely to draw public attention."
-    },
     {
       "source": "Jadaliyya",
       "title": "The Fate of Mossadegh in Contemporary Nationalism: Revisiting a Contest over Memory",
       "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
       "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
       "published_at": null,
-      "ai_summary": "The text describes the recent resurgence of nationalist discourse in Iran, especially around the memory and legacy of Mohammad Mossadegh, as part of a broader contest over national identity and political meaning.",
-      "importance": 85,
-      "why": "It addresses a major contemporary political and intellectual trend in Iran and frames Mossadegh as a central symbol in ongoing debates about nationalism, memory, and legitimacy."
+      "ai_summary": "The text discusses the renewed appeal of nationalist discourse in Iran, using Mossadegh as a central figure in contemporary struggles over historical memory and political identity.",
+      "importance": 90,
+      "why": "It highlights a major trend in Iranian political culture and memory politics, centering on Mossadegh as a symbol contested by different groups. This is important for understanding modern Iranian nationalism, reformist discourse, and how historical figures are mobilized in current political debates."
     },
     {
-      "source": "Middle East Eye",
-      "title": "US cuts off major Egyptian bank from global financial system",
-      "summary": "Sanctions on Banque Misr's branches in the UAE are part of Trump administration's 'Operation Economic Outcast' against Iran",
-      "link": "https://www.middleeasteye.net/news/us-cuts-major-egyptian-bank-global-financial-system",
-      "published_at": "2026-08-28T21:25:00Z",
-      "ai_summary": "The U.S. has cut off Banque Misr\u2019s branches in the UAE from the global financial system as part of sanctions tied to the Trump administration\u2019s campaign against Iran.",
-      "importance": 81,
-      "why": "This is a significant geopolitical and financial sanctions action affecting a major Egyptian bank\u2019s international operations, with potential implications for regional banking, cross-border transactions, and U.S.-Iran pressure policy."
+      "source": "Jadaliyya",
+      "title": "The Political Economy of the War on Iran: An Interview with Adam Hanieh",
+      "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
+      "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
+      "published_at": null,
+      "ai_summary": "An interview with Adam Hanieh examining the June 2025 Israel-Iran war through political economy rather than only military escalation or oil-market impacts, highlighting broader regional and global consequences.",
+      "importance": 78,
+      "why": "The piece addresses a major geopolitical conflict and frames it in terms of political economy, offering analysis beyond immediate battlefield developments and energy-price reactions."
     },
     {
       "source": "Middle East Eye",
@@ -242,9 +232,19 @@
       "summary": "Druze leaders across the Levant must reject efforts by Israel and its supporters to subsume their centuries-old identity",
       "link": "https://www.middleeasteye.net/opinion/hikmat-al-hijri-attempting-recast-druze-story-through-zionist-lens",
       "published_at": "2026-08-28T07:52:00Z",
-      "ai_summary": "The piece argues that Druze leaders across the Levant should resist attempts by Israel and its supporters to reinterpret Druze identity and history through a Zionist framework.",
-      "importance": 81,
-      "why": "The text addresses identity politics, regional sectarian dynamics, and Israel\u2019s influence on Druze narratives, which are significant for understanding Levantine politics and minority relations."
+      "ai_summary": "The piece argues that Druze leaders across the Levant should reject Israeli and pro-Israel attempts to reshape Druze identity and history through a Zionist framework.",
+      "importance": 75,
+      "why": "It concerns identity politics, regional sectarian dynamics, and Israel\u2019s influence on minority narratives, which are significant for Levantine politics and broader Middle East discourse."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Why the Mecca Agreement has given the UAE-Israel alliance the jitters",
+      "summary": "With their destructive wars, Netanyahu and Trump have brought the Gulf to the brink of destruction - the Mecca pact represents rightful pushback for their recklessness",
+      "link": "https://www.middleeasteye.net/opinion/why-mecca-agreement-has-given-UAE-Israel-alliance-the-jitters",
+      "published_at": "2026-08-17T15:36:00Z",
+      "ai_summary": "The Mecca Agreement is described as a pushback against the destabilizing actions of Netanyahu and Trump, whose wars allegedly pushed the Gulf toward destruction and unsettled the UAE-Israel alliance.",
+      "importance": 75,
+      "why": "The text frames the agreement as a significant regional political response that could affect Gulf-Israel relations and broader Middle East stability."
     },
     {
       "source": "Jadaliyya",
@@ -252,9 +252,9 @@
       "summary": "Editors\u2019 Note: On Thursday, August 20, the Guardian newspaper published an open letter signed by leading scholars, activists, and intellectuals in North America, some of whom were previously political prisoners or remain incarcerated....",
       "link": "https://www.jadaliyya.com/Details/47613/An-Alternative-Open-Letter-to-Iran%E2%80%99s-Political-Prisoners",
       "published_at": null,
-      "ai_summary": "An open letter published by the Guardian on August 20, signed by scholars, activists, and intellectuals in North America, expressing solidarity with Iran\u2019s political prisoners and calling attention to their plight.",
-      "importance": 68,
-      "why": "It concerns human rights and political repression in Iran and was published by a major newspaper, but the provided text is only a brief note rather than the full letter or a major policy development."
+      "ai_summary": "An open letter in support of Iran\u2019s political prisoners, published by the Guardian and signed by scholars, activists, and intellectuals in North America.",
+      "importance": 64,
+      "why": "It concerns political repression in Iran and includes a public appeal by prominent figures, which gives it moderate news and human-rights significance."
     },
     {
       "source": "Carnegie ME",
@@ -263,9 +263,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/august-4-and-criminal-impunity",
       "date": "Aug 4, 2026",
       "published_at": null,
-      "ai_summary": "The text argues that Lebanon\u2019s core dysfunction stems from its failure to ensure accountability and build institutional legitimacy, a problem highlighted by the August 4 tragedy.",
+      "ai_summary": "The text argues that Lebanon\u2019s core dysfunction stems from a failure to hold people accountable and to build legitimate institutions.",
       "importance": 88,
-      "why": "It points to a central political and governance issue in Lebanon: criminal impunity and weak institutions. The reference to August 4 makes it especially significant in the context of national accountability debates."
+      "why": "It identifies a central structural problem affecting governance and stability, making it highly relevant to understanding Lebanon\u2019s political crisis."
     },
     {
       "source": "Carnegie ME",
@@ -274,19 +274,19 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/the-mecca-agreement-unpacked",
       "date": "Aug 13, 2026",
       "published_at": null,
-      "ai_summary": "The Mecca Agreement is presented as a key regional accord aimed at preventing a security vacuum in the Gulf.",
-      "importance": 73,
-      "why": "It is described as a pivotal moment, suggesting significant geopolitical relevance for Gulf security and regional stability."
+      "ai_summary": "The Mecca Agreement is described as a pivotal regional accord aimed at preventing a security vacuum in the Gulf.",
+      "importance": 77,
+      "why": "It is framed as a significant diplomatic moment with direct implications for regional security and stability in the Gulf."
     },
     {
       "source": "Responsible Statecraft",
-      "title": "Israel's Lobby: More powerful and more unpopular than ever",
-      "summary": "The pro-Israel lobby is dominating American headlines during the current election because of its outsized role in competitive House and Senate races \u2014 a role that's drawn scrutiny as Israel's popularity among American voters declines.Eli...",
-      "link": "https://responsiblestatecraft.org/israel-lobby/",
-      "published_at": "2026-08-24T17:17:05Z",
-      "ai_summary": "The piece argues that the pro-Israel lobby remains highly influential in U.S. elections, especially in competitive House and Senate races, even as public support for Israel among American voters declines.",
-      "importance": 81,
-      "why": "It concerns a major foreign-policy lobby, its role in shaping U.S. electoral politics, and a shift in American public opinion that could affect future policy and campaign dynamics."
+      "title": "After 6 months of war, why aren't oil prices even higher?",
+      "summary": "For decades, the potential closure of the Strait of Hormuz has been considered the ultimate doomsday scenario for global oil markets. So, when Iran effectively closed the Strait earlier this year in response to the joint U.S.-Israeli...",
+      "link": "https://responsiblestatecraft.org/iran-war-oil-prices/",
+      "published_at": "2026-08-25T04:05:02Z",
+      "ai_summary": "The article examines why oil prices have not surged as much as expected after six months of war, despite fears of a major disruption in the Strait of Hormuz and broader Middle East tensions.",
+      "importance": 80,
+      "why": "It discusses a major geopolitical risk to global energy markets and explains why the anticipated oil shock has been muted, making it highly relevant to markets, inflation, and international security."
     },
     {
       "source": "War on the Rocks",
@@ -294,19 +294,9 @@
       "summary": "Every crisis in the Middle East returns the world&#8217;s attention to the same stretch of water. When tankers are seized, or missiles fly near the Persian Gulf, oil prices move, insurers reprice risk, shipping reroutes, and the United...",
       "link": "https://warontherocks.com/from-hormuz-to-the-caucasus-the-new-geography-of-energy-security/",
       "published_at": "2026-08-26T07:30:16Z",
-      "ai_summary": "The piece argues that recurring Middle East crises repeatedly expose the world\u2019s dependence on vulnerable maritime chokepoints like the Strait of Hormuz, driving up oil prices, insurance costs, and shipping risk. It frames energy security as shifting from a regional issue to a broader geopolitical map, potentially linking the Gulf to the Caucasus and other routes as alternatives or pressure points.",
-      "importance": 72,
-      "why": "The topic matters because disruptions in energy transit can quickly affect global markets, inflation, and security policy. Its focus on the evolving geography of energy security is strategically important for understanding how states and markets respond to conflict and supply-risk in critical transport corridors."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
-      "summary": "Israeli settlers and soldiers are increasingly targeting Palestinians in Area B of the occupied West Bank to force them from their homes.",
-      "link": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
-      "published_at": "2026-08-20T19:48:07Z",
-      "ai_summary": "Israeli settlers and soldiers are increasingly targeting Palestinian families in Qusra, Area B of the occupied West Bank, as part of a broader tactic to force them from their homes.",
-      "importance": 83,
-      "why": "The text describes an escalating pattern of violence and coercion affecting civilians in a contested occupied territory, which has significant humanitarian and political implications."
+      "ai_summary": "The piece argues that recurring crises in the Middle East keep exposing the global economy\u2019s dependence on chokepoints like the Strait of Hormuz, and that energy security now extends beyond the Gulf to include broader regional transport and supply routes.",
+      "importance": 76,
+      "why": "It matters because disruptions in this corridor can quickly affect oil prices, shipping costs, and geopolitical stability. The title suggests a wider argument about shifting energy-security geography, likely linking the Persian Gulf to the Caucasus and other routes."
     }
   ]
 }
