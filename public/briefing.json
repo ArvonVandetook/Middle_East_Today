@@ -1,26 +1,16 @@
 {
-  "generated_at": "2026-09-07T15:25:23.272897Z",
-  "top_story": "New scrutiny of the April strike that killed seven World Central Kitchen staff on the road to Rafah sharpens evidence that Israeli forces hit a deconflicted aid convoy after a food delivery mission they had helped coordinate, reinforcing concerns that expansive targeting practices in Gaza are collapsing the distinction between militants and protected civilians. The significance extends beyond the single attack: it deepens humanitarian paralysis, deters international relief operations, and leaves displaced Palestinians facing even tighter constraints on food access and movement. In Iran, the reported torture and threatened execution of twin sisters Taraneh and Romina Rahimi shows a parallel logic of coercion, where the state uses extreme violence to punish protest-linked dissent and force compliance through fear. Together these cases point to a regional pattern in which security institutions treat civilian protection as subordinate to deterrence, with lasting costs for public trust, civic space, and basic survival.",
+  "generated_at": "2026-09-07T23:53:00.799053Z",
+  "top_story": "Iran\u2019s pressure on women linked to the protest movement remains a live instrument of deterrence, with the abuse and threatened execution of jailed twin sisters underscoring how coercion continues to shape daily fear well after the peak of unrest. In Yemen, a separate but equally structural crisis is deepening as vaccine shortages leave roughly five million children exposed to preventable disease, showing how prolonged political fragmentation now translates directly into mass public-health risk. The most recent disclosure that Bashar al-Assad\u2019s secret reactor was nearly complete before its destruction revives scrutiny of Syria\u2019s long record of concealment and militarized state priorities. Taken together, these developments show regimes and fractured authorities across the region imposing lasting harm on civilians, whether through direct repression, governance failure, or the diversion of national resources into opaque security agendas.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Lebanon says Israel conducts wave of deadly strikes",
-      "summary": "Israel conducted a wave of airstrikes in south Lebanon killing 12 people including women and children, the Lebanese health ministry said on Monday, in an intensification of violence after a weeks-long lull. Israel's military vowed to...",
-      "link": "https://www.al-monitor.com/originals/2026/09/lebanon-says-israel-conducts-wave-deadly-strikes",
-      "published_at": "2026-09-07T14:30:30Z",
-      "ai_summary": "Israel carried out a wave of airstrikes in south Lebanon, killing 12 people, including women and children, according to Lebanon's health ministry, marking an escalation after a period of relative calm.",
-      "importance": 91,
-      "why": "The report involves multiple fatalities, civilian casualties, and a significant escalation in cross-border violence between Israel and Lebanon, which has major regional security implications."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Gaza buries the remains of 100 Palestinians, including 62 children",
-      "summary": "The victims recovered from the rubble include 55 members of the Malaka family",
-      "link": "https://www.middleeasteye.net/news/gaza-buries-100-palestinians-recovered-rubble-including-62-children",
-      "published_at": "2026-09-06T16:22:00Z",
-      "ai_summary": "Gaza buried the remains of 100 Palestinians recovered from rubble, including 62 children and 55 members of the Malaka family.",
+      "title": "Secret Assad-era Syrian nuclear reactor was almost complete: UN",
+      "summary": "A near-complete nuclear reactor built secretly during the rule of toppled Syrian leader Bashar al-Assad would have been able to produce material to make nuclear weapons, the UN nuclear watchdog chief said on Monday. Inspectors from the...",
+      "link": "https://www.al-monitor.com/originals/2026/09/secret-assad-era-syrian-nuclear-reactor-was-almost-complete-un",
+      "published_at": "2026-09-07T16:30:23Z",
+      "ai_summary": "A UN nuclear watchdog chief said a secretly built, near-complete Assad-era Syrian reactor could have produced material for nuclear weapons.",
       "importance": 92,
-      "why": "This is a major humanitarian report with a high civilian death toll, including a very large number of children, and it highlights the scale of devastation and family losses in Gaza."
+      "why": "This is a major nonproliferation and regional security development involving a hidden nuclear reactor in Syria, potential weapons-related capability, and UN oversight."
     },
     {
       "source": "Al Jazeera",
@@ -28,69 +18,9 @@
       "summary": "Some five million Yemeni children are deprived of essential routine vaccinations amid disputes.",
       "link": "https://www.aljazeera.com/features/2026/9/7/breaks-my-heart-yemen-jab-shortages-spark-fears-for-millions-of-children",
       "published_at": "2026-09-07T00:00:00Z",
-      "ai_summary": "Yemen is facing critical shortages of routine childhood vaccinations, leaving about five million children without essential immunizations amid ongoing disputes.",
-      "importance": 87,
-      "why": "This is highly important because it affects millions of children and raises the risk of preventable disease outbreaks, child illness, and deaths in an already fragile humanitarian situation."
-    },
-    {
-      "source": "Guardian",
-      "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
-      "summary": "The Israeli army had helped plan the delivery of food aid on 1 April 2024, but things went wrong from the beginning and ended in seven deaths\u2022 Exclusive: why seven international aid workers were killed in Israeli airstrikeOn the evening of...",
-      "link": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-      "published_at": "2026-09-05T00:00:21Z",
-      "ai_summary": "Investigative report on the killing of seven World Central Kitchen aid workers in an Israeli airstrike on the road to Rafah after a food-aid delivery mission the IDF had helped plan.",
-      "importance": 96,
-      "why": "This is highly important because it concerns the deaths of humanitarian aid workers during an Israeli military operation, raises questions about military coordination and accountability, and has major implications for international law, aid delivery, and the Gaza conflict."
-    },
-    {
-      "source": "Haaretz",
-      "title": "German Jews 'Appalled' by Historic AfD Win as Israel Avoids Direct Condemnation",
-      "summary": "https://www.haaretz.com/world-news/europe/2026-09-07/ty-article/.premium/german-jews-appalled-by-historic-afd-win-as-israel-avoids-direct-condemnation/000001a0-7b36-d7d5-a9fc-7fff9bba0000",
-      "link": "https://www.haaretz.com/world-news/europe/2026-09-07/ty-article/.premium/german-jews-appalled-by-historic-afd-win-as-israel-avoids-direct-condemnation/000001a0-7b36-d7d5-a9fc-7fff9bba0000",
-      "published_at": "2026-09-07T00:00:00Z",
-      "ai_summary": "Haaretz reports that German Jews reacted with alarm and dismay to a historic electoral win by the far-right AfD, while Israel responded cautiously and avoided a direct public condemnation. The piece focuses on the political significance of the result, concerns over rising extremism and antisemitism in Germany, and the diplomatic sensitivity surrounding Israel\u2019s reaction.",
-      "importance": 84,
-      "why": "The article concerns a major political development in Germany involving the far-right AfD, with direct implications for Jews in Germany, antisemitism, and Germany-Israel relations. Its significance is high because it reflects broader European political shifts and potential consequences for minority safety and international diplomacy."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "\u201cI Still Hear the Voices\u201d: Wedding Guests Recall Horror of U.S. Bombing in Southern Iran",
-      "summary": "\"My house was in a completely residential area. I don&#8217;t know what has happened to my life,\" Ali Mallahi, the father of the bride, said of the airstrike on his daughter's wedding that killed 5 people.",
-      "link": "https://www.dropsitenews.com/p/wedding-us-airstrike-kuhestak-iran-hormuz",
-      "published_at": "2026-09-04T18:22:04Z",
-      "ai_summary": "A father describes the devastation after a U.S. airstrike hit his daughter\u2019s wedding in a residential area in southern Iran, killing five people.",
-      "importance": 88,
-      "why": "This is a human-interest account tied to a military strike that killed civilians, making it emotionally significant and politically sensitive."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Israeli rubble-clearing in Gaza could erase 'atrocity crimes' evidence: UN expert",
-      "summary": "A UN expert warned Monday that large-scale rubble removal in parts of Gaza under Israeli control risked erasing traces of \"atrocity crimes\", and preventing the recovery and identification of human remains. Francesca Albanese, the United...",
-      "link": "https://www.al-monitor.com/originals/2026/09/israeli-rubble-clearing-gaza-could-erase-atrocity-crimes-evidence-un-expert",
-      "published_at": "2026-09-07T13:30:25Z",
-      "ai_summary": "A UN expert warned that large-scale rubble removal in Gaza, especially in areas under Israeli control, could destroy evidence of possible atrocity crimes and hinder recovery and identification of human remains.",
-      "importance": 91,
-      "why": "This is highly important because it concerns preservation of potential evidence of war crimes or atrocity crimes, which has major humanitarian, legal, and international accountability implications."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Israel threatens senior Palestinian officials with 'all-out war' in occupied West Bank",
-      "summary": "Defence Minister Israel Katz says planning is in place for possible operations against Palestinian Authority",
-      "link": "https://www.middleeasteye.net/news/israeli-defence-minister-threatens-all-out-war-occupied-west-bank",
-      "published_at": "2026-09-07T15:01:00Z",
-      "ai_summary": "Israel\u2019s defence minister said the military is preparing possible operations against the Palestinian Authority in the occupied West Bank, warning senior Palestinian officials of an \u201call-out war.\u201d",
-      "importance": 88,
-      "why": "The headline and text point to a major escalation in the Israeli-Palestinian conflict, involving threats against senior Palestinian officials and possible military operations in the occupied West Bank, which could have significant regional and political consequences."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israeli air attacks kill at least 12 people in southern Lebanon",
-      "summary": "Lebanon\u2019s president asserts step up in Israeli attacks intended to undermine US-backed ceasefire framework.",
-      "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon",
-      "published_at": "2026-09-07T00:00:00Z",
-      "ai_summary": "Israeli air attacks in southern Lebanon reportedly killed at least 12 people, with Lebanon\u2019s president saying the increased strikes are meant to undermine a US-backed ceasefire framework.",
-      "importance": 85,
-      "why": "This is a significant escalation involving fatalities, regional instability, and potential disruption of a ceasefire effort backed by the United States."
+      "ai_summary": "Yemen is facing routine vaccination shortages, leaving about five million children without essential jabs amid ongoing disputes.",
+      "importance": 93,
+      "why": "This is a major public health issue affecting millions of children, increasing the risk of preventable disease outbreaks and long-term harm in an already vulnerable humanitarian context."
     },
     {
       "source": "Guardian",
@@ -98,19 +28,69 @@
       "summary": "Taraneh Rahimi was told prison guards would rape her sister, Romina, if she did not sign a confessionThe twins were 19 and still in high school when they were taken from their beds in the dead of night by masked men later identified as...",
       "link": "https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests",
       "published_at": "2026-09-06T06:00:58Z",
-      "ai_summary": "Twin sisters Taraneh and Romina Rahimi were arrested in Iran over protest-related accusations and allegedly tortured and threatened with sexual violence to force a confession, with the article describing their brutal treatment and looming death sentence.",
+      "ai_summary": "Article about twin sisters arrested over Iran protests and subjected to abuse, coercion, and a reported death sentence threat.",
       "importance": 95,
-      "why": "The story concerns severe human rights abuses, political repression, alleged torture, and a possible execution sentence tied to Iran protests, making it highly consequential and newsworthy."
+      "why": "This is highly significant because it concerns alleged state abuse, coercive interrogation, and a death sentence tied to Iran protest crackdowns, making it a major human rights and political news story."
     },
     {
       "source": "Haaretz",
-      "title": "From the EU to Arab States: 'Everybody Wants Netanyahu's Government Replaced'",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-06/ty-article-magazine/.premium/from-the-eu-to-arab-states-everybody-wants-this-government-replaced/000001a0-67ca-dca9-a1e2-77de4e030000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-09-06/ty-article-magazine/.premium/from-the-eu-to-arab-states-everybody-wants-this-government-replaced/000001a0-67ca-dca9-a1e2-77de4e030000",
-      "published_at": "2026-09-06T00:00:00Z",
-      "ai_summary": "The article argues that international pressure on Israel is broadening, with actors from the EU to Arab states increasingly preferring that Netanyahu\u2019s government be replaced. It frames this as a reflection of dissatisfaction with the current government\u2019s policies and Israel\u2019s growing diplomatic isolation.",
+      "title": "U.S. Military Says It Struck Three Iranian Crude Oil Carriers Near Kharg Island",
+      "summary": "https://www.haaretz.com/middle-east-news/iran/2026-09-05/ty-article/u-s-military-says-it-struck-three-iranian-crude-oil-carriers-near-kharg-island/000001a0-71f1-def7-a7f7-79f77a680000",
+      "link": "https://www.haaretz.com/middle-east-news/iran/2026-09-05/ty-article/u-s-military-says-it-struck-three-iranian-crude-oil-carriers-near-kharg-island/000001a0-71f1-def7-a7f7-79f77a680000",
+      "published_at": "2026-09-05T00:00:00Z",
+      "ai_summary": "The U.S. military reportedly struck three Iranian crude oil carriers near Kharg Island, a key Iranian oil-export area, in a significant escalation involving maritime targets tied to Iran\u2019s oil sector.",
+      "importance": 88,
+      "why": "This is highly important because it concerns direct U.S. military action against Iranian oil infrastructure/shipping near a strategically vital export hub, with major implications for regional security, energy markets, and U.S.-Iran escalation."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "\u201cI Still Hear the Voices\u201d: Wedding Guests Recall Horror of U.S. Bombing in Southern Iran",
+      "summary": "\"My house was in a completely residential area. I don&#8217;t know what has happened to my life,\" Ali Mallahi, the father of the bride, said of the airstrike on his daughter's wedding that killed 5 people.",
+      "link": "https://www.dropsitenews.com/p/wedding-us-airstrike-kuhestak-iran-hormuz",
+      "published_at": "2026-09-04T18:22:04Z",
+      "ai_summary": "A father of the bride described the devastation of a U.S. airstrike that hit his daughter\u2019s wedding in a residential area of southern Iran, killing five people.",
+      "importance": 92,
+      "why": "The text reports a civilian bombing at a wedding, a highly tragic event with deaths and strong human-impact significance. It also refers to a U.S. airstrike in Iran, making it politically and historically important."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Israeli clearance of Gaza rubble could destroy 'evidence', says UN expert",
+      "summary": "By Emma FargeGENEVA, Sept 7 (Reuters) - A U.N. expert said on Monday that Israeli clearance of rubble in Gaza could destroy valuable evidence of \"atrocity crimes\" and prevent the recovery of human remains.Israel's assault on Gaza \u2014 started...",
+      "link": "https://www.al-monitor.com/originals/2026/09/israeli-clearance-gaza-rubble-could-destroy-evidence-says-un-expert",
+      "published_at": "2026-09-07T16:46:31Z",
+      "ai_summary": "UN expert warns that Israeli rubble clearance in Gaza could erase evidence of possible atrocity crimes and hinder recovery of human remains.",
+      "importance": 91,
+      "why": "The report concerns a major international conflict, potential evidence destruction related to alleged atrocity crimes, and the recovery of human remains, making it highly significant for human rights, legal accountability, and humanitarian concerns."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
+      "summary": "Seven-year-old Wafaa Aqila and her father killed by Israeli strike while returning home with school supplies.",
+      "link": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children",
+      "published_at": "2026-09-07T00:00:00Z",
+      "ai_summary": "An Israeli strike in Gaza killed five Palestinians, including seven-year-old Wafaa Aqila and her father as they were returning home with school supplies.",
+      "importance": 87,
+      "why": "The report describes a deadly strike with civilian casualties, including children, which is highly significant due to the loss of life and the ongoing conflict context."
+    },
+    {
+      "source": "Guardian",
+      "title": "Israeli ministers keep telling everyone their brutal plans \u2013 so why doesn\u2019t the world take them seriously? | Nesrine Malik",
+      "summary": "Schemes to forcibly remove Palestinians from Gaza are not being promoted by fringe voices. But the international community continues to avert its eyesThe gap between what is being inflicted on Palestinians and the appropriate reaction on...",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/07/israeli-ministers-brutal-plans-palestinians-gaza",
+      "published_at": "2026-09-07T05:00:26Z",
+      "ai_summary": "The article argues that Israeli ministers\u2019 open talk of forcibly removing Palestinians from Gaza is not fringe rhetoric but part of a serious, ongoing policy agenda, and criticizes the international community for failing to respond adequately.",
+      "importance": 92,
+      "why": "It addresses a major geopolitical and humanitarian issue with direct implications for Gaza, Israel\u2019s policy, and international accountability. The piece frames public ministerial statements as evidence of intent, making it highly relevant to understanding current conflict dynamics and global response."
+    },
+    {
+      "source": "Haaretz",
+      "title": "German Jews 'Appalled' by Historic AfD Win as Israel Avoids Direct Condemnation",
+      "summary": "https://www.haaretz.com/world-news/europe/2026-09-07/ty-article/.premium/german-jews-appalled-by-historic-afd-win-as-israel-avoids-direct-condemnation/000001a0-7b36-d7d5-a9fc-7fff9bba0000",
+      "link": "https://www.haaretz.com/world-news/europe/2026-09-07/ty-article/.premium/german-jews-appalled-by-historic-afd-win-as-israel-avoids-direct-condemnation/000001a0-7b36-d7d5-a9fc-7fff9bba0000",
+      "published_at": "2026-09-07T00:00:00Z",
+      "ai_summary": "German Jews express alarm over a historic electoral victory by Germany\u2019s far-right AfD, while Israel responds cautiously and avoids directly condemning the result.",
       "importance": 82,
-      "why": "It is politically significant because it highlights shifting international attitudes toward Israel\u2019s leadership and may signal consequences for diplomacy, regional relations, and domestic Israeli politics."
+      "why": "This is a politically significant development involving a major far-right party\u2019s rise in Germany, with implications for Jewish communities, German politics, and Israel-Germany relations. The combination of antisemitism concerns and Israel\u2019s restrained response makes it relevant for international affairs and domestic European politics."
     },
     {
       "source": "Drop Site News",
@@ -118,41 +98,41 @@
       "summary": "Jeffrey Sachs joins Drop Site&#8217;s Ryan Grim and Murtaza Hussain to discuss how Washington&#8217;s delusions about American power are fueling wars abroad and a financial bubble at home.",
       "link": "https://www.dropsitenews.com/p/jeffrey-sachs-iran-war-financial-bubble",
       "published_at": "2026-09-04T15:30:28Z",
-      "ai_summary": "Jeffrey Sachs argues that Washington\u2019s misconceptions about American power are driving wars abroad and contributing to a financial bubble at home.",
-      "importance": 72,
-      "why": "The title and description point to a high-profile geopolitical and economic critique from Jeffrey Sachs, covering U.S. foreign policy and domestic financial risks, which is likely significant for readers interested in international affairs and markets."
+      "ai_summary": "Jeffrey Sachs argues that Washington\u2019s belief in American power is driving foreign wars and inflating a domestic financial bubble, contributing to policy failures such as Iran.",
+      "importance": 62,
+      "why": "The title and description indicate a high-level geopolitical and economic commentary featuring Jeffrey Sachs, which is relevant for understanding U.S. foreign policy narratives and their domestic consequences."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Two Palestinians killed, Israeli stabbed as West Bank settler violence flares",
+      "summary": "By Ali SawaftaHAJJA, West Bank, Sept 7 (Reuters) - Violence in the occupied West Bank flared on Monday as Israeli troops shot dead a Palestinian during a village raid by settlers from a nearby outpost and killed another Palestinian who...",
+      "link": "https://www.al-monitor.com/originals/2026/09/two-palestinians-killed-israeli-stabbed-west-bank-settler-violence-flares",
+      "published_at": "2026-09-07T13:46:38Z",
+      "ai_summary": "Violence in the occupied West Bank escalated as Israeli troops shot dead two Palestinians during a settler-linked village raid, while an Israeli was stabbed, highlighting renewed tensions and settler violence.",
+      "importance": 90,
+      "why": "This is a significant breaking conflict/security incident involving deaths, injuries, and West Bank instability, with potential for broader escalation and international attention."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
+      "summary": "Major-General Mohammed Ali Durgham is accused of links to 1982 Hama massacre and 2011 protest crackdown.",
+      "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests",
+      "published_at": "2026-09-07T00:00:00Z",
+      "ai_summary": "Syria has detained Major-General Mohammed Ali Durgham, an Assad-era general accused of involvement in the 1982 Hama massacre and the 2011 crackdown on protests.",
+      "importance": 87,
+      "why": "The detention of a high-ranking former regime general tied to major episodes of political violence is significant for Syria\u2019s post-Assad accountability efforts, transitional justice, and potential domestic political repercussions."
     }
   ],
   "regional_analysis": [
-    {
-      "source": "Al Monitor",
-      "title": "Iran to announce new Gulf restricted zone, Hormuz route: What we know",
-      "summary": "Mohsen Rezaei, secretary of Iran\u2019s Supreme National Security Council, said in an interview with state TV Sunday that the restricted zone would begin at the point where the US blockade of Iranian ports starts and extend into the Gulf.",
-      "link": "https://www.al-monitor.com/originals/2026/09/iran-announce-new-gulf-restricted-zone-hormuz-route-what-we-know",
-      "published_at": "2026-09-07T12:36:18Z",
-      "ai_summary": "Iran said it will announce a new restricted zone in the Gulf related to the US blockade of Iranian ports, potentially affecting routes near the Strait of Hormuz.",
-      "importance": 85,
-      "why": "This concerns possible maritime access restrictions in a strategically critical waterway that carries a large share of global oil and trade, so it has significant regional and international implications."
-    },
     {
       "source": "Al Jazeera",
       "title": "Iraq faces sovereignty test as US-led military coalition exit nears",
       "summary": "Analysts warn Iraq faces severe security and political tests as the US-led coalition withdrawal deadline approaches.",
       "link": "https://www.aljazeera.com/news/2026/9/7/iraq-faces-sovereignty-test-as-us-led-military-coalition-exit-nears",
       "published_at": "2026-09-07T00:00:00Z",
-      "ai_summary": "Analysts warn Iraq faces severe security and political tests as the US-led coalition withdrawal deadline approaches.",
+      "ai_summary": "Iraq is approaching a critical sovereignty test as the deadline for the US-led coalition\u2019s withdrawal nears, with analysts warning of major security and political challenges.",
       "importance": 83,
-      "why": "The story concerns a major foreign military presence ending in a country with ongoing security and political fragility, which could significantly affect Iraq\u2019s stability, sovereignty, and regional relations."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why has Nicaragua taken Germany to the ICJ over Gaza genocide?",
-      "summary": "Nicaragua accuses Germany of violating the Genocide Convention by supporting Israel amid its onslaught on Gaza.",
-      "link": "https://www.aljazeera.com/news/2026/9/7/why-has-nicaragua-taken-germany-to-the-icj-over-gaza-genocide",
-      "published_at": "2026-09-07T00:00:00Z",
-      "ai_summary": "Nicaragua has taken Germany to the ICJ, accusing it of violating the Genocide Convention by supporting Israel during the Gaza offensive.",
-      "importance": 79,
-      "why": "This is a significant international legal and diplomatic development involving allegations of genocide, state responsibility, and the Gaza war, with potential implications for arms exports and foreign policy."
+      "why": "The story concerns national security, foreign military presence, and Iraq\u2019s political sovereignty, all of which have significant regional and strategic implications."
     },
     {
       "source": "Haaretz",
@@ -160,61 +140,61 @@
       "summary": "https://www.haaretz.com/science-and-health/2026-09-06/ty-article/almost-1-400-doctors-have-left-israel-since-2023-study-shows/000001a0-76a5-db00-afb5-f6b7e2eb0000",
       "link": "https://www.haaretz.com/science-and-health/2026-09-06/ty-article/almost-1-400-doctors-have-left-israel-since-2023-study-shows/000001a0-76a5-db00-afb5-f6b7e2eb0000",
       "published_at": "2026-09-06T00:00:00Z",
-      "ai_summary": "A study reports that nearly 1,400 doctors have left Israel since 2023, with the Gaza war cited as a major factor in the exodus.",
-      "importance": 72,
-      "why": "This is a significant healthcare workforce issue with potential implications for Israel\u2019s medical system, public health capacity, and the broader effects of the war on professional emigration."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Will Israel's Parties Pull Off Last-ditch Mergers Before the Election Deadline?",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-06/ty-article/.premium/parties-in-a-mad-merger-dash-as-israels-election-slates-set-to-close-tuesday/000001a0-7306-d957-ade9-733ebe210000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-09-06/ty-article/.premium/parties-in-a-mad-merger-dash-as-israels-election-slates-set-to-close-tuesday/000001a0-7306-d957-ade9-733ebe210000",
-      "published_at": "2026-09-06T00:00:00Z",
-      "ai_summary": "Israel\u2019s parties are racing to complete last-minute mergers and slate deals before the election deadline, with small and mid-sized factions trying to avoid wasting votes and improve their chances of entering the Knesset.",
-      "importance": 72,
-      "why": "The piece concerns pre-election coalition strategy in Israel, where merger decisions can materially affect seat distribution and government formation. It is timely and politically significant, though mainly procedural rather than announcing a major policy shift or election result."
+      "ai_summary": "A study reports that nearly 1,400 doctors have left Israel since the start of the Gaza war, raising concerns about strain on the country\u2019s healthcare system.",
+      "importance": 82,
+      "why": "This is a significant health-system and workforce issue with potential long-term effects on medical capacity, patient care, and public policy in Israel."
     },
     {
       "source": "Al Jazeera",
-      "title": "Could Trump\u2019s Iran trade war threaten Spain\u2019s saffron-infused paella?",
-      "summary": "US threats to punish Iran\u2019s trade partners could disrupt Spain\u2019s saffron supply, pressuring paella chefs and exporters.",
-      "link": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella",
+      "title": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
+      "summary": "Israel\u2019s continued strikes challenge Lebanon\u2019s push for an elusive peace agreement and stability.",
+      "link": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics",
       "published_at": "2026-09-07T00:00:00Z",
-      "ai_summary": "US threats to punish Iran\u2019s trade partners could disrupt Spain\u2019s saffron supply, potentially affecting paella chefs and exporters.",
-      "importance": 69,
-      "why": "It links US-Iran trade policy to a specific European food supply chain and export sector, which could have noticeable economic and cultural effects."
+      "ai_summary": "Israel\u2019s reported capture of a Lebanese ridge is seen as altering leverage in ongoing negotiations, while continued Israeli strikes undermine Lebanon\u2019s efforts to secure peace and stability.",
+      "importance": 79,
+      "why": "The item concerns active conflict dynamics between Israel and Lebanon and indicates a potential shift in negotiation leverage. That makes it geopolitically significant, though the provided text is brief and lacks detailed specifics about scale or immediate consequences."
+    },
+    {
+      "source": "Haaretz",
+      "title": "From the EU to Arab States: 'Everybody Wants Netanyahu's Government Replaced'",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-06/ty-article-magazine/.premium/from-the-eu-to-arab-states-everybody-wants-this-government-replaced/000001a0-67ca-dca9-a1e2-77de4e030000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-09-06/ty-article-magazine/.premium/from-the-eu-to-arab-states-everybody-wants-this-government-replaced/000001a0-67ca-dca9-a1e2-77de4e030000",
+      "published_at": "2026-09-06T00:00:00Z",
+      "ai_summary": "The article argues that many foreign governments and regional actors, from the EU to Arab states, want Netanyahu\u2019s government replaced, reflecting broad international frustration with Israel\u2019s current leadership and its policies.",
+      "importance": 74,
+      "why": "It concerns Israel\u2019s diplomatic standing and the degree of international pressure on its government, which can affect foreign relations, security coordination, and domestic political dynamics."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The domestic armed threat facing Iran",
+      "summary": "External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn.",
+      "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran",
+      "published_at": "2026-09-07T00:00:00Z",
+      "ai_summary": "External support for ethnic armed groups is seen as an escalating domestic security threat to Iran.",
+      "importance": 73,
+      "why": "The title and text describe a security issue involving armed groups inside Iran and warn that outside backing could worsen it, which is significant for national stability and regional security."
     }
   ],
   "deep_analysis": [
+    {
+      "source": "Jadaliyya",
+      "title": "When Reconstruction Becomes War Governance in Gaza",
+      "summary": "Graves in Gaza are being disturbed by fresh bombardment at the very moment reconstruction plans are unveiled. A ceasefire came into effect in October 2025, framed by U.S. officials as the stage that would enable Gaza\u2019s \u201cfull...",
+      "link": "https://www.jadaliyya.com/Details/47577/When-Reconstruction-Becomes-War-Governance-in-Gaza",
+      "published_at": null,
+      "ai_summary": "The text argues that despite a ceasefire and reconstruction plans, renewed bombardment and political control concerns mean Gaza is shifting from reconstruction toward wartime governance and imposed order.",
+      "importance": 90,
+      "why": "It concerns the Gaza conflict, ceasefire dynamics, reconstruction, and U.S./international policy framing\u2014highly significant for regional stability, humanitarian conditions, and geopolitics."
+    },
     {
       "source": "Jadaliyya",
       "title": "The Political Economy of the War on Iran: An Interview with Adam Hanieh",
       "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
       "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
       "published_at": null,
-      "ai_summary": "The article argues that the war on Iran should be understood not just as a military or energy-market event, but as part of a broader political economy shaped by imperial rivalry, regional power structures, and control over resources and trade routes.",
-      "importance": 92,
-      "why": "It connects a major 2025 conflict to wider geopolitical and economic dynamics, offering analytical framing that is relevant for understanding Middle East security, energy markets, and international relations."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Israeli settlers 'hike' through my West Bank village. Next is the violent land grab",
-      "summary": "Organised groups now roam through Qira armed with rifles, renaming our shrines and surveying our fields as part of a process that ends in Palestinian dispossession",
-      "link": "https://www.middleeasteye.net/opinion/israeli-settler-hikes-through-my-west-bank-village-next-violent-land-grabs",
-      "published_at": "2026-09-02T14:16:00Z",
-      "ai_summary": "The text describes organized Israeli settler groups entering the West Bank village of Qira armed with rifles, renaming local shrines, and surveying land as part of a broader process that the author says leads to Palestinian dispossession and violent land seizure.",
-      "importance": 91,
-      "why": "It concerns the Israeli-Palestinian conflict, armed settler activity, and alleged land dispossession in the West Bank\u2014issues with significant political, human rights, and regional security implications."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Gaza\u2019s destroyed sewage system linked to \u2018rare\u2019 algae bloom shutting Israeli desalination plants",
-      "summary": "Five of Israel\u2019s six water plants shut as scientists probe whether Gaza wastewater fuelled the bloom",
-      "link": "https://www.middleeasteye.net/news/gaza-destroyed-sewage-system-linked-rare-algae-bloom-shutting-israel-desalination-plants",
-      "published_at": "2026-09-05T16:20:00Z",
-      "ai_summary": "A rare algae bloom has forced the shutdown of five of Israel\u2019s six desalination plants, and scientists are investigating whether wastewater from Gaza\u2019s destroyed sewage system contributed to it.",
-      "importance": 87,
-      "why": "The event affects a critical water supply system and may have cross-border environmental and humanitarian implications, with possible links between wartime infrastructure damage and regional water disruption."
+      "ai_summary": "An interview with Adam Hanieh argues that the June 2025 Israeli attack on Iran should be understood not only as a military escalation or an oil-market event, but as part of a broader political economy shaped by regional power struggles, imperial interests, and capitalist restructuring in the Middle East.",
+      "importance": 88,
+      "why": "The piece is important because it reframes a major geopolitical conflict beyond short-term security or energy headlines and toward structural economic and political forces. It is likely useful for understanding how war, oil, state power, and regional capitalism intersect, especially for readers interested in Middle East politics and global political economy."
     },
     {
       "source": "Jadaliyya",
@@ -222,30 +202,9 @@
       "summary": "[This piece is the first part in a three-part series on agrarian erasure in southern Lebanon. Click to read Part 2 and Part 3 of this series.\u00a0The authors completed this research in early 2026, weeks before Israeli forces pushed back into...",
       "link": "https://www.jadaliyya.com/Details/47605/The-Ground-Beneath-The-Crop-Agrarian-Erasure-in-Southern-Lebanon",
       "published_at": null,
-      "ai_summary": "Article introducing a three-part series on agrarian erasure in southern Lebanon, focusing on how conflict and occupation have disrupted farming life and land use.",
+      "ai_summary": "An article introducing a three-part series on agrarian erasure in southern Lebanon, focusing on how conflict and occupation have damaged or erased farming life, land use, and rural livelihoods.",
       "importance": 84,
-      "why": "It addresses a significant humanitarian, political, and environmental issue in a volatile region, linking war to the destruction of agricultural livelihoods and rural communities."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "The Fate of Mossadegh in Contemporary Nationalism: Revisiting a Contest over Memory",
-      "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
-      "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
-      "published_at": null,
-      "ai_summary": "The text discusses the renewed popularity of nationalist discourse in Iran and uses the memory of Mossadegh as a lens to examine how political groups contest historical narratives and national identity.",
-      "importance": 84,
-      "why": "It addresses a major political and intellectual trend in contemporary Iran and centers on Mossadegh, a highly symbolic historical figure whose legacy shapes debates over nationalism, memory, and legitimacy."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "August 4 and Criminal Impunity",
-      "summary": "Lying at the heart of Lebanon\u2019s dysfunction is an inability to secure accountability and institutional legitimacy.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/august-4-and-criminal-impunity",
-      "date": "Aug 4, 2026",
-      "published_at": null,
-      "ai_summary": "The text says Lebanon\u2019s core dysfunction comes from a failure to ensure accountability and institutional legitimacy.",
-      "importance": 86,
-      "why": "It highlights a fundamental political and institutional problem, likely framing a broader argument about governance and impunity."
+      "why": "It appears to be a substantive investigative or analytical piece about a serious humanitarian, environmental, and political issue in southern Lebanon. The topic is regionally important and likely relevant to readers interested in conflict impacts, agriculture, and land rights, though the excerpt alone does not indicate a breaking global event."
     },
     {
       "source": "Carnegie ME",
@@ -254,9 +213,20 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/the-mecca-agreement-unpacked",
       "date": "Aug 13, 2026",
       "published_at": null,
-      "ai_summary": "The Mecca Agreement is described as a key regional accord aimed at preventing a security vacuum in the Gulf.",
-      "importance": 75,
-      "why": "It is framed as a pivotal moment with regional security implications, suggesting notable geopolitical significance even though the text provides limited detail."
+      "ai_summary": "The Mecca Agreement is described as a pivotal regional accord aimed at preventing a security vacuum in the Gulf.",
+      "importance": 79,
+      "why": "It highlights a significant diplomatic effort with direct implications for regional stability and security in the Gulf."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "August 4 and Criminal Impunity",
+      "summary": "Lying at the heart of Lebanon\u2019s dysfunction is an inability to secure accountability and institutional legitimacy.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/august-4-and-criminal-impunity",
+      "date": "Aug 4, 2026",
+      "published_at": null,
+      "ai_summary": "The text argues that Lebanon\u2019s dysfunction is rooted in a failure to ensure accountability and build institutional legitimacy, highlighting criminal impunity as a central issue.",
+      "importance": 79,
+      "why": "It identifies a core structural problem affecting Lebanon\u2019s governance and stability, making it a significant political and social claim."
     },
     {
       "source": "War on the Rocks",
@@ -264,9 +234,9 @@
       "summary": "When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of...",
       "link": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
       "published_at": "2026-09-07T07:30:31Z",
-      "ai_summary": "The article argues that Turkey and Israel are moving toward direct strategic collision as their buffers and spheres of influence in Syria and the wider Middle East shrink, making military and political friction more likely.",
-      "importance": 85,
-      "why": "It describes a major regional geopolitical shift involving two significant powers, with potential implications for Syria, U.S. policy, and Middle East stability. The headline event and framing suggest escalating rivalry with broader strategic consequences."
+      "ai_summary": "The article argues that Turkey and Israel are heading toward a direct strategic clash as their influence and military activities in Syria increasingly overlap, replacing old assumptions of indirect competition with a more dangerous rivalry.",
+      "importance": 82,
+      "why": "It describes a significant geopolitical shift involving two major regional powers, with implications for Syria, Middle East security, and broader regional alignment."
     },
     {
       "source": "Responsible Statecraft",
@@ -274,9 +244,9 @@
       "summary": "According to new data quietly added to the Pentagon's casualty base, there were 36 new injuries in the last two weeks, mostly Army, as fighting renewed between the United States and Iran in the Persian Gulf. This brings the total wounded...",
       "link": "https://responsiblestatecraft.org/updated-us-casualties-iran/",
       "published_at": "2026-09-05T12:01:27Z",
-      "ai_summary": "Article reports that 377 U.S. service members have been injured since July, including 36 in the last two weeks, amid renewed fighting with Iran in the Persian Gulf.",
-      "importance": 77,
-      "why": "This is a significant military and geopolitical development involving U.S.-Iran conflict escalation and substantial U.S. casualties, which could affect regional stability and U.S. policy."
+      "ai_summary": "The article reports that 377 U.S. forces have been injured since July, including 36 in the last two weeks, amid renewed fighting with Iran in the Persian Gulf.",
+      "importance": 80,
+      "why": "It concerns active military casualties involving the United States and Iran, indicating a significant escalation with potential geopolitical and security implications."
     },
     {
       "source": "Drop Site News",
@@ -285,8 +255,8 @@
       "link": "https://www.dropsitenews.com/p/gaza-engine-oil-generators-electricity-israeli-siege",
       "published_at": "2026-09-01T18:40:03Z",
       "ai_summary": "Israel\u2019s restrictions on engine oil and spare parts are causing Gaza\u2019s generator-based electricity system to fail.",
-      "importance": 84,
-      "why": "The issue affects essential civilian infrastructure and basic access to power in Gaza, making it highly consequential for daily life, hospitals, water systems, and overall humanitarian conditions."
+      "importance": 88,
+      "why": "This is a major humanitarian and infrastructure issue affecting essential electricity supply in Gaza, with broad impacts on hospitals, water, communications, and daily life."
     }
   ]
 }
