@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-09-12T23:35:27.172029Z",
-  "top_story": "The Houthis\u2019 seizure of Mayun Island on 12 September sharpened a broader re-escalation in Yemen, pairing renewed battlefield momentum near the Bab al-Mandab with immediate disruption risks for one of the region\u2019s most sensitive oil shipping corridors. That tactical gain unfolded as fighting across Yemen resumed with heavy civilian costs, leaving more than 900 people dead or injured and displacing at least 5,000 families in less than a week, underscoring how advances by armed actors are translating directly into insecurity for coastal and inland communities. The episode also reinforces Iran-aligned influence at a maritime chokepoint without guaranteeing durable Houthi control, since holding the island will depend on sustaining logistics and deterring counterpressure from regional rivals. The clearest takeaway is that Yemen\u2019s conflict is again binding local humanitarian collapse to regional strategic competition, with shipping security and civilian survival deteriorating together.",
+  "generated_at": "2026-09-13T13:59:43.631172Z",
+  "top_story": "New scrutiny of Benjamin Netanyahu\u2019s conduct before 7 October has reopened a leadership-failure narrative inside Israel, sharpening public distrust over whether political calculations overrode basic security coordination at a moment of acute vulnerability. Days later, the regional picture worsened as Yemen\u2019s Houthis seized a strategic island at Bab al-Mandab, tightening pressure on one of the world\u2019s most sensitive shipping chokepoints and raising costs for Red Sea commerce and nearby coastal communities already living under war conditions. The disclosure that a group in northern Yemen used Anthropic\u2019s Claude to support ballistic-missile guidance work suggests the Houthis are pairing territorial gains with more adaptive strike capabilities. Together, these developments point to a region where governance failures and fast-diffusing military technology are compounding insecurity for both states and civilians.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-      "summary": "By Mohammed Ghobari, Eman Abouhassira and Yasmine GhaniaADEN/DUBAI, Sept 12 (Reuters) - Saudi Arabia has shut down its East-West pipeline, after the vital oil conduit came under aerial attack in the widening Middle East war, threatening to...",
-      "link": "https://www.al-monitor.com/originals/2026/09/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping",
-      "published_at": "2026-09-12T01:46:30Z",
-      "ai_summary": "Saudi Arabia shut down its East-West oil pipeline after aerial attacks amid the widening Middle East conflict, as Houthi pressure on Red Sea shipping increased.",
-      "importance": 91,
-      "why": "The story concerns critical energy infrastructure, regional military escalation, and potential disruption to global oil and shipping flows, making it highly significant for geopolitics and markets."
+      "title": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption",
+      "summary": "By Mohammed Ghobari and Nayera AbdallahADEN/DUBAI, Sept 13 (Reuters) - New strikes on Saudi Arabia and on ships in the Gulf tested nerves in the Middle East on Sunday, after an attack on a Saudi oil pipeline and an advance by Yemen's...",
+      "link": "https://www.al-monitor.com/originals/2026/09/new-attacks-hormuz-and-saudi-test-nerves-wars-spread-worsens-oil-disruption",
+      "published_at": "2026-09-13T02:46:30Z",
+      "ai_summary": "New attacks in Saudi Arabia and on ships in the Gulf heightened fears of a wider regional conflict and worsening oil supply disruptions.",
+      "importance": 89,
+      "why": "The story concerns attacks on critical oil infrastructure and shipping in the Strait of Hormuz region, which can affect global energy markets, regional security, and risk of further escalation."
     },
     {
       "source": "Middle East Eye",
-      "title": "Exclusive: UAE pursuing 'port imperialism' across Africa, Eritrean foreign minister says",
-      "summary": "UAE sought a shared Eritrean island base for Israel as early as 2016. Asmara sees closer Israel-UAE alignment on Ethiopia",
-      "link": "https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa",
-      "published_at": "2026-09-12T09:27:00Z",
-      "ai_summary": "The piece says Eritrea\u2019s foreign minister accuses the UAE of pursuing \"port imperialism\" across Africa, and claims the UAE sought a shared Eritrean island base for Israel as early as 2016. It also says Asmara sees growing Israel-UAE alignment regarding Ethiopia.",
-      "importance": 81,
-      "why": "This is geopolitically significant because it touches on Red Sea security, Gulf influence in Africa, and Israel-UAE regional coordination. The reported allegations could affect relations among Eritrea, the UAE, Israel, and Ethiopia, and signal broader strategic competition over ports and military access in the Horn of Africa."
+      "title": "Houthis used AI platform Claude to develop ballistic missiles",
+      "summary": "Anthropic said its programme was used by a group in northern Yemen to build guidance, control and navigation systems",
+      "link": "https://www.middleeasteye.net/news/houthis-used-ai-platform-claude-develop-ballistic-missiles",
+      "published_at": "2026-09-11T18:15:00Z",
+      "ai_summary": "Anthropic said its Claude AI platform was used by a group in northern Yemen to help develop guidance, control, and navigation systems for ballistic missiles.",
+      "importance": 92,
+      "why": "This is a significant security and geopolitical development because it involves AI being used in weapons development by an armed group, raising concerns about misuse of frontier models, missile proliferation, and counterterrorism implications."
     },
     {
       "source": "Al Jazeera",
-      "title": "Fighting re-erupts in Yemen and civilians are paying the price",
-      "summary": "More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.",
-      "link": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price",
-      "published_at": "2026-09-12T00:00:00Z",
-      "ai_summary": "Fighting has resumed in Yemen, causing over 900 deaths or injuries and forcing at least 5,000 families to flee in under a week.",
-      "importance": 93,
-      "why": "The report describes a rapid escalation in violence with significant civilian harm and displacement, indicating a major humanitarian and security crisis."
+      "title": "Israeli attack on Gaza kills two Palestinians",
+      "summary": "Israeli strikes on Palestinian territory persist despite a \u2018ceasefire\u2019 brokered by the United States.",
+      "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians",
+      "published_at": "2026-09-13T00:00:00Z",
+      "ai_summary": "Israeli strikes on Gaza reportedly killed two Palestinians despite a US-brokered ceasefire.",
+      "importance": 73,
+      "why": "The event involves ongoing violence in Gaza and highlights a breach or fragility in a US-brokered ceasefire, making it geopolitically significant and potentially relevant to regional stability."
     },
     {
       "source": "Guardian",
@@ -38,79 +38,19 @@
       "summary": "Rampant Yemeni fighters take control of island in narrow point of Bab al-Mandab strait, which Saudi is relying on for oil exportsWhy the rapid Houthi advance matters and what\u2019s at stakeYemen\u2019s rampant Houthi forces have captured the...",
       "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
       "published_at": "2026-09-12T04:45:28Z",
-      "ai_summary": "Houthi fighters seized a strategic island near the Bab al-Mandab strait, a vital chokepoint for oil shipping and Saudi exports.",
-      "importance": 95,
-      "why": "The capture affects a major global energy and trade route, increasing the risk to oil shipments and regional security, with potential international economic impact."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Far-right AfD Says Reported Plant Considered by Israeli Arms Maker Elbit Could Aid Deportation Drive",
-      "summary": "https://www.haaretz.com/israel-news/2026-09-12/ty-article/israeli-arms-maker-elbits-planned-german-plant-faces-far-right-afd-scrutiny/000001a0-928d-dfa9-ada3-dacf11c20000",
-      "link": "https://www.haaretz.com/israel-news/2026-09-12/ty-article/israeli-arms-maker-elbits-planned-german-plant-faces-far-right-afd-scrutiny/000001a0-928d-dfa9-ada3-dacf11c20000",
-      "published_at": "2026-09-12T00:00:00Z",
-      "ai_summary": "Haaretz reports that Germany\u2019s far-right AfD has focused scrutiny on a reported Elbit Systems plant plan in Germany, framing it as potentially useful for a deportation drive.",
-      "importance": 68,
-      "why": "This is politically significant because it links a major Israeli defense contractor\u2019s reported German expansion to a far-right party\u2019s anti-immigration agenda. It matters for German domestic politics, Israel-Germany defense-industry ties, and the broader debate over how security infrastructure can be repurposed or rhetorically tied to deportation and migration policy."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Israeli Strike in Lebanon Kills 12 People From a Single Family, Including 6 Children",
-      "summary": "Israel is once again escalating its bombing of southern Lebanon despite a ceasefire and ongoing U.S.-brokered talks.",
-      "link": "https://www.dropsitenews.com/p/israeli-strike-southern-lebanon-family-children-paramedics-nabatieh",
-      "published_at": "2026-09-09T18:24:40Z",
-      "ai_summary": "The text says Israel is escalating bombing in southern Lebanon despite a ceasefire and U.S.-brokered talks, following a strike that killed 12 people from a single family, including 6 children.",
-      "importance": 86,
-      "why": "This reports a deadly strike with significant civilian casualties in an active conflict, and it highlights escalation despite ceasefire and diplomatic talks, making it highly newsworthy and potentially impactful."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
-      "summary": "DUBLIN, Sept 12 (Reuters) - U.S. President Donald Trump said on Saturday that Iran was probably responsible for an aerial attack on Saudi Arabia \u200bthat shut down its East-West pipeline, one of the kingdom's main routes for exporting crude...",
-      "link": "https://www.al-monitor.com/originals/2026/09/trump-says-iran-probably-responsible-attack-saudi-pipeline",
-      "published_at": "2026-09-12T10:46:28Z",
-      "ai_summary": "Trump said Iran was probably responsible for an aerial attack on Saudi Arabia that shut down a key oil pipeline.",
-      "importance": 89,
-      "why": "This involves a major geopolitical accusation by the U.S. president against Iran, tied to an attack on critical Saudi oil infrastructure that could affect energy markets and regional security."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Kosovo needed international law to survive. Now it's helping Israel bypass it in Gaza",
-      "summary": "Pristina's gamble on Trump and Israel carries serious moral and political risks",
-      "link": "https://www.middleeasteye.net/news/kosovo-once-needed-international-law-survive-now-its-helping-israel-bypass-it-gaza",
-      "published_at": "2026-09-11T15:05:00Z",
-      "ai_summary": "The piece argues that Kosovo, a state that relied on international law and global intervention for its own survival, is now making a politically risky bet by aligning with Trump and Israel in ways that could undermine the same legal norms, especially amid the Gaza war.",
-      "importance": 81,
-      "why": "It addresses a significant foreign-policy contradiction involving Kosovo, Israel, Gaza, and international law, with broader implications for post-conflict legitimacy, moral credibility, and diplomatic alignment."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
-      "summary": "Israel\u2019s destruction of homes and infrastructure in Gaza has forced Palestinians to rent generators by the hour.",
-      "link": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour",
-      "published_at": "2026-09-12T00:00:00Z",
-      "ai_summary": "People in Gaza are forced to rent generators by the hour after destruction of homes and infrastructure left them without power.",
-      "importance": 83,
-      "why": "This is a significant humanitarian issue showing how widespread destruction has left civilians without basic services like electricity, forcing costly stopgap solutions."
-    },
-    {
-      "source": "Guardian",
-      "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
-      "summary": "Borrowing costs climb in Europe and oil tops $105 a barrel as bank says growing price pressures in eurozone will be \u2018longer lasting than we had anticipated\u2019Business live \u2013 latest updatesThe European Central Bank has raised interest rates...",
-      "link": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
-      "published_at": "2026-09-10T13:10:15Z",
-      "ai_summary": "ECB raises interest rates to 2.5% and warns that the Iran war is adding to inflation pressures, with borrowing costs rising in Europe and oil prices topping $105 a barrel.",
+      "ai_summary": "Houthi forces in Yemen captured a strategic island at the narrow Bab al-Mandab strait, a key chokepoint for global oil shipping and Saudi exports.",
       "importance": 92,
-      "why": "This is high-impact macroeconomic news involving a major central bank rate hike, inflation outlook, and energy price shock, all of which affect markets, borrowing costs, and the broader eurozone economy."
+      "why": "This affects a vital international shipping lane and Saudi oil exports, with potential implications for regional security, energy markets, and maritime trade."
     },
     {
       "source": "Haaretz",
-      "title": "In First Opinion Polls Since Election Slates Closed, pro-Netanyahu Bloc Tied With Opposition",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-09/ty-article/in-first-polls-since-slates-closed-pro-netanyahu-bloc-tied-with-opposition/000001a0-879e-da65-a1bb-afffb9c90000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-09-09/ty-article/in-first-polls-since-slates-closed-pro-netanyahu-bloc-tied-with-opposition/000001a0-879e-da65-a1bb-afffb9c90000",
-      "published_at": "2026-09-09T00:00:00Z",
-      "ai_summary": "Haaretz reports that the first opinion polls after Israel\u2019s election slates closed show the pro-Netanyahu bloc tied with the opposition bloc.",
-      "importance": 62,
-      "why": "This is a timely Israeli election update from a major outlet, indicating the balance of power ahead of the vote. It matters because it suggests a highly competitive race and may affect coalition expectations, campaign strategy, and market or diplomatic readings of Israel\u2019s political direction."
+      "title": "Saudis Shut Down Oil Pipeline as Houthis Tighten Grip on Red Sea Shipping",
+      "summary": "https://www.haaretz.com/middle-east-news/2026-09-13/ty-article/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping/000001a0-9725-de76-a1f7-bf6d6ed10000",
+      "link": "https://www.haaretz.com/middle-east-news/2026-09-13/ty-article/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping/000001a0-9725-de76-a1f7-bf6d6ed10000",
+      "published_at": "2026-09-13T00:00:00Z",
+      "ai_summary": "Saudi Arabia has shut down an oil pipeline while Houthi forces continue increasing pressure on Red Sea shipping, signaling a worsening regional energy and maritime security situation.",
+      "importance": 87,
+      "why": "This is highly important because it involves major oil infrastructure and a critical global shipping route. Disruptions in the Red Sea can affect energy markets, trade flows, and regional security, with broader international economic consequences."
     },
     {
       "source": "Drop Site News",
@@ -118,9 +58,69 @@
       "summary": "Residents of Taiz are grappling with a war that has fully reignited and now arrived, once again, at their doors.",
       "link": "https://www.dropsitenews.com/p/yemen-ansarallah-saudi-taiz-displacement-bab-al-mandab",
       "published_at": "2026-09-10T22:28:24Z",
-      "ai_summary": "Taiz residents are facing renewed war and displacement as the conflict intensifies behind the front lines in Yemen.",
-      "importance": 84,
-      "why": "The title and text point to a significant humanitarian and conflict-development issue in Yemen: renewed fighting affecting civilians in Taiz. This is highly newsworthy because it concerns displacement, civilian impact, and the broader war dynamics, but the excerpt is too brief to indicate a major policy or global turning-point event."
+      "ai_summary": "Residents of Taiz, Yemen, are facing renewed war and displacement as fighting returns to their area behind the front lines.",
+      "importance": 79,
+      "why": "The title and text describe a civilian displacement crisis in Yemen tied to an intensifying conflict in Taiz, which is significant for humanitarian and regional stability reasons."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
+      "summary": "DUBLIN, Sept 12 (Reuters) - U.S. President Donald Trump said on Saturday that Iran was probably responsible for an aerial attack on Saudi Arabia \u200bthat shut down its East-West pipeline, one of the kingdom's main routes for exporting crude...",
+      "link": "https://www.al-monitor.com/originals/2026/09/trump-says-iran-probably-responsible-attack-saudi-pipeline",
+      "published_at": "2026-09-12T10:46:28Z",
+      "ai_summary": "Trump said Iran was probably responsible for an aerial attack on Saudi Arabia that shut down a key crude export pipeline.",
+      "importance": 85,
+      "why": "The statement concerns a major U.S.-Iran-Saudi geopolitical incident involving energy infrastructure and possible escalation in the Middle East, making it highly newsworthy and internationally significant."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "I watched the twin towers burn. Now the US is repeating its worst mistakes in Iran",
+      "summary": "Twenty-five years of invasions and unconditional support for Israel have deepened the grievances behind 9/11 and left America less secure",
+      "link": "https://www.middleeasteye.net/opinion/9-11-25-years-us-iran-war-same-mistakes",
+      "published_at": "2026-09-12T15:45:00Z",
+      "ai_summary": "The piece argues that U.S. invasions over the past 25 years and unconditional support for Israel have intensified the grievances that fueled 9/11, and warns that America is repeating these mistakes in Iran, making it less secure.",
+      "importance": 85,
+      "why": "It links a major historical event (9/11) to current U.S. foreign policy and argues the country is repeating strategically significant errors, which is highly relevant to geopolitics and security policy."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+      "summary": "The Houthis say they carried out a strike targeting a Saudi military base in Sharurah, Najran province.",
+      "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says",
+      "published_at": "2026-09-13T00:00:00Z",
+      "ai_summary": "A Houthi projectile wounded two people and damaged a mosque in Saudi Arabia\u2019s Jazan region, while the Houthis said they targeted a Saudi military base in Sharurah, Najran province.",
+      "importance": 73,
+      "why": "This is a cross-border attack involving the Yemen conflict, affecting Saudi territory and civilian infrastructure, and it may signal escalation in regional hostilities."
+    },
+    {
+      "source": "Guardian",
+      "title": "The rapid Houthi advance in Yemen: why it matters and what\u2019s at stake",
+      "summary": "The Houthis have wrested control of Yemen\u2019s Red Sea coast from Saudi-backed government, giving Iran and its allies control over a key shipping laneViolence has erupted again in Yemen, where a rapid advance by the Houthis in recent days is...",
+      "link": "https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war",
+      "published_at": "2026-09-11T15:49:23Z",
+      "ai_summary": "The article says the Houthis\u2019 rapid advance along Yemen\u2019s Red Sea coast has shifted control of a strategic shipping corridor away from the Saudi-backed government, increasing Iran and its allies\u2019 leverage and heightening regional and international stakes.",
+      "importance": 91,
+      "why": "It concerns a major territorial and geopolitical shift in Yemen that affects a critical global shipping route, regional power balance, and the broader Iran-Saudi conflict."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Far-right AfD Says Reported Plant Considered by Israeli Arms Maker Elbit Could Aid Deportation Drive",
+      "summary": "https://www.haaretz.com/israel-news/2026-09-12/ty-article/israeli-arms-maker-elbits-planned-german-plant-faces-far-right-afd-scrutiny/000001a0-928d-dfa9-ada3-dacf11c20000",
+      "link": "https://www.haaretz.com/israel-news/2026-09-12/ty-article/israeli-arms-maker-elbits-planned-german-plant-faces-far-right-afd-scrutiny/000001a0-928d-dfa9-ada3-dacf11c20000",
+      "published_at": "2026-09-12T00:00:00Z",
+      "ai_summary": "A reported Elbit plant in Germany is drawing scrutiny from the far-right AfD, which appears to view the facility in the context of its anti-migration and deportation agenda.",
+      "importance": 72,
+      "why": "The item links a major Israeli defense company, a planned German industrial project, and the AfD\u2019s hardline migration politics. It is politically sensitive because it suggests defense-industry infrastructure could intersect with domestic deportation efforts, making it relevant for German politics, Israeli-German relations, and broader debates over migration and security."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Saudi-Backed Forces ROUTED in Yemen as Oil Surges and War Spirals",
+      "summary": "Twenty-five years after 9/11, the United States is again fighting a major war in the Middle East.",
+      "link": "https://www.dropsitenews.com/p/interview-experts-saudi-yemen-oil-iran-war",
+      "published_at": "2026-09-11T20:43:08Z",
+      "ai_summary": "The title claims Saudi-backed forces were routed in Yemen while oil prices surge and the conflict escalates, and the text says the U.S. is again fighting a major war in the Middle East 25 years after 9/11.",
+      "importance": 78,
+      "why": "This appears to describe a significant regional conflict with potential implications for energy markets, U.S. foreign policy, and Middle East stability, making it broadly newsworthy and geopolitically important."
     }
   ],
   "regional_analysis": [
@@ -130,19 +130,9 @@
       "summary": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000",
       "link": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000",
       "published_at": "2026-09-08T00:00:00Z",
-      "ai_summary": "The article reports that Benjamin Netanyahu allegedly received an explicit warning days before the October 7 attacks but did not brief Israel\u2019s top security chiefs.",
-      "importance": 92,
-      "why": "This concerns a major failure in national-security communication at the highest level and could have significant implications for accountability, decision-making, and the broader understanding of events leading up to Oct. 7."
-    },
-    {
-      "source": "Haaretz",
-      "title": "'Baby, an Update: He's Just Died': Israeli Prison Guards' Texts Expose a Routine of Abuse",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.premium/baby-an-update-hes-just-died-israeli-guards-texts-reveal-abuse-in-prison/000001a0-7ab4-d46f-a5ef-7bbe46360000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.premium/baby-an-update-hes-just-died-israeli-guards-texts-reveal-abuse-in-prison/000001a0-7ab4-d46f-a5ef-7bbe46360000",
-      "published_at": "2026-09-08T00:00:00Z",
-      "ai_summary": "The article reports that leaked text messages from Israeli prison guards expose a pattern of routine abuse, humiliation, and indifference to detainee suffering, including deaths in custody.",
-      "importance": 92,
-      "why": "It alleges serious human-rights abuses by state actors, includes evidence from leaked communications, and could have major legal, political, and international consequences."
+      "ai_summary": "The article reports that Netanyahu allegedly received an explicit warning days before the Oct. 7 attack but did not brief Israel\u2019s top security chiefs, raising questions about leadership and information-sharing failures.",
+      "importance": 93,
+      "why": "This is highly important because it concerns alleged prior warning about the Oct. 7 Hamas attack, Netanyahu\u2019s handling of that warning, and potential implications for Israel\u2019s security failures and political accountability. It could materially affect public understanding of the events leading up to the attack and ongoing investigations."
     },
     {
       "source": "Al Monitor",
@@ -150,102 +140,91 @@
       "summary": "A chilling new documentary about Israel's AI-assisted killing of civilians in Gaza by two Israeli directors won a special jury prize at the Venice Film Festival on Saturday. \"NAZA\", by Oscar-winning Israeli directors Yuval Abraham and...",
       "link": "https://www.al-monitor.com/originals/2026/09/israeli-made-gaza-documentary-wins-venice-special-jury-prize",
       "published_at": "2026-09-12T21:30:24Z",
-      "ai_summary": "An Israeli-made documentary about civilian deaths in Gaza, titled \"NAZA,\" won a special jury prize at the Venice Film Festival.",
-      "importance": 81,
-      "why": "It is a high-profile cultural and political story involving an award-winning film on a highly sensitive conflict, with notable international attention from Venice and the subject matter of AI-assisted killings in Gaza."
+      "ai_summary": "An Israeli-made documentary about AI-assisted killings of civilians in Gaza won a special jury prize at the Venice Film Festival.",
+      "importance": 84,
+      "why": "The story is significant because it involves a major international film festival honoring a politically charged documentary about Gaza, which could draw wide media attention and public debate."
     },
     {
       "source": "Al Monitor",
-      "title": "BRICS adopts joint declaration, urges 'maximum restraint' in Mideast",
-      "summary": "By Sarita Chaganti SinghNEW DELHI, Sept 12 (Reuters) - The BRICS group of nations unanimously adopted a joint declaration on Saturday, expressing \"deep concern\" over the war in the Middle East and urged maximum restraint, advocating for a...",
-      "link": "https://www.al-monitor.com/originals/2026/09/brics-adopts-joint-declaration-urges-maximum-restraint-mideast",
-      "published_at": "2026-09-12T12:46:33Z",
-      "ai_summary": "BRICS nations unanimously adopted a joint declaration expressing deep concern over the Middle East conflict and urging maximum restraint.",
+      "title": "Houthis say hit Saudi base after renewed fighting with Yemeni govt forces",
+      "summary": "Houthi fighters on Sunday said they used drones and missiles to attack a military base in southern Saudi Arabia as renewed fighting with Yemen's government forces forced growing numbers of civilians to flee. The attack at the southern...",
+      "link": "https://www.al-monitor.com/originals/2026/09/houthis-say-hit-saudi-base-after-renewed-fighting-yemeni-govt-forces",
+      "published_at": "2026-09-12T19:30:29Z",
+      "ai_summary": "Houthi forces said they attacked a military base in southern Saudi Arabia with drones and missiles amid renewed fighting with Yemeni government forces, which has displaced civilians.",
       "importance": 81,
-      "why": "This is a significant multinational diplomatic statement from a major geopolitical bloc addressing an active regional conflict, which can influence international reactions and policy signals."
+      "why": "The report involves cross-border attacks on Saudi Arabia and renewed conflict in Yemen, both of which have regional security implications and humanitarian consequences due to civilian displacement."
     },
     {
       "source": "Al Monitor",
-      "title": "Syrian private airport\u00a0plans spark outcry over mass graves,\u00a0land rights",
-      "summary": "By Feras DalateyDAMASCUS, Sept 12 (Reuters) - Syrian government plans to turn a former military airport in Damascus into a hub for private jets are raising alarm among rights groups and residents who say redevelopment could disturb...",
-      "link": "https://www.al-monitor.com/originals/2026/09/syrian-private-airport-plans-spark-outcry-over-mass-graves-land-rights",
-      "published_at": "2026-09-12T05:46:29Z",
-      "ai_summary": "Plans to convert a former military airport in Damascus into a private jet hub have triggered backlash from rights groups and nearby residents over concerns that construction could disturb mass graves and violate land rights.",
-      "importance": 81,
-      "why": "The story is politically and socially significant because it\u6d89\u53ca post-conflict land use, possible disturbance of mass graves, and disputes over property rights in Damascus. It also reflects broader accountability and redevelopment tensions in Syria, making it more than a routine infrastructure project."
+      "title": "China, Russia, India seek economic cooperation at BRICS",
+      "summary": "BRICS leaders including China, Russia and India concluded a second and final day of talks in New Delhi on Sunday, discussing \"inclusive global growth\", after reaching a rare agreement calling for calm in the Middle East. Indian Prime...",
+      "link": "https://www.al-monitor.com/originals/2026/09/china-russia-india-seek-economic-cooperation-brics",
+      "published_at": "2026-09-13T07:30:23Z",
+      "ai_summary": "BRICS leaders from China, Russia, India and others concluded talks in New Delhi, focusing on inclusive global growth, economic cooperation, and a rare joint call for calm in the Middle East.",
+      "importance": 75,
+      "why": "The item covers a major multilateral summit involving several large economies and touches on geopolitical coordination, economic cooperation, and regional stability, making it moderately important for international affairs and markets."
     },
     {
-      "source": "Al Jazeera",
-      "title": "Yemen government forces say Houthi \u2018members, vehicles\u2019 targeted in Mocha",
-      "summary": "Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.",
-      "link": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha",
-      "published_at": "2026-09-12T00:00:00Z",
-      "ai_summary": "Yemeni government forces said they launched air strikes targeting Houthi fighters along the Red Sea coast near Mocha.",
-      "importance": 43,
-      "why": "This is a brief conflict-related update involving military action in Yemen, which is regionally significant but limited in detail and scope."
+      "source": "Haaretz",
+      "title": "In First Opinion Polls Since Election Slates Closed, pro-Netanyahu Bloc Tied With Opposition",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-09/ty-article/in-first-polls-since-slates-closed-pro-netanyahu-bloc-tied-with-opposition/000001a0-879e-da65-a1bb-afffb9c90000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-09-09/ty-article/in-first-polls-since-slates-closed-pro-netanyahu-bloc-tied-with-opposition/000001a0-879e-da65-a1bb-afffb9c90000",
+      "published_at": "2026-09-09T00:00:00Z",
+      "ai_summary": "Haaretz reports that the first opinion polls released after Israel\u2019s election slates closed show the pro-Netanyahu bloc tied with the opposition bloc, suggesting a highly competitive race.",
+      "importance": 72,
+      "why": "This is a timely political news item about Israeli electoral dynamics. Poll results after slates close can influence campaign strategy, coalition expectations, and public perception, especially because they indicate whether Netanyahu\u2019s bloc can form a governing majority."
     }
   ],
   "deep_analysis": [
-    {
-      "source": "Jadaliyya",
-      "title": "The Fate of Mossadegh in Contemporary Nationalism: Revisiting a Contest over Memory",
-      "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
-      "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
-      "published_at": null,
-      "ai_summary": "The text discusses the renewed rise of nationalist discourse in Iran and how memories of Mossadegh have become central to contemporary debates over national identity and political legitimacy.",
-      "importance": 94,
-      "why": "The topic connects historical memory, nationalism, and current Iranian political discourse, making it highly relevant for understanding both modern Iranian politics and broader debates over contested national symbols."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "When Reconstruction Becomes War Governance in Gaza",
-      "summary": "Graves in Gaza are being disturbed by fresh bombardment at the very moment reconstruction plans are unveiled. A ceasefire came into effect in October 2025, framed by U.S. officials as the stage that would enable Gaza\u2019s \u201cfull...",
-      "link": "https://www.jadaliyya.com/Details/47577/When-Reconstruction-Becomes-War-Governance-in-Gaza",
-      "published_at": null,
-      "ai_summary": "The text contrasts Gaza\u2019s fragile ceasefire and reconstruction plans with renewed bombardment and grave disturbance, arguing that rebuilding is unfolding under conditions resembling war governance rather than genuine peace.",
-      "importance": 92,
-      "why": "It addresses a major geopolitical conflict, the post-ceasefire reconstruction effort, and the political implications of ongoing violence, making it highly relevant for understanding current Gaza policy and humanitarian conditions."
-    },
     {
       "source": "Jadaliyya",
       "title": "The Political Economy of the War on Iran: An Interview with Adam Hanieh",
       "summary": "Since Israel launched its attack on Iran in June 2025, the conflict has been analyzed largely through the lens of military escalation and fluctuations in global energy markets. Yet the war\u2019s consequences extend far beyond oil prices....",
       "link": "https://www.jadaliyya.com/Details/47465/The-Political-Economy-of-the-War-on-Iran-An-Interview-with-Adam-Hanieh",
       "published_at": null,
-      "ai_summary": "Interview discussing the political economy of the Israel-Iran war, emphasizing that its impacts go beyond military escalation and oil prices to broader regional and global economic dynamics.",
-      "importance": 84,
-      "why": "It addresses a major ongoing geopolitical conflict and frames it through political economy, offering broader implications for energy markets, regional power, and international relations."
+      "ai_summary": "An interview with Adam Hanieh argues that the war on Iran should be understood not just as a military conflict or an oil-market shock, but as part of a broader political economy shaped by regional power struggles, US-Israeli strategy, Gulf state interests, and the organization of global capitalism.",
+      "importance": 85,
+      "why": "The piece appears to offer a structural analysis of a major ongoing international conflict, likely tying together geopolitics, energy, and imperial power. That makes it important for understanding broader regional and global economic implications beyond immediate battlefield events."
     },
     {
-      "source": "Middle East Eye",
-      "title": "Exclusive: UK sanctions on Israeli settlements to include those in Syria's Golan Heights",
-      "summary": "UK government sources tell MEE that the new measures will cover the occupied Golan Heights and East Jerusalem",
-      "link": "https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights",
-      "published_at": "2026-09-11T13:16:00Z",
-      "ai_summary": "UK sanctions on Israeli settlements will reportedly extend to the occupied Golan Heights as well as East Jerusalem.",
-      "importance": 75,
-      "why": "This is a notable foreign-policy and sanctions development involving the UK, Israel, and the occupied territories, with implications for settlement activity and international legal disputes."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "I watched the twin towers burn. Now the US is repeating its worst mistakes in Iran",
-      "summary": "Twenty-five years of invasions and unconditional support for Israel have deepened the grievances behind 9/11 and left America less secure",
-      "link": "https://www.middleeasteye.net/opinion/9-11-25-years-us-iran-war-same-mistakes",
-      "published_at": "2026-09-12T15:45:00Z",
-      "ai_summary": "The title argues that U.S. foreign policy\u2014especially long wars, invasions, and support for Israel\u2014has fueled anti-American grievances, and warns that the U.S. is repeating past mistakes in Iran.",
-      "importance": 75,
-      "why": "It addresses geopolitics, U.S. foreign policy, Middle East conflict, and the legacy of 9/11, making it broadly consequential and timely, especially for understanding risks of escalation with Iran."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "The Mecca Agreement Unpacked",
-      "summary": "The accord represents a pivotal moment in the region to avert a security vacuum in the Gulf.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/the-mecca-agreement-unpacked",
-      "date": "Aug 13, 2026",
+      "source": "Jadaliyya",
+      "title": "The Fate of Mossadegh in Contemporary Nationalism: Revisiting a Contest over Memory",
+      "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
+      "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
       "published_at": null,
-      "ai_summary": "The Mecca Agreement is described as a pivotal regional accord aimed at preventing a security vacuum in the Gulf.",
-      "importance": 75,
-      "why": "It is framed as a significant geopolitical development with direct implications for regional security and stability, making it noteworthy beyond a routine diplomatic statement."
+      "ai_summary": "The text discusses the recent rise of nationalist discourse in Iran and frames it through debates over the memory and political meaning of Mohammad Mossadegh.",
+      "importance": 84,
+      "why": "It addresses a major contemporary political and intellectual trend in Iran and links it to the historically significant figure of Mossadegh, making it relevant for understanding modern Iranian nationalism and memory politics."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Kosovo needed international law to survive. Now it's helping Israel bypass it in Gaza",
+      "summary": "Pristina's gamble on Trump and Israel carries serious moral and political risks",
+      "link": "https://www.middleeasteye.net/news/kosovo-once-needed-international-law-survive-now-its-helping-israel-bypass-it-gaza",
+      "published_at": "2026-09-11T15:05:00Z",
+      "ai_summary": "The piece argues that Kosovo, once dependent on international law for its own survival, is now taking political risks by aligning with Israel and Trump in a way that may undermine the legal principles it previously relied on, especially regarding Gaza.",
+      "importance": 81,
+      "why": "It connects Kosovo\u2019s foreign policy to broader debates about international law, the Israel-Gaza conflict, and the political consequences of backing Trump-era diplomacy, making it relevant beyond a single bilateral relationship."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "UK trade ban on illegal settlements is a welcome first step to justice for Palestinians",
+      "summary": "A British trade ban will not end an illegal Israeli occupation on its own, but economic pressure will restrict resources, change business decisions and encourage other countries to follow",
+      "link": "https://www.middleeasteye.net/opinion/uk-trade-ban-israeli-settlements-welcome-first-step-justice-palestinians",
+      "published_at": "2026-09-08T15:43:00Z",
+      "ai_summary": "The piece argues that the UK\u2019s trade ban on goods from illegal settlements is a positive but limited step toward justice for Palestinians, because it applies economic pressure and may encourage wider international action, though it will not end the occupation by itself.",
+      "importance": 77,
+      "why": "This is a policy/opinion item about the Israel-Palestine conflict and a new UK trade measure, with broader implications for international trade policy and diplomatic pressure. It is moderately important because it reflects a notable government action and its potential ripple effects."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "The Ground Beneath The Crop: Agrarian Erasure in Southern Lebanon (Part 3)",
+      "summary": "[This article is Part 3 of a three-part series on agrarian erasure in South Lebanon. Click to read\u00a0Part 1\u00a0and Part 2 of this series.\u00a0The previous part followed agrarian change into the rhythms of everyday life. Through the figure of the...",
+      "link": "https://www.jadaliyya.com/Details/47654/The-Ground-Beneath-The-Crop-Agrarian-Erasure-in-Southern-Lebanon-Part-3",
+      "published_at": null,
+      "ai_summary": "Part 3 of a series on agrarian erasure in South Lebanon, focusing on how land, farming, and rural livelihoods are being transformed and obscured in everyday life.",
+      "importance": 74,
+      "why": "It addresses a politically and socially significant issue in Southern Lebanon\u2014agrarian change, land loss, and rural transformation\u2014framed as part of a broader investigative series. The topic matters for understanding displacement, livelihood erosion, and environmental/social change, though the excerpt alone does not show immediate crisis-level urgency."
     },
     {
       "source": "Carnegie ME",
@@ -254,19 +233,20 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/august-4-and-criminal-impunity",
       "date": "Aug 4, 2026",
       "published_at": null,
-      "ai_summary": "Lebanon\u2019s core dysfunction stems from a failure to enforce accountability and build legitimate institutions.",
-      "importance": 73,
-      "why": "It highlights a central structural issue in Lebanon\u2019s governance and connects a specific date/event to the broader problem of criminal impunity and institutional weakness."
+      "ai_summary": "The text argues that Lebanon\u2019s dysfunction is rooted in a failure to ensure accountability and build legitimate institutions, leading to criminal impunity.",
+      "importance": 85,
+      "why": "It identifies a core systemic problem affecting Lebanon\u2019s governance and state legitimacy, making it highly relevant to understanding the country\u2019s political dysfunction."
     },
     {
-      "source": "War on the Rocks",
-      "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
-      "summary": "When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of...",
-      "link": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
-      "published_at": "2026-09-07T07:30:31Z",
-      "ai_summary": "The article argues that Turkey and Israel are moving toward direct strategic rivalry as their regional spheres of influence overlap, especially in Syria, where Israeli strikes are challenging Turkish-backed interests and eroding an old assumption that their interests could remain separated.",
-      "importance": 80,
-      "why": "It points to a significant shift in Middle East geopolitics: two major regional powers are increasingly coming into conflict over influence, especially in Syria. That makes it important for understanding future regional stability, military escalation risks, and alliance dynamics."
+      "source": "Carnegie ME",
+      "title": "The Mecca Agreement Unpacked",
+      "summary": "The accord represents a pivotal moment in the region to avert a security vacuum in the Gulf.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/the-mecca-agreement-unpacked",
+      "date": "Aug 13, 2026",
+      "published_at": null,
+      "ai_summary": "The Mecca Agreement is described as a key regional accord aimed at preventing a security vacuum in the Gulf.",
+      "importance": 73,
+      "why": "It is framed as a pivotal regional moment with security implications for the Gulf, suggesting notable geopolitical significance."
     },
     {
       "source": "Responsible Statecraft",
@@ -274,9 +254,19 @@
       "summary": "As diplomats prepare for the BRICS Summit in New Delhi this weekend, the Iran war is looming large.India, which assumed the BRICS chairmanship in January, was already facing the difficult responsibility of securing consensus to achieve...",
       "link": "https://responsiblestatecraft.org/brics-summit-2026/",
       "published_at": "2026-09-10T04:05:04Z",
-      "ai_summary": "BRICS leaders are meeting in New Delhi under the shadow of the Iran war, creating a difficult diplomatic backdrop for India, which is chairing the bloc and must build consensus among member states.",
-      "importance": 80,
-      "why": "The item is important because it ties a major ongoing geopolitical conflict to a high-level multilateral summit involving major emerging economies. It highlights potential diplomatic divisions and India\u2019s leadership role, which could affect regional and international policy discussions."
+      "ai_summary": "BRICS leaders meeting in New Delhi are likely to focus heavily on the escalating Iran war, creating a major diplomatic challenge for India as host and chair.",
+      "importance": 82,
+      "why": "The Iran conflict is a major geopolitical issue affecting global security, energy markets, and BRICS diplomacy, and it is prominent enough to shape the summit agenda."
+    },
+    {
+      "source": "War on the Rocks",
+      "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
+      "summary": "When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of...",
+      "link": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
+      "published_at": "2026-09-07T07:30:31Z",
+      "ai_summary": "The article argues that Turkey and Israel are increasingly heading toward direct strategic confrontation as their regional interests collide in Syria and the wider Middle East. Israel\u2019s strike on the Abu al-Duhur airbase symbolizes the breakdown of old assumptions and the shrinking buffer between the two powers, raising the risk of a more open rivalry.",
+      "importance": 76,
+      "why": "This is important because it describes a potential major shift in Middle East geopolitics: two significant regional powers moving from indirect competition toward direct collision. That could affect Syria, U.S. policy, airspace/security calculations, and broader regional stability."
     },
     {
       "source": "Drop Site News",
@@ -284,9 +274,9 @@
       "summary": "\"My house was in a completely residential area. I don&#8217;t know what has happened to my life,\" Ali Mallahi, the father of the bride, said of the airstrike on his daughter's wedding that killed 5 people.",
       "link": "https://www.dropsitenews.com/p/wedding-us-airstrike-kuhestak-iran-hormuz",
       "published_at": "2026-09-04T18:22:04Z",
-      "ai_summary": "A father describes the devastation caused by a U.S. airstrike on his daughter\u2019s wedding in southern Iran, which killed five people in a residential area.",
-      "importance": 89,
-      "why": "The text reports a civilian casualty incident tied to a wedding, highlighting the human impact of military action and the killing of noncombatants."
+      "ai_summary": "A father of the bride describes the devastation caused by a U.S. airstrike on his daughter\u2019s wedding in southern Iran, saying the home was in a residential area and that the attack killed five people.",
+      "importance": 88,
+      "why": "This is a highly consequential human-rights and conflict-related incident involving civilian casualties at a wedding, making it politically and morally significant."
     }
   ]
 }
