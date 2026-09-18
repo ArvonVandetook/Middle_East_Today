@@ -1,87 +1,16 @@
 {
-  "generated_at": "2026-09-18T13:59:56.614049Z",
-  "top_story": "Across the region, formal postwar and post-ceasefire frameworks are proving unable to protect civilians or stabilize governance. In Yemen, renewed fighting and rapid Houthi advances had displaced about 125,000 people by 17 September, pushing families into camps and signaling that front-line shifts are again reshaping daily survival. In Gaza, reconstruction is being absorbed into a system of war governance as continued bombardment empties ceasefire language of any restorative meaning, leaving civilian recovery structurally blocked. The 18 September US sentencing of former Syrian prison official Samir Ousman al-Sheikh to 60 years underscores a parallel reality: accountability is advancing abroad even as much of the region remains defined by enduring coercive rule and mass civilian vulnerability.",
+  "generated_at": "2026-09-18T23:46:27.022470Z",
+  "top_story": "UN findings issued on 17-18 September sharpen legal and political pressure on Washington by concluding there are reasonable grounds to believe US strikes on a school and sports facility in Minab, Iran, killed children in attacks that may amount to war crimes. The White House rejection is unlikely to contain the wider regional effect, because the allegations reinforce perceptions that civilian harm is tolerated when strategic rivals are targeted and give Tehran fresh diplomatic leverage. In Gaza, reconstruction remains constrained by bombardment, a fragile ceasefire, and external control over aid and security, leaving rebuilding to function less as recovery than as an extension of wartime governance. The broader picture is a region where accountability disputes and externally managed coercion deepen public distrust and keep civilian life subordinated to military and political objectives.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
-      "summary": "By Olivia Le PoidevinGENEVA, Sept 18 (Reuters) - At least 112,000 people have been displaced inside Yemen within the last two weeksas fighting continues along the country's west coast amid a renewed \u200bconflict, while nearly 3,000 have fled...",
-      "link": "https://www.al-monitor.com/originals/2026/09/yemen-conflict-displaces-112000-people-inside-country-thousands-flee-djibouti-un",
-      "published_at": "2026-09-18T09:46:32Z",
-      "ai_summary": "Yemen\u2019s renewed west coast fighting has displaced at least 112,000 people inside the country in two weeks, and nearly 3,000 have fled to Djibouti, according to the UN migration agency.",
-      "importance": 90,
-      "why": "This is a major humanitarian displacement event involving large numbers of civilians and cross-border flight, indicating escalating conflict and urgent relief needs."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Gaza: One year after ceasefire, killing and displacement of Palestinians persist",
-      "summary": "Israeli expulsion orders, incursions and the threat of renewed starvation are keeping Palestinians in a state of permanent insecurity despite the truce",
-      "link": "https://www.middleeasteye.net/news/reliving-war-one-year-after-ceasefire-killing-and-displacement-persist-gaza",
-      "published_at": "2026-09-17T07:45:00Z",
-      "ai_summary": "One year after a ceasefire, Palestinians in Gaza continue to face displacement, Israeli expulsion orders, incursions, and the threat of renewed starvation despite the truce.",
-      "importance": 92,
-      "why": "The item concerns ongoing humanitarian harm and insecurity affecting a large civilian population, with implications for ceasefire durability, displacement, and potential renewed starvation."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel would rather not watch NAZA",
-      "summary": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza",
-      "published_at": "2026-09-18T00:00:00Z",
-      "ai_summary": "The piece argues that backlash over a Gaza documentary reflects a wider unwillingness in Israel to confront the reality of genocide in Gaza.",
-      "importance": 79,
-      "why": "It is a strong political/media claim about the Gaza war and public denial, with potential relevance for understanding narratives, backlash, and international discourse around the conflict."
-    },
-    {
-      "source": "Guardian",
-      "title": "\u2018We left everything behind\u2019: 125,000 people displaced as war reignites in Yemen",
-      "summary": "Fierce fighting has forced people to abandon their homes, leaving everything behind to seek shelter in refugee campsThe rapid Houthi advance in Yemen: why it matters and what\u2019s at stakeAbandoning their homes and cramming into cars, Yemeni...",
-      "link": "https://www.theguardian.com/world/2026/sep/17/displaced-people-yemen-war",
-      "published_at": "2026-09-17T08:37:15Z",
-      "ai_summary": "Fierce fighting in Yemen has forced about 125,000 people to flee their homes and seek shelter in refugee camps as the war reignites and the Houthis advance rapidly.",
-      "importance": 98,
-      "why": "The article reports a major escalation in an ongoing conflict with large-scale displacement of civilians, indicating a significant humanitarian crisis and regional instability."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Israel's Top Court Overturns Elections Committee Decision, Bans Voter-tracking Apps",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-17/ty-article/.premium/top-court-overturns-elections-committee-decision-bans-voter-tracking-apps/000001a0-b042-df5b-adf2-f667c8ae0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-09-17/ty-article/.premium/top-court-overturns-elections-committee-decision-bans-voter-tracking-apps/000001a0-b042-df5b-adf2-f667c8ae0000",
-      "published_at": "2026-09-17T00:00:00Z",
-      "ai_summary": "Israel's top court overturned an elections committee ruling and banned voter-tracking apps.",
-      "importance": 78,
-      "why": "This is a significant legal and political decision affecting election integrity, campaign tactics, and voter privacy in Israel. It may influence how parties and advocacy groups use digital tools in future elections."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "U.S. Makes, Israel Takes: The Real Story of U.S.-Israeli Military Cooperation",
-      "summary": "The Iron Beam laser and Arrow anti-ballistic missile systems are touted as examples of Israeli military ingenuity. But they were largely developed and financed by the U.S.",
-      "link": "https://www.dropsitenews.com/p/israel-iron-beam-arrow-section-219",
-      "published_at": "2026-09-16T00:45:04Z",
-      "ai_summary": "The text argues that U.S. funding and development played a major role in Israeli missile defense systems like Iron Beam and Arrow, challenging the idea that they are purely Israeli achievements.",
-      "importance": 78,
-      "why": "It reframes a major defense and foreign-policy narrative by highlighting U.S. involvement in high-profile Israeli military technology, which is significant for understanding military cooperation and public perceptions."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "Iraq\u2019s Disarmament Path Begins with Reform of the PMF",
-      "summary": "The Zaidi government\u2019s objective to collect weapons is constrained by regional conflict, but it can take certain measures at home.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/09/iraqs-disarmament-path-begins-with-pmf-reform",
-      "date": "Sep 18, 2026",
-      "published_at": null,
-      "ai_summary": "The article argues that Iraq\u2019s effort to collect weapons and advance disarmament is limited by ongoing regional conflicts, but the government can still make progress domestically by reforming the Popular Mobilization Forces (PMF).",
-      "importance": 73,
-      "why": "It addresses Iraq\u2019s security policy and the PMF, a major armed actor tied to state stability, sovereignty, and broader regional security dynamics."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Barefoot and terrified, Yemenis flee the Houthi advance",
-      "summary": "AL-BIREEN CAMP, Yemen, Sept 18 (Reuters) - When a terrifying bombardment erupted around their camp in Yemen this week as a long-paused civil war reignited, Rawya Hassan and her family fled for their lives, barefoot and leaving their...",
-      "link": "https://www.al-monitor.com/originals/2026/09/barefoot-and-terrified-yemenis-flee-houthi-advance",
-      "published_at": "2026-09-18T12:46:35Z",
-      "ai_summary": "Yemeni civilians, including Rawya Hassan and her family, fled barefoot from Al-Bireen camp as a renewed Houthi offensive and bombardment reignited the civil war.",
-      "importance": 89,
-      "why": "This is a significant conflict update from Yemen showing renewed fighting, civilian displacement, and humanitarian impact. It matters because it reflects escalation in an already severe war and involves Reuters coverage of a major regional crisis."
+      "title": "US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports",
+      "summary": "Sept 18 (Reuters) - More US troops have died during the US-Israeli war with Iran than the Pentagon has publicly disclosed, the Washington Post reported on Friday.Defense Secretary PeteHegseth denied the report.The Post, citing five...",
+      "link": "https://www.al-monitor.com/originals/2026/09/us-troop-deaths-during-iran-war-exceed-pentagon-count-least-four-washington-post",
+      "published_at": "2026-09-18T18:46:31Z",
+      "ai_summary": "Washington Post reported that U.S. troop deaths in the US-Israeli war with Iran were at least four higher than the Pentagon has publicly acknowledged; Defense Secretary Pete Hegseth denied the report.",
+      "importance": 85,
+      "why": "This is a significant national security and political report about possible discrepancies in official U.S. military casualty disclosures during a conflict involving Iran and Israel, with direct implications for government transparency and public trust."
     },
     {
       "source": "Middle East Eye",
@@ -89,39 +18,109 @@
       "summary": "US launched 'indiscriminate' attacks with the Minab elementary school strike, not due to an errant missile, the United Nations finds",
       "link": "https://www.middleeasteye.net/news/un-investigators-find-reasonable-grounds-us-committed-war-crimes-iran",
       "published_at": "2026-09-17T19:31:00Z",
-      "ai_summary": "UN investigators said there are reasonable grounds to believe the US committed war crimes in Iran, citing an indiscriminate attack including the Minab elementary school strike rather than a mistaken missile.",
-      "importance": 91,
-      "why": "This is a serious allegation by the United Nations involving possible war crimes by the United States and a civilian school strike, making it highly significant for international law, diplomacy, and conflict accountability."
+      "ai_summary": "UN investigators say there are reasonable grounds to believe the US committed war crimes in Iran, citing an indiscriminate attack on Minab elementary school rather than an accidental missile strike.",
+      "importance": 97,
+      "why": "The claim involves alleged war crimes by the United States and findings by UN investigators, which makes it highly significant for international law, geopolitics, and potential accountability."
     },
     {
       "source": "Al Jazeera",
-      "title": "Israel is killing the people who could end its wars",
-      "summary": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars",
+      "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
+      "summary": "United Nations says 22 million people need humanitarian aid as conflict intensifies.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti",
       "published_at": "2026-09-18T00:00:00Z",
-      "ai_summary": "The article argues that Israel\u2019s assassinations across Iran, Gaza, and Lebanon have repeatedly eliminated leaders who might have been able to negotiate peace or de-escalation.",
-      "importance": 75,
-      "why": "It addresses a major regional conflict dynamic and a significant political/security strategy with implications for war termination, diplomacy, and civilian harm."
+      "ai_summary": "Yemen fighting has displaced more than 112,000 people, with some fleeing to Djibouti, as the UN says 22 million need humanitarian aid.",
+      "importance": 89,
+      "why": "The event reflects a major humanitarian crisis with large-scale displacement, cross-border flight, and a high number of people needing aid."
     },
     {
       "source": "Guardian",
-      "title": "US court sentences ex-Syrian official who ran notorious \u2018punishment wing\u2019 to 60 years",
-      "summary": "Samir Ousman al-Sheikh, part of Bashar al-Assad\u2019s regime, was in charge of Adra prison where prisoners were torturedThis article contains descriptions of torture.A US federal court in Los Angeles sentenced a former Syrian government...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
-      "published_at": "2026-09-18T00:37:22Z",
-      "ai_summary": "A US federal court sentenced former Syrian prison official Samir Ousman al-Sheikh to 60 years for his role in torture and abuse at Adra prison under Bashar al-Assad\u2019s regime.",
-      "importance": 92,
-      "why": "This is a major legal and human-rights development involving accountability for state torture by a former regime official and a severe 60-year US sentence."
+      "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+      "summary": "Fact-finding mission says military strikes on school and sports facility in \u2060February constitute war \u2060crimesA UN fact-finding mission has determined there are reasonable grounds to believe the US was behind military strikes on a school and...",
+      "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+      "published_at": "2026-09-17T13:22:35Z",
+      "ai_summary": "UN fact-finding mission says February military strikes on a school and sports facility in Iran likely constituted war crimes and gives grounds to believe the US was responsible.",
+      "importance": 95,
+      "why": "This is a major international allegation of war crimes involving the US, Iran, and civilian targets, with significant legal and geopolitical implications."
     },
     {
       "source": "Haaretz",
-      "title": "As Netanyahu Eyes Centrist Voters, Ben-Gvir Hopes to Become Champion of the Right",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-17/ty-article/.premium/as-netanyahu-eyes-centrist-voters-ben-gvir-hopes-to-become-patron-of-the-right/000001a0-aef7-df5b-adf2-fef7c45a0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-09-17/ty-article/.premium/as-netanyahu-eyes-centrist-voters-ben-gvir-hopes-to-become-patron-of-the-right/000001a0-aef7-df5b-adf2-fef7c45a0000",
+      "title": "The Fury Over 'NAZA' Doesn't Change the Bottom Line: Israel Committed War Crimes in Gaza",
+      "summary": "https://www.haaretz.com/gaza/2026-09-18/ty-article/.premium/naza-uproar-distracts-from-confronting-israels-war-crimes-in-gaza/000001a0-b3f7-df5b-adf2-f7f7a8d80000",
+      "link": "https://www.haaretz.com/gaza/2026-09-18/ty-article/.premium/naza-uproar-distracts-from-confronting-israels-war-crimes-in-gaza/000001a0-b3f7-df5b-adf2-f7f7a8d80000",
+      "published_at": "2026-09-18T00:00:00Z",
+      "ai_summary": "Article argues that the controversy over the term \"NAZA\" is a distraction and does not alter the core claim that Israel committed war crimes in Gaza.",
+      "importance": 84,
+      "why": "The title and framing indicate a politically and legally significant argument about alleged war crimes in Gaza. It is important because it addresses accountability and may influence public discourse, but the exact details are unavailable from the provided link alone."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Palestinian-American Journalist Naqaa Hamed Detained by Israeli Forces After Settlers Targeted Her",
+      "summary": "The freelance journalist and Drop Site contributor was arrested by Israeli authorities as she returned from covering Israeli settler attacks in Masafer Yatta.",
+      "link": "https://www.dropsitenews.com/p/palestinian-american-journalist-naqaa-hamed-arrested",
+      "published_at": "2026-09-16T15:04:45Z",
+      "ai_summary": "Palestinian-American journalist Naqaa Hamed was detained by Israeli forces after covering settler attacks in Masafer Yatta.",
+      "importance": 74,
+      "why": "The report involves the detention of a journalist after coverage of alleged settler violence, raising concerns about press freedom, treatment of journalists, and tensions in the Israeli-Palestinian conflict."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Saudi Aramco curbs Europe crude exports to support Asia supplies",
+      "summary": "Saudi Arabia is sending about 60 million barrels of crude through the Strait of Hormuz to Oman\u2019s Sohar port this month and next, Reuters reported.",
+      "link": "https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies",
+      "published_at": "2026-09-18T15:10:15Z",
+      "ai_summary": "Saudi Aramco is reducing crude exports to Europe to prioritize Asian supply, with about 60 million barrels being sent through the Strait of Hormuz to Oman\u2019s Sohar port this month and next.",
+      "importance": 81,
+      "why": "This reflects a meaningful shift in Saudi crude export flows and supply prioritization, which can affect regional oil markets, shipping routes, and European refinery supply. The move is significant for energy traders and geopolitical supply dynamics, though it is a relatively narrow operational update rather than a major market shock."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Saudi Arabia cancels oil shipments to European refineries",
+      "summary": "The kingdom's East-West Pipeline and Red Sea port of Yanbu have been attacked by drones, as fighting rages in Yemen",
+      "link": "https://www.middleeasteye.net/news/saudi-arabia-cancels-oil-shipments-european-refineries",
+      "published_at": "2026-09-18T21:41:00Z",
+      "ai_summary": "Saudi Arabia canceled oil shipments to European refineries after drone attacks hit the East-West Pipeline and the Red Sea port of Yanbu amid the ongoing conflict in Yemen.",
+      "importance": 91,
+      "why": "This is highly important because it affects global oil supply, key energy infrastructure, and geopolitical stability in the Middle East, with potential ripple effects on European fuel markets."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The cost of Iran\u2019s regional leverage",
+      "summary": "Tehran\u2019s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
+      "published_at": "2026-09-18T00:00:00Z",
+      "ai_summary": "Iran\u2019s regional pressure tactics are undermining its improving relations with Gulf states.",
+      "importance": 83,
+      "why": "The title and text indicate a significant geopolitical issue: Tehran\u2019s regional leverage is creating tension that could damage rapprochement with Gulf states, affecting regional stability and diplomacy."
+    },
+    {
+      "source": "Guardian",
+      "title": "\u2018Run! Get away!\u2019: witnesses recount Israeli \u2018double tap\u2019 strike that killed child and medic in Gaza",
+      "summary": "When Mohammad Abdul Zinati, 15, rushed to help a man wounded in a bomb attack, he had no time to react before he too was hitMohammad Abdul Zinati was walking home from school through the rubble of Salah Khalaf Street, in northern Gaza...",
+      "link": "https://www.theguardian.com/world/2026/sep/18/run-get-away-witnesses-recount-israeli-double-tap-strike-that-killed-child-and-medic-in-gaza",
+      "published_at": "2026-09-18T05:00:10Z",
+      "ai_summary": "A report describes witnesses in Gaza recounting an Israeli \u201cdouble tap\u201d strike that killed a 15-year-old boy and a medic as they responded to an earlier bombing.",
+      "importance": 92,
+      "why": "The story concerns a high-casualty wartime incident involving civilian and medical deaths, alleged repeated targeting of rescuers, and broader implications for the conduct of hostilities and humanitarian law."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Israel's Top Court Overturns Elections Committee Decision, Bans Voter-tracking Apps",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-09-17/ty-article/.premium/top-court-overturns-elections-committee-decision-bans-voter-tracking-apps/000001a0-b042-df5b-adf2-f667c8ae0000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-09-17/ty-article/.premium/top-court-overturns-elections-committee-decision-bans-voter-tracking-apps/000001a0-b042-df5b-adf2-f667c8ae0000",
       "published_at": "2026-09-17T00:00:00Z",
-      "ai_summary": "The article discusses how Benjamin Netanyahu is courting centrist voters while Itamar Ben-Gvir positions himself as the main voice and champion of Israel\u2019s right-wing base, highlighting tensions and strategic divergence within the right bloc ahead of elections.",
-      "importance": 72,
-      "why": "It focuses on a significant shift in Israeli electoral strategy and internal right-wing competition, with implications for coalition dynamics, voter alignment, and the broader political landscape."
+      "ai_summary": "Israel\u2019s top court overturned an Elections Committee decision and banned the use of voter-tracking apps in the election context.",
+      "importance": 78,
+      "why": "This is a significant ruling affecting election administration, voter privacy, and campaign technology in Israel. It has immediate legal and political implications and may influence how future elections are monitored and contested."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "U.S. Makes, Israel Takes: The Real Story of U.S.-Israeli Military Cooperation",
+      "summary": "The Iron Beam laser and Arrow anti-ballistic missile systems are touted as examples of Israeli military ingenuity. But they were largely developed and financed by the U.S.",
+      "link": "https://www.dropsitenews.com/p/israel-iron-beam-arrow-section-219",
+      "published_at": "2026-09-16T00:45:04Z",
+      "ai_summary": "The piece argues that systems like Iron Beam and Arrow are often presented as purely Israeli achievements, but were significantly developed and financed by the United States.",
+      "importance": 73,
+      "why": "It highlights a major aspect of U.S.-Israeli military cooperation and challenges a common public narrative about who creates and pays for key missile defense technology."
     }
   ],
   "regional_analysis": [
@@ -131,59 +130,19 @@
       "summary": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000",
       "link": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000",
       "published_at": "2026-09-08T00:00:00Z",
-      "ai_summary": "A Haaretz report says Benjamin Netanyahu received an explicit warning days before the Oct. 7 attacks but did not brief Israel\u2019s top security chiefs.",
+      "ai_summary": "Haaretz reports that Netanyahu allegedly received an explicit warning days before the Oct. 7 attack but did not brief Israel\u2019s security chiefs.",
       "importance": 92,
-      "why": "The claim is highly significant because it alleges advance warning at the highest political level and a failure to share it with security leadership, which could affect assessments of responsibility, decision-making, and the broader understanding of the Oct. 7 intelligence and preparedness failures."
+      "why": "The claim, if accurate, is highly significant because it concerns prior warning of the Oct. 7 attack and possible failures in Israel\u2019s top-level security and political decision-making, which could affect public accountability and historical understanding."
     },
     {
       "source": "Al Monitor",
-      "title": "Doom Loop? Ed Sheeran struggles against Gaza tide",
-      "summary": "Ed Sheeran faces boycott calls and desertions, leaving the British singer with a career crisis that underlines how even the world's biggest stars are being sucked into the politic",
-      "link": "https://www.al-monitor.com/originals/2026/09/doom-loop-ed-sheeran-struggles-against-gaza-tide",
-      "published_at": "2026-09-18T01:30:34Z",
-      "ai_summary": "Ed Sheeran is facing boycott calls and fan desertions amid backlash tied to Gaza, highlighting how major stars can be drawn into political controversies that threaten their careers.",
+      "title": "Lebanon charges 5 in alleged Hezbollah operation to train Assad loyalists",
+      "summary": "A Lebanese military court has charged the five, including an Assad-era Syrian officer and Hezbollah members, with running a cross-border security network planning attacks in Syria\u2019s coastal region.",
+      "link": "https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists",
+      "published_at": "2026-09-18T14:20:57Z",
+      "ai_summary": "A Lebanese military court charged five people, including an Assad-era Syrian officer and Hezbollah members, over an alleged cross-border security network that planned attacks in Syria\u2019s coastal region.",
       "importance": 81,
-      "why": "The item is significant because it concerns a globally recognized celebrity facing a public backlash with possible career consequences. It also reflects a broader cultural and political trend affecting high-profile public figures, making it more than a routine entertainment story."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Analysis-As Iran war grinds on, Trump to face skeptical world leaders at UN",
-      "summary": "By Matt SpetalnickWASHINGTON, Sept 18 (Reuters) - When President Donald Trump addressed the United Nations a year ago, he touted the US bombing of Iran\u2019s nuclear sites just months earlier as \"totally obliterating everything\" and said he...",
-      "link": "https://www.al-monitor.com/originals/2026/09/analysis-iran-war-grinds-trump-face-skeptical-world-leaders-un",
-      "published_at": "2026-09-18T05:46:33Z",
-      "ai_summary": "Reuters reports that as the Iran war continues, President Trump is heading to the UN General Assembly where he is likely to face skepticism from world leaders over his claims about having destroyed Iran\u2019s nuclear program and over broader US policy on the conflict.",
-      "importance": 77,
-      "why": "The story is important because it concerns an ongoing international war, US foreign policy, and likely tensions between Trump and other world leaders at the UN, which can affect diplomacy, global security, and market sentiment."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "October 7 survivors, families take centre stage in Israel vote",
-      "summary": "Sharon Sharabi shot into the limelight in Israel after the Hamas attack of",
-      "link": "https://www.al-monitor.com/originals/2026/09/october-7-survivors-families-take-centre-stage-israel-vote",
-      "published_at": "2026-09-18T01:30:34Z",
-      "ai_summary": "October 7 survivors and bereaved families are becoming prominent voices in Israel\u2019s political discourse ahead of voting.",
-      "importance": 77,
-      "why": "The text refers to the aftermath of the October 7 Hamas attack and the rising political visibility of survivors and families, which is highly relevant to Israeli politics, public sentiment, and the broader conflict context."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "In Yemen, war at home and in the region drives up prices",
-      "summary": "Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.",
-      "link": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices",
-      "published_at": "2026-09-18T00:00:00Z",
-      "ai_summary": "Yemeni families in Sanaa are preparing for higher food and transport costs after the first fuel price increase in four years, with war-related instability worsening prices at home and across the region.",
-      "importance": 75,
-      "why": "This is important because rising fuel prices can quickly raise the cost of essentials in a country already facing severe hardship, directly affecting household living conditions and inflation."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US voter opposition to war on Iran grows to new highs: Poll",
-      "summary": "Poll reveals 71 percent in US believe Trump\u2019s team lacks a clear strategy for resolving the conflict.",
-      "link": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll",
-      "published_at": "2026-09-18T00:00:00Z",
-      "ai_summary": "A poll found that US opposition to a war on Iran has reached new highs, and 71% of Americans believe Trump\u2019s team lacks a clear strategy for resolving the conflict.",
-      "importance": 73,
-      "why": "It reflects significant public opposition and highlights concerns about the administration\u2019s foreign policy strategy on a major international conflict."
+      "why": "The report involves Hezbollah, a Lebanese military court, and alleged cross-border security operations tied to Syria, which has broader regional security and political implications."
     },
     {
       "source": "Al Jazeera",
@@ -191,9 +150,39 @@
       "summary": "Stretched by its war with Iran, Washington may have little choice but to trust Houthi assurances on shipping.",
       "link": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines",
       "published_at": "2026-09-18T00:00:00Z",
-      "ai_summary": "The piece argues that, because the U.S. is stretched by its wider confrontation with Iran, it may have limited options and may have to rely on Houthi assurances regarding shipping through Bab al-Mandeb.",
-      "importance": 73,
-      "why": "Bab al-Mandeb is a critical global shipping chokepoint, so any shift in control or behavior there has major implications for trade, security, and regional power dynamics. The article suggests a potentially significant U.S. policy constraint, making it strategically important."
+      "ai_summary": "The article suggests that as Houthi forces gain influence around the Bab al-Mandeb strait, the U.S. may be limited in its ability to intervene and may have to rely on Houthi assurances about protecting shipping lanes.",
+      "importance": 79,
+      "why": "Bab al-Mandeb is a critical global shipping chokepoint, so any shift in control or stability there has major implications for international trade, regional security, and U.S. strategic policy."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel is killing the people who could end its wars",
+      "summary": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars",
+      "published_at": "2026-09-18T00:00:00Z",
+      "ai_summary": "The piece argues that Israel\u2019s assassinations across Iran, Gaza, and Lebanon have repeatedly eliminated potential negotiators and peacemakers, making wars harder to end.",
+      "importance": 79,
+      "why": "It addresses a major ongoing regional conflict and a consequential claim about how targeted killings may shape prospects for negotiation, escalation, and peace."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "As Iran regime marks 200 days of war, is it also preparing for dissent?",
+      "summary": "Seven months into the war with the US, Iranian authorities staged a pro-government mobilization in Tehran, combining patriotic spectacle with a carefully calibrated demonstration aimed for domestic internal security capacity.",
+      "link": "https://www.al-monitor.com/originals/2026/09/iran-regime-marks-200-days-war-it-also-preparing-dissent",
+      "published_at": "2026-09-18T18:16:26Z",
+      "ai_summary": "Iran staged a pro-government mobilization in Tehran after 200 days of war with the US, signaling both patriotic unity and domestic security readiness.",
+      "importance": 75,
+      "why": "The piece suggests the Iranian regime is not only responding to external conflict but also preparing for possible internal dissent, which has implications for domestic stability and regional security."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+      "summary": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.",
+      "link": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon",
+      "published_at": "2026-09-18T00:00:00Z",
+      "ai_summary": "Israeli shelling injured two people as troops advanced in southern Lebanon, while Israeli forces later withdrew from the outskirts of a town after a standoff with Lebanese forces.",
+      "importance": 75,
+      "why": "The item reports active military escalation and casualties in a sensitive border area, involving Israeli and Lebanese forces, which has broader regional security implications."
     },
     {
       "source": "Haaretz",
@@ -201,9 +190,19 @@
       "summary": "https://www.haaretz.com/israel-news/israel-security/2026-09-17/ty-article-live/u-s-extends-visa-sanctions-against-palestinian-officials-blocks-abbas-from-un/000001a0-ad1f-d736-a1b2-fdbf6acf0000",
       "link": "https://www.haaretz.com/israel-news/israel-security/2026-09-17/ty-article-live/u-s-extends-visa-sanctions-against-palestinian-officials-blocks-abbas-from-un/000001a0-ad1f-d736-a1b2-fdbf6acf0000",
       "published_at": "2026-09-17T00:00:00Z",
-      "ai_summary": "The U.S. will allow Iran\u2019s president and foreign minister to travel to New York for a UN meeting, despite broader tensions and visa restrictions affecting other foreign officials.",
-      "importance": 68,
-      "why": "This is significant because it concerns U.S. visa policy toward senior Iranian leaders and has diplomatic implications around UN participation, sanctions, and U.S.-Iran relations."
+      "ai_summary": "The U.S. will allow Iran\u2019s president and foreign minister to attend the UN meeting in New York, despite broader visa and access restrictions affecting other officials.",
+      "importance": 72,
+      "why": "This matters because it affects high-level diplomatic access to the UN and signals a notable U.S. decision amid strained relations with Iran and broader Middle East tensions. It has potential implications for UN diplomacy, sanctions policy, and international negotiations."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Isolated Syrian-Druze city blames Damascus for shortages",
+      "summary": "In her bakery, Hoda Kiwan impatiently awaits flour and fuel, which have become scarce in southern Syria's Sweida, the Druze-majority city still outside Damascus' control. \"I am suffering from a shortage of gas and flour, especially after...",
+      "link": "https://www.al-monitor.com/originals/2026/09/isolated-syrian-druze-city-blames-damascus-shortages",
+      "published_at": "2026-09-18T13:30:29Z",
+      "ai_summary": "A Druze-majority city in southern Syria says shortages of flour, fuel, and gas are worsening, and residents blame Damascus for the supply crisis.",
+      "importance": 71,
+      "why": "The report concerns ongoing humanitarian and political tensions in Syria, highlighting shortages in an isolated city outside government control. It is important because it reflects local living conditions, governance disputes, and broader instability, though it is not a major global event."
     }
   ],
   "deep_analysis": [
@@ -213,19 +212,19 @@
       "summary": "Graves in Gaza are being disturbed by fresh bombardment at the very moment reconstruction plans are unveiled. A ceasefire came into effect in October 2025, framed by U.S. officials as the stage that would enable Gaza\u2019s \u201cfull...",
       "link": "https://www.jadaliyya.com/Details/47577/When-Reconstruction-Becomes-War-Governance-in-Gaza",
       "published_at": null,
-      "ai_summary": "The article argues that in Gaza, plans for postwar reconstruction are being undermined by continued bombardment and that the ceasefire is functioning less as a path to peace than as a framework for war governance.",
-      "importance": 93,
-      "why": "It addresses the Gaza war, ceasefire dynamics, and reconstruction politics involving U.S. framing and ongoing violence, all of which are highly consequential for regional stability and humanitarian conditions."
+      "ai_summary": "The piece argues that Gaza\u2019s reconstruction is unfolding under conditions that resemble continued war governance, with ongoing bombardment, a fragile ceasefire, and external powers shaping control over aid, security, and rebuilding.",
+      "importance": 94,
+      "why": "It addresses a major ongoing geopolitical and humanitarian issue involving Gaza, ceasefire dynamics, reconstruction, and international policy. The topic is highly consequential for regional stability, civilian protection, and U.S./international diplomacy."
     },
     {
       "source": "Middle East Eye",
-      "title": "Palestinian prisoner dies in Israeli custody as family seeks answers",
-      "summary": "Moataz al-Atrash, 21, dies after nearly a year in administrative detention as rights groups report a surge in deaths in Israeli prisons",
-      "link": "https://www.middleeasteye.net/news/palestinian-prisoner-dies-israeli-custody-family-seeks-answers",
-      "published_at": "2026-09-17T14:54:00Z",
-      "ai_summary": "A 21-year-old Palestinian prisoner, Moataz al-Atrash, died in Israeli custody after nearly a year in administrative detention, prompting his family to seek answers amid reports of rising prison deaths.",
-      "importance": 91,
-      "why": "The story concerns a death in custody, alleged administrative detention, and broader reports of increasing prisoner deaths, making it highly significant for human rights, regional conflict, and accountability issues."
+      "title": "Palestinian prisoner gives birth in Israeli jail raising fears for pregnant detainees",
+      "summary": "The birth of Dana Joudeh\u2019s daughter in Israeli custody has renewed scrutiny of the treatment of pregnant Palestinian detainees",
+      "link": "https://www.middleeasteye.net/news/palestinian-prisoners-birth-israeli-jail-raises-fears-pregnant-detainees",
+      "published_at": "2026-09-18T07:15:00Z",
+      "ai_summary": "A Palestinian prisoner gave birth in Israeli custody, renewing concerns about the treatment and conditions faced by pregnant Palestinian detainees.",
+      "importance": 86,
+      "why": "This is a human-rights and detention-practices story involving a highly sensitive conflict issue. The birth in custody and the renewed scrutiny of pregnant detainees make it significant for accountability, prison conditions, and international attention."
     },
     {
       "source": "Jadaliyya",
@@ -233,50 +232,51 @@
       "summary": "One of the most significant intellectual and political developments in Iran over the past decade has been the renewed and widespread appeal of nationalist discourses among the public. Today, from reformist media outlets and social media...",
       "link": "https://www.jadaliyya.com/Details/47520/The-Fate-of-Mossadegh-in-Contemporary-Nationalism-Revisiting-a-Contest-over-Memory",
       "published_at": null,
-      "ai_summary": "The text discusses the recent resurgence of nationalist discourse in Iran and frames it through debates over the memory and legacy of Mohammad Mossadegh, highlighting how contemporary politics revisits contested historical narratives.",
-      "importance": 84,
-      "why": "It addresses a major intellectual and political trend in Iran\u2014renewed nationalism\u2014and links it to the historically significant and still-contested figure of Mossadegh, which is likely important for understanding current Iranian political memory and identity debates."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "US bans Palestinian president from speaking at the UN",
-      "summary": "US again bars Mahmoud Abbas from UN General Assembly, citing Palestinian efforts to pursue Israel at international courts and win international recognition",
-      "link": "https://www.middleeasteye.net/news/us-bans-palestinian-president-speaking-un-again-over-icc-icj-action-against-israel",
-      "published_at": "2026-09-17T12:12:00Z",
-      "ai_summary": "The US barred Palestinian President Mahmoud Abbas from speaking at the UN General Assembly, citing Palestinian efforts to pursue Israel in international courts and seek broader international recognition.",
-      "importance": 81,
-      "why": "This is a significant diplomatic move involving the UN, the US, Israel, and Palestinian leadership, with potential implications for international diplomacy and the Israeli-Palestinian conflict."
+      "ai_summary": "The text discusses the resurgence of nationalist discourse in Iran and frames Mossadegh as a central figure in contemporary struggles over memory and political identity.",
+      "importance": 82,
+      "why": "It appears to be about a major intellectual and political trend in Iran and uses Mossadegh as a key historical reference point, which makes it relevant for understanding modern Iranian nationalism and memory politics."
     },
     {
       "source": "Jadaliyya",
-      "title": "An (Alternative) Open Letter to Iran\u2019s Political Prisoners",
-      "summary": "Editors\u2019 Note: On Thursday, August 20, the Guardian newspaper published an open letter signed by leading scholars, activists, and intellectuals in North America, some of whom were previously political prisoners or remain incarcerated....",
-      "link": "https://www.jadaliyya.com/Details/47613/An-Alternative-Open-Letter-to-Iran%E2%80%99s-Political-Prisoners",
+      "title": "Railway to Dispossession: Land Grabs, Potash, and the Politics of \u201cPublic Benefit\u201d in the Jordanian Ghor",
+      "summary": "The US-Israeli war on Iran has severely constrained, as has now been widely reported, the main maritime route for the transit of fossil fuels and downstream commodities such as fertilizers through the Strait of Hormuz. As a result, Gulf...",
+      "link": "https://www.jadaliyya.com/Details/47763/Railway-to-Dispossession-Land-Grabs,-Potash,-and-the-Politics-of-%E2%80%9CPublic-Benefit%E2%80%9D-in-the-Jordanian-Ghor",
       "published_at": null,
-      "ai_summary": "An open letter from scholars, activists, and intellectuals expresses solidarity with Iran\u2019s political prisoners, condemning repression and calling attention to their imprisonment.",
+      "ai_summary": "An article examining how railway, potash, and \u201cpublic benefit\u201d infrastructure projects in the Jordanian Ghor intersect with land dispossession and geopolitical/economic pressures, framed by disruptions to fossil-fuel and fertilizer trade routes.",
       "importance": 78,
-      "why": "It addresses political repression in Iran and is notable because it is an open letter endorsed by prominent figures, reflecting broader human-rights concerns."
+      "why": "The title and excerpt suggest a substantive political-economic analysis tying local land grabs in Jordan to regional infrastructure, trade, and power dynamics. It is important for understanding dispossession, extractive development, and how 'public benefit' rhetoric can legitimize land control."
     },
     {
       "source": "Carnegie ME",
-      "title": "The Mecca Agreement Unpacked",
-      "summary": "The accord represents a pivotal moment in the region to avert a security vacuum in the Gulf.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/08/the-mecca-agreement-unpacked",
-      "date": "Aug 13, 2026",
+      "title": "The Warrior Prince",
+      "summary": "Mohammed bin Salman will weather the Khashoggi murder, his tightening grip over Saudi security explains why.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2018/10/the-warrior-prince",
+      "date": "Oct 24, 2018",
       "published_at": null,
-      "ai_summary": "The Mecca Agreement is described as a key regional accord aimed at preventing a security vacuum in the Gulf.",
-      "importance": 73,
-      "why": "It is framed as a pivotal moment with implications for regional security and stability, especially in the Gulf."
+      "ai_summary": "The text argues that Mohammed bin Salman is likely to survive political fallout from the Khashoggi murder because his stronger control over Saudi security makes him resilient.",
+      "importance": 79,
+      "why": "It concerns a major geopolitical figure and a significant event, the Khashoggi murder, and offers an interpretation of Saudi power dynamics and regime stability."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "Moscow Time?",
+      "summary": "Russia continues to play a larger role in Lebanon as the conflict in Syria enters a new phase.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2018/10/moscow-time",
+      "date": "Sep 7, 2018",
+      "published_at": null,
+      "ai_summary": "Brief mention of Russia\u2019s growing role in Lebanon as the Syrian conflict changes phase.",
+      "importance": 43,
+      "why": "The statement signals a geopolitical development involving Russia, Lebanon, and Syria, but it is very terse and lacks concrete details, so its significance is moderate rather than major."
     },
     {
       "source": "Responsible Statecraft",
-      "title": "As US stockpiles dwindle, Trump rushes weapons to Israel, Saudi",
-      "summary": "As government watchdogs warn about dwindling U.S. stockpiles of major weapons systems, the Trump administration is moving ahead with billions of dollars in new arms sales to Saudi Arabia and Israel, adding further demand to U.S. weapons...",
-      "link": "https://responsiblestatecraft.org/trump-israel-arms-sale/",
-      "published_at": "2026-09-16T00:03:30Z",
-      "ai_summary": "Trump administration is pushing ahead with billions in arms sales to Saudi Arabia and Israel even as watchdogs warn that U.S. weapons stockpiles are running low.",
-      "importance": 84,
-      "why": "The item concerns major U.S. foreign policy and defense decisions, large-scale arms transfers to key allies, and potential impacts on U.S. military readiness due to dwindling stockpiles. It also touches on geopolitical tensions involving Israel and Saudi Arabia."
+      "title": "With Mideast on fire, oil prices are poised to explode",
+      "summary": "News reports this week indicated Saudi Arabia was cancelling or delaying multiple shipments of crude to European refiners for the month of September, pushing them into October or even November.So, after a seeming reprieve, global oil...",
+      "link": "https://responsiblestatecraft.org/oil-pipeline-saudi-arabia/",
+      "published_at": "2026-09-17T04:05:03Z",
+      "ai_summary": "The article says Middle East tensions and delayed Saudi crude shipments are likely to drive global oil prices sharply higher, reversing a recent reprieve.",
+      "importance": 85,
+      "why": "It concerns global energy markets, geopolitics, and potential inflation impacts. Oil price spikes can affect transportation, consumer prices, and broader economic stability worldwide."
     },
     {
       "source": "War on the Rocks",
@@ -284,9 +284,9 @@
       "summary": "The war against Iran is putting new strains on U.S. military readiness by consuming munitions and missile defense interceptors, as well as through extended deployments, sustained operational demands, and the diversion of forces and...",
       "link": "https://warontherocks.com/a-body-blow-the-war-on-iran-and-u-s-military-readiness/",
       "published_at": "2026-09-17T17:14:36Z",
-      "ai_summary": "The war against Iran is straining U.S. military readiness by consuming munitions and missile defense interceptors, extending deployments, increasing operational demands, and diverting forces and resources.",
-      "importance": 80,
-      "why": "It highlights a significant national security issue: ongoing conflict affecting U.S. military capacity, readiness, and stockpiles, which has broad strategic implications."
+      "ai_summary": "The article says the war against Iran is straining U.S. military readiness by using up munitions and missile defense interceptors, extending deployments, and diverting forces and resources.",
+      "importance": 81,
+      "why": "It concerns major U.S. military readiness and resource strain from a conflict with Iran, which has broad strategic and security implications."
     }
   ]
 }
