@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-10-13T02:47:37.391854Z",
-  "top_story": "The Houthi strike on Riyadh airport on 10 October, followed by another hit on 11 October, marks a sharp escalation in Yemen\u2019s war as the group demonstrated an ability to sustain attacks on Saudi civilian infrastructure, killing 13 people and injuring more than 300. That escalation now intersects more openly with the wider Iran confrontation after London judged a plot targeting a British airbase used by US forces was almost certainly directed by the Revolutionary Guards, tightening the link between Gulf insecurity and extra-regional military risk. The same conflict environment is also driving a severe human toll beyond the battlefield, underscored by the 11 October boat disaster off Djibouti in which at least 139 migrants died while trying to reach Yemen despite its active war zone. The regional picture is one of interconnected militarisation and desperation, with proxy confrontation expanding across borders as civilians absorb the deadliest consequences.",
+  "generated_at": "2026-10-13T17:16:13.102352Z",
+  "top_story": "A deadly Houthi strike on Riyadh\u2019s airport on 11 October, followed by another hit on King Khalid airport, punctured Saudi Arabia\u2019s cultivated image of domestic security and exposed how the Yemen war can still reach the kingdom\u2019s social and economic core. The same conflict is also exacting a mass civilian toll at sea: a boat carrying 305 people toward Yemen capsized off Djibouti that day, killing at least 139 migrants, including children, and underscoring how instability continues to pull vulnerable people into lethal routes. In Gaza, Israeli soldiers\u2019 accounts published on 12-13 October describe a recent targeting shift that treated even low-level militants as worth civilian casualties and, in some cases, involved killing unarmed men later labeled terrorists. Taken together, these developments show regional wars bleeding across borders and institutions alike, deepening public insecurity while eroding the moral and political restraints that protect civilians.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "British airbase plot 'almost certainly directed' by Iran Guards: UK PM",
-      "summary": "Britain's government Monday accused Iran's Revolutionary Guards of being behind a major scare at a UK airbase used by the United States, as allies including Washington warned Tehran against hostile acts. Iran denied any involvement. UK...",
-      "link": "https://www.al-monitor.com/originals/2026/10/british-airbase-plot-almost-certainly-directed-iran-guards-uk-pm",
-      "published_at": "2026-10-12T17:30:20Z",
-      "ai_summary": "UK government accuses Iran's Revolutionary Guards of directing a plot at a British airbase used by the U.S., while Iran denies involvement.",
-      "importance": 92,
-      "why": "The story involves alleged state-backed hostile activity by Iran against a UK/US military facility, triggering diplomatic tension and security concerns among Western allies."
+      "title": "Hormuz attacks spike after US airstrike on Iran-linked tanker",
+      "summary": "Six commercial vessels were hit in just one day in the Strait of Hormuz after an American fighter jet disabled an Iran-linked tanker that military officials accused of attempting to run the US naval blockade.",
+      "link": "https://www.al-monitor.com/originals/2026/10/hormuz-attacks-spike-after-us-airstrike-iran-linked-tanker",
+      "published_at": "2026-10-13T14:30:01Z",
+      "ai_summary": "Six commercial vessels were hit in one day in the Strait of Hormuz after a U.S. fighter jet disabled an Iran-linked tanker accused of trying to run the U.S. naval blockade.",
+      "importance": 91,
+      "why": "The Strait of Hormuz is a critical global shipping chokepoint, and attacks there can rapidly disrupt energy and commercial traffic. The report also involves direct U.S.-Iran military tension, which raises the risk of broader escalation and market impact."
     },
     {
       "source": "Middle East Eye",
-      "title": "Fresh Riyadh airport strike kills one as Houthis warn airlines against using Saudi airspace",
-      "summary": "A projectile hits a passenger terminal a day after a strike killed at least 12 people and wounded more than 300",
-      "link": "https://www.middleeasteye.net/news/fresh-attack-hits-riyadh-airport-houthis-warn-airlines-against-using-saudi-airspace",
-      "published_at": "2026-10-11T19:52:00Z",
-      "ai_summary": "A projectile struck a passenger terminal at Riyadh airport, killing one person, a day after a previous strike that killed at least 12 and wounded more than 300. Houthis warned airlines against using Saudi airspace.",
-      "importance": 91,
-      "why": "This is a significant regional security incident involving strikes on critical aviation infrastructure, casualties, and explicit threats to commercial air traffic, which can affect civilian safety and broader geopolitical tensions."
+      "title": "\u2018My unit killed many unarmed men\u2019: Israeli soldiers recount Gaza war crimes",
+      "summary": "Ten soldiers describe killing unarmed Palestinians and recording the dead as \u2018terrorists\u2019 during Israel\u2019s Gaza genocide",
+      "link": "https://www.middleeasteye.net/news/my-unit-killed-many-unarmed-men-israeli-soldiers-recount-gaza-war-crimes",
+      "published_at": "2026-10-13T16:57:00Z",
+      "ai_summary": "The title and subtitle claim Israeli soldiers described killing unarmed Palestinians in Gaza and falsely labeling the dead as terrorists.",
+      "importance": 96,
+      "why": "This appears to describe serious allegations of war crimes and misconduct during an ongoing conflict, making it highly consequential for human rights, international law, and geopolitical reporting."
     },
     {
       "source": "Al Jazeera",
-      "title": "Why are the Houthis striking Saudi airports?",
-      "summary": "The attacks mark the deadliest assault on Saudi soil in more than a decade.",
-      "link": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports",
-      "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "The attacks on Saudi airports are described as a major escalation, and the text says they are the deadliest assault on Saudi soil in more than a decade.",
-      "importance": 89,
-      "why": "It highlights a significant and deadly attack on Saudi Arabia, indicating major regional security implications and high news relevance."
+      "title": "UK spy chief says Iran is stepping up targeting of military bases",
+      "summary": "MI5 chief says 50 arrests were made in past year to disrupt Iran-led operations.",
+      "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases",
+      "published_at": "2026-10-13T00:00:00Z",
+      "ai_summary": "MI5 says Iran has increased targeting of military bases, with 50 arrests made in the past year to disrupt Iran-linked operations.",
+      "importance": 83,
+      "why": "This is a significant national security and international relations development: it involves alleged foreign state-directed activity, military targets, and a substantial number of arrests, indicating an active threat and ongoing counterintelligence response."
     },
     {
       "source": "Guardian",
@@ -38,9 +38,9 @@
       "summary": "Eighty-four others still missing from vessel heading to Yemen with 305 people onboard, UN migration agency saysAt least 139 people, including 15 children, have died after a boat carrying 305 migrants capsized off the coast of Djibouti, the...",
       "link": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti",
       "published_at": "2026-10-11T13:56:47Z",
-      "ai_summary": "A migrant boat carrying 305 people capsized off Djibouti while en route to Yemen, killing at least 139 people, including 15 children, with 84 still missing.",
+      "ai_summary": "A migrant boat carrying 305 people capsized off the coast of Djibouti while heading to Yemen, killing at least 139 people, including 15 children, with 84 still missing.",
       "importance": 98,
-      "why": "This is a major humanitarian tragedy involving a very high death toll, missing children, and a large number of people still unaccounted for. It also highlights an ongoing migration crisis on a dangerous route."
+      "why": "This is a major humanitarian tragedy involving a high death toll, children among the victims, and many still missing, making it highly urgent and newsworthy."
     },
     {
       "source": "Haaretz",
@@ -48,153 +48,183 @@
       "summary": "https://www.haaretz.com/israel-news/israel-security/2026-10-12/ty-article/ten-wounded-after-unexploded-shell-detonates-near-israels-border-with-lebanon/000001a1-3004-d119-a5b3-f18598390000",
       "link": "https://www.haaretz.com/israel-news/israel-security/2026-10-12/ty-article/ten-wounded-after-unexploded-shell-detonates-near-israels-border-with-lebanon/000001a1-3004-d119-a5b3-f18598390000",
       "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "An unexploded shell detonated near Israel\u2019s border with Lebanon, killing an Israeli teenager and injuring 24 others.",
-      "importance": 89,
-      "why": "This is a significant cross-border security incident with a fatality and multiple injuries near a sensitive frontier, making it relevant for public safety, regional tensions, and ongoing conflict monitoring."
+      "ai_summary": "An unexploded shell detonated near Israel\u2019s border with Lebanon, killing one Israeli teenager and injuring 24 others.",
+      "importance": 86,
+      "why": "This is a deadly cross-border security incident near a sensitive frontier, involving a fatality and multiple injuries. It has implications for public safety, military readiness, and regional tensions with Lebanon."
     },
     {
       "source": "Al Monitor",
-      "title": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident",
-      "summary": "By Michael HoldenLONDON, Oct 12 (Reuters) - British Prime Minister Andy Burnham said on Monday that a suspected plot targeting the RAF Fairford air base in Britain was \"highly likely\" to have been coordinated in Iran, and almost certainly...",
-      "link": "https://www.al-monitor.com/originals/2026/10/uk-pm-burnham-says-irans-irgc-likely-behind-raf-fairford-incident",
-      "published_at": "2026-10-12T15:46:28Z",
-      "ai_summary": "UK Prime Minister Andy Burnham said a suspected plot targeting RAF Fairford was highly likely to have been coordinated in Iran, and almost certainly involved Iran\u2019s Islamic Revolutionary Guard Corps (IRGC).",
-      "importance": 87,
-      "why": "The item concerns a national security incident involving a British military air base and alleged Iranian state-linked involvement, which has diplomatic and security implications."
+      "title": "In Yemen's Taiz, shelling worsens and prices spiral",
+      "summary": "Oct 13 (Reuters) - With their city encircled by Houthi fighters, residents of Taiz say they face intensifying bombardment and dwindling supplies as the Iran-aligned group tightens its grip on surrounding areas.Taiz, Yemen's third-largest...",
+      "link": "https://www.al-monitor.com/originals/2026/10/yemens-taiz-shelling-worsens-and-prices-spiral",
+      "published_at": "2026-10-13T16:46:32Z",
+      "ai_summary": "Residents of Taiz, Yemen say shelling has intensified as Houthi forces tighten their siege, worsening shortages and driving up prices of basic goods.",
+      "importance": 86,
+      "why": "This is a significant conflict and humanitarian update from Yemen\u2019s third-largest city, indicating escalating violence, worsening civilian conditions, and likely broader regional relevance."
     },
     {
       "source": "Middle East Eye",
-      "title": "Europe's leaders are preparing for war. Workers are organising to stop it",
-      "summary": "Preparations for war with Russia and complicity in Israel's genocide in Gaza have set off a struggle over jobs, wages and military production",
-      "link": "https://www.middleeasteye.net/opinion/europes-leaders-are-preparing-war-workers-are-organising-stop-it",
-      "published_at": "2026-10-10T16:39:00Z",
-      "ai_summary": "The text argues that European leaders are gearing up for war with Russia and supporting Israel\u2019s war in Gaza, which is triggering worker organizing around jobs, wages, and the direction of military production.",
-      "importance": 87,
-      "why": "It connects major geopolitical conflict to labor politics and industrial strategy in Europe, suggesting broad social and economic consequences rather than a narrow policy issue."
+      "title": "Riyadh rocked by explosions as Iranian strikes in Hormuz rise",
+      "summary": "Iran said it could attack US tech companies' assets in the Gulf, as their allies, the Houthis, claim fresh attacks",
+      "link": "https://www.middleeasteye.net/news/riyadh-rocked-explosions-iranian-strikes-hormuz-rise",
+      "published_at": "2026-10-12T21:47:00Z",
+      "ai_summary": "Iran warned it could target U.S. tech company assets in the Gulf after reported Iranian strikes in the Hormuz area and fresh Houthi attacks claims.",
+      "importance": 81,
+      "why": "This is geopolitically significant because it suggests escalation involving Iran, the Gulf, and U.S. commercial interests, with potential implications for regional security, shipping, and markets."
     },
     {
       "source": "Al Jazeera",
-      "title": "Northern Israel explosion kills at least 1 person, injures 19",
-      "summary": "The blast occurred in northern Israel near the Lebanese border and is under investigation.",
-      "link": "https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured",
-      "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "An explosion in northern Israel near the Lebanese border killed at least one person and injured 19 others; the cause is under investigation.",
+      "title": "Deadly Houthi attacks in Yemen\u2019s Taiz as government forces advance in Marib",
+      "summary": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
+      "link": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib",
+      "published_at": "2026-10-13T00:00:00Z",
+      "ai_summary": "Intense clashes in Yemen as Houthi shelling hits residential areas and hospitals in Taiz while government forces continue advancing in Marib.",
       "importance": 83,
-      "why": "The incident involves loss of life, multiple injuries, and occurred in a tense border area near Lebanon, making it potentially significant for regional security and public safety."
+      "why": "The report describes ongoing armed conflict with civilian infrastructure targeted, indicating high humanitarian and security significance. It also mentions simultaneous government gains in Marib, which could affect the broader course of the war."
     },
     {
       "source": "Guardian",
-      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-      "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebelsThe latest attack on the international airport in Saudi Arabia\u2019s capital of Riyadh killed 12 people and injured more than 300 others, civil...",
-      "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "published_at": "2026-10-10T23:37:27Z",
-      "ai_summary": "A Houthi attack on Riyadh\u2019s international airport killed 12 people and injured more than 300, prompting discussion of possible US involvement alongside Saudi strikes against the Iran-backed Yemeni rebels.",
+      "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+      "summary": "Unidentified projectile strikes King Khalid airport, killing one and injuring 11, as escalating attacks threaten to draw more countries into Yemen conflictAnalysis: attack will force rethink of Trump strategyA projectile hit a passenger...",
+      "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "published_at": "2026-10-11T22:28:50Z",
+      "ai_summary": "A projectile struck King Khalid airport in Riyadh after a deadly Houthi missile attack, killing one person and injuring 11, raising fears the Yemen conflict could widen.",
       "importance": 92,
-      "why": "The event involves mass casualties at a major international airport, has regional geopolitical implications, and could affect US-Saudi-Iran relations and military policy."
+      "why": "This is a major regional security incident involving attacks on a key civilian airport, casualties, and escalating cross-border conflict that could draw in more countries and affect international stability."
     },
     {
       "source": "Haaretz",
-      "title": "'Even the Lowest-Ranking Target Justified Civilian Casualties': Israeli Intelligence Soldiers Detail Gaza Policy Shift",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-10-12/ty-article-magazine/.premium/even-the-lowest-ranking-target-justified-civilian-casualties-israeli-intel-soldiers-describe-shift-in-targeting-policy-in-gaza/000001a1-2ab9-d02f-a5bb-6fff7e540000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-10-12/ty-article-magazine/.premium/even-the-lowest-ranking-target-justified-civilian-casualties-israeli-intel-soldiers-describe-shift-in-targeting-policy-in-gaza/000001a1-2ab9-d02f-a5bb-6fff7e540000",
+      "title": "'Gaza's Christians Are Tired. They Want to Leave': A Palestinian Bishop on Survival, Settlers and Reconciliation",
+      "summary": "https://www.haaretz.com/israel-news/2026-10-12/ty-article-magazine/.premium/a-palestinian-bishop-on-survival-settlers-and-reconciliation/000001a1-2f3c-dbf1-a1f3-fffe067e0000",
+      "link": "https://www.haaretz.com/israel-news/2026-10-12/ty-article-magazine/.premium/a-palestinian-bishop-on-survival-settlers-and-reconciliation/000001a1-2f3c-dbf1-a1f3-fffe067e0000",
       "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "Haaretz reports testimony from Israeli intelligence soldiers describing a shift in Gaza targeting policy that allegedly accepted civilian casualties even for low-ranking targets, raising questions about rules of engagement and proportionality.",
-      "importance": 88,
-      "why": "This appears to concern potentially significant changes in military targeting policy during the Gaza conflict, with direct implications for civilian harm, legal/ethical accountability, and broader regional and international scrutiny. The report is likely newsworthy because it alleges internal military practice rather than external speculation."
+      "ai_summary": "An interview with a Palestinian bishop about the strain on Gaza\u2019s Christian community, survival under conflict, the pressures of settlers and occupation, and hopes for reconciliation amid growing desire to leave.",
+      "importance": 72,
+      "why": "It highlights a vulnerable minority\u2019s situation in Gaza, touches on the broader Israeli-Palestinian conflict, and includes themes of displacement, coexistence, and long-term regional implications."
     },
     {
       "source": "Al Monitor",
-      "title": "Houthi official warns of 'swift, painful response' if US enters Yemen war",
-      "summary": "A Houthi official on Monday warned the US it would receive a \"painful response\" if it entered the war in Yemen, where Saudi Arabia has reportedly requested Washington's help in dealing with the group as it weathers repeated attacks....",
-      "link": "https://www.al-monitor.com/originals/2026/10/houthi-official-warns-swift-painful-response-if-us-enters-yemen-war",
-      "published_at": "2026-10-12T14:30:22Z",
-      "ai_summary": "A Houthi official warned the United States of a swift, painful response if it intervenes in the Yemen conflict, amid reports that Saudi Arabia has sought U.S. help against the group.",
-      "importance": 84,
-      "why": "This is geopolitically significant because it involves the risk of U.S. military involvement in the Yemen war, tensions with Saudi Arabia, and a potential escalation affecting regional security and international shipping."
+      "title": "'Holding our ground': Israel demolishes dozens of Bedouin homes",
+      "summary": "Under an overcast sky in southern Israel, Bedouin villagers wandered through the rubble of what used to be their homes, the latest to be demolished after being deemed illegal structures by Israeli authorities. The residents of Al-Dahiya in...",
+      "link": "https://www.al-monitor.com/originals/2026/10/holding-our-ground-israel-demolishes-dozens-bedouin-homes",
+      "published_at": "2026-10-13T14:30:35Z",
+      "ai_summary": "Israeli authorities demolished dozens of Bedouin homes in southern Israel, leaving villagers in Al-Dahiya amid the rubble of what they say are long-standing homes; the article frames the event as part of ongoing tensions over so-called illegal structures.",
+      "importance": 86,
+      "why": "This is a significant human-rights and domestic policy story involving displacement of an Arab minority, land-use enforcement, and broader Israeli-Palestinian tensions. It likely has implications for community stability, legal disputes over housing and planning, and international attention."
     },
     {
       "source": "Middle East Eye",
-      "title": "Former US official says Israeli demands made Gaza deal 'impossible for another six months'",
-      "summary": "The former national security adviser to Kamala Harris says nearly 9,000 Palestinians were killed during the delay",
-      "link": "https://www.middleeasteye.net/news/former-us-official-says-israeli-demands-made-gaza-deal-impossible-another-six-months",
-      "published_at": "2026-10-11T11:27:00Z",
-      "ai_summary": "A former U.S. national security adviser said Israeli demands made a Gaza deal impossible for another six months, and claimed nearly 9,000 Palestinians were killed during the delay.",
-      "importance": 85,
-      "why": "This is a high-impact geopolitical claim involving the Gaza conflict, U.S. politics, and allegations about the consequences of delayed negotiations. It is newsworthy because it suggests that specific negotiating positions may have prolonged the war and increased civilian deaths."
+      "title": "War in the Middle East is deepening global inequality, IMF says",
+      "summary": "International Monetary Fund also points to destabilising impact of AI, as economic leaders meet in Bangkok",
+      "link": "https://www.middleeasteye.net/news/war-middle-east-deepening-global-inequality-imf-says",
+      "published_at": "2026-10-13T12:24:00Z",
+      "ai_summary": "The IMF says the war in the Middle East is worsening global inequality, alongside warnings about AI\u2019s destabilising economic effects as global leaders meet in Bangkok.",
+      "importance": 81,
+      "why": "This is a high-level economic and geopolitical claim from the IMF tied to current global policy discussions. It matters because it links a major conflict and AI-driven disruption to worldwide inequality and stability."
     }
   ],
   "regional_analysis": [
     {
+      "source": "Al Jazeera",
+      "title": "Houthis threaten Saudi Arabia\u2019s Aramco facilities and airports",
+      "summary": "Explosions in Sanaa reported shortly after Saudi-led coalition\u2019s evacuation order as Houthis promise \u2018harsh\u2019 response.",
+      "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports",
+      "published_at": "2026-10-13T00:00:00Z",
+      "ai_summary": "Houthis threatened Saudi Aramco facilities and airports after explosions were reported in Sanaa and a Saudi-led coalition evacuation order was issued.",
+      "importance": 83,
+      "why": "This involves a direct threat to critical Saudi energy infrastructure and airports, which could affect regional security, oil markets, and civilian safety."
+    },
+    {
       "source": "Al Monitor",
-      "title": "Ahead of Israel vote, desert town becomes frontline against ultra-Orthodox expansion",
-      "summary": "Noam Cohen was driving to a bar on a Saturday two years ago with his wife and friends in his hometown of Arad, in southern Israel, when a group of ultra-Orthodox Jewish boys began shouting at passing cars. The drivers were guilty of...",
-      "link": "https://www.al-monitor.com/originals/2026/10/ahead-israel-vote-desert-town-becomes-frontline-against-ultra-orthodox-expansion",
-      "published_at": "2026-10-13T02:30:32Z",
-      "ai_summary": "Ahead of a national vote, Arad in southern Israel has become a battleground over the perceived expansion of ultra-Orthodox influence, with residents reacting against increasing tensions and attempts to change the town\u2019s character.",
+      "title": "Palestinian officials say Israeli army wounds two in Ramallah raid",
+      "summary": "Israeli army fire wounded two Palestinians on Tuesday during a raid in the city of Ramallah in the occupied West Bank, according to the Palestinian health ministry. A hospital in the city received \"a young man with a serious gunshot wound...",
+      "link": "https://www.al-monitor.com/originals/2026/10/palestinian-officials-say-israeli-army-wounds-two-ramallah-raid",
+      "published_at": "2026-10-13T16:30:28Z",
+      "ai_summary": "Israeli army fire wounded two Palestinians during a raid in Ramallah in the occupied West Bank, according to Palestinian officials.",
       "importance": 81,
-      "why": "This is a politically and socially significant local conflict in Israel that touches on religion, demographics, and national elections. It may be important to readers tracking Israeli domestic politics, ultra-Orthodox secular tensions, and regional social unrest."
+      "why": "The event involves a military raid and injuries in a major West Bank city, making it significant for ongoing Israeli-Palestinian tensions and potential escalation."
     },
     {
-      "source": "Haaretz",
-      "title": "Israel's War on Nobel Laureate Navi Pillay Is a War on International Law Itself",
-      "summary": "https://www.haaretz.com/israel-news/2026-10-12/ty-article/israels-war-on-nobel-laureate-navi-pillay-is-a-war-on-international-law-itself/000001a1-2efd-d1f4-abf5-7eff3cd40000",
-      "link": "https://www.haaretz.com/israel-news/2026-10-12/ty-article/israels-war-on-nobel-laureate-navi-pillay-is-a-war-on-international-law-itself/000001a1-2efd-d1f4-abf5-7eff3cd40000",
-      "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "The article argues that Israel\u2019s criticism and attacks on Nobel laureate Navi Pillay are not just about one person, but represent an assault on international law and the institutions that enforce it.",
-      "importance": 72,
-      "why": "This is important because it frames a current Israel-related controversy as a broader challenge to international legal norms, human rights accountability, and global institutions. It is especially relevant for readers tracking the Gaza/Israel conflict, UN/legal investigations, and debates over war crimes and legitimacy of international law."
+      "source": "Al Monitor",
+      "title": "Factbox-MI5 chief lists Iran, Russia, AI and terrorists among threats to UK",
+      "summary": "LONDON, Oct 13 (Reuters) - MI5 spy chief Ken McCallum delivered his annual speech on Tuesday outlining his view of the threats to Britain, from hostile states such as Iran and Russia to the development of artificial intelligence.Here is a...",
+      "link": "https://www.al-monitor.com/originals/2026/10/factbox-mi5-chief-lists-iran-russia-ai-and-terrorists-among-threats-uk",
+      "published_at": "2026-10-13T15:46:37Z",
+      "ai_summary": "MI5 chief Ken McCallum said Britain faces major threats from hostile states including Iran and Russia, as well as risks from artificial intelligence and terrorists.",
+      "importance": 81,
+      "why": "This is a Reuters factbox on national security threats highlighted by the UK\u2019s domestic intelligence chief, making it moderately important for policy, security, and geopolitics audiences."
     },
     {
-      "source": "Al Jazeera",
-      "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
-      "summary": "Yemen\u2019s Southern Giants Brigades have emerged as one of the leading forces against the Houthis.",
-      "link": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis",
-      "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "The Southern Giants Brigades have emerged as a leading anti-Houthi force in southern Yemen.",
-      "importance": 65,
-      "why": "This is a notable development in Yemen\u2019s conflict because it identifies an important military faction playing a leading role against the Houthis, which can affect battlefield dynamics and regional security."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Eisenkot's Election Gamble: Why He Wants Smaller Parties Out of Knesset",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-10-12/ty-article/.premium/why-eisenkot-is-fighting-to-keep-smaller-parties-out-of-the-next-knesset/000001a1-2cb9-d7a5-a7b1-befba3ad0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-10-12/ty-article/.premium/why-eisenkot-is-fighting-to-keep-smaller-parties-out-of-the-next-knesset/000001a1-2cb9-d7a5-a7b1-befba3ad0000",
-      "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "Eisenkot is arguing for electoral changes that would push smaller parties out of the Knesset, likely to reduce fragmentation and make coalition-building easier.",
-      "importance": 63,
-      "why": "This is relevant Israeli election coverage about potential changes to the party system and coalition dynamics. It matters for understanding strategy among major political actors, but it is one article about an internal election debate rather than a major breaking national event."
+      "source": "Al Monitor",
+      "title": "Jeddah airport flights disrupted as Houthis escalate threats",
+      "summary": "Saudi Arabia\u2019s busiest airport, Jeddah King Abdulaziz International Airport, saw widespread flight cancellations and delays on Tuesday.",
+      "link": "https://www.al-monitor.com/originals/2026/10/jeddah-airport-flights-disrupted-houthis-escalate-threats",
+      "published_at": "2026-10-13T15:14:39Z",
+      "ai_summary": "Flights at Jeddah King Abdulaziz International Airport were widely canceled and delayed as Houthi threats escalated.",
+      "importance": 81,
+      "why": "This affects a major regional airport and likely disrupts many travelers and airline operations, with potential broader implications for Saudi aviation security and regional tensions."
     },
     {
       "source": "Al Jazeera",
-      "title": "Israeli academic and Al Jazeera contributor Ori Goldberg dies at 50",
-      "summary": "Goldberg was a regular Al Jazeera contributor and died after a long battle with colon cancer, his family said.",
-      "link": "https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50",
-      "published_at": "2026-10-12T00:00:00Z",
-      "ai_summary": "Israeli academic and regular Al Jazeera contributor Ori Goldberg has died at 50 after a long battle with colon cancer, according to his family.",
-      "importance": 63,
-      "why": "This is a notable obituary for a public-facing academic and media contributor, but it is primarily of niche relevance rather than broad global significance."
+      "title": "Yemeni families\u2019 search for missing loved ones hindered by new fighting",
+      "summary": "Hundreds of people have gone missing in Yemen, with families not knowing whether they were killed in fighting or detained.",
+      "link": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting",
+      "published_at": "2026-10-13T00:00:00Z",
+      "ai_summary": "Families in Yemen are struggling to find missing loved ones, as renewed fighting makes it harder to determine whether they were killed or detained.",
+      "importance": 77,
+      "why": "The issue affects hundreds of people and reflects the human cost of ongoing conflict, making it a significant humanitarian concern."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The escalation in Yemen is a turning point",
+      "summary": "The risk of a region-wide war is increasing, but if cooler heads prevail, a peaceful arrangement can still be reached.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point",
+      "published_at": "2026-10-13T00:00:00Z",
+      "ai_summary": "The article says the escalation in Yemen raises the risk of a wider regional war, but a peaceful settlement is still possible if tensions are managed carefully.",
+      "importance": 75,
+      "why": "It concerns a major regional conflict with potential spillover effects across the Middle East, making it highly relevant for security and foreign policy."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Hezbollah Unveils Aid Plan for Lebanese Civilians Displaced During War",
+      "summary": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-10-13/ty-article/hezbollah-unveils-aid-plan-for-lebanese-civilians-displaced-during-war/000001a1-34e8-d259-a3fd-fee97b9c0000",
+      "link": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-10-13/ty-article/hezbollah-unveils-aid-plan-for-lebanese-civilians-displaced-during-war/000001a1-34e8-d259-a3fd-fee97b9c0000",
+      "published_at": "2026-10-13T00:00:00Z",
+      "ai_summary": "Hezbollah announced an aid plan for Lebanese civilians displaced during the war, signaling efforts to support affected communities and maintain local influence.",
+      "importance": 62,
+      "why": "The item is relevant because it concerns post-war humanitarian assistance and Hezbollah\u2019s role in Lebanon, which has political, security, and civilian implications. However, based on the headline alone, it appears more like a regional news update than a globally significant breaking event."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Poll: Eisenkot Bloc Holds at 54 Seats as Hard-Line Ex-General's Party Falls Short",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-10-13/ty-article/poll-eisenkot-bloc-holds-at-54-seats-hard-line-ex-generals-party-falls-short/000001a1-346a-d36f-a9fd-75ead18b0000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-10-13/ty-article/poll-eisenkot-bloc-holds-at-54-seats-hard-line-ex-generals-party-falls-short/000001a1-346a-d36f-a9fd-75ead18b0000",
+      "published_at": "2026-10-13T00:00:00Z",
+      "ai_summary": "Poll reports that the Eisenkot bloc remains at 54 seats, while the hard-line ex-general\u2019s party fails to meet expectations.",
+      "importance": 52,
+      "why": "This is politically relevant because it reflects shifting seat projections in Israel\u2019s election landscape, but it is still only a poll and not a final result."
     }
   ],
   "deep_analysis": [
     {
       "source": "Middle East Eye",
-      "title": "Gaza: \u2018She survived the bombing, but not the blockade\u2019",
-      "summary": "A year into Gaza\u2019s ceasefire, Palestinians continue to die from preventable illnesses, denied medical care and a lack of safe shelter under Israel\u2019s ongoing blockade",
-      "link": "https://www.middleeasteye.net/news/she-survived-bombing-not-blockade",
-      "published_at": "2026-10-12T11:46:00Z",
-      "ai_summary": "A Gaza report highlights that despite a ceasefire, Palestinians continue dying from preventable illnesses and lack of medical care and safe shelter due to the ongoing blockade.",
+      "title": "Why Hamas believed the status quo was more dangerous than its 7 October gamble",
+      "summary": "Three years into Israel's genocide in Gaza, the consequences of a decision driven by siege, settlement expansion and assaults on Al-Aqsa are still unfolding",
+      "link": "https://www.middleeasteye.net/opinion/why-hamas-believed-status-quo-was-more-dangerous-its-7-october-gamble",
+      "published_at": "2026-10-07T16:28:00Z",
+      "ai_summary": "The title argues that Hamas saw the existing conditions in Gaza\u2014marked by siege, settlement expansion, and attacks on Al-Aqsa\u2014as so dangerous that it chose to launch the 7 October attack despite the huge risks, and it says the consequences are still unfolding.",
       "importance": 85,
-      "why": "The text describes an ongoing humanitarian crisis affecting civilians in Gaza, including preventable deaths and denial of medical care, making it highly significant for understanding current conditions and human rights concerns."
+      "why": "This is important because it frames a major regional conflict through the strategic calculations behind Hamas\u2019s decision, which helps explain ongoing violence and its wider political consequences."
     },
     {
       "source": "Middle East Eye",
-      "title": "Israeli press review: Anti-Palestinian racist incidents spike across Israel",
-      "summary": "Media reports detail attacks on Palestinian football fans and a Druze woman, alongside a lawmaker\u2019s call to bar Palestinian teachers from Jewish schools",
-      "link": "https://www.middleeasteye.net/news/anti-palestinian-racist-incidents-reported-across-israel-press-review",
-      "published_at": "2026-10-12T16:35:00Z",
-      "ai_summary": "Israeli media reports a rise in anti-Palestinian racist incidents, including attacks on Palestinian football fans and a Druze woman, plus a lawmaker\u2019s proposal to bar Palestinian teachers from Jewish schools.",
+      "title": "British man in Israeli army posed in front of burning Gaza school, new film reveals",
+      "summary": "Jonathan Burman went to school in Manchester before joining Israeli army and serving in Gaza, Declassified UK finds",
+      "link": "https://www.middleeasteye.net/news/british-man-posed-front-burning-gaza-school",
+      "published_at": "2026-10-13T14:15:00Z",
+      "ai_summary": "A report says Jonathan Burman, a British man educated in Manchester, served in the Israeli army in Gaza and was pictured in front of a burning Gaza school.",
       "importance": 81,
-      "why": "The item highlights multiple racist incidents and a discriminatory political proposal, indicating a broader rise in anti-Palestinian hostility with social and political implications."
+      "why": "The item concerns a potentially controversial allegation about a foreign national serving in the Israeli military during the Gaza conflict, with a visual claim tied to a burning school. It is newsworthy because it involves the Israel-Gaza war, possible propaganda or misconduct implications, and a public figure/subject linked to the UK."
     },
     {
       "source": "Jadaliyya",
@@ -202,19 +232,29 @@
       "summary": "The US-Israeli war on Iran has severely constrained, as has now been widely reported, the main maritime route for the transit of fossil fuels and downstream commodities such as fertilizers through the Strait of Hormuz. As a result, Gulf...",
       "link": "https://www.jadaliyya.com/Details/47763/Railway-to-Dispossession-Land-Grabs,-Potash,-and-the-Politics-of-%E2%80%9CPublic-Benefit%E2%80%9D-in-the-Jordanian-Ghor",
       "published_at": null,
-      "ai_summary": "An article about how a proposed railway and related potash/fertilizer infrastructure in Jordan\u2019s Ghor region may facilitate land dispossession, while being justified under the rhetoric of \u201cpublic benefit.\u201d",
+      "ai_summary": "The article appears to analyze how a proposed railway and related potash/fertilizer infrastructure in the Jordanian Ghor are framed as serving the public interest while enabling land dispossession and resource extraction, especially in the context of regional geopolitical disruptions to trade routes.",
       "importance": 78,
-      "why": "It appears to analyze a politically significant infrastructure and land-rights issue tied to regional trade, resource extraction, and state power, with implications for Palestinian/Jordanian agrarian communities and broader Middle East political economy."
+      "why": "The topic is politically and economically significant because it links infrastructure, land rights, extractive industry, and state discourse about 'public benefit' in Jordan, with broader implications for regional supply chains and geopolitical conflict. The headline and opening suggest a critical analysis of how war-related trade disruptions may reshape investment and power over land and commodities."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Israeli press review: Anti-Palestinian racist incidents spike across Israel",
+      "summary": "Media reports detail attacks on Palestinian football fans and a Druze woman, alongside a lawmaker\u2019s call to bar Palestinian teachers from Jewish schools",
+      "link": "https://www.middleeasteye.net/news/anti-palestinian-racist-incidents-reported-across-israel-press-review",
+      "published_at": "2026-10-12T16:35:00Z",
+      "ai_summary": "Israeli media reported a rise in anti-Palestinian racist incidents, including attacks on Palestinian football fans and a Druze woman, plus a lawmaker's proposal to bar Palestinian teachers from Jewish schools.",
+      "importance": 77,
+      "why": "The item highlights a broader spike in ethnic/racial hostility and includes both public attacks and discriminatory policy proposals, making it socially and politically significant."
     },
     {
       "source": "Jadaliyya",
-      "title": "Launching 'Israel\u2019s Zombie Economy:' A Five Part Interview Series",
-      "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
-      "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
+      "title": "In Defense of Academic Freedom: The Circus of Academic Complicity Part 1 (15 October)",
+      "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
+      "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
       "published_at": null,
-      "ai_summary": "Announcement of a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, focused on Israel\u2019s political economy.",
-      "importance": 63,
-      "why": "It is a media announcement about a specialized political-economic interview series. The topic is regionally and politically significant, but the text is promotional rather than reporting a major event or policy change."
+      "ai_summary": "An event announcement for a talk titled 'In Defense of Academic Freedom: The Circus of Academic Complicity Part 1' on 15 October, organized by regional faculty groups and cosponsored by academic freedom and justice-in-Palestine organizations.",
+      "importance": 68,
+      "why": "This appears to be a public academic/political event about academic freedom and Gaza, with multiple scholarly advocacy organizations involved. It is relevant for tracking campus activism, academic freedom discussions, and Palestine-related events, but it is more of a notice than a major standalone development."
     },
     {
       "source": "Jadaliyya",
@@ -222,31 +262,31 @@
       "summary": "The War on Iran SeriesOrganized by Jadaliyya and Security in Context   Sina Toossi addresses essential developments and junctures over the last seven months in the war on Iran. He examines some of the contextual topics that have been...",
       "link": "https://www.jadaliyya.com/Details/47910/The-War-on-Iran-Seven-Months-On-with-Sina-Toossi-2-October",
       "published_at": null,
-      "ai_summary": "An event in Jadaliyya\u2019s and Security in Context\u2019s \u201cWar on Iran\u201d series, featuring Sina Toossi discussing key developments and turning points over the past seven months in the war on Iran.",
+      "ai_summary": "A Jadaliyya and Security in Context event featuring Sina Toossi discussing key developments and turning points in the first seven months of the war on Iran.",
       "importance": 48,
-      "why": "It appears to be an informational event announcement/commentary rather than a major news report. It is relevant for understanding the Iran conflict, but the excerpt is brief and does not indicate breaking or highly consequential new developments."
+      "why": "It appears to be an analytical talk or panel in a broader series, useful for context and political analysis, but the provided text is brief and does not indicate major new factual revelations."
     },
     {
       "source": "Carnegie ME",
-      "title": "A Celebration or Funeral in Iraq?",
-      "summary": "As the U.S.-led Coalition withdraws, the Kurds\u2019 reliance on Baghdad, and on themselves, will only increase.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/a-celebration-or-funeral-in-iraq",
-      "date": "Oct 2, 2026",
+      "title": "Three Ruptures and the End of Pax Americana in the Middle East",
+      "summary": "As the U.S. stumbles in its war with Iran, we are likely to see an acceleration of its disengagement from the region.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/09/three-ruptures-and-pax-americana",
+      "date": "Sep 22, 2026",
       "published_at": null,
-      "ai_summary": "The piece discusses how the U.S.-led Coalition's withdrawal from Iraq will increase the Kurdish region's dependence on Baghdad and on Kurdish self-reliance.",
-      "importance": 73,
-      "why": "It concerns the shifting balance of power and security in Iraq after coalition withdrawal, especially for the Kurdish region, which has broader implications for Iraqi stability and regional politics."
+      "ai_summary": "The U.S. struggle in a conflict with Iran is likely to speed up its withdrawal from the Middle East and mark the decline of Pax Americana there.",
+      "importance": 83,
+      "why": "The title and text point to a major geopolitical shift: the erosion of U.S. dominance in the Middle East. This has broad implications for regional security, alliances, and global politics, making it highly important."
     },
     {
       "source": "Carnegie ME",
-      "title": "The Israel Lobby, U.S. Foreign Policy, and Domestic Liberties",
-      "summary": "In an interview, Ian Lustick and Eli Clifton discuss their new book on why a prominent ally has so much influence in America.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/09/how-israel-distorts-us-foreign-policy-and-domestic-liberties",
-      "date": "Sep 28, 2026",
+      "title": "Filling the Void as Syria\u2019s Transitional Justice Stalls",
+      "summary": "Reconciliation councils are emerging throughout the country to mediate in intracommunal disputes, many from the war years.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
+      "date": "Oct 9, 2026",
       "published_at": null,
-      "ai_summary": "An interview with Ian Lustick and Eli Clifton about their book examining why Israel has such significant influence over U.S. foreign policy and domestic liberties.",
+      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those rooted in wartime conflict, as formal transitional justice efforts stall.",
       "importance": 73,
-      "why": "The topic is politically significant because it addresses U.S.-Israel relations, foreign policy influence, and domestic civil liberties, all of which are highly consequential public issues."
+      "why": "The item highlights an important governance and post-conflict justice development in Syria: local reconciliation councils are filling a gap left by stalled transitional justice processes. This has significance for conflict resolution, social stability, and the country\u2019s broader transition, though it is a relatively brief update rather than a major policy shift."
     },
     {
       "source": "War on the Rocks",
@@ -254,19 +294,29 @@
       "summary": "As violence by Israeli settlers against Palestinians in the West Bank has escalated, often with the acquiescence or support of Israel&#8217;s military, and the Israeli government has increasingly constricted Palestinian daily life, the...",
       "link": "https://warontherocks.com/kindling-catalyst-and-containment-will-the-west-bank-ignite/",
       "published_at": "2026-10-06T20:25:37Z",
-      "ai_summary": "The text discusses rising settler violence in the West Bank, alleged military acquiescence, and broader Israeli government restrictions on Palestinians, asking whether the situation could spark wider escalation.",
-      "importance": 86,
-      "why": "It concerns a major ongoing geopolitical conflict, potential regional escalation, civilian safety, and the role of state and military actions in the West Bank."
+      "ai_summary": "The piece examines whether escalating settler violence, Israeli military acquiescence, and tightening restrictions on Palestinian life could trigger a broader West Bank uprising or regional escalation.",
+      "importance": 84,
+      "why": "It addresses a highly consequential and current conflict dynamic involving Israeli-Palestinian violence, military policy, and the risk of wider instability in the West Bank and beyond."
     },
     {
       "source": "Responsible Statecraft",
       "title": "Why Saudi Arabia has returned to war in Yemen",
-      "summary": "When Ansar Allah\u2014commonly referred to as the Houthis\u2014seized Yemen\u2019s Red Sea coastline and strategic islands in the Bab al-Mandab Strait on September 10, 2026, they appeared to gain the upper hand in Yemen\u2019s long-running conflict. However,...",
+      "summary": "This article was republished with permission from the Arab Center Washington DC.When Ansar Allah\u2014commonly referred to as the Houthis\u2014seized Yemen\u2019s Red Sea coastline and strategic islands in the Bab al-Mandab Strait on September 10, 2026,...",
       "link": "https://responsiblestatecraft.org/saudi-arabia-yemen-war/",
       "published_at": "2026-10-12T04:05:02Z",
-      "ai_summary": "The article discusses why Saudi Arabia has re-entered the Yemen conflict after the Houthis (Ansar Allah) seized key Red Sea coastline and strategic islands near the Bab al-Mandab Strait, shifting the balance of power in Yemen.",
-      "importance": 76,
-      "why": "This is a significant regional security and geopolitical development involving Saudi Arabia, Yemen, and control of a major global shipping chokepoint. It has implications for the war\u2019s trajectory, Red Sea maritime security, and broader Middle East stability."
+      "ai_summary": "The article discusses Saudi Arabia\u2019s renewed involvement in Yemen after Ansar Allah (the Houthis) seized key Red Sea coastline and strategic islands near the Bab al-Mandab Strait, signaling a return to conflict with regional and maritime implications.",
+      "importance": 84,
+      "why": "This is important because Yemen\u2019s war affects Saudi security, Red Sea shipping lanes, regional geopolitics, and broader Middle East stability. The seizure of strategic maritime territory makes the issue significant for international trade and conflict escalation."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Noura Erakat on Three Years of Genocide and the Board of Peace's \"New World Order\"",
+      "summary": "Three years into Israel's genocide in Gaza, Palestinian human rights lawyer and legal scholar Noura Erakat argues that Donald Trump's Board of Peace is about more than Gaza: it's a blueprint for a new world order.",
+      "link": "https://www.dropsitenews.com/p/noura-erakat-three-years-of-genocide-board-peace-gaza",
+      "published_at": "2026-10-08T18:26:29Z",
+      "ai_summary": "Noura Erakat argues that three years into Israel\u2019s genocide in Gaza, Trump\u2019s Board of Peace is not just about Gaza but a blueprint for a new world order.",
+      "importance": 86,
+      "why": "It connects an ongoing major humanitarian and geopolitical crisis to a broader proposed international power structure, making it highly relevant for understanding current Middle East politics and global governance trends."
     }
   ]
 }
