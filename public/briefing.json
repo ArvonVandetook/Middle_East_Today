@@ -1,87 +1,16 @@
 {
-  "generated_at": "2026-10-25T23:42:40.219163Z",
-  "top_story": "Israel\u2019s punitive operation in Hebron escalated on 23\u201324 October from demolitions after a gunfight that killed two soldiers into the forced eviction of hundreds of Palestinian families, tightening a pattern of collective punishment that deepens displacement and civilian insecurity in the occupied West Bank. In Sudan, the humanitarian collapse in El-Fasher has become even starker, with Amnesty assessing the city\u2019s population at just seven percent of last year\u2019s high after the UAE-backed Rapid Support Forces seized it amid killings, torture, and disappearances. These late-October shocks land atop an older but still dangerous regional baseline set in March, when US threats against Iran\u2019s power grid drew Tehran\u2019s vow of wider escalation tied to the Strait of Hormuz. The regional picture is one of coercive power being applied against civilian spaces, with immediate human devastation in Hebron and El-Fasher and persistent risk that unresolved interstate confrontation could widen that harm across the region.",
+  "generated_at": "2026-10-26T16:24:13.687267Z",
+  "top_story": "By 26 October, the Yemen war had sharpened on both sides of the Saudi border as the Houthis claimed strikes on the East-West crude oil pumping network and Riyadh airport, signaling a willingness to hit economic infrastructure and civilian transit deep inside the kingdom. The immediate regional risk is not only tighter pressure on oil flows, but a wider conflict space in which energy systems and transport hubs become bargaining tools. Inside Yemen, that escalation sits atop a far older emergency: fuel shortages in besieged Taiz have pushed hospitals to the edge, cutting incubator capacity from 40 to 10 and exposing newborns to lethal cold. Tehran\u2019s March threat to answer pressure on its own energy infrastructure with regional escalation underscores the broader pattern that infrastructure warfare is increasingly binding frontline combat to civilian suffering and cross-border economic vulnerability.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Strike on Gaza university kills three: staff, hospital",
-      "summary": "An Israeli strike on a university in Gaza City killed three people on Sunday, staff and a local hospital said, while the civil defence agency reported five others killed elsewhere&nbsp;in the territory. Reached for comment on the strike at...",
-      "link": "https://www.al-monitor.com/originals/2026/10/strike-gaza-university-kills-three-staff-hospital",
-      "published_at": "2026-10-25T17:30:25Z",
-      "ai_summary": "An Israeli strike on a university in Gaza City killed three people, according to staff and a local hospital, while Gaza's civil defence agency said five more people were killed elsewhere in the territory.",
-      "importance": 82,
-      "why": "This is a conflict-related report about fatalities in Gaza and an Israeli strike on a civilian institution, which is highly newsworthy due to the ongoing war, the reported deaths, and potential implications for humanitarian concerns and international reaction."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "'Everybody is terrorised': El-Fasher population drops to just seven percent of last year's high, Amnesty says",
-      "summary": "One year after the UAE-backed Rapid Support Forces took the Sudanese city, death, torture and disappearances are rife, the rights organisation found",
-      "link": "https://www.middleeasteye.net/news/everybody-terrorised-el-fasher-population-drops-just-7-percent-last-years-high-amnesty-says",
-      "published_at": "2026-10-23T21:12:00Z",
-      "ai_summary": "Amnesty says El-Fasher\u2019s population has fallen to about seven percent of last year\u2019s peak, with death, torture, and disappearances widespread after the UAE-backed Rapid Support Forces seized the Sudanese city.",
-      "importance": 97,
-      "why": "This is a major current-events human rights and conflict report about mass displacement and severe abuses in Sudan, affecting a city under active warfare and likely indicating a large-scale humanitarian crisis."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Saudi air defences intercept Houthi barrage near Mecca",
-      "summary": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen\u2019s Taiz.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca",
-      "published_at": "2026-10-25T00:00:00Z",
-      "ai_summary": "Saudi air defences intercepted a Houthi barrage near Mecca amid escalating attacks on Saudi Arabia, while fierce ground battles and a siege continued to devastate Yemen\u2019s Taiz.",
-      "importance": 85,
-      "why": "The incident involves a major religious and political location near Mecca and reflects a broader escalation in the Yemen conflict, including cross-border attacks and severe humanitarian impact in Taiz."
-    },
-    {
-      "source": "Guardian",
-      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-      "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresOil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy...",
-      "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "published_at": "2026-10-23T16:48:28Z",
-      "ai_summary": "Oil prices rose above $117 a barrel amid fears the US may renew strikes on Iran after Tehran threatened retaliation against Gulf refineries and datacentres.",
-      "importance": 90,
-      "why": "This is highly important because it signals a major geopolitical escalation with direct implications for global energy markets, inflation, transportation costs, and broader economic stability."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Bank of Israel Against Netanyahu: Cryptocurrencies Cannot Be Used to Circumvent Sanctions",
-      "summary": "https://www.haaretz.com/israel-news/business/economy-finance/2026-10-24/ty-article/.premium/bank-of-israel-against-netanyahu-crypto-cannot-be-used-to-circumvent-sanctions/000001a1-6ef5-dd3a-afe1-eff75a8d0000",
-      "link": "https://www.haaretz.com/israel-news/business/economy-finance/2026-10-24/ty-article/.premium/bank-of-israel-against-netanyahu-crypto-cannot-be-used-to-circumvent-sanctions/000001a1-6ef5-dd3a-afe1-eff75a8d0000",
-      "published_at": "2026-10-24T00:00:00Z",
-      "ai_summary": "The Bank of Israel warned that cryptocurrencies should not be treated as a way to bypass sanctions, pushing back against Netanyahu-linked policy ideas that could weaken financial enforcement.",
-      "importance": 78,
-      "why": "This is important because it involves national financial policy, sanctions enforcement, and a potential clash between Israel\u2019s central bank and the government over crypto regulation. It may affect cross-border finance, compliance risk, and the broader debate on using digital assets to evade restrictions."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "UAE Paid Swiss Intelligence Firm to Compile Database of \u201cHostile\u201d Facebook Users",
-      "summary": "Leaked documents reveal a project to compile lists of UAE residents from their Facebook likes of news articles considered critical of the Emirati government.",
-      "link": "https://www.dropsitenews.com/p/uae-alp-services-facebook-crackdown",
-      "published_at": "2026-10-23T00:01:22Z",
-      "ai_summary": "Leaked documents indicate the UAE paid a Swiss intelligence firm to build a database of residents deemed \"hostile\" based on Facebook likes of news articles critical of the Emirati government.",
-      "importance": 84,
-      "why": "This suggests state-backed monitoring of social media activity and potential targeting of political dissent, raising significant privacy, civil liberties, and press freedom concerns."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Iran's reported execution of Iraqi for spying meets public outrage, official silence",
-      "summary": "The story: Reports that Iran has executed a young man from Iraq\u2019s Anbar Governorate on espionage charges have sparked outrage among Iraqi commentators. Iranian rights groups say Ayoub Mohammed Nabil, a 28-year-old caretaker from Haditha,...",
-      "link": "https://amwaj.media/en/media-monitor/irans-reported-execution-of-iraqi-for-spying-meets-outrage-and-official-silence",
-      "date": "Oct. 21, 2026",
-      "published_at": "2026-10-21T00:00:00Z",
-      "ai_summary": "Reports say Iran executed a 28-year-old Iraqi man from Anbar on espionage charges, triggering outrage among Iraqi commentators and rights groups while Iraqi officials have remained silent.",
-      "importance": 82,
-      "why": "The story involves a cross-border execution with potential diplomatic and human-rights implications, and it has provoked significant public reaction in Iraq. It is important because it may affect Iran-Iraq relations, public opinion, and scrutiny of due process and treatment of foreign nationals."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Houthis say attacked Riyadh airport hours after flights resume",
-      "summary": "Yemen's Houthis on Sunday said they launched a fresh strike on Saudi Arabia's international airport in capital Riyadh, hours after the kingdom announced that flights had resumed despite repeated attacks by the Iran-backed group. King...",
-      "link": "https://www.al-monitor.com/originals/2026/10/houthis-say-attacked-riyadh-airport-hours-after-flights-resume",
-      "published_at": "2026-10-25T15:30:23Z",
-      "ai_summary": "Houthi rebels claimed they launched a new strike on Riyadh\u2019s international airport just hours after Saudi Arabia said flights had resumed there despite repeated attacks.",
-      "importance": 81,
-      "why": "The report concerns a major attack claim against Saudi Arabia\u2019s capital airport amid ongoing regional conflict, with potential implications for civilian aviation, security, and broader Yemen-Saudi tensions."
+      "title": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
+      "summary": "Oct 26 (Reuters) - Yemen's Iran-aligned Houthis said on Monday they had attacked Saudi Arabia's East-West crude oil pumping stations and Riyadh airport, as rising hostilities choke oil supplies andthreaten to erupt into a larger...",
+      "link": "https://www.al-monitor.com/originals/2026/10/houthis-say-they-attacked-saudi-oil-pumping-stations-riyadh-airport-fighting",
+      "published_at": "2026-10-26T04:46:30Z",
+      "ai_summary": "Houthis claimed attacks on Saudi Arabia\u2019s East-West crude oil pumping stations and Riyadh airport amid intensifying hostilities that could disrupt oil supplies and widen the conflict.",
+      "importance": 95,
+      "why": "The report involves a major regional security escalation with potential direct impact on global oil infrastructure, energy markets, and Saudi critical infrastructure, making it highly significant."
     },
     {
       "source": "Middle East Eye",
@@ -89,52 +18,153 @@
       "summary": "Residents say soldiers gave families five minutes to leave, as demolitions accompany an Israeli military operation that officials warn could trigger a crisis",
       "link": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron",
       "published_at": "2026-10-24T15:23:00Z",
-      "ai_summary": "Israeli forces forcibly evicted hundreds of Palestinian families from homes in Hebron after a deadly shooting, with residents saying they were given only minutes to leave as demolitions continued during a military operation.",
-      "importance": 95,
-      "why": "This is a major human rights and conflict escalation story involving mass displacement, military action, and the potential for a broader crisis in a highly sensitive region."
+      "ai_summary": "Israel reportedly evicted hundreds of Palestinian families from homes in Hebron after a deadly shooting, with residents saying soldiers gave them five minutes to leave as demolitions continued during a military operation.",
+      "importance": 91,
+      "why": "This is a major conflict-related development involving mass displacement of civilians, military action, and a possible escalation in the West Bank. It has significant humanitarian and political implications and could trigger a wider crisis."
     },
     {
       "source": "Al Jazeera",
-      "title": "Eight killed in Gaza as Israel targets university campus and other sites",
-      "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites",
-      "published_at": "2026-10-25T00:00:00Z",
-      "ai_summary": "Israeli air strikes targeted the Islamic University in Gaza City and other sites, killing eight people in total, including three security guards at the university.",
-      "importance": 75,
-      "why": "This is a war-related casualty report involving an Israeli strike on a major civilian institution in Gaza, indicating significant violence and likely broader regional relevance."
+      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+      "summary": "The death toll in Israel\u2019s genocidal war on Gaza climbs to 74,555, including 1,559 killed since \u2018ceasefire\u2019 last year.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Israeli forces killed at least five people in Gaza, including a 7-year-old girl, as the reported death toll in the war rises to 74,555, with 1,559 killed since the declared ceasefire last year.",
+      "importance": 89,
+      "why": "This is highly important because it reports new civilian deaths, including a child, and cites a large cumulative death toll that indicates ongoing severe conflict and humanitarian harm."
     },
     {
       "source": "Guardian",
-      "title": "\u2018The biggest motivation is fear\u2019: High turnout among Israel\u2019s Palestinians could unseat Netanyahu",
-      "summary": "The Knesset is up for grabs next week and the Arab community is desperate to topple the far-right ruling coalitionAs the sun set over the town of Kfar Qasim, Palestinian citizens of Israel gathered over hot knafeh pastries and shots of...",
-      "link": "https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
-      "published_at": "2026-10-23T06:00:03Z",
-      "ai_summary": "Israeli Palestinians are mobilizing at high levels ahead of the Knesset election, driven largely by fear of the far-right ruling coalition, and their turnout could help unseat Netanyahu.",
-      "importance": 85,
-      "why": "The article concerns a potentially decisive factor in Israel\u2019s national election: unusually high turnout among Palestinian citizens of Israel. This could alter government formation and the future of Netanyahu\u2019s coalition, making it politically significant."
+      "title": "\u2018It\u2019s collective punishment\u2019: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
+      "summary": "Families forced to flee as Netanyahu tries to prove security credentials after two Israeli soldiers killed days before electionHebron, the biggest city in the West Bank, had paid little attention to Israel\u2019s looming elections until it...",
+      "link": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+      "published_at": "2026-10-26T07:00:25Z",
+      "ai_summary": "Israeli forces took over homes in Hebron, forcing nearly 2,000 Palestinians to flee, amid a crackdown that residents and rights groups describe as collective punishment after two Israeli soldiers were killed days before Israel\u2019s election.",
+      "importance": 91,
+      "why": "The article reports a large-scale displacement of civilians in the occupied West Bank tied to a politically sensitive security response, making it significant for understanding Israeli-Palestinian tensions, human rights concerns, and election-related policy actions."
     },
     {
       "source": "Haaretz",
-      "title": "'What He Did Was Outrageous': Ron Lauder, Once Netanyahu's Closest Confidant, Speaks Out",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article-magazine/.highlight/what-he-did-was-outrageous-netanyahus-former-confidant-ron-lauder-speaks-out/000001a1-636c-da9a-a7e5-f77f4bae0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article-magazine/.highlight/what-he-did-was-outrageous-netanyahus-former-confidant-ron-lauder-speaks-out/000001a1-636c-da9a-a7e5-f77f4bae0000",
-      "published_at": "2026-10-22T00:00:00Z",
-      "ai_summary": "The article appears to focus on Ron Lauder, once a close confidant of Benjamin Netanyahu, publicly criticizing Netanyahu in unusually strong terms and discussing their broken relationship, likely in the context of Israeli politics and the upcoming elections.",
+      "title": "'Netanyahu Will Stop at Nothing to Stay in Power,' Eisenkot Warns in Final Rally",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-10-26/ty-article/.premium/netanyahu-will-stop-at-nothing-to-stay-in-power-eisenkot-warns-in-final-rally/000001a1-74ad-d0b5-ade9-74bf3ad80000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-10-26/ty-article/.premium/netanyahu-will-stop-at-nothing-to-stay-in-power-eisenkot-warns-in-final-rally/000001a1-74ad-d0b5-ade9-74bf3ad80000",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Eisenkot, speaking at a final election rally, warns that Netanyahu will do anything to remain in power and frames the election as a critical test of Israeli democracy and leadership.",
       "importance": 78,
-      "why": "Ron Lauder is a prominent international figure and former Netanyahu ally, so his public criticism is politically notable. The piece likely matters for understanding elite opinion around Netanyahu, campaign dynamics, and broader perceptions of leadership in Israel."
+      "why": "It concerns a major Israeli political figure, a high-stakes election message, and a direct accusation against the sitting prime minister, which can influence public debate and voter perceptions."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "UAE Paid Swiss Intelligence Firm to Compile Database of \u201cHostile\u201d Facebook Users",
+      "summary": "Leaked documents reveal a project to compile lists of UAE residents from their Facebook likes of news articles considered critical of the Emirati government.",
+      "link": "https://www.dropsitenews.com/p/uae-alp-services-facebook-crackdown",
+      "published_at": "2026-10-23T00:01:22Z",
+      "ai_summary": "Leaked documents suggest the UAE paid a Swiss intelligence firm to build a database of residents labeled \u201chostile\u201d based on their Facebook likes of news articles critical of the Emirati government.",
+      "importance": 82,
+      "why": "It points to state-backed digital surveillance and possible targeting of political dissent, with implications for privacy, free expression, and abuse of intelligence services."
+    },
+    {
+      "source": "Amwaj",
+      "title": "Iran signals readiness for war amid claims that strikes have already begun",
+      "summary": "The story: Iranian officials are warning that renewed war with Israel and the US could trigger retaliation far beyond the region. This comes as suspected Israeli strikes on Iran-aligned Shiite armed groups in Iraq and Tel Aviv\u2019s military...",
+      "link": "https://amwaj.media/en/media-monitor/iran-signals-readiness-for-war-amid-claims-that-strikes-have-already-begun",
+      "date": "Oct. 26, 2026",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Iran is signaling it is prepared for a wider war with Israel and the US, warning of retaliation beyond the region after suspected Israeli strikes on Iran-aligned groups in Iraq and reports of ongoing military action.",
+      "importance": 87,
+      "why": "The item concerns possible escalation between Iran, Israel, and the US, which could affect regional security, military operations, and global markets."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "'No fuel to keep babies warm': shortages push hospitals in Yemen's Taiz to brink",
+      "summary": "By Olivia Le PoidevinGENEVA, Oct 26 (Reuters) - Fuel shortages in Yemen's besieged city of Taiz have forced one hospital to cut the number of incubators it can operate from 40 to 10, putting newborn babies at risk as weeks of fighting...",
+      "link": "https://www.al-monitor.com/originals/2026/10/no-fuel-keep-babies-warm-shortages-push-hospitals-yemens-taiz-brink",
+      "published_at": "2026-10-26T15:46:34Z",
+      "ai_summary": "Fuel shortages in Yemen's besieged Taiz have forced hospitals to sharply reduce services, including cutting incubator capacity from 40 to 10 and endangering newborns.",
+      "importance": 92,
+      "why": "This is a humanitarian crisis affecting newborn survival in a conflict zone. It highlights severe shortages of essential hospital fuel, immediate risk to infant lives, and broader healthcare collapse in Yemen."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "\u2018We left with heavy hearts\u2019: Israel\u2019s assault displaces thousands in Hebron",
+      "summary": "Condemned as collective punishment, Israel\u2019s assault forces hundreds of Palestinians families from their homes, leaving them without shelter, stability or a clear path to return",
+      "link": "https://www.middleeasteye.net/news/we-left-heavy-hearts-israels-assault-displaces-thousands-hebron",
+      "published_at": "2026-10-26T13:14:00Z",
+      "ai_summary": "Israeli military operations in Hebron have forced hundreds of Palestinian families from their homes, causing widespread displacement, loss of shelter and instability, and raising accusations of collective punishment.",
+      "importance": 91,
+      "why": "The story describes a significant civilian displacement linked to a major military action in the occupied West Bank, with humanitarian consequences for hundreds of families and broader political implications around collective punishment and Israel-Palestine tensions."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel expands expulsions in occupied West Bank to cement control",
+      "summary": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing \u2018new reality\u2019, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Israel is intensifying forced expulsions and infrastructure destruction in the occupied West Bank in an apparent bid to entrench long-term control and create a new political reality, according to analysts.",
+      "importance": 87,
+      "why": "The item concerns a significant escalation in the Israeli-Palestinian conflict and the administration of occupied territory. Forced expulsions and demolition of infrastructure can have major humanitarian, legal, and geopolitical consequences, making it highly important for regional stability and international law."
+    },
+    {
+      "source": "Guardian",
+      "title": "I saw a drone suddenly descend towards me. My heart started pounding and I thought, \u2018Is this the end of my life?\u2019",
+      "summary": "Photographer Zeinab Faraj, 21, found herself buried under rubble beside a dying colleague while reporting in Lebanon. She had never expected to be the target of an Israeli missile attack.It was mid-April and after a month of deadly...",
+      "link": "https://www.theguardian.com/global-development/2026/oct/26/zeinab-faraj-journalist-surviving-israel-drone-attack",
+      "published_at": "2026-10-26T05:00:22Z",
+      "ai_summary": "A young photographer in Lebanon recounts surviving an Israeli missile attack while on assignment, describing the terror of suddenly being in danger and fearing for her life.",
+      "importance": 90,
+      "why": "This is a vivid firsthand account of a war-zone attack involving reported civilian/journalist danger, making it highly significant as a human-interest and conflict-related news story."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Israel Election 2026 Katz Denies Pre-Election Iran War Push; Lieberman Seeks Probe of PM for Treason",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-10-26/ty-article-live/eisenkot-warns-netanyahu-will-stop-at-nothing-to-stay-in-power-at-final-rally/000001a1-7587-d464-a5a7-f59fc0cb0003",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-10-26/ty-article-live/eisenkot-warns-netanyahu-will-stop-at-nothing-to-stay-in-power-at-final-rally/000001a1-7587-d464-a5a7-f59fc0cb0003",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Haaretz reports on Israel\u2019s 2026 election campaign with Defense Minister Israel Katz denying accusations that the government is pushing toward war with Iran before the vote, while Avigdor Lieberman calls for an investigation into the prime minister for treason. The story centers on escalating political attacks and security-related claims during the final stretch of the election.",
+      "importance": 78,
+      "why": "This is a major national political story in Israel involving election dynamics, allegations about war strategy, and a serious accusation against the prime minister. It is highly relevant for understanding the campaign\u2019s direction and potential implications for regional security and governance."
     }
   ],
   "regional_analysis": [
     {
+      "source": "Al Monitor",
+      "title": "Saudi Arabia\u2019s KBS, top Turkish and Pakistani officials hold rare meeting in Iran: What to know",
+      "summary": "In first such gathering, Saudi Defense Minister Prince Khalid bin Salman will join Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin for talks with Iranian officials amid fears of renewed US and Israeli attacks...",
+      "link": "https://www.al-monitor.com/originals/2026/10/saudi-arabias-kbs-top-turkish-and-pakistani-officials-hold-rare-meeting-iran-what",
+      "published_at": "2026-10-26T14:15:05Z",
+      "ai_summary": "Saudi Arabia\u2019s defense minister, Pakistan\u2019s army chief, and Turkey\u2019s intelligence chief are set to meet Iranian officials in a rare regional gathering amid fears of renewed US and Israeli attacks.",
+      "importance": 90,
+      "why": "It signals unusual coordination among major regional powers involving Iran, Saudi Arabia, Turkey, and Pakistan, and comes at a tense moment with possible US and Israeli strikes, making it geopolitically significant."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Hezbollah readies for new regional war with funds from Iran, sources say",
+      "summary": "By Laila Bassam and Maya GebeilyBEIRUT, Oct 26 (Reuters) - Lebanese armed group Hezbollah has spent three months preparing for a possible resumption of hostilities with Israel, after receiving an infusion of cash from Iran, according to...",
+      "link": "https://www.al-monitor.com/originals/2026/10/hezbollah-readies-new-regional-war-funds-iran-sources-say",
+      "published_at": "2026-10-26T15:46:34Z",
+      "ai_summary": "Hezbollah has reportedly spent three months preparing for a possible renewed war with Israel, backed by fresh funding from Iran.",
+      "importance": 85,
+      "why": "The report concerns a major armed group in the Middle East preparing for renewed conflict involving Israel and Iran-backed support, which has significant regional security implications."
+    },
+    {
       "source": "Amwaj",
-      "title": "Egypt pledges support to Saudi Arabia as parliament weighs troop deployment",
-      "summary": "Egypt\u2019s parliament is weighing whether to authorize military support for Saudi Arabia, as Yemen\u2019s Ansarullah movement, better known as the Houthis, keeps up deadly attacks on the Kingdom. At a meeting on Oct. 18, Egypt\u2019s highest security...",
-      "link": "https://amwaj.media/en/article/egypt-pledges-support-to-saudi-arabia-as-parliament-weighs-troop-deployment",
+      "title": "Old News: America hit by Arab oil embargo over support for Israel",
+      "summary": "Old News is a new initiative by Amwaj.media to connect the past to the present. Through \u201creporting\u201d on pivotal moments in history, we aim to provide a richer backdrop for current dynamics in the region. The story: Members of the...",
+      "link": "https://amwaj.media/en/article/old-news-arab-oil-embargo-over-support-for-israel-hits-the-united-states",
       "date": "Oct. 23, 2026",
       "published_at": "2026-10-23T00:00:00Z",
-      "ai_summary": "Egypt is considering authorizing military support for Saudi Arabia amid ongoing Houthi attacks on the Kingdom, with parliament weighing possible troop deployment.",
-      "importance": 77,
-      "why": "This involves potential military intervention by a major regional power in the Yemen conflict and direct support for Saudi Arabia, which could affect regional security and diplomacy."
+      "ai_summary": "Historical piece on the 1973 Arab oil embargo against the United States linked to its support for Israel, framed as part of Amwaj.media\u2019s \u201cOld News\u201d series connecting past events to current regional dynamics.",
+      "importance": 83,
+      "why": "It concerns a major historical geopolitical event with lasting implications for Middle East politics, US foreign policy, and global energy markets, and it is presented in a way intended to illuminate present-day regional tensions."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
+      "summary": "By Steven Scheer and Emily RoseJERUSALEM, Oct 26 (Reuters) - Prime Minister Benjamin Netanyahu boasted of his endorsement from Donald Trump on the eve of Israel's election, suggesting the two leaders could restart their war against Iran if...",
+      "link": "https://www.al-monitor.com/originals/2026/10/netanyahu-touts-trump-endorsement-eve-vote-suggests-they-may-restart-war-iran",
+      "published_at": "2026-10-26T13:46:33Z",
+      "ai_summary": "Netanyahu highlighted Donald Trump\u2019s endorsement before Israel\u2019s election and hinted the two could resume pressure or conflict with Iran.",
+      "importance": 81,
+      "why": "The story involves Israel\u2019s prime minister, a major U.S. political figure, and possible renewed confrontation with Iran, which has significant regional and international implications."
     },
     {
       "source": "Amwaj",
@@ -143,102 +173,71 @@
       "link": "https://amwaj.media/en/media-monitor/baghdads-reported-imf-loan-request-complicates-zaidis-no-borrowing-pledge",
       "date": "Oct. 23, 2026",
       "published_at": "2026-10-23T00:00:00Z",
-      "ai_summary": "The IMF\u2019s reported willingness to assist Iraq has intensified scrutiny of Prime Minister Ali Al-Zaidi\u2019s economic policy, especially after his defense of devaluing the Iraqi dinar to avoid further borrowing, which appears to conflict with his no-borrowing pledge.",
-      "importance": 77,
-      "why": "This is politically and economically significant because it highlights a policy contradiction at the center of Iraq\u2019s fiscal management. IMF involvement and any borrowing request can affect market confidence, currency stability, and the prime minister\u2019s credibility."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-      "summary": "By Steven ScheerJERUSALEM, Oct 25 (Reuters) - Prime Minister Benjamin Netanyahu, who faces re-election this week, is drawing criticism from economists and political rivals after suggesting Israel could use cryptocurrency to help shield its...",
-      "link": "https://www.al-monitor.com/originals/2026/10/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions",
-      "published_at": "2026-10-25T11:46:35Z",
-      "ai_summary": "Netanyahu faced criticism after suggesting Israel could use cryptocurrency to help bypass economic sanctions, prompting economists and political rivals to rebuke the proposal.",
-      "importance": 75,
-      "why": "The story involves a sitting prime minister, election timing, and a controversial policy idea tied to sanctions and financial stability, making it politically and economically significant."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "On Israeli kibbutz, October 7 tears at leftist heritage",
-      "summary": "Danny Rahamim pauses for a few moments as he thinks about his neighbours here on an Israeli kibbutz just a few hundred metres from Gaza. \"I'm probably the most left-wing person here,\" he said. If that was true before October 7, 2023, when...",
-      "link": "https://www.al-monitor.com/originals/2026/10/israeli-kibbutz-october-7-tears-leftist-heritage",
-      "published_at": "2026-10-25T03:30:34Z",
-      "ai_summary": "A report about how the October 7 attack has strained the leftist, peace-oriented identity of an Israeli kibbutz near Gaza, as residents reassess long-held beliefs.",
-      "importance": 75,
-      "why": "It highlights a broader social and political shift within Israeli society, showing how the October 7 attacks affected even traditionally left-wing, peace-minded communities near Gaza."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Putin puts Trump ahead of Iran in bid to mediate war",
-      "summary": "Anton Mardosov, reporting from Moscow, and our correspondent in Tehran assess the limits of Russian influence in Iran; Ben Caspit reports that Netanyahu could force a unity government with an attack on Iran after the elections.",
-      "link": "https://www.al-monitor.com/originals/2026/10/putin-puts-trump-ahead-iran-bid-mediate-war",
-      "published_at": "2026-10-24T21:20:17Z",
-      "ai_summary": "The article says Putin is trying to position Trump as a preferred mediator over Iran amid the war, while analysts in Moscow and Tehran question how much influence Russia really has in Iran. It also notes that Netanyahu may use a possible attack on Iran after elections to pressure for a unity government.",
-      "importance": 75,
-      "why": "This is geopolitically significant because it involves Russia, Iran, Trump, and Netanyahu, with possible implications for mediation efforts, regional conflict escalation, and Israeli domestic politics."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Gaza\u2019s visually and hearing-impaired children miss school due to Israel war",
-      "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
-      "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war",
-      "published_at": "2026-10-25T00:00:00Z",
-      "ai_summary": "Gaza\u2019s children with hearing and visual impairments are missing school amid the war, leaving many without access to specialist education.",
-      "importance": 73,
-      "why": "The item highlights a humanitarian and education crisis affecting a vulnerable group of children during the war. It is important for understanding the broader civilian impact, though it is a brief report with limited detail."
-    },
-    {
-      "source": "Amwaj",
-      "title": "Should Syria join Saudi Arabia\u2019s Yemen campaign?",
-      "summary": "Of all Arab states, probably none matters as much to post-Assad Syria\u2019s future as Saudi Arabia. With the Syrian economy facing severe problems and President Ahmed Al-Sharaa contending with challenges at home, substantial assistance from...",
-      "link": "https://amwaj.media/en/article/should-syria-join-saudi-arabias-yemen-campaign",
-      "date": "Oct. 21, 2026",
-      "published_at": "2026-10-21T00:00:00Z",
-      "ai_summary": "The article discusses whether post-Assad Syria should align with Saudi Arabia by joining its Yemen campaign, arguing that Saudi support is highly important to Syria\u2019s economic and political future amid domestic challenges.",
-      "importance": 73,
-      "why": "It concerns Syria\u2019s foreign policy alignment and potential Saudi backing, which could materially affect post-conflict reconstruction, regional relationships, and the balance of power in the Middle East."
+      "ai_summary": "Reported IMF assistance/loan request has intensified scrutiny of Iraqi PM Ali Al-Zaidi\u2019s economic policy after his no-borrowing pledge and dinar devaluation drew criticism.",
+      "importance": 79,
+      "why": "It concerns Iraq\u2019s macroeconomic policy, currency devaluation, and potential IMF borrowing\u2014issues that can affect fiscal stability, public confidence, and international financial relations."
     },
     {
       "source": "Haaretz",
-      "title": "Beyond Selma Blair: The Jewish Circuit's Shrinking Pool of Pro-Israel Celebrities",
-      "summary": "https://www.haaretz.com/us-news/2026-10-22/ty-article-magazine/.premium/how-the-selma-blair-affair-reveals-jewish-groups-reliance-on-celebrities/000001a1-6160-dc69-a1ff-75ec3e940000",
-      "link": "https://www.haaretz.com/us-news/2026-10-22/ty-article-magazine/.premium/how-the-selma-blair-affair-reveals-jewish-groups-reliance-on-celebrities/000001a1-6160-dc69-a1ff-75ec3e940000",
+      "title": "Rahm Emanuel: 'We're at a Tipping Point, There Is No Reset Button' for Israel-U.S. Relations",
+      "summary": "https://www.haaretz.com/israel-news/podcasts/2026-10-22/ty-article-podcast/rahm-emanuel-tells-haaretz-were-at-a-tipping-point-theres-no-reset-button/000001a1-6301-d46d-a1fd-e30188d90000",
+      "link": "https://www.haaretz.com/israel-news/podcasts/2026-10-22/ty-article-podcast/rahm-emanuel-tells-haaretz-were-at-a-tipping-point-theres-no-reset-button/000001a1-6301-d46d-a1fd-e30188d90000",
       "published_at": "2026-10-22T00:00:00Z",
-      "ai_summary": "An article about how Jewish organizations and pro-Israel advocacy groups are increasingly relying on a smaller, less reliable pool of celebrity supporters, using Selma Blair as a case study.",
-      "importance": 72,
-      "why": "It is relevant to current discourse on Jewish communal politics, Israel advocacy, and celebrity influence in public messaging, though it is primarily a niche opinion/analysis piece rather than a major breaking news event."
+      "ai_summary": "Haaretz podcast/article featuring Rahm Emanuel arguing that Israel-U.S. relations have reached a critical tipping point and that there is no simple way to reset them.",
+      "importance": 78,
+      "why": "The piece concerns a high-profile political figure discussing a potentially significant shift in U.S.-Israel relations, which could have implications for diplomacy, security policy, and broader regional politics."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+      "summary": "Governorate\u2019s Druze majority in deadlock with Syrian government.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Suwayda remains politically deadlocked, with its Druze-majority leadership at odds with the Syrian government while the US appears to be signaling some differences with Israel over Syria policy.",
+      "importance": 75,
+      "why": "The headline suggests ongoing regional and diplomatic significance: a stalemate in Suwayda affects Syrian internal stability, Druze community politics, and broader US-Israel-Syria relations."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran\u2019s anti-negotiation hardliners turn against President Pezeshkian",
+      "summary": "Iran\u2019s anti-negotiation hardliners turn against President Pezeshkian over negotiations with the US.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Iranian hardliners are opposing President Pezeshkian because of his negotiations with the United States.",
+      "importance": 73,
+      "why": "The headline indicates internal political conflict in Iran over US negotiations, which can affect foreign policy, nuclear talks, and regional tensions."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Do Palestinians in Gaza expect anything to change after Israel\u2019s election?",
+      "summary": "After years of war, displacement and restrictions, Gazans ask whether Israel\u2019s election will affect their future.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election",
+      "published_at": "2026-10-26T00:00:00Z",
+      "ai_summary": "Gazans are questioning whether Israel\u2019s election will lead to any meaningful change in their lives after years of war, displacement, and restrictions.",
+      "importance": 73,
+      "why": "The text is about a major political event with direct implications for civilians in Gaza and broader Israeli-Palestinian relations. It reflects uncertainty about policy changes that could affect conflict, movement, and daily life."
     }
   ],
   "deep_analysis": [
+    {
+      "source": "Middle East Eye",
+      "title": "Lula defeats pro-Israel challenger Flavio Bolsonaro in Brazil elections",
+      "summary": "The incumbent secured his fourth term as leader after falling behind his far-right challenger in the first round of voting",
+      "link": "https://www.middleeasteye.net/news/lula-defeats-bolsonaro-brazil-elections",
+      "published_at": "2026-10-26T07:21:00Z",
+      "ai_summary": "Lula won re-election in Brazil, defeating pro-Israel far-right challenger Flavio Bolsonaro after trailing in the first round.",
+      "importance": 85,
+      "why": "This is a major national election result in Latin America\u2019s largest country, affecting domestic policy, foreign relations, and regional politics."
+    },
     {
       "source": "Jadaliyya",
       "title": "Railway to Dispossession: Land Grabs, Potash, and the Politics of \u201cPublic Benefit\u201d in the Jordanian Ghor",
       "summary": "The US-Israeli war on Iran has severely constrained, as has now been widely reported, the main maritime route for the transit of fossil fuels and downstream commodities such as fertilizers through the Strait of Hormuz. As a result, Gulf...",
       "link": "https://www.jadaliyya.com/Details/47763/Railway-to-Dispossession-Land-Grabs,-Potash,-and-the-Politics-of-%E2%80%9CPublic-Benefit%E2%80%9D-in-the-Jordanian-Ghor",
       "published_at": null,
-      "ai_summary": "The text appears to examine how infrastructure, extractive projects, and claims of \u201cpublic benefit\u201d are used to justify land dispossession in the Jordanian Ghor, likely linking railway development, potash extraction, and regional geopolitical pressures to local land grabs.",
-      "importance": 78,
-      "why": "It addresses a politically and economically significant issue at the intersection of infrastructure, resource extraction, state power, and land rights. The topic is likely important for understanding regional development conflicts and dispossession, especially in Jordan and the broader Middle East."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Albania's Rama uses culture to artwash Israel's genocide and growing repression",
-      "summary": "As protesters face rubber bullets in Tirana, Edi Rama's government invokes Albania's wartime protection of Jews to justify deeper ties with Israel",
-      "link": "https://www.middleeasteye.net/opinion/albanias-government-uses-culture-artwash-israels-genocide-and-its-own-repression",
-      "published_at": "2026-10-21T13:11:00Z",
-      "ai_summary": "The piece argues that Albanian Prime Minister Edi Rama is using Albania\u2019s historical protection of Jews during World War II as moral cover for strengthening ties with Israel, while domestic protesters in Tirana face repression and police violence.",
+      "ai_summary": "The article appears to examine how a railway project in the Jordanian Ghor is tied to land dispossession, potash extraction, and the political framing of \u201cpublic benefit,\u201d likely connecting infrastructure development to resource extraction and land grabs amid regional geopolitical tensions.",
       "importance": 77,
-      "why": "It connects a contemporary domestic crackdown in Albania with broader international politics around Israel and the use of historical memory to legitimize controversial policy. The topic is politically charged, involves alleged repression, and may be relevant to readers tracking Balkan politics, protest rights, and Israel-related diplomacy."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Netanyahu won't stop until all Arab political parties are gone",
-      "summary": "As parliamentary elections loom, the Israeli leader is ramping up efforts to delegitimise Palestinian candidates",
-      "link": "https://www.middleeasteye.net/opinion/netanyahu-wont-stop-until-all-arab-political-parties-are-gone",
-      "published_at": "2026-06-03T07:32:00Z",
-      "ai_summary": "The text says that as elections approach, Netanyahu is increasing efforts to delegitimize Palestinian candidates and, more broadly, appears intent on eliminating Arab political parties from Israeli politics.",
-      "importance": 77,
-      "why": "It concerns a major political leader, electoral strategy, and the potential exclusion of Arab political representation, which has significant implications for democracy, minority rights, and regional politics."
+      "why": "The topic is important because it links infrastructure, agricultural land, extractive industry, and state power in a strategically sensitive region. It likely sheds light on how public-interest claims can be used to justify dispossession and reshape land use, which has broader relevance for political economy, environmental justice, and regional security."
     },
     {
       "source": "Jadaliyya",
@@ -246,30 +245,30 @@
       "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
       "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
       "published_at": null,
-      "ai_summary": "Announcement of an academic freedom event titled \"In Defense of Academic Freedom: The Circus of Academic Complicity Part 1 (15 October),\" organized by DC, Maryland, and Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project, with cosponsorship from MESA committees and Faculty for Justice in Palestine.",
-      "importance": 65,
-      "why": "It appears to be a niche event announcement for academics and advocacy groups, relevant to academic freedom and Gaza-related organizing, but not broadly newsworthy on its own."
+      "ai_summary": "Announcement for a talk/event titled \"In Defense of Academic Freedom: The Circus of Academic Complicity Part 1 (15 October)\" organized by regional faculty groups and cosponsored by academic freedom and Palestine-related organizations.",
+      "importance": 64,
+      "why": "It appears to be a politically and academically relevant event notice about academic freedom and Gaza/Palestine advocacy, involving multiple faculty organizations and cosponsors. The content is event-oriented rather than substantive policy or research, so its importance is moderate."
     },
     {
       "source": "Jadaliyya",
-      "title": "The War on Iran: Seven Months On with Sina Toossi (2 October)",
-      "summary": "The War on Iran SeriesOrganized by Jadaliyya and Security in Context   Sina Toossi addresses essential developments and junctures over the last seven months in the war on Iran. He examines some of the contextual topics that have been...",
-      "link": "https://www.jadaliyya.com/Details/47910/The-War-on-Iran-Seven-Months-On-with-Sina-Toossi-2-October",
+      "title": "Launching 'Israel\u2019s Zombie Economy:' A Five Part Interview Series",
+      "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
+      "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
-      "ai_summary": "A Jadaliyya and Security in Context event featuring Sina Toossi reviewing key developments and turning points over the first seven months of the war on Iran, with broader contextual discussion.",
+      "ai_summary": "Jadaliyya announces a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
       "importance": 48,
-      "why": "It appears to be an event announcement or talk summary about an ongoing conflict and its recent developments, which is moderately important for understanding the war on Iran, but the provided text is brief and mostly introductory."
+      "why": "It is a media announcement for an interview series, relevant for readers interested in Israeli political economy and Jadaliyya\u2019s programming, but not a major standalone news event."
     },
     {
       "source": "Carnegie ME",
-      "title": "Iraq\u2019s Disarmament Path Begins with Reform of the PMF",
-      "summary": "The Zaidi government\u2019s objective to collect weapons is constrained by regional conflict, but it can take certain measures at home.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/09/iraqs-disarmament-path-begins-with-pmf-reform",
-      "date": "Sep 18, 2026",
+      "title": "A Celebration or Funeral in Iraq?",
+      "summary": "As the U.S.-led Coalition withdraws, the Kurds\u2019 reliance on Baghdad, and on themselves, will only increase.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/a-celebration-or-funeral-in-iraq",
+      "date": "Oct 2, 2026",
       "published_at": null,
-      "ai_summary": "The article argues that Iraq\u2019s effort to collect weapons and move toward disarmament is limited by regional tensions and conflict, but the Zaidi government can still make progress domestically by reforming the Popular Mobilization Forces (PMF).",
-      "importance": 75,
-      "why": "It concerns Iraqi state authority, militia control, and domestic security reform, which are highly relevant to Iraq\u2019s stability and to broader regional security dynamics."
+      "ai_summary": "The headline questions whether the U.S.-led coalition's withdrawal from Iraq will be a positive or negative turning point, with the key point that Iraqi Kurds will become increasingly dependent on Baghdad and on their own capabilities.",
+      "importance": 73,
+      "why": "It highlights a significant geopolitical shift in Iraq, especially for Kurdish autonomy and post-withdrawal stability, which has broader implications for regional security and U.S. influence."
     },
     {
       "source": "Carnegie ME",
@@ -278,19 +277,19 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/09/three-ruptures-and-pax-americana",
       "date": "Sep 22, 2026",
       "published_at": null,
-      "ai_summary": "The U.S. struggle in its conflict with Iran may speed up its withdrawal from the Middle East.",
+      "ai_summary": "The article argues that U.S. setbacks in a conflict with Iran could hasten American disengagement from the Middle East and signal the decline of Pax Americana there.",
       "importance": 73,
-      "why": "The title and text suggest a significant geopolitical shift: the weakening of U.S. power and possible end of its regional dominance in the Middle East. This matters for international relations, security, and regional stability, though the provided text is very brief and mostly predictive rather than detailed."
+      "why": "It addresses a major geopolitical shift involving U.S. influence, Iran, and the future stability of the Middle East, making it highly relevant for international affairs and security analysis."
     },
     {
       "source": "Responsible Statecraft",
-      "title": "As Houthis encircle Taiz, Yemen's Saudi-backed gov't faces disaster",
-      "summary": "Taiz, Yemen\u2019s third-largest city, endured a siege from 2015 to 2017. Today, it is encircled again.The World Food Program says it cannot reach more than 600,000 people in and around the city. The International Organization for Migration...",
-      "link": "https://responsiblestatecraft.org/taiz-yemen-war/",
-      "published_at": "2026-10-20T04:05:03Z",
-      "ai_summary": "Houthis have again encircled Taiz, Yemen\u2019s third-largest city, threatening access to food and aid for more than 600,000 people despite support for the Saudi-backed government.",
-      "importance": 82,
-      "why": "The story highlights a major escalation in Yemen\u2019s conflict involving a key city, severe humanitarian access restrictions, and the vulnerability of the Saudi-backed government, making it highly significant regionally and for civilian suffering."
+      "title": "Most voters in key states want to block US arms transfers to Israel",
+      "summary": "A majority of likely voters in each of six key swing states \u2014 Georgia, Iowa, Maine, North Carolina, Ohio, and Texas \u2014 say they approve of measures to block the transfer of bombs to Israel, according to a new poll released Wednesday by the...",
+      "link": "https://responsiblestatecraft.org/iran-war-midterm-election/",
+      "published_at": "2026-10-21T18:59:58Z",
+      "ai_summary": "A new poll found majorities of likely voters in six swing states support blocking U.S. bomb transfers to Israel.",
+      "importance": 81,
+      "why": "This is politically significant because it suggests substantial voter support in multiple battleground states for restricting arms transfers to Israel, which could influence U.S. election messaging and foreign policy debates."
     },
     {
       "source": "War on the Rocks",
@@ -298,19 +297,9 @@
       "summary": "The Tehran that the world knew is gone. It died in the fires with former Supreme Leader Ali Khamenei on the first day of the war in February. His son and new Supreme Leader, Mojtaba Khamenei &#8212; wherever he is and in whatever physical...",
       "link": "https://warontherocks.com/tehran-is-a-different-beast-now/",
       "published_at": "2026-10-21T07:30:35Z",
-      "ai_summary": "The article argues that Tehran has fundamentally changed since the war began, describing a new political reality after the death of former Supreme Leader Ali Khamenei and the rise of his son Mojtaba Khamenei, though the excerpt cuts off before giving full details.",
-      "importance": 70,
-      "why": "It appears to describe a major geopolitical shift involving Iran\u2019s leadership and the transformation of Tehran during wartime, which would be significant for regional politics and security."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Encircled by War, Yemen's Taiz Residents Brace for Fighting and a Renewed Siege",
-      "summary": "Ansarallah now controls all entry points to Taiz, tightening a siege on Yemen&#8217;s third largest city and causing skyrocketing fuel prices, food shortages, and panic among residents.",
-      "link": "https://www.dropsitenews.com/p/yemen-taiz-ansarallah-siege-fuel-food-crisis",
-      "published_at": "2026-10-15T21:02:12Z",
-      "ai_summary": "Ansarallah now controls all entry points to Taiz, tightening a siege on Yemen's third-largest city and worsening fuel shortages, food scarcity, and panic among residents.",
-      "importance": 88,
-      "why": "The situation directly affects a major Yemeni city with large civilian consequences, including access to food, fuel, and safety. It reflects escalation in an ongoing conflict and could have significant humanitarian impact."
+      "ai_summary": "An article describing how Tehran has changed dramatically after a war that began in February and the death of former Supreme Leader Ali Khamenei, with his son Mojtaba Khamenei now leading.",
+      "importance": 76,
+      "why": "The text signals major political upheaval in Iran, including the death of a Supreme Leader and succession by his son during wartime. That makes it highly significant for regional stability, governance, and international security."
     }
   ]
 }
