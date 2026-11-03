@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-11-03T03:10:35.393382Z",
-  "top_story": "As winter approaches, Gaza\u2019s humanitarian collapse is intensifying faster than relief mechanisms can respond, with UN food cuts compounding the scarcity already facing Palestinians sheltering in tents and damaged homes. That pressure sits alongside the longer-running social breakdown visible in families like that of Kinaan Dadou, whose struggle to secure specialist care after a Hamas rocket injury underscores how war damage, internal Palestinian failures, and aid shortfalls are converging on civilians. Beyond Gaza, the late-October reassessment of Gulf defense spending after the US-Iran war points to a wider regional shift: governments are being pushed to question expensive security doctrines even as nearby societies absorb escalating human costs. The emerging picture is of a region where strategic militarization is proving far more resilient than civilian protection, deepening both political fragility and public hardship.",
+  "generated_at": "2026-11-03T17:27:04.464300Z",
+  "top_story": "Israel enters a more volatile phase as Likud weighs rejecting unfavorable election results, a step that could turn political polarization into an institutional crisis and further weaken restraints on violence beyond the Green Line. In the West Bank, that erosion is already felt at ground level: settler attacks have become severe enough for a school in al-Mughayyir to fortify itself after five students were killed last year, while violence predictably spikes when authorities remove illegal outposts, indicating that even limited enforcement can trigger retaliatory assaults on Palestinian communities. The older case of a Palestinian child permanently injured by a misfired Hamas rocket underscores that civilians remain trapped between abusive actors on all sides and then face chronic neglect in care and recovery. The clearest regional takeaway is that impunity\u2014whether in national politics, militant violence, or settler attacks\u2014is deepening civilian insecurity and narrowing the space for any credible rule of law.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Iran gives 2-day window for Hormuz deal as US mulls strikes: What to know",
-      "summary": "An Iranian spokesperson said on Monday that a revised proposal to reopen the Strait of Hormuz could take effect within two days if Washington meets its demands.",
-      "link": "https://www.al-monitor.com/originals/2026/11/iran-gives-2-day-window-hormuz-deal-us-mulls-strikes-what-know",
-      "published_at": "2026-11-02T16:18:09Z",
-      "ai_summary": "Iran said a revised proposal to reopen the Strait of Hormuz could take effect within two days if the U.S. meets its demands, amid reported consideration of U.S. strikes.",
-      "importance": 85,
-      "why": "The Strait of Hormuz is a critical global oil chokepoint, so any deal or escalation involving it has major geopolitical and economic implications."
+      "title": "Aramco begins expansion of oil export route bypassing Hormuz",
+      "summary": "The kingdom plans to expand the East-West Pipeline\u2019s capacity to carry crude to as much as 10 million barrels per day.",
+      "link": "https://www.al-monitor.com/originals/2026/11/aramco-begins-expansion-oil-export-route-bypassing-hormuz",
+      "published_at": "2026-11-03T15:59:44Z",
+      "ai_summary": "Saudi Aramco is expanding the East-West Pipeline so it can move up to 10 million barrels per day of crude, providing an export route that bypasses the Strait of Hormuz.",
+      "importance": 87,
+      "why": "This is highly important for global energy and geopolitics because it reduces Saudi Arabia\u2019s reliance on the vulnerable Hormuz chokepoint, improving supply security and potentially affecting oil market stability and regional power dynamics."
     },
     {
       "source": "Middle East Eye",
-      "title": "Iran has 'no intention' to engage in peace talks with US as war looms",
-      "summary": "Tehran dismisses diplomatic breakthrough with Washington as war of words escalates, while Rubio claims Trump has not made a decision on restarting war on Iran",
-      "link": "https://www.middleeasteye.net/news/iran-has-no-intention-engage-peace-talks-united-states-war-looms",
-      "published_at": "2026-11-01T11:39:00Z",
-      "ai_summary": "Iran says it has no intention of entering peace talks with the US as tensions rise and the prospect of war looms, while US officials say no final decision has been made on resuming military action.",
-      "importance": 87,
-      "why": "The story concerns escalating US-Iran tensions, possible war, and statements from both Tehran and Washington, making it geopolitically significant and newsworthy."
+      "title": "Israeli forces kill 19 Palestinians in three days of Gaza attacks",
+      "summary": "Latest attacks include air strikes on a university and police and security personnel in Khan Younis",
+      "link": "https://www.middleeasteye.net/news/israeli-forces-kill-16-palestinians-three-days-gaza-attacks",
+      "published_at": "2026-11-03T12:11:00Z",
+      "ai_summary": "Israeli forces killed 19 Palestinians over three days in Gaza, including in air strikes on a university and on police and security personnel in Khan Younis.",
+      "importance": 89,
+      "why": "This is a significant escalation in the Gaza conflict, involving multiple days of attacks and a substantial death toll, including strikes on civilian infrastructure and security personnel."
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
-      "summary": "Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
-      "published_at": "2026-11-02T00:00:00Z",
-      "ai_summary": "Trump signals progress on Iran deal while Tehran says it can quickly reopen the Strait of Hormuz if the US accepts its terms.",
-      "importance": 79,
-      "why": "This concerns a major geopolitical and energy chokepoint, the Strait of Hormuz, where any movement on a deal or ceasefire could affect regional security, global oil markets, and US-Iran relations."
+      "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
+      "summary": "Political disputes and war worsen Lebanon\u2019s electricity crisis, as experts say deeper reforms are necessary.",
+      "link": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens",
+      "published_at": "2026-11-03T00:00:00Z",
+      "ai_summary": "Lebanon is cutting power to public bodies as political disputes and war intensify an already severe electricity crisis, with experts saying major reforms are needed.",
+      "importance": 83,
+      "why": "The story concerns a worsening national infrastructure crisis affecting public institutions and broader governance, with implications for daily life, state functioning, and reform needs."
     },
     {
       "source": "Guardian",
-      "title": "\u2018What\u2019s our crime?\u2019: A Palestinian family\u2019s fight to get care for son injured by Hamas rocket",
-      "summary": "Kinaan Dadou, 10, has been left disabled since 7 October 2023 as his parents struggle to find funding for specialist treatmentIt was 7.30am on 7 October 2023 when a Hamas rocket exploded next to 7-year-old Kinaan Dadou. The rocket was...",
-      "link": "https://www.theguardian.com/world/2026/nov/01/palestinian-family-fight-care-son-hamas-rocket",
-      "published_at": "2026-11-01T06:00:03Z",
-      "ai_summary": "A Palestinian family is struggling to secure funding and specialist care for Kinaan Dadou, who was severely injured and left disabled after a Hamas rocket exploded near him on 7 October 2023.",
-      "importance": 87,
-      "why": "This is a human-interest and conflict-related story with significant humanitarian relevance: it highlights civilian harm from the war, the long-term medical needs of an injured child, and the family\u2019s difficulty accessing treatment and funding."
+      "title": "\u2018Our aim is that children are protected\u2019: besieged West Bank school fortifies its defences against settler violence",
+      "summary": "After deaths of five students at hands of Israeli settlers in last academic year, al-Mughayyir\u2019s teachers and pupils are on high alertThis year, parents in al-Mughayyir had to be persuaded to send their children back to school. Israeli...",
+      "link": "https://www.theguardian.com/world/2026/nov/03/our-aim-is-that-children-are-protected-besieged-west-bank-school-fortifies-its-defences-against-settler-violence",
+      "published_at": "2026-11-03T06:00:41Z",
+      "ai_summary": "A West Bank school in al-Mughayyir is reinforcing security and living on high alert after five students were killed by Israeli settlers in the previous academic year, making parents reluctant to send children back.",
+      "importance": 89,
+      "why": "This is a serious human-rights and conflict-related story involving child safety, settler violence, and the impact of the Israeli-Palestinian conflict on education and civilian life."
     },
     {
       "source": "Haaretz",
-      "title": "IDF Believes Hamas Rebuilding Weapons Arsenal in Gaza, Possesses Hundreds of Missiles",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-02/ty-article/.premium/idf-warns-hamas-rebuilding-weapons-production-urges-end-to-west-bank-operation/000001a1-98a9-dc07-a3f5-dabb61bf0000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-02/ty-article/.premium/idf-warns-hamas-rebuilding-weapons-production-urges-end-to-west-bank-operation/000001a1-98a9-dc07-a3f5-dabb61bf0000",
-      "published_at": "2026-11-02T00:00:00Z",
-      "ai_summary": "The IDF believes Hamas is rebuilding its weapons-production capabilities in Gaza and still has hundreds of missiles, according to the report.",
-      "importance": 87,
-      "why": "This is highly relevant security news involving an active militant organization rebuilding its arsenal, which could affect regional stability, military operations, and ceasefire/diplomatic dynamics."
+      "title": "Netanyahu's Likud Weighs Refusing to Recognize Election Results",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-03/ty-article/.premium/netanyahus-likud-weighs-refusing-to-recognize-election-results/000001a1-a02f-db9a-a1b3-b83f2d610000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-11-03/ty-article/.premium/netanyahus-likud-weighs-refusing-to-recognize-election-results/000001a1-a02f-db9a-a1b3-b83f2d610000",
+      "published_at": "2026-11-03T00:00:00Z",
+      "ai_summary": "Haaretz reports that Netanyahu\u2019s Likud is considering refusing to recognize election results, raising concerns about a possible challenge to democratic norms and a post-election constitutional crisis in Israel.",
+      "importance": 92,
+      "why": "The headline suggests a major threat to electoral legitimacy and democratic stability in Israel. If a leading governing party refuses to accept results, it could trigger significant political turmoil, legal conflict, and international attention."
     },
     {
       "source": "Drop Site News",
@@ -58,59 +58,59 @@
       "summary": "As winter approaches, Palestinians in Gaza are desperately trying to prepare their tents and damaged homes while food cuts by the World Food Programme are exacerbating rising levels of hunger.",
       "link": "https://www.dropsitenews.com/p/gaza-wfp-food-cuts-hunger-tents-winter",
       "published_at": "2026-11-02T23:01:27Z",
-      "ai_summary": "Gaza faces worsening hunger and hardship as winter nears, with UN food cuts and limited humanitarian aid deepening the crisis for Palestinians living in tents and damaged homes.",
-      "importance": 90,
-      "why": "The text describes a severe humanitarian situation affecting a large civilian population, with food assistance cuts and escalating hunger. This is highly consequential due to the immediate risk to health, survival, and living conditions."
+      "ai_summary": "Gaza is facing worsening hunger as winter nears, with the World Food Programme\u2019s food cuts and limited humanitarian aid making conditions more severe for Palestinians trying to survive in tents and damaged homes.",
+      "importance": 89,
+      "why": "This reports on a major humanitarian crisis affecting a large civilian population, with immediate risks from hunger and deteriorating living conditions."
     },
     {
       "source": "Al Monitor",
-      "title": "UAE taps French firm for first-ever natural hydrogen exploration: What to know",
-      "summary": "Under the UAE National Hydrogen Strategy 2050, the Gulf country aims to establish itself as a global producer and supplier of low-emission hydrogen by 2031 while supporting its net-zero emissions target by 2050.",
-      "link": "https://www.al-monitor.com/originals/2026/11/uae-taps-french-firm-first-ever-natural-hydrogen-exploration-what-know",
-      "published_at": "2026-11-02T17:40:03Z",
-      "ai_summary": "The UAE is exploring natural hydrogen for the first time by partnering with a French firm, as part of its Hydrogen Strategy 2050 and broader goals to become a major low-emission hydrogen producer by 2031 and reach net-zero by 2050.",
-      "importance": 81,
-      "why": "This is important because it signals a new energy exploration initiative in a major oil-producing country, aligned with long-term decarbonization and hydrogen industry ambitions. It could affect future energy policy, investment, and regional hydrogen markets."
+      "title": "Thousands of pregnant women at risk in Yemeni city of Taiz, UN agency says",
+      "summary": "By Olivia Le PoidevinGENEVA, Nov 3 (Reuters) - Fighting and access restrictions in and around the Yemeni city ofTaiz have left more than 13,000 pregnant women without essential healthcare and are leading to more miscarriages, the United...",
+      "link": "https://www.al-monitor.com/originals/2026/11/thousands-pregnant-women-risk-yemeni-city-taiz-un-agency-says",
+      "published_at": "2026-11-03T14:46:29Z",
+      "ai_summary": "Fighting and access restrictions in and around Taiz, Yemen have left over 13,000 pregnant women without essential healthcare, contributing to increased miscarriages, according to a UN agency.",
+      "importance": 85,
+      "why": "This reports a significant humanitarian crisis affecting thousands of pregnant women in an active conflict zone, with direct implications for maternal health and access to care."
     },
     {
       "source": "Middle East Eye",
-      "title": "\u2018Our bombs killed hostages\u2019 in Gaza, says former Israeli army chief",
-      "summary": "Approximately 87 died in captivity in Gaza or were taken there after having already died",
-      "link": "https://www.middleeasteye.net/news/israel-former-army-chief-says-our-bombs-killed-captives",
-      "published_at": "2026-11-02T10:43:00Z",
-      "ai_summary": "The statement says that around 87 people died in captivity in Gaza or were already dead when taken there, amid claims that Israeli bombs killed hostages.",
-      "importance": 85,
-      "why": "This is highly important because it concerns hostage deaths in the Gaza conflict and implies possible responsibility of Israeli military action, making it politically and emotionally significant."
+      "title": "Iran says US ceasefire proposal 'insufficient' as strikes are reported on Qeshm Island",
+      "summary": "US officials said they launched 'defensive' strikes on Qeshm Island, the same day Trump vowed not to attack Iran",
+      "link": "https://www.middleeasteye.net/news/iran-says-us-ceasefire-proposal-insufficient-strikes-are-reported-qeshm-island",
+      "published_at": "2026-11-03T17:22:00Z",
+      "ai_summary": "Iran rejected a US ceasefire proposal as insufficient while reports said strikes hit Qeshm Island the same day Trump said he would not attack Iran.",
+      "importance": 89,
+      "why": "It involves potential military escalation between the US and Iran, conflicting public statements by US leadership, and reported strikes that could affect regional security and markets."
     },
     {
       "source": "Al Jazeera",
-      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-      "summary": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings",
-      "published_at": "2026-11-02T00:00:00Z",
-      "ai_summary": "China is increasing Middle East diplomatic engagement by urging dialogue over a possible US-Iran conflict, sending an envoy to the Gulf, and hosting Oman\u2019s head of state for the first time since 1978.",
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+      "summary": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+      "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery",
+      "published_at": "2026-11-03T00:00:00Z",
+      "ai_summary": "Syria accused Hezbollah of plotting to target the Homs oil refinery, while Hezbollah denied the accusation and said it has no presence in Syria.",
       "importance": 79,
-      "why": "This signals active Chinese involvement in regional diplomacy and potential efforts to shape tensions involving Iran and Gulf states, which could affect broader Middle East stability and major-power relations."
+      "why": "The report concerns a serious alleged security incident involving Syria and Hezbollah, with potential implications for regional stability, energy infrastructure, and cross-border tensions."
     },
     {
       "source": "Guardian",
-      "title": "\u2018You need the power of all your votes\u2019: Bedouin women secure success for Arab parties in Israeli election",
-      "summary": "With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats Last year, Umm Khaled Fatoun returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers...",
-      "link": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
-      "published_at": "2026-10-31T17:16:24Z",
-      "ai_summary": "The article describes how Bedouin women\u2019s high voter turnout played a decisive role in helping Arab parties win an unprecedented 19 seats in the Israeli election, highlighting the political influence of the Bedouin community and women organizers.",
-      "importance": 87,
-      "why": "It concerns a major election outcome in Israel and shows a significant political development: Bedouin participation, especially by women, directly affected Arab parties\u2019 success and representation in parliament."
+      "title": "\u2018What\u2019s our crime?\u2019: A Palestinian family\u2019s fight to get care for son injured by Hamas rocket",
+      "summary": "Kinaan Dadou, 10, has been left disabled since 7 October 2023 as his parents struggle to find funding for specialist treatmentIt was 7.30am on 7 October 2023 when a Hamas rocket exploded next to 7-year-old Kinaan Dadou. The rocket was...",
+      "link": "https://www.theguardian.com/world/2026/nov/01/palestinian-family-fight-care-son-hamas-rocket",
+      "published_at": "2026-11-01T06:00:03Z",
+      "ai_summary": "A Palestinian boy, Kinaan Dadou, was left disabled after a Hamas rocket exploded near him on 7 October 2023, and his family is now struggling to secure funding for specialist medical treatment.",
+      "importance": 89,
+      "why": "The story is highly important because it combines a major wartime civilian injury with an ongoing humanitarian and medical access crisis. It highlights the impact of Hamas rockets on Palestinian civilians and the difficulty families face in obtaining specialized care and funding."
     },
     {
       "source": "Haaretz",
-      "title": "Lieberman Says He Will Recommend Eisenkot to Form Coalition, Backs Lapid for Knesset Speaker",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-02/ty-article/.premium/lieberman-backs-eisenkot-to-form-coalition-lapid-for-knesset-speaker/000001a1-9c1c-d125-a3b1-fddec9950000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-02/ty-article/.premium/lieberman-backs-eisenkot-to-form-coalition-lapid-for-knesset-speaker/000001a1-9c1c-d125-a3b1-fddec9950000",
+      "title": "IDF Believes Hamas Rebuilding Weapons Arsenal in Gaza, Possesses Hundreds of Missiles",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-02/ty-article/.premium/idf-warns-hamas-rebuilding-weapons-production-urges-end-to-west-bank-operation/000001a1-98a9-dc07-a3f5-dabb61bf0000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-02/ty-article/.premium/idf-warns-hamas-rebuilding-weapons-production-urges-end-to-west-bank-operation/000001a1-98a9-dc07-a3f5-dabb61bf0000",
       "published_at": "2026-11-02T00:00:00Z",
-      "ai_summary": "Avigdor Lieberman said he will recommend Gadi Eisenkot to be tasked with forming a coalition and said he supports Yair Lapid for Knesset speaker.",
-      "importance": 71,
-      "why": "This is politically significant because it signals Lieberman\u2019s public positioning ahead of coalition negotiations and Knesset leadership decisions, which can affect government formation dynamics."
+      "ai_summary": "The IDF says Hamas is rebuilding its weapons production and stockpiles in Gaza, including hundreds of missiles, and is urging an end to a West Bank operation.",
+      "importance": 86,
+      "why": "This is a significant national security development involving renewed militant armament, potential escalation in Gaza, and implications for Israeli military planning and regional stability."
     },
     {
       "source": "Drop Site News",
@@ -118,133 +118,103 @@
       "summary": "The candidate for California&#8217;s 11th Congressional District recently said that he supported a ceasefire in late 2023. At the time, he lobbied against a local ceasefire resolution in San Francisco.",
       "link": "https://www.dropsitenews.com/p/scott-wiener-congress-israel-gaza",
       "published_at": "2026-11-02T18:02:03Z",
-      "ai_summary": "The text says California candidate Scott Wiener recently claimed to support a Gaza ceasefire in late 2023, but he had previously lobbied against a local ceasefire resolution in San Francisco.",
-      "importance": 72,
-      "why": "This is politically significant because it highlights a discrepancy between a candidate\u2019s recent public position and prior actions on a major foreign policy issue. It could affect voter perceptions and campaign coverage, especially in a congressional race."
+      "ai_summary": "The article says California candidate Scott Wiener recently claimed he supported a Gaza ceasefire in late 2023, but at that same time he reportedly lobbied against a local ceasefire resolution in San Francisco.",
+      "importance": 78,
+      "why": "It involves a prominent California political figure and alleges a contradiction between his public claim and past actions on a major foreign policy issue, which could affect voter perceptions and campaign coverage."
     }
   ],
   "regional_analysis": [
-    {
-      "source": "Al Jazeera",
-      "title": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
-      "summary": "Recent military advances by Yemeni government forces highlight the geographic and strategic significance of Al-Jawf.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis",
-      "published_at": "2026-11-02T00:00:00Z",
-      "ai_summary": "Yemeni government forces have made recent military advances in Al-Jawf, underscoring the governorate's strategic importance in the Yemen war.",
-      "importance": 79,
-      "why": "The item highlights an active front in the Yemen conflict and explains why Al-Jawf matters militarily and geographically, making it relevant for understanding the war\u2019s evolving dynamics."
-    },
     {
       "source": "Haaretz",
       "title": "Israel Election Count Completed: These Are the Final Results",
       "summary": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article-magazine/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000",
       "link": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article-magazine/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000",
       "published_at": "2026-10-29T00:00:00Z",
-      "ai_summary": "The article reports that Israel\u2019s election count has been completed and presents the final results, detailing the seat distribution and the implications for coalition-building and government formation.",
-      "importance": 78,
-      "why": "This is a significant political update because final election results determine party strengths, coalition prospects, and the direction of Israel\u2019s next government. It is highly relevant for domestic politics and international observers, though it is less broadly important than major security or crisis events."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Top Arab-Israeli leader tells AFP opposition must join to oust Netanyahu",
-      "summary": "The leader of the largest Arab-majority party in the incoming Israeli parliament told AFP on Monday that it was time for reluctant opposition members to accept \"political reality\" and join forces to unseat Prime Minister Benjamin...",
-      "link": "https://www.al-monitor.com/originals/2026/11/top-arab-israeli-leader-tells-afp-opposition-must-join-oust-netanyahu",
-      "published_at": "2026-11-02T18:30:44Z",
-      "ai_summary": "Largest Arab-majority party leader says opposition should unite and accept political reality to help remove Netanyahu from power.",
-      "importance": 75,
-      "why": "This concerns Israeli parliamentary politics and a possible coalition shift involving the largest Arab-majority party, which could affect government formation and Netanyahu's future."
+      "ai_summary": "I can\u2019t access the article content from the link alone, so I can\u2019t accurately summarize its final election results without the text.",
+      "importance": 85,
+      "why": "Election results are highly important public-interest information with potential impact on government formation, policy, and markets."
     },
     {
       "source": "Al Jazeera",
-      "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
-      "summary": "Network calls move \u2018assault\u2019 on press freedom, warns of \u2018dangerous pattern\u2019 that undermines ability to report facts.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting",
-      "published_at": "2026-11-02T00:00:00Z",
-      "ai_summary": "Al Jazeera condemns the extension of an Israeli ban on its operations, calling it an attack on press freedom and urging its immediate removal.",
-      "importance": 74,
-      "why": "The item involves press freedom and a state-imposed media restriction affecting international reporting access, which is significant for journalism, media policy, and the Israel-Palestine conflict."
+      "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
+      "summary": "As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings.",
+      "link": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings",
+      "published_at": "2026-11-03T00:00:00Z",
+      "ai_summary": "Israel\u2019s inconclusive election is unfolding alongside intensified pressure on Palestinians, including West Bank closures and deadly incidents in Gaza.",
+      "importance": 79,
+      "why": "The item links a major political deadlock in Israel with immediate humanitarian and security consequences for Palestinians in the West Bank and Gaza, making it significant for regional stability and current affairs."
     },
     {
       "source": "Al Jazeera",
-      "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-      "summary": "Displaced Hebron families return to damaged homes, left to pick up scattered pieces of their lives after Israeli siege.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege",
-      "published_at": "2026-11-02T00:00:00Z",
-      "ai_summary": "Displaced Hebron families have returned to damaged homes after an Israeli siege, facing the task of recovering and piecing back together their lives.",
+      "title": "Israel\u2019s opposition leaders back Eisenkot to oust Netanyahu",
+      "summary": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+      "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu",
+      "published_at": "2026-11-03T00:00:00Z",
+      "ai_summary": "Israel\u2019s opposition leaders are backing Eisenkot as part of an effort to remove Netanyahu, while remaining divided over whether to partner with Arab-led parties.",
       "importance": 73,
-      "why": "The item reports the humanitarian impact of a siege on civilians in Hebron, including displacement and damage to homes, which makes it a significant local human-rights and conflict-related development."
+      "why": "The item concerns a potential shift in Israel\u2019s government leadership and highlights continuing opposition fragmentation over coalition strategy, both of which are politically significant and could affect near-term governance."
+    },
+    {
+      "source": "Haaretz",
+      "title": "A New Class of Jewish Democrats Could Reshape Congress' Approach to Israel",
+      "summary": "https://www.haaretz.com/us-news/2026-11-03/ty-article-magazine/.premium/a-new-class-of-jewish-democrats-could-reshape-congress-approach-to-israel/000001a1-9e3c-df63-ade5-fe7f81400000",
+      "link": "https://www.haaretz.com/us-news/2026-11-03/ty-article-magazine/.premium/a-new-class-of-jewish-democrats-could-reshape-congress-approach-to-israel/000001a1-9e3c-df63-ade5-fe7f81400000",
+      "published_at": "2026-11-03T00:00:00Z",
+      "ai_summary": "The article argues that a newer generation of Jewish Democrats in Congress is less reflexively aligned with Israel\u2019s traditional political stance and may push for a more conditional, critical, or human-rights-focused U.S. approach toward Israel.",
+      "importance": 72,
+      "why": "This is politically significant because changes in Jewish Democratic lawmakers\u2019 views could affect congressional debate, U.S.-Israel policy, aid conditions, and the broader Democratic Party\u2019s positioning on one of the most sensitive foreign policy issues in Washington."
     },
     {
       "source": "Al Monitor",
-      "title": "Israel's far-right supporters hold out hope for return to power",
-      "summary": "Itamar Ben Gvir, the far-right Israeli firebrand who achieved international notoriety as part of the outgoing government, fell short of expectations that he would gain ground in the latest election. But support remains. Under the blazing...",
-      "link": "https://www.al-monitor.com/originals/2026/11/israels-far-right-supporters-hold-out-hope-return-power",
-      "published_at": "2026-11-03T01:30:25Z",
-      "ai_summary": "Far-right Israeli politician Itamar Ben Gvir underperformed in the latest election compared with expectations, but his base of support still remains active and hopeful for a return to power.",
+      "title": "Baghdad's first Jewish museum opens its doors",
+      "summary": "Dozens of visitors have begun flocking to a new museum opened by Iraq's Jewish community, the first of its kind, amid ongoing efforts by the minority to preserve its heritage. Last month, the Shamash Jewish Museum opened inside a former...",
+      "link": "https://www.al-monitor.com/originals/2026/11/baghdads-first-jewish-museum-opens-its-doors",
+      "published_at": "2026-11-03T14:30:26Z",
+      "ai_summary": "Iraq\u2019s Jewish community has opened the country\u2019s first Jewish museum in Baghdad, drawing visitors as part of efforts to preserve Jewish heritage.",
       "importance": 65,
-      "why": "The piece concerns Israeli election politics and the standing of a prominent far-right figure, which is important for understanding the country\u2019s current governing dynamics and possible policy direction, but it is not an immediate breaking development from the provided excerpt."
+      "why": "It marks a notable cultural and historical development in Iraq, highlighting preservation of a dwindling minority\u2019s heritage and renewed public visibility for the Jewish community."
     },
     {
-      "source": "Al Monitor",
-      "title": "Israel president welcomes Boy George, rare supportive pop star",
-      "summary": "All eyes are on Israel's president as he is expected this week to name the person tasked with forming the next government. But first, on Monday, he had another important guest -- Boy George. The British singer, a rare Western pop celebrity...",
-      "link": "https://www.al-monitor.com/originals/2026/11/israel-president-welcomes-boy-george-rare-supportive-pop-star",
-      "published_at": "2026-11-02T16:30:22Z",
-      "ai_summary": "Israel\u2019s president met with British singer Boy George, described as a rare Western pop celebrity showing support for Israel, ahead of the political task of naming the next government-forming leader.",
-      "importance": 47,
-      "why": "The story is light but notable because it links a public cultural figure to Israeli politics and diplomacy. It is not a major geopolitical event, but it may be of moderate interest due to the celebrity involvement and the timing around government formation."
+      "source": "Al Jazeera",
+      "title": "Iran commander sets out five conditions for regional security",
+      "summary": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was \u2018hopeful\u2019 of an agreement.",
+      "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
+      "published_at": "2026-11-03T00:00:00Z",
+      "ai_summary": "Qatar says the US and Iran are reviewing proposals to restart negotiations and remains hopeful an agreement can be reached.",
+      "importance": 55,
+      "why": "The text suggests possible progress in US-Iran diplomacy, which matters for regional security and international relations, but it is brief and contains no concrete agreement or policy change yet."
     }
   ],
   "deep_analysis": [
     {
       "source": "Middle East Eye",
-      "title": "UAE candidate to head UN finishes fourth in first Security Council straw poll",
-      "summary": "Lana Nusseibeh secures seven 'encourage' votes in first Security Council ballot as rights groups and regional blocs challenge Abu Dhabi's bid",
-      "link": "https://www.middleeasteye.net/news/uae-candidate-head-un-finishes-fourth-first-security-council-straw-poll",
-      "published_at": "2026-10-31T15:57:00Z",
-      "ai_summary": "Lana Nusseibeh, the UAE\u2019s candidate to lead the UN, placed fourth in the Security Council\u2019s first straw poll, receiving seven \"encourage\" votes amid criticism from rights groups and regional blocs.",
-      "importance": 75,
-      "why": "This is significant because it concerns leadership of the UN, a major international institution, and the result suggests the UAE\u2019s bid faces notable resistance in the Security Council."
+      "title": "\u2018Death is closer than school\u2019: Yemen\u2019s children struggle with war trauma",
+      "summary": "Renewed fighting around Taiz has left children with nightmares, bedwetting and constant fear, while schools remain closed and psychological support is scarce",
+      "link": "https://www.middleeasteye.net/news/death-closer-school-yemens-children-struggle-war-trauma",
+      "published_at": "2026-11-03T09:02:00Z",
+      "ai_summary": "Renewed fighting around Taiz in Yemen has left children traumatized, with nightmares, bedwetting, and constant fear, while school closures and scarce psychological support deepen the crisis.",
+      "importance": 89,
+      "why": "The story highlights the severe impact of ongoing conflict on children\u2019s mental health and education, showing both immediate trauma and long-term social consequences in a war-affected region."
     },
     {
       "source": "Middle East Eye",
-      "title": "\u2018Those children in Gaza are our children\u2019: Macklemore finishes Free Palestine tour with sold-out London performance",
-      "summary": "From Hozier and Kneecap in Dublin to Greta Thunberg and Arab Barghouti in London, the tour drew high-profile support for Palestinian rights and humanitarian relief",
-      "link": "https://www.middleeasteye.net/news/those-children-gaza-are-our-children-macklemore-ends-free-palestine-tour-london",
-      "published_at": "2026-10-31T14:52:00Z",
-      "ai_summary": "Macklemore concluded his Free Palestine tour with a sold-out London show, part of a run that drew prominent support from artists and activists for Palestinian rights and humanitarian relief.",
-      "importance": 75,
-      "why": "The piece centers on a high-profile cultural event tied to the Gaza conflict and Palestinian advocacy, with notable public figures involved, making it moderately significant for politics and culture."
+      "title": "Israeli prison guards \u2018shot prominent Palestinian detainees nine times\u2019",
+      "summary": "Hassan Salameh was beaten and shot inside his cell, possibly with rubber-coated bullets, after Ben-Gvir stormed the prison, his fiancee and a prisoner rights group say",
+      "link": "https://www.middleeasteye.net/news/israeli-prison-guards-shot-prominent-palestinian-detainees-nine-times",
+      "published_at": "2026-11-03T15:45:00Z",
+      "ai_summary": "Reports allege that Palestinian detainee Hassan Salameh was beaten and shot in his cell by Israeli prison guards, possibly with rubber-coated bullets, following a prison raid linked to Ben-Gvir's visit.",
+      "importance": 89,
+      "why": "The incident involves alleged serious abuse of a prominent detainee in custody and could have significant human rights, legal, and political ramifications."
     },
     {
       "source": "Middle East Eye",
-      "title": "Israel's first ambassador to Somaliland has credentials accepted",
-      "summary": "Israel, the only country to recognise breakaway Somali territory, continues to strengthen its ties",
-      "link": "https://www.middleeasteye.net/news/israels-first-ambassador-somaliland-has-credentials-accepted",
-      "published_at": "2026-11-02T12:56:00Z",
-      "ai_summary": "Israel\u2019s first ambassador to Somaliland had his credentials accepted, signaling a strengthening of ties between Israel and the breakaway Somali territory.",
-      "importance": 75,
-      "why": "This is notable diplomatically because it reflects an upgraded official relationship between Israel and Somaliland, and the text highlights Israel as the only country recognizing Somaliland, making the move geopolitically significant."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "Palestine in Context: Israel's Elections with Diana Buttu (30 October)",
-      "summary": "In conversation with Bassam Haddad  In this conversation,\u00a0Diana Buttu provides an update on Israel\u2019s elections and the resulting gridlock. She\u00a0addresses the peculiarities of the new contender Eisenkot as well as the nature and politics of...",
-      "link": "https://www.jadaliyya.com/Details/48135/Palestine-in-Context-Israels-Elections-with-Diana-Buttu-30-October",
-      "published_at": null,
-      "ai_summary": "Diana Buttu discusses Israel\u2019s elections, the resulting political gridlock, and the significance of new contender Eisenkot, in conversation with Bassam Haddad.",
-      "importance": 68,
-      "why": "The item offers political analysis of Israeli elections and broader Palestine/Israel dynamics, which is timely and relevant, but the provided text is brief and appears to be a conversation rather than a major standalone event or policy announcement."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "Launching 'Israel\u2019s Zombie Economy:' A Five Part Interview Series",
-      "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
-      "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
-      "published_at": null,
-      "ai_summary": "Jadaliyya launches a five-part interview series titled \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
-      "importance": 58,
-      "why": "The item announces a multi-part interview series on a significant political-economic topic, but the text is brief and promotional rather than presenting major breaking news or substantive findings."
+      "title": "Why Palestinian electoral gains in Israel cannot alter the racist structure of the state",
+      "summary": "The existence of parliamentary representation negates neither the apartheid regime nor the 50 discriminatory laws that govern the lives of Palestinian citizens of Israel",
+      "link": "https://www.middleeasteye.net/opinion/why-palestinian-electoral-gains-Israel-cannot-alter-racist-structure-state",
+      "published_at": "2026-10-30T07:28:00Z",
+      "ai_summary": "Argues that Palestinian electoral gains in Israel do not change the state\u2019s racist and apartheid structure, since discriminatory laws and regime practices remain in place.",
+      "importance": 79,
+      "why": "The title and text present a clear political claim about representation versus structural discrimination. It is important for understanding debates on Israeli democracy, apartheid, and Palestinian \u0928\u093e\u0917\u0930\u093f\u0915 rights, but it is a commentary/opinion piece rather than a source of new factual data."
     },
     {
       "source": "Jadaliyya",
@@ -252,20 +222,29 @@
       "summary": "The War on Iran SeriesOrganized by Jadaliyya and Security in Context   Sina Toossi addresses essential developments and junctures over the last seven months in the war on Iran. He examines some of the contextual topics that have been...",
       "link": "https://www.jadaliyya.com/Details/47910/The-War-on-Iran-Seven-Months-On-with-Sina-Toossi-2-October",
       "published_at": null,
-      "ai_summary": "A talk by Sina Toossi reviewing key developments and turning points in the first seven months of the war on Iran, organized by Jadaliyya and Security in Context.",
-      "importance": 54,
-      "why": "This appears to be a timely analysis of an ongoing conflict, but the provided text is brief and mostly promotional. It is relevant for understanding current geopolitical developments, though not clearly essential without more detail."
+      "ai_summary": "Sina Toossi reviews key developments and turning points in the first seven months of the war on Iran, situating them within broader contextual issues.",
+      "importance": 68,
+      "why": "It appears to be an analytical update on an ongoing conflict, relevant for understanding developments and context, but the provided text is brief and seems more commentary than a major breaking event."
     },
     {
-      "source": "Carnegie ME",
-      "title": "A Celebration or Funeral in Iraq?",
-      "summary": "As the U.S.-led Coalition withdraws, the Kurds\u2019 reliance on Baghdad, and on themselves, will only increase.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/a-celebration-or-funeral-in-iraq",
-      "date": "Oct 2, 2026",
+      "source": "Jadaliyya",
+      "title": "Palestine in Context: Israel's Elections with Diana Buttu (30 October)",
+      "summary": "In conversation with Bassam Haddad  In this conversation,\u00a0Diana Buttu provides an update on Israel\u2019s elections and the resulting gridlock. She\u00a0addresses the peculiarities of the new contender Eisenkot as well as the nature and politics of...",
+      "link": "https://www.jadaliyya.com/Details/48135/Palestine-in-Context-Israels-Elections-with-Diana-Buttu-30-October",
       "published_at": null,
-      "ai_summary": "The text reflects on the U.S.-led Coalition\u2019s withdrawal from Iraq and argues that the Kurds will increasingly depend on Baghdad and their own capabilities.",
-      "importance": 73,
-      "why": "It concerns Iraq\u2019s political future, Kurdish autonomy, and the consequences of the coalition\u2019s withdrawal\u2014issues with significant regional and geopolitical importance."
+      "ai_summary": "Conversation with Diana Buttu, in dialogue with Bassam Haddad, offering an update on Israel\u2019s elections, the resulting political gridlock, the new contender Eisenkot, and the broader nature and politics shaping the current situation.",
+      "importance": 68,
+      "why": "The item is moderately important because it discusses current Israeli electoral politics and gridlock through an expert Palestinian perspective, which is relevant to understanding the regional political context."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "In Defense of Academic Freedom: The Circus of Academic Complicity Part 1 (15 October)",
+      "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
+      "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
+      "published_at": null,
+      "ai_summary": "Announcement for an academic freedom event titled \u201cIn Defense of Academic Freedom: The Circus of Academic Complicity Part 1\u201d held on 15 October, organized by regional faculty groups and cosponsored by academic freedom and Palestine-focused organizations.",
+      "importance": 48,
+      "why": "The text appears to be an event announcement involving academic freedom and Gaza/Palestine advocacy, with several academic organizations involved. It is relevant for tracking scholarly activism and institutional positions, but it is mainly informational rather than broadly consequential."
     },
     {
       "source": "Carnegie ME",
@@ -274,9 +253,20 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
       "date": "Oct 9, 2026",
       "published_at": null,
-      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those rooted in the war years, as formal transitional justice efforts stall.",
+      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those stemming from the war years, as transitional justice efforts stall.",
+      "importance": 73,
+      "why": "This indicates an alternative grassroots dispute-resolution mechanism filling a governance and justice gap in post-war Syria, which is significant for local stability and the broader transitional justice process."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "A Celebration or Funeral in Iraq?",
+      "summary": "As the U.S.-led Coalition withdraws, the Kurds\u2019 reliance on Baghdad, and on themselves, will only increase.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/a-celebration-or-funeral-in-iraq",
+      "date": "Oct 2, 2026",
+      "published_at": null,
+      "ai_summary": "The piece argues that as the U.S.-led Coalition withdraws from Iraq, Kurdish leaders will become increasingly dependent on Baghdad and their own internal capabilities, with the withdrawal marking a pivotal and uncertain moment for Iraqi Kurds.",
       "importance": 63,
-      "why": "The item is relevant because it highlights an emerging local governance and conflict-resolution mechanism filling a justice gap in postwar Syria. It matters for understanding stabilization, reconciliation, and the broader failure or delay of transitional justice processes, though it is not a major breaking event on its own."
+      "why": "It concerns Iraq\u2019s post-withdrawal political balance and the future of Kurdish autonomy, which are significant strategic issues, though the title and text suggest a relatively narrow regional focus."
     },
     {
       "source": "Responsible Statecraft",
@@ -284,9 +274,19 @@
       "summary": "\u201cAnything\u2019s possible\u201d was Donald Trump\u2019s response when asked if he would launch a new attack on Iran after the midterm elections. Fears of what a return to all-out war would bring have set off a flurry of diplomacy. Two noteworthy tracks...",
       "link": "https://responsiblestatecraft.org/europe-iran-war/",
       "published_at": "2026-10-31T04:05:02Z",
-      "ai_summary": "The article says Trump\u2019s threat of renewed military action against Iran has alarmed regional leaders, prompting diplomatic efforts and making Europe look like a key potential mediator.",
-      "importance": 76,
-      "why": "It concerns a major geopolitical flashpoint involving the US, Iran, the Middle East, and European diplomacy, with possible implications for war, regional stability, and global security."
+      "ai_summary": "The article says Trump\u2019s heightened rhetoric about possible new attacks on Iran has alarmed regional actors and triggered diplomatic efforts, with some leaders turning to Europe as a stabilizing counterweight. It frames the moment as a dangerous escalation risk in the Middle East and a search for alternative diplomatic channels.",
+      "importance": 80,
+      "why": "This is a geopolitically significant development involving the U.S., Iran, and broader regional security. Trump\u2019s threat of renewed military action could materially affect conflict escalation, diplomacy, and international alignment, especially if European leaders become more involved."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Record-High Heating Oil Prices Are Closing Argument in Maine Senate Race",
+      "summary": "The Iran War is driving Maine heating oil prices through the roof, leaving Mainers in dire straits days ahead of the U.S. Senate election.",
+      "link": "https://www.dropsitenews.com/p/maine-heating-oil-prices-senate-susan-collins-troy-jackson",
+      "published_at": "2026-10-30T17:11:04Z",
+      "ai_summary": "The Iran war is reportedly driving heating oil prices to record highs in Maine, creating hardship for residents just before the U.S. Senate election.",
+      "importance": 78,
+      "why": "This is politically salient because it links a major international conflict to rising local energy costs in a close Senate race, which could affect voter sentiment and election outcomes."
     }
   ]
 }
