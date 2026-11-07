@@ -1,106 +1,46 @@
 {
-  "generated_at": "2026-11-07T01:27:48.451426Z",
-  "top_story": "On 6 November, Israeli settlers seized eight Palestinian homes in Jericho through armed violence, displacing dozens and underscoring the steady coercion reshaping daily life in the occupied West Bank. Hours later, Washington sanctioned eight Canada-based money services firms for handling Iran-linked transactions, reinforcing a pressure campaign that extends beyond the region and tightens financial exposure for cross-border networks tied to Tehran. By evening, a leaked UN report concluded that the UAE hired Colombian mercenaries for Sudan\u2019s RSF, deepening the political cost of Abu Dhabi\u2019s Sudan policy as the war\u2019s external sponsorship becomes harder to obscure. Taken together, the day\u2019s developments show how force on the ground and enforcement through financial and diplomatic channels are converging to harden conflicts while pushing civilians further into vulnerability.",
+  "generated_at": "2026-11-07T15:59:43.434882Z",
+  "top_story": "Early November food cuts and persistent aid shortfalls left Gaza\u2019s displaced population entering winter with weaker coping capacity, as many families were already struggling to reinforce tents or repair damaged homes. Heavy rains on 7 November then flooded tent camps across the strip, damaging shelters used by roughly 70,000 displaced families and leaving tens of thousands without cover. The weather shock is not a discrete emergency but a force multiplier for deprivation already driven by restricted assistance, worsening hunger, exposure, and the risk of further displacement inside an enclave with few remaining buffers. The immediate takeaway is that Gaza\u2019s humanitarian crisis is shifting from chronic scarcity to acute survival pressure, with ordinary families absorbing the cost of both aid contraction and environmental exposure.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-      "summary": "WASHINGTON, Nov 6 (Reuters) - The US Treasury said on Friday that it had imposed financial sanctions on eight money services firms based in Canada that it alleges have facilitated transactions with sanctioned Iranian entities.The sanctions...",
-      "link": "https://www.al-monitor.com/originals/2026/11/us-treasury-sanctions-canadian-money-services-firms-over-iran-related",
-      "published_at": "2026-11-06T21:46:27Z",
-      "ai_summary": "The U.S. Treasury imposed financial sanctions on eight Canada-based money services firms, alleging they facilitated transactions with sanctioned Iranian entities.",
+      "title": "Heavy rains leave tens of thousands without shelter in Gaza: local authorities",
+      "summary": "Heavy rain on Saturday flooded tens of thousands of displaced people's tents in war-devastated Gaza, Palestinian authorities said, leaving them without shelter. In a statement, the Hamas-run government media office said that about \"70,000...",
+      "link": "https://www.al-monitor.com/originals/2026/11/heavy-rains-leave-tens-thousands-without-shelter-gaza-local-authorities",
+      "published_at": "2026-11-07T14:30:23Z",
+      "ai_summary": "Heavy rains flooded tents sheltering displaced people in Gaza, leaving tens of thousands without shelter, according to Palestinian authorities.",
       "importance": 91,
-      "why": "This is important because it involves cross-border sanctions enforcement by the U.S. Treasury, targets multiple foreign firms, and relates to Iran-related financial restrictions, which can affect compliance, banking, and international payments."
+      "why": "The report describes a severe humanitarian emergency affecting a large number of displaced civilians in an already war-devastated area, with immediate needs for shelter and aid."
     },
     {
       "source": "Middle East Eye",
-      "title": "Leaked UN report 'establishes conclusively' that UAE hired Colombian mercenaries for Sudan's RSF",
-      "summary": "Confidential report seen by MEE details UAE's involvement in the Sudan war, as Lana Nusseibeh, its candidate for the UN, faces further scrutiny",
-      "link": "https://www.middleeasteye.net/news/leaked-un-report-establishes-conclusively-uae-hired-colombian-mercenaries-sudans-rsf",
-      "published_at": "2026-11-06T16:05:00Z",
-      "ai_summary": "A leaked confidential UN report reportedly says the UAE hired Colombian mercenaries to fight for Sudan\u2019s RSF, intensifying scrutiny of the UAE\u2019s role in the Sudan war and complicating the UN candidacy of Lana Nusseibeh.",
-      "importance": 92,
-      "why": "The claim involves alleged foreign state involvement in a major ongoing war, possible violations of international law, and direct diplomatic implications for the UAE at the UN. It also adds to broader scrutiny of external actors in the Sudan conflict, making it highly significant geopolitically and for accountability efforts."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
-      "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens",
-      "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "Israeli settlers reportedly seized eight Palestinian homes in Jericho, displacing dozens of residents after using live ammunition and beatings to force families to flee, according to the UN.",
-      "importance": 89,
-      "why": "This is a serious on-the-ground escalation involving displacement of civilians, alleged use of live ammunition, and potential violations of international law in a highly sensitive conflict area."
-    },
-    {
-      "source": "Guardian",
-      "title": "Russia agreed to supply Iran with 90 helicopter missile launchers",
-      "summary": "Leaked documents offer insight into Russian-Iranian military cooperation as US weighs up next steps in Iran warRussia arranged to supply Iran with 90 launchers for advanced guided missiles, according to leaked defence industry documents...",
-      "link": "https://www.theguardian.com/world/2026/nov/05/russia-agreed-to-supply-iran-90-helicopter-missile-launchers",
-      "published_at": "2026-11-05T15:10:55Z",
-      "ai_summary": "Leaked documents suggest Russia agreed to supply Iran with 90 launchers for advanced guided missiles, highlighting deeper Russian-Iranian military cooperation amid tensions over the Iran war.",
-      "importance": 85,
-      "why": "This is highly significant because it indicates concrete military assistance from Russia to Iran, potentially affecting regional security, the balance of power in the Middle East, and US policy calculations. The use of leaked defense documents also adds credibility and urgency to the report."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Shin Bet Interrogates, Threatens Bedouin Political Activists Over Election | Haaretz Expos\u00e9",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article-magazine/.premium/shin-bet-interrogates-threatens-bedouin-political-activists-over-election/000001a1-ac6c-d3b7-a5ab-feeeb1340000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article-magazine/.premium/shin-bet-interrogates-threatens-bedouin-political-activists-over-election/000001a1-ac6c-d3b7-a5ab-feeeb1340000",
-      "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "Haaretz reports that Israel\u2019s Shin Bet allegedly interrogated and threatened Bedouin political activists in connection with an election, raising concerns about political intimidation and surveillance of minority activists.",
-      "importance": 82,
-      "why": "The story is significant because it alleges state security involvement in pressuring political activists during an election, which can affect democratic fairness, civil liberties, and minority political participation."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Encircled and Besieged, Taiz City Is a Refuge for Displaced Yemenis Fleeing War",
-      "summary": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
-      "link": "https://www.dropsitenews.com/p/taiz-yemen-displaced-ansarallah-saudi-siege",
-      "published_at": "2026-11-05T22:19:00Z",
-      "ai_summary": "Taiz city in Yemen has taken in more than 50,000 displaced people in recent weeks as fighting intensifies around the city.",
-      "importance": 82,
-      "why": "The text describes a major humanitarian displacement event during an ongoing conflict, involving a large number of people and a besieged city, which makes it highly relevant and significant."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "As Trump weighs Iran strikes, possible nuclear opening emerges",
-      "summary": "Sticking points include Iran's highly enriched uranium and lack of access for international inspectors.",
-      "link": "https://www.al-monitor.com/originals/2026/11/trump-weighs-iran-strikes-possible-nuclear-opening-emerges",
-      "published_at": "2026-11-06T15:59:21Z",
-      "ai_summary": "Trump is considering strikes on Iran, while negotiations face major hurdles over Iran's enriched uranium stockpile and blocked access for international inspectors.",
-      "importance": 85,
-      "why": "This concerns potential military action involving Iran and the nuclear nonproliferation issue, both of which have significant geopolitical and security implications."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "A deadly raid tests a revolutionary town\u2019s faith in Syria's new government",
-      "summary": "Five people were killed in the town of Rankous after a government raid on alleged Islamic State sympathisers",
-      "link": "https://www.middleeasteye.net/news/deadly-raid-tests-revolutionary-towns-faith-syrian-government",
-      "published_at": "2026-11-06T14:47:00Z",
-      "ai_summary": "A government raid in Rankous, Syria, killed five people, testing local faith in the new government amid concerns over alleged Islamic State sympathisers.",
-      "importance": 85,
-      "why": "The event involves a deadly security raid, multiple fatalities, and implications for Syria\u2019s stability and public trust in the new government."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Yemeni gov\u2019t forces, Houthis trade blame for deadly strikes on Taiz market",
-      "summary": "The attack on al-Hadara market in Taiz governorate\u2019s al-Waziiya district killed at least 30 people, Houthi rebels say.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market",
-      "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "A strike on al-Hadara market in Taiz\u2019s al-Waziiya district killed at least 30 people, with Yemen\u2019s government forces and Houthi rebels blaming each other.",
-      "importance": 87,
-      "why": "This reports a deadly attack with a significant civilian death toll in an active conflict zone, making it highly newsworthy and potentially important for regional stability and humanitarian concerns."
-    },
-    {
-      "source": "Guardian",
-      "title": "Israel\u2019s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
-      "summary": "President says he will make a decision on Sunday about who should try to build a government as Netanyahu rival is endorsed by 67 lawmakers Gadi Eisenkot, the main rival to Benjamin Netanyahu, secured endorsements on Thursday from a...",
-      "link": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
-      "published_at": "2026-11-05T18:13:01Z",
-      "ai_summary": "Israeli President Herzog said he will decide on Sunday who should be tasked with forming the next government, as Benjamin Netanyahu rival Gadi Eisenkot received backing from 67 lawmakers.",
+      "title": "Aipac spent $55m on losing congressional candidates in midterm elections: Report",
+      "summary": "Nearly two-thirds of its funds were spent on candidates who lost, in a major setback for the pro-Israel lobbying group",
+      "link": "https://www.middleeasteye.net/news/aipac-spent-55million-losing-congressional-candidates-report",
+      "published_at": "2026-11-05T19:15:00Z",
+      "ai_summary": "AIPAC reportedly spent $55 million backing congressional candidates in the midterms, and nearly two-thirds of that money went to candidates who lost, marking a significant setback for the pro-Israel lobbying group.",
       "importance": 81,
-      "why": "This is a high-stakes political development in Israel involving government formation and a challenge to Netanyahu, which can affect national policy, coalition building, and regional stability."
+      "why": "This is a politically significant fundraising and election outcome report involving a major U.S. lobbying organization and a large amount of campaign spending, with implications for influence, strategy, and future elections."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "summary": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war",
+      "published_at": "2026-11-07T00:00:00Z",
+      "ai_summary": "Yemen\u2019s conflict continues to intensify, with government gains in Taiz and Lahij offset by Houthi resistance, deepening the humanitarian crisis.",
+      "importance": 79,
+      "why": "The item concerns an ongoing war with significant territorial shifts and worsening humanitarian conditions, making it highly relevant for regional stability, civilian impact, and conflict tracking."
+    },
+    {
+      "source": "Guardian",
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "summary": "Trump still considering new assault on Iran nuclear sites \u2013 though threats less credible after Vance remarksQatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit...",
+      "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "published_at": "2026-11-07T07:00:04Z",
+      "ai_summary": "Qatar is reportedly mediating between the US and Iran, with a proposal that could involve allowing UN nuclear inspectors into Iran and potentially easing tensions over the Strait of Hormuz, while Trump is still considering renewed strikes on Iranian nuclear sites.",
+      "importance": 85,
+      "why": "The item concerns a major geopolitical flashpoint involving Iran, US military threats, nuclear inspections, and the Strait of Hormuz, which is critical to global energy and shipping flows. It has significant implications for regional security and international markets."
     },
     {
       "source": "Haaretz",
@@ -108,113 +48,153 @@
       "summary": "https://www.haaretz.com/jewish/2026-11-06/ty-article/.premium/jewish-diaspora-leaders-urge-israeli-opposition-to-form-jewish-arab-coalition/000001a1-ade2-dd7a-a3ed-ede298420000",
       "link": "https://www.haaretz.com/jewish/2026-11-06/ty-article/.premium/jewish-diaspora-leaders-urge-israeli-opposition-to-form-jewish-arab-coalition/000001a1-ade2-dd7a-a3ed-ede298420000",
       "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "Over 500 rabbis, diplomats, and Jewish diaspora leaders are urging Israel\u2019s opposition parties to form a Jewish-Arab coalition, signaling strong external pressure for a broader anti-government political alliance.",
+      "ai_summary": "Over 500 rabbis, diplomats, and Jewish diaspora leaders are urging Israel\u2019s opposition parties to unite and form a Jewish-Arab coalition.",
       "importance": 78,
-      "why": "The appeal involves a large and influential international Jewish leadership network and touches on Israeli coalition politics, Jewish-Arab cooperation, and the balance of power in opposition strategy. It is significant for understanding political organizing and diaspora influence, though the immediate impact depends on whether Israeli parties heed the call."
+      "why": "The appeal involves a large number of prominent Jewish and diplomatic figures and addresses a significant political strategy in Israel, with potential implications for coalition-building, Jewish-Arab political cooperation, and the broader direction of Israeli opposition politics."
     },
     {
       "source": "Drop Site News",
-      "title": "Israel's 11-Day Escalated Assault on Hebron",
-      "summary": "Thousands of Palestinians faced forced displacement during the duration of a heavy Israeli military operation on Hebron.",
-      "link": "https://www.dropsitenews.com/p/hebron-forced-displacement-israeli-operation",
-      "published_at": "2026-11-04T21:03:48Z",
-      "ai_summary": "Thousands of Palestinians faced forced displacement during an 11-day Israeli military operation in Hebron.",
+      "title": "Encircled and Besieged, Taiz City Is a Refuge for Displaced Yemenis Fleeing War",
+      "summary": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
+      "link": "https://www.dropsitenews.com/p/taiz-yemen-displaced-ansarallah-saudi-siege",
+      "published_at": "2026-11-05T22:19:00Z",
+      "ai_summary": "Over 50,000 people have recently arrived in Taiz city as fighting intensifies around it, making the city a refuge for displaced Yemenis.",
+      "importance": 88,
+      "why": "This reports a significant humanitarian displacement event in an active conflict zone, with large numbers of civilians fleeing ongoing fighting."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Heavy rain floods tents housing Gaza displaced people, aid shortages hamper response",
+      "summary": "By Dawoud Abu Alkas and Nidal al-MughrabiGAZA/CAIRO, Nov 7 (Reuters) - Heavy rains have flooded tens of thousands of tents housing displaced Palestinians crammed into encampments across the Gaza Strip, washing away shelters and soaking...",
+      "link": "https://www.al-monitor.com/originals/2026/11/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper",
+      "published_at": "2026-11-07T13:46:45Z",
+      "ai_summary": "Heavy rains in Gaza have flooded tents sheltering displaced Palestinians, damaging shelters and worsening an already dire humanitarian situation amid aid shortages.",
+      "importance": 89,
+      "why": "The event affects a large displaced population in an active conflict zone and compounds an existing humanitarian crisis. It is significant for human welfare, emergency response, and international aid efforts."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Trump's midterm defeat gives the Gulf a chance to escape America's forever wars",
+      "summary": "Regional leaders must use their influence in Congress to prevent another attack on Iran and negotiate a non-aggression pact with Tehran on their own terms",
+      "link": "https://www.middleeasteye.net/opinion/trumps-midterm-defeat-gives-gulf-chance-escape-america-forever-wars",
+      "published_at": "2026-11-05T04:53:00Z",
+      "ai_summary": "The piece argues that Gulf leaders should use the political opening created by Trump\u2019s midterm defeat to push back against U.S. pressure for conflict with Iran, prevent another attack on Iran, and seek a non-aggression pact with Tehran on terms favorable to the Gulf states.",
+      "importance": 79,
+      "why": "It deals with Gulf security, U.S.-Iran tensions, and the regional balance of power, all of which have significant geopolitical implications and could affect conflict escalation or de-escalation."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza",
+      "published_at": "2026-11-07T00:00:00Z",
+      "ai_summary": "Heavy rain has caused flooding in Gaza, increasing danger for families and raising the risk that buildings damaged by Israeli bombings could collapse.",
+      "importance": 79,
+      "why": "The report highlights an immediate humanitarian and safety threat: flooding in an already war-damaged area can worsen living conditions, endanger displaced families, and trigger structural collapses in damaged buildings."
+    },
+    {
+      "source": "Guardian",
+      "title": "US carries out another round of \u2018minor\u2019 strikes on Iran, Trump says",
+      "summary": "The president\u2019s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have acceleratedDonald Trump has said the US military on Friday carried out a new round of limited...",
+      "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+      "published_at": "2026-11-07T03:07:01Z",
+      "ai_summary": "Trump said the US military carried out another limited round of strikes on Iran, following an earlier attack and amid accelerating diplomatic efforts to end the conflict.",
+      "importance": 85,
+      "why": "This is a high-impact geopolitical and military development involving the United States and Iran, with potential consequences for regional escalation, diplomacy, and global markets."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Eisenkot Signals Readiness for Minority Government to Replace Netanyahu",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-06/ty-article/.premium/eisenkot-signals-readiness-for-minority-government-to-replace-netanyahu/000001a1-b12a-defa-a7f7-bd7f4c110000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-06/ty-article/.premium/eisenkot-signals-readiness-for-minority-government-to-replace-netanyahu/000001a1-b12a-defa-a7f7-bd7f4c110000",
+      "published_at": "2026-11-06T00:00:00Z",
+      "ai_summary": "Eisenkot signals he may support a minority government as a way to replace Netanyahu, indicating openness to an alternative coalition arrangement if it can form a viable governing majority.",
       "importance": 78,
-      "why": "The text describes a significant military escalation with large-scale civilian displacement, indicating a serious humanitarian and political impact in the region."
+      "why": "This is politically significant in Israel because it suggests a possible path to unseat Netanyahu without a full traditional majority coalition, which could reshape government formation dynamics and influence the balance of power ahead of future political negotiations."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "In Jericho, Israeli Settlers Violently Seize and Occupy Palestinian Homes",
+      "summary": "The takeover by Israeli settlers of homes inside a Palestinian city in the occupied West Bank represents a dangerous escalation in Israel&#8217;s dispossession of Palestinians across the territory.",
+      "link": "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers",
+      "published_at": "2026-11-07T15:35:55Z",
+      "ai_summary": "Israeli settlers violently seized and occupied Palestinian homes in Jericho, marking a dangerous escalation in the dispossession of Palestinians in the occupied West Bank.",
+      "importance": 86,
+      "why": "The event involves violent seizure of homes in an occupied Palestinian city, indicating escalation in an already highly volatile conflict with significant humanitarian and political implications."
     }
   ],
   "regional_analysis": [
     {
-      "source": "Al Jazeera",
-      "title": "Born to be torn: A generation raised under Houthi rule in Yemen",
-      "summary": "As children are recruited to fight, the cost of failing to confront the Houthis is being felt far beyond Yemen.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen",
-      "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "The piece highlights how Houthi rule in Yemen is shaping an entire generation, including the recruitment of children as fighters, and argues that the consequences extend beyond Yemen if the group is not confronted.",
-      "importance": 83,
-      "why": "It concerns an ongoing conflict with major humanitarian implications, including child recruitment and regional security spillover, making it highly newsworthy and consequential."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-      "summary": "Iran launches diplomatic offensive as US mulls resumption of war.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know",
-      "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "Iran is increasing diplomatic outreach, including to the UAE and Russia, as tensions rise amid possible renewed US military pressure.",
-      "importance": 79,
-      "why": "The headline points to escalating regional and international diplomacy in response to potential conflict involving Iran and the US, which could affect security and geopolitics in the Middle East."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Eisenkot Secures Parliamentary Majority, Paving Clearest Path to Forming Gov't",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/eisenkot-secures-parliamentary-majority-clearest-path-to-form-govt/000001a1-ad0b-d041-a5f9-ed2bbb1f0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/eisenkot-secures-parliamentary-majority-clearest-path-to-form-govt/000001a1-ad0b-d041-a5f9-ed2bbb1f0000",
-      "published_at": "2026-11-05T00:00:00Z",
-      "ai_summary": "Eisenkot secured a parliamentary majority, giving him the clearest path to form a government.",
-      "importance": 78,
-      "why": "This is a major Israeli political development that could determine the next government and shift coalition dynamics, making it highly relevant for domestic politics and policy direction."
-    },
-    {
-      "source": "Haaretz",
-      "title": "'A New Elite': Behind the U.S. Money Launching Israel's Far-Right to Power",
-      "summary": "https://www.haaretz.com/israel-news/podcasts/2026-11-05/ty-article-podcast/a-new-elite-behind-the-u-s-money-launching-israels-far-right-to-power/000001a1-ab9e-d041-a5f9-efbfa6430000",
-      "link": "https://www.haaretz.com/israel-news/podcasts/2026-11-05/ty-article-podcast/a-new-elite-behind-the-u-s-money-launching-israels-far-right-to-power/000001a1-ab9e-d041-a5f9-efbfa6430000",
-      "published_at": "2026-11-05T00:00:00Z",
-      "ai_summary": "A Haaretz podcast article examining how U.S. money has helped propel Israel\u2019s far-right into power and shape a new political elite.",
-      "importance": 78,
-      "why": "The piece appears to analyze foreign funding\u2019s role in Israeli politics, which is significant for understanding current power dynamics, U.S.-Israel relations, and the rise of far-right influence."
+      "source": "Al Monitor",
+      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+      "summary": "WASHINGTON, Nov 6 (Reuters) - The US Treasury said on Friday that it had imposed financial sanctions on eight money services firms based in Canada that it alleges have facilitated transactions with sanctioned Iranian entities.The sanctions...",
+      "link": "https://www.al-monitor.com/originals/2026/11/us-treasury-sanctions-canadian-money-services-firms-over-iran-related",
+      "published_at": "2026-11-06T21:46:27Z",
+      "ai_summary": "US Treasury imposed financial sanctions on eight Canada-based money services firms, alleging they facilitated transactions involving sanctioned Iranian entities.",
+      "importance": 85,
+      "why": "This is significant because it expands US sanctions enforcement to foreign firms in Canada and targets Iran-related financial networks, which can affect cross-border compliance and international financial operations."
     },
     {
       "source": "Al Monitor",
-      "title": "EU states back one-year delay for methane rules amid Iran war",
-      "summary": "The decision illustrates the growing tension between Europe's climate ambitions and the immediate challenge of securing affordable energy amid the Middle East conflict.",
-      "link": "https://www.al-monitor.com/originals/2026/11/eu-states-back-one-year-delay-methane-rules-amid-iran-war",
-      "published_at": "2026-11-06T14:44:54Z",
-      "ai_summary": "EU states support delaying methane rules by one year due to energy security concerns amid the Iran war.",
-      "importance": 75,
-      "why": "This is significant because it shows climate policy being adjusted in response to geopolitical conflict and energy affordability concerns, which can affect EU climate regulation timelines and broader energy-market stability."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel closes Hebron\u2019s Ibrahimi Mosque to Palestinians for Jewish holiday",
-      "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday",
-      "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "Israel closed Hebron\u2019s Ibrahimi Mosque to Palestinians for a Jewish holiday and reopened it exclusively to Israelis, heightening tensions over control of the contested holy site.",
-      "importance": 75,
-      "why": "This is a politically sensitive move involving a major religious site in the occupied West Bank, directly affecting access for Palestinians and likely worsening Israeli-Palestinian tensions."
+      "title": "Exclusive-Expanding on naval blockade, US military looks to restrict Iranian land commerce",
+      "summary": "By Phil StewartWASHINGTON, Nov 7 (Reuters) - After a months-long naval blockade on Iran, the US military is setting up a task force to bolster Washington's efforts to restrict Tehran's movement of advanced weapons systems and other...",
+      "link": "https://www.al-monitor.com/originals/2026/11/exclusive-expanding-naval-blockade-us-military-looks-restrict-iranian-land",
+      "published_at": "2026-11-07T13:46:45Z",
+      "ai_summary": "The Reuters report says the U.S. military is creating a task force to expand pressure on Iran beyond a naval blockade, aiming to restrict Tehran\u2019s land-based commerce and movement of advanced weapons systems.",
+      "importance": 81,
+      "why": "This is a significant geopolitical and security development involving U.S.-Iran tensions, military policy, and efforts to impede weapons transfer and trade routes. It matters for regional stability and sanctions enforcement, but it is not a major global market-moving event on its own."
     },
     {
       "source": "Al Monitor",
-      "title": "Israel opposition touts progress ousting Netanyahu after U-turn on ultra-Orthodox",
-      "summary": "Israel's opposition said Friday it was making headway in its bid to oust Prime Minister Benjamin Netanyahu, as one of its leaders lifted his veto on demands that ultra-Orthodox Jews serve in the military, opening the door to a once...",
-      "link": "https://www.al-monitor.com/originals/2026/11/israel-opposition-touts-progress-ousting-netanyahu-after-u-turn-ultra-orthodox",
-      "published_at": "2026-11-06T15:30:26Z",
-      "ai_summary": "Israel\u2019s opposition says it is advancing efforts to remove Prime Minister Benjamin Netanyahu after one leader dropped his opposition to conscripting ultra-Orthodox Jews, clearing a potential obstacle to coalition talks.",
-      "importance": 70,
-      "why": "The story concerns a significant shift in Israeli opposition strategy and a politically sensitive issue\u2014military service for ultra-Orthodox Jews\u2014that could affect coalition formation and Netanyahu\u2019s hold on power."
+      "title": "Iran turns to Putin as war, US election reshape strategic calculations",
+      "summary": "A Kremlin meeting with Iran's top security official coupled with reports of new arms deals amid looming war demonstrate Tehran's push to turn vulnerability into strategic leverage.",
+      "link": "https://www.al-monitor.com/originals/2026/11/iran-turns-putin-war-us-election-reshape-strategic-calculations",
+      "published_at": "2026-11-06T18:55:16Z",
+      "ai_summary": "Iran is seeking closer ties with Russia, including possible arms deals, as regional conflict risks and the US election are changing its strategic environment.",
+      "importance": 81,
+      "why": "The item signals a potentially significant shift in Middle East geopolitics: Iran is trying to convert vulnerability into leverage through engagement with Putin/Russia, and the mention of new arms deals and looming war suggests possible military and diplomatic consequences beyond Iran itself."
+    },
+    {
+      "source": "Haaretz",
+      "title": "They Once Commanded Israel's Army. Now They Protect Palestinians From Masked Soldiers and Settlers",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-06/ty-article-magazine/.highlight/they-commanded-israels-army-now-they-protect-palestinians-from-settlers/000001a1-ad82-d2e9-a5ad-bfda25a10000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-06/ty-article-magazine/.highlight/they-commanded-israels-army-now-they-protect-palestinians-from-settlers/000001a1-ad82-d2e9-a5ad-bfda25a10000",
+      "published_at": "2026-11-06T00:00:00Z",
+      "ai_summary": "A Haaretz magazine piece profiles former top Israeli military and security officials who now help protect Palestinians in the West Bank from attacks by masked soldiers and settlers, highlighting the moral and political shift behind their activism.",
+      "importance": 78,
+      "why": "The article is notable because it features prominent ex-security leaders taking an unusual public stance against abuses in the occupied territories. It sheds light on internal Israeli dissent, settler violence, and the ongoing conflict\u2019s human and political stakes."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Shin Bet Chief Zini Has United Israel's Coalition and Opposition Against Him",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article/.premium/shin-bet-chief-zini-has-united-israels-coalition-and-opposition-against-him/000001a1-ae35-d041-a5f9-ef35cb6f0000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article/.premium/shin-bet-chief-zini-has-united-israels-coalition-and-opposition-against-him/000001a1-ae35-d041-a5f9-ef35cb6f0000",
+      "published_at": "2026-11-06T00:00:00Z",
+      "ai_summary": "The article argues that Shin Bet chief Zini has become a rare point of consensus in Israeli politics, with both coalition and opposition figures criticizing or opposing him. It suggests his tenure has triggered unusual unity against a security chief rather than between political rivals.",
+      "importance": 74,
+      "why": "This is important because Shin Bet leadership affects Israel\u2019s internal security and political balance. The fact that both government and opposition are aligned against the chief signals a significant institutional and political controversy, though the exact broader consequences depend on the article\u2019s details."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Palestinian citizens of Israel put to \u2018loyalty test\u2019 after election wins",
+      "summary": "Palestinian citizens of Israel say Arab parties\u2019 success in recent elections has led to growing pressure.",
+      "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins",
+      "published_at": "2026-11-07T00:00:00Z",
+      "ai_summary": "Palestinian citizens of Israel report increased pressure and scrutiny after Arab parties performed well in recent elections, describing it as a loyalty test.",
+      "importance": 63,
+      "why": "It concerns political and social pressure on a significant minority group in Israel following election results, indicating potential implications for civil rights and intercommunal tensions."
     }
   ],
   "deep_analysis": [
     {
       "source": "Middle East Eye",
-      "title": "Turkey moves closer to Saudi troop deployment as parliament approves Mecca defence pact",
-      "summary": "Ankara must still secure a troop deployment mandate and finalise legal arrangements governing its forces in Saudi Arabia",
-      "link": "https://www.middleeasteye.net/news/turkey-moves-closer-saudi-troop-deployment-parliament-approves-mecca-defence-pact",
-      "published_at": "2026-11-06T09:30:00Z",
-      "ai_summary": "Turkey is getting closer to deploying troops to Saudi Arabia after parliament approved a Mecca defence pact, though Ankara still needs a troop mandate and legal details before any deployment can happen.",
-      "importance": 81,
-      "why": "This is geopolitically significant because it signals deepening Turkish-Saudi military cooperation and could affect regional security dynamics, but it is still an incomplete step pending legal and deployment approvals."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Why nearly 100 Muslims won national, local races in the US midterm elections",
-      "summary": "Heightened anti-Muslim rhetoric only resulted in defiance among candidates and voters, experts tell Middle East Eye",
-      "link": "https://www.middleeasteye.net/news/why-nearly-100-muslims-win-national-local-races-us-midterm-elections",
-      "published_at": "2026-11-06T21:27:00Z",
-      "ai_summary": "The article explains that nearly 100 Muslim candidates won national and local races in the US midterm elections, and that anti-Muslim rhetoric appears to have fueled defiance rather than suppression among candidates and voters.",
-      "importance": 81,
-      "why": "It highlights a notable political development in the US and frames it within broader issues of religious discrimination, electoral representation, and voter response to anti-Muslim rhetoric."
+      "title": "Supermajority of Jewish Americans think Israel and Aipac drive antisemitism",
+      "summary": "Vast majority of Jewish voters in US want sanctions against 'violent West Bank settlers'",
+      "link": "https://www.middleeasteye.net/news/supermajority-jewish-americans-think-israel-and-aipac-drive-antisemitism",
+      "published_at": "2026-11-05T21:49:00Z",
+      "ai_summary": "The piece says most Jewish Americans believe Israel and AIPAC contribute to antisemitism, and that a large majority of Jewish voters in the U.S. support sanctions against violent West Bank settlers.",
+      "importance": 76,
+      "why": "It reflects a notable political and public-opinion trend within a significant U.S. constituency on Israel-related issues, including antisemitism and settlement violence, which can influence domestic and foreign policy debates."
     },
     {
       "source": "Jadaliyya",
@@ -222,9 +202,19 @@
       "summary": "In conversation with Bassam Haddad  In this conversation,\u00a0Diana Buttu provides an update on Israel\u2019s elections and the resulting gridlock. She\u00a0addresses the peculiarities of the new contender Eisenkot as well as the nature and politics of...",
       "link": "https://www.jadaliyya.com/Details/48135/Palestine-in-Context-Israels-Elections-with-Diana-Buttu-30-October",
       "published_at": null,
-      "ai_summary": "Diana Buttu discusses Israel\u2019s elections, the resulting political gridlock, and the role of new contender Eisenkot, situating these developments within the broader Palestine context.",
+      "ai_summary": "Diana Buttu discusses Israel\u2019s elections and the resulting political gridlock, including commentary on contender Eisenkot and broader political dynamics in the context of Palestine.",
       "importance": 68,
-      "why": "The text addresses Israeli electoral politics and their implications for Palestine, which is relevant for understanding current regional dynamics, but the snippet is brief and appears to be a conversational update rather than a major policy or breaking-news development."
+      "why": "It offers timely political analysis of Israel\u2019s elections and their implications for Palestine, but the provided text is brief and mainly an event description rather than a detailed substantive piece."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "In Defense of Academic Freedom: The Circus of Academic Complicity Part 1 (15 October)",
+      "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
+      "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
+      "published_at": null,
+      "ai_summary": "Announcement of an academic freedom event titled \u201cIn Defense of Academic Freedom: The Circus of Academic Complicity Part 1,\u201d organized by DC, Maryland, and Virginia Faculty for Academic Freedom and Gaza and related groups, with multiple cosponsors including MESA committees and Faculty for Justice in Palestine.",
+      "importance": 54,
+      "why": "This appears to be a niche event announcement relevant to academic freedom, Gaza advocacy, and faculty organizing. It may matter to those in higher education or Middle East studies, but it is not broadly high-impact or time-sensitive beyond the listed event context."
     },
     {
       "source": "Jadaliyya",
@@ -232,31 +222,9 @@
       "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
-      "ai_summary": "Announcement of a five-part interview series titled \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad about Israel\u2019s political economy.",
-      "importance": 44,
-      "why": "It is a media announcement introducing an interview series on an important political-economic topic, but the text provided is brief and promotional rather than substantive news."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "Filling the Void as Syria\u2019s Transitional Justice Stalls",
-      "summary": "Reconciliation councils are emerging throughout the country to mediate in intracommunal disputes, many from the war years.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
-      "date": "Oct 9, 2026",
-      "published_at": null,
-      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those rooted in the war years, as transitional justice efforts stall.",
-      "importance": 73,
-      "why": "This signals an important local response to stalled formal justice and reconciliation processes in postwar Syria, with implications for social stability, governance, and conflict recovery."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "Israel Has Held National Elections",
-      "summary": "Spot analysis from Carnegie scholars on events relating to the Middle East and North Africa.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/israel-has-just-held-national-elections",
-      "date": "Oct 29, 2026",
-      "published_at": null,
-      "ai_summary": "Israel has held national elections.",
-      "importance": 63,
-      "why": "National elections are a significant political event because they can shift government composition, policy direction, and regional dynamics. However, the provided text offers no results, turnout, or immediate consequences, so the importance is moderate rather than high."
+      "ai_summary": "Announcement of a five-part interview series called \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Jadaliyya co-editor Bassam Haddad about Israel\u2019s political economy.",
+      "importance": 51,
+      "why": "It is primarily a media/program announcement rather than a major standalone news event, but it may be important to readers interested in Middle East political economy, Israel, and critical analysis."
     },
     {
       "source": "War on the Rocks",
@@ -264,9 +232,9 @@
       "summary": "Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu&#8217;s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition...",
       "link": "https://warontherocks.com/what-israels-election-results-mean-for-the-middle-east-and-beyond/",
       "published_at": "2026-10-29T18:15:57Z",
-      "ai_summary": "Israel\u2019s election produced a deadlock, with neither Netanyahu\u2019s bloc nor the opposition led by Gadi Eisenkot able to form a government, creating political uncertainty with potential regional and international implications.",
-      "importance": 80,
-      "why": "The result affects Israel\u2019s leadership and policy direction, which can influence Middle East diplomacy, security dynamics, and relations with major global actors. However, the provided text is brief and does not include specific downstream consequences yet."
+      "ai_summary": "Israel\u2019s election produced no clear majority, leaving Benjamin Netanyahu\u2019s bloc and the opposition unable to form a government on their own. The outcome points to continued political instability in Israel with possible wider implications for regional diplomacy and Middle East policy.",
+      "importance": 76,
+      "why": "The result affects Israeli governance and could influence peace, security, and diplomatic dynamics in the Middle East, making it significant beyond domestic politics."
     },
     {
       "source": "Responsible Statecraft",
@@ -274,9 +242,9 @@
       "summary": "For the last eight months, the Iran war has been a topic of fierce debate: is the war in our national interest? Was Iran an imminent threat? Should we stay the course or escalate? This debate raged through the historic MAGA coalition that...",
       "link": "https://responsiblestatecraft.org/trump-ending-war-elections/",
       "published_at": "2026-11-06T05:05:04Z",
-      "ai_summary": "Opinionated commentary arguing Trump should immediately end the Iran war and remove senior officials tied to it.",
-      "importance": 70,
-      "why": "It addresses a major foreign policy and national security issue within a prominent political coalition, likely reflecting or influencing debate among key voters and officials."
+      "ai_summary": "Opinion piece arguing that Trump should immediately end the Iran war and dismiss senior officials tied to it.",
+      "importance": 65,
+      "why": "The text addresses a major foreign policy and national security issue involving the U.S. presidency and war policy, which is highly consequential. However, the excerpt appears to be a commentary/opinion piece rather than reporting new factual developments, so its importance is moderate-high rather than top-tier breaking news."
     },
     {
       "source": "Drop Site News",
@@ -284,9 +252,9 @@
       "summary": "As winter approaches, Palestinians in Gaza are desperately trying to prepare their tents and damaged homes while food cuts by the World Food Programme are exacerbating rising levels of hunger.",
       "link": "https://www.dropsitenews.com/p/gaza-wfp-food-cuts-hunger-tents-winter",
       "published_at": "2026-11-02T23:01:27Z",
-      "ai_summary": "Gaza faces worsening hunger and hardship as winter approaches, with UN food cuts and limited humanitarian aid intensifying the crisis.",
-      "importance": 88,
-      "why": "The text describes a severe humanitarian situation in Gaza affecting basic survival needs like food and shelter, with implications for a large civilian population."
+      "ai_summary": "Gaza residents are facing worsening hunger as the World Food Programme cuts food aid, with winter approaching and many Palestinians struggling to prepare tents and damaged homes.",
+      "importance": 91,
+      "why": "This is a major humanitarian crisis affecting large numbers of civilians, involving food insecurity, aid reductions, and worsening conditions ahead of winter."
     }
   ]
 }
