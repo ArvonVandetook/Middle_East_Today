@@ -1,106 +1,46 @@
 {
-  "generated_at": "2026-11-10T03:54:32.701636Z",
-  "top_story": "Israel\u2019s war and displacement regime in Gaza entered a harsher winter phase on 8-9 November, as the first major rains flooded tent encampments, wrecked about 70,000 shelters, and pushed already strained rescue crews into maximum emergency. The danger turned immediately lethal on 9 November when a sand embankment collapsed onto tents, killing a woman and three young children and exposing how exposure, weak shelter, and repeated displacement now magnify ordinary weather into mass civilian risk. In the West Bank, the 7 November violent seizure and occupation of Palestinian homes by Israeli settlers in Jericho points to a parallel escalation in coercive pressure on Palestinian communities outside Gaza. Taken together, these developments show a widening landscape of Palestinian insecurity in which direct violence, dispossession, and infrastructural collapse reinforce each other across different arenas.",
+  "generated_at": "2026-11-10T17:24:01.280490Z",
+  "top_story": "Israel\u2019s post-election deadlock has moved from presidential designation on 8 November to a sworn-in parliament on 10 November without a government, leaving Gadi Eisenkot trying to assemble an anti-Netanyahu coalition as the state enters another period of political fragility. That uncertainty is unfolding beside a far more immediate collapse in Palestinian living conditions: after UN food cuts deepened hunger in Gaza on 2 November, winter rain on 9 November killed four displaced people when a sand embankment gave way onto tents. The sequence underscores how institutional paralysis in Israel coincides with accelerating civilian vulnerability in Gaza, where reduced aid and exposure to the elements are compounding each other. The core takeaway is that Israel\u2019s leadership struggle is consuming political bandwidth as Gaza\u2019s humanitarian crisis becomes deadlier and harder to stabilize.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Trump sees 'positive momentum' on Iran after Qatar PM talks",
-      "summary": "US President Donald Trump said on Monday there was \"positive momentum\" toward ending the war with Iran after meeting Qatar's prime minister at the White House. \"I had an excellent conversation with Sheikh Mohammed bin Abdulrahman bin...",
-      "link": "https://www.al-monitor.com/originals/2026/11/trump-sees-positive-momentum-iran-after-qatar-pm-talks",
-      "published_at": "2026-11-10T00:30:26Z",
-      "ai_summary": "Trump said he sees \"positive momentum\" toward ending the war with Iran after meeting Qatar\u2019s prime minister at the White House.",
-      "importance": 77,
-      "why": "This is a high-impact geopolitical development involving the U.S., Iran, and Qatar, with potential implications for regional conflict, diplomacy, and global security."
+      "title": "UNICEF says Israel blocks Gaza basin repairs, warns of flood risk",
+      "summary": "By Emma FargeGENEVA, Nov 10 (Reuters) - The UN children's agency said Israel had rejected the importation of equipment needed to repair a water basin in Gaza, and warned that the facility could overflow and endanger nearby residents...",
+      "link": "https://www.al-monitor.com/originals/2026/11/unicef-says-israel-blocks-gaza-basin-repairs-warns-flood-risk",
+      "published_at": "2026-11-10T14:46:51Z",
+      "ai_summary": "UNICEF says Israel has blocked the import of equipment needed to repair a Gaza water basin, raising fears that the damaged facility could overflow and threaten nearby residents.",
+      "importance": 82,
+      "why": "This is a humanitarian and infrastructure issue involving civilian safety in Gaza, with potential flood risk and implications for access to water and public health. It is newsworthy due to the involvement of UNICEF, the Israeli restrictions, and the immediate risk to residents."
     },
     {
       "source": "Middle East Eye",
-      "title": "More than 200,000 join Amsterdam march against Gaza genocide",
-      "summary": "Protesters want the Netherlands to halt arms sales to Israel, tighten sanctions and recognise the Gaza genocide",
-      "link": "https://www.middleeasteye.net/news/more-200000-join-amsterdam-march-against-gaza-genocide",
-      "published_at": "2026-11-09T14:46:00Z",
-      "ai_summary": "More than 200,000 people marched in Amsterdam to protest the war in Gaza, demanding that the Netherlands stop arms sales to Israel, strengthen sanctions, and recognise the situation as genocide.",
-      "importance": 91,
-      "why": "A very large protest in a major European city signals significant public pressure on the Dutch government and broader international attention to the Gaza war, arms sales, sanctions, and genocide recognition."
+      "title": "Israel kills 14-year-old Palestinian boy in West Bank, wounds two others in Gaza",
+      "summary": "Palestinian officials said Israeli forces withheld the boy's body as the UN reported more than 2,060 settler attacks across the occupied West Bank so far this year",
+      "link": "https://www.middleeasteye.net/news/israel-kills-14-year-old-palestinian-boy-west-bank-wounds-two-gaza",
+      "published_at": "2026-11-10T11:25:00Z",
+      "ai_summary": "Israeli forces killed a 14-year-old Palestinian boy in the West Bank and wounded two others in Gaza, while Palestinian officials said the boy's body was withheld and the UN reported over 2,060 settler attacks in the occupied West Bank this year.",
+      "importance": 89,
+      "why": "The report concerns a child killed amid ongoing Israeli-Palestinian violence and includes broader context of widespread settler attacks, making it highly significant for human rights, conflict, and regional security coverage."
     },
     {
       "source": "Al Jazeera",
-      "title": "Saudi Arabia reports new attack on key East-West pipeline",
-      "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline",
-      "published_at": "2026-11-09T00:00:00Z",
-      "ai_summary": "Saudi Arabia reported a new attack on its key East-West oil pipeline, which carries crude through the desert to the coast and helps bypass the Strait of Hormuz.",
+      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+      "summary": "Israel has killed more than 1,600 people in Gaza since last year\u2019s \u2018ceasefire\u2019, the enclave\u2019s Health Ministry says.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son",
+      "published_at": "2026-11-10T00:00:00Z",
+      "ai_summary": "Israel has killed more than 1,600 people in Gaza since the end of last year's ceasefire, according to the enclave's Health Ministry; the headline notes that among six Palestinians killed in recent Israeli attacks were a father and child.",
       "importance": 88,
-      "why": "The pipeline is strategically important for global oil supplies because it provides an alternative route around the vulnerable Strait of Hormuz. An attack on it can raise concerns about energy security, regional stability, and potential market disruption."
+      "why": "The report describes ongoing lethal violence in Gaza, with a high cumulative death toll and the killing of civilians, including a father and child. It is important because it reflects a serious escalation or continuation of the conflict and has significant humanitarian and political implications."
     },
     {
       "source": "Guardian",
-      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-      "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfallDeadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in...",
-      "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-      "published_at": "2026-11-09T10:59:06Z",
-      "ai_summary": "Deadly flash floods struck northern Iraq as severe thunderstorms hit the region, with storms also affecting parts of Iran, Portugal, and Japan.",
-      "importance": 90,
-      "why": "The event involves loss of life and significant extreme weather impacts across multiple countries, making it highly newsworthy and important."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Netanyahu Has Never Been More Desperate. His Unity Plea Says It All",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-08/ty-article/.premium/in-a-speech-full-of-distortions-netanyahus-fear-of-losing-power-is-palpable/000001a1-b883-dda4-adb7-b9cfa9070000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-08/ty-article/.premium/in-a-speech-full-of-distortions-netanyahus-fear-of-losing-power-is-palpable/000001a1-b883-dda4-adb7-b9cfa9070000",
-      "published_at": "2026-11-08T00:00:00Z",
-      "ai_summary": "The article argues that Netanyahu\u2019s recent unity plea reflects mounting desperation and a palpable fear of losing power, presenting his speech as distorted and politically motivated rather than genuinely conciliatory.",
-      "importance": 84,
-      "why": "This is significant because it concerns Israel\u2019s leadership, Netanyahu\u2019s political survival, and likely implications for coalition politics and governance. It also frames the speech as a sign of weakness, which may shape public and media interpretation of his strategy."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "In Jericho, Israeli Settlers Violently Seize and Occupy Palestinian Homes",
-      "summary": "The takeover by Israeli settlers of homes inside a Palestinian city in the occupied West Bank represents a dangerous escalation in Israel&#8217;s dispossession of Palestinians across the territory.",
-      "link": "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers",
-      "published_at": "2026-11-07T15:35:55Z",
-      "ai_summary": "Israeli settlers seized and occupied Palestinian homes in Jericho, marking a dangerous escalation in the West Bank.",
+      "title": "Israel\u2019s president picks Yashar leader Gadi Eisenkot to form government",
+      "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu\u2019s coalition lost its majorityIsrael\u2019s president has \u2060chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu\u2019s \u2060strongest rival, to \u2060try to \u200bform a new...",
+      "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "published_at": "2026-11-08T14:26:14Z",
+      "ai_summary": "Israel\u2019s president chose Gadi Eisenkot, Netanyahu\u2019s strongest rival, to try to form a new government after last month\u2019s election left the Knesset deadlocked and Netanyahu\u2019s coalition lost its majority.",
       "importance": 92,
-      "why": "It describes a significant and violent escalation in the Israeli-Palestinian conflict involving settlement activity and the seizure of homes in an occupied Palestinian city, which has major political and humanitarian implications."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Syria denies sending troops to fight Houthis in return for Saudi loans",
-      "summary": "The Saudi Fund for Development and Syria\u2019s Finance Ministry recently inked more than $403 million in concessional loan agreements, fueling speculation that Damascus agreed to provide military support to Saudi Arabia in exchange for...",
-      "link": "https://www.al-monitor.com/originals/2026/11/syria-denies-sending-troops-fight-houthis-return-saudi-loans",
-      "published_at": "2026-11-09T19:29:07Z",
-      "ai_summary": "Syria denied claims that it agreed to send troops to fight the Houthis in exchange for Saudi loan support, after more than $403 million in concessional loans were signed between the Saudi Fund for Development and Syria\u2019s Finance Ministry.",
-      "importance": 77,
-      "why": "It involves a potentially significant regional geopolitical and military allegation tied to major financial agreements between Saudi Arabia and Syria, which could affect relations and conflict dynamics in the Middle East."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Senior UAE official says Gulf faces 'prolonged uncertainty' with no settlement to Iran war",
-      "summary": "Anwar Gargash said the region could face the consequences of a war with no clear winner and no political settlement",
-      "link": "https://www.middleeasteye.net/news/senior-uae-official-says-gulf-faces-prolonged-uncertainty-no-settlement-war-iran",
-      "published_at": "2026-11-09T17:46:00Z",
-      "ai_summary": "A senior UAE official warned that the Gulf could face prolonged uncertainty if the Iran war ends without a clear winner or political settlement.",
-      "importance": 87,
-      "why": "This concerns regional security and stability in the Gulf, with potential implications for diplomacy, conflict escalation, and economic disruption."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "France accuses Iran of cyberattack on supermarket fridges",
-      "summary": "Paris says a cyber unit linked to Iran\u2019s Revolutionary Guard was behind the hack, which hit about 700 stores.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-      "published_at": "2026-11-09T00:00:00Z",
-      "ai_summary": "France says a cyber unit linked to Iran\u2019s Revolutionary Guard was behind a hack that affected about 700 supermarket stores, targeting their fridges.",
-      "importance": 74,
-      "why": "This involves state-linked cyber activity attributed to Iran, affecting a large number of retail locations in France. It is significant for cybersecurity, international relations, and potential infrastructure disruption, though the immediate impact appears limited to supermarket systems."
-    },
-    {
-      "source": "Guardian",
-      "title": "Donald Trump\u2019s power is on the wane. What next for Russia, Israel \u2013 and the rest of us?  | Simon Tisdall",
-      "summary": "With the global tide turning against him, the US president\u2019s lame duck status could still aggravate old tensions and spark new explosionsIt was a victory for the world, too. People in the many countries that suffered pain, loss and cruel...",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
-      "published_at": "2026-11-08T06:00:32Z",
-      "ai_summary": "The article argues that Donald Trump\u2019s global influence is declining, but even as a lame duck he could still worsen existing conflicts and trigger new crises, with major implications for Russia, Israel, and the wider world.",
-      "importance": 87,
-      "why": "This is a high-profile analysis of shifting US power and its potential impact on major international flashpoints, making it broadly relevant to global politics and security."
+      "why": "This is highly important because it concerns a major shift in Israeli government formation amid a parliamentary deadlock, with direct implications for leadership, coalition politics, and national policy."
     },
     {
       "source": "Haaretz",
@@ -108,73 +48,173 @@
       "summary": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-09/ty-article/.highlight/as-gaza-faces-a-cruel-winter-israel-mocks-the-consequences-of-its-own-actions/000001a1-c14e-dd2c-a3b7-f54e33ff0000",
       "link": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-09/ty-article/.highlight/as-gaza-faces-a-cruel-winter-israel-mocks-the-consequences-of-its-own-actions/000001a1-c14e-dd2c-a3b7-f54e33ff0000",
       "published_at": "2026-11-09T00:00:00Z",
-      "ai_summary": "The article argues that as Gaza heads into another harsh winter, Israel is dismissing or mocking the humanitarian devastation caused by its own military actions, deepening the suffering of Palestinians already facing displacement, destruction, and inadequate shelter.",
+      "ai_summary": "Opinion piece arguing that as Gaza approaches another harsh winter, Israel\u2019s leaders and public discourse are disregarding or mocking the humanitarian consequences of Israel\u2019s own military and political actions.",
       "importance": 82,
-      "why": "It addresses an ongoing humanitarian crisis in Gaza, critiques Israeli policy and public discourse, and is relevant to readers tracking the war\u2019s civilian impact, accountability, and winter-related aid conditions."
+      "why": "The item is a recent op-ed from Haaretz on the Gaza war and humanitarian conditions, a major ongoing geopolitical issue with significant international relevance. It is important for understanding Israeli domestic discourse, the Gaza humanitarian crisis, and broader debates about accountability and policy consequences."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "In Jericho, Israeli Settlers Violently Seize and Occupy Palestinian Homes",
+      "summary": "The takeover by Israeli settlers of homes inside a Palestinian city in the occupied West Bank represents a dangerous escalation in Israel&#8217;s dispossession of Palestinians across the territory.",
+      "link": "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers",
+      "published_at": "2026-11-07T15:35:55Z",
+      "ai_summary": "Report on Israeli settlers violently seizing and occupying Palestinian homes in Jericho, described as a dangerous escalation in the occupied West Bank.",
+      "importance": 88,
+      "why": "This is a significant geopolitical and human-rights development involving violence, settlement expansion, and dispossession in the occupied West Bank, with potential implications for regional stability and international law."
     },
     {
       "source": "Al Monitor",
-      "title": "Trump says US military action against Iran not necessary 'at this point'",
-      "summary": "WASHINGTON, Nov 9 (Reuters) - President Donald Trump on Monday told reporters that military action by the United States against Iran did not currently seem necessary.\"At this point ... taking the military action doesn't seem to be a very...",
-      "link": "https://www.al-monitor.com/originals/2026/11/trump-says-us-military-action-against-iran-not-necessary-point",
-      "published_at": "2026-11-09T22:46:48Z",
-      "ai_summary": "Trump said U.S. military action against Iran did not seem necessary at this point.",
-      "importance": 75,
-      "why": "The statement concerns U.S.-Iran tensions and signals a possible shift away from immediate military escalation, which is geopolitically significant."
+      "title": "Rubio says 'no need' to attack Iran as diplomacy gathers pace",
+      "summary": "US top diplomat Marco Rubio on Tuesday said he saw no need to attack Iran again, as diplomatic efforts to end the war increased and Tehran urged Washington to accept its demands in order to reopen the Strait of Hormuz. Hours after...",
+      "link": "https://www.al-monitor.com/originals/2026/11/rubio-says-no-need-attack-iran-diplomacy-gathers-pace",
+      "published_at": "2026-11-10T16:30:38Z",
+      "ai_summary": "Rubio said there is no need for further attacks on Iran as diplomatic efforts intensify and talks over the war and the Strait of Hormuz continue.",
+      "importance": 81,
+      "why": "This concerns major U.S.-Iran tensions, possible military escalation, and the security of a critical global shipping route, making it highly relevant geopolitically."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "More than 200,000 join Amsterdam march against Gaza genocide",
+      "summary": "Protesters want the Netherlands to halt arms sales to Israel, tighten sanctions and recognise the Gaza genocide",
+      "link": "https://www.middleeasteye.net/news/more-200000-join-amsterdam-march-against-gaza-genocide",
+      "published_at": "2026-11-09T14:46:00Z",
+      "ai_summary": "More than 200,000 people marched in Amsterdam to protest the war in Gaza, calling on the Dutch government to stop arms sales to Israel, impose tougher sanctions, and recognize the situation as genocide.",
+      "importance": 89,
+      "why": "The event drew an exceptionally large crowd and reflects significant public pressure on Dutch policy toward Israel and Gaza, making it highly relevant for politics, foreign policy, and public opinion."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+      "summary": "Experts ask whether longer-range missiles are intended to hit targets beyond the Middle East.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means",
+      "published_at": "2026-11-10T00:00:00Z",
+      "ai_summary": "Iran has removed the 2,000 km range cap on its ballistic missiles, raising concerns that it may pursue weapons capable of reaching targets beyond the Middle East.",
+      "importance": 79,
+      "why": "This is a major regional and international security development because it could alter deterrence calculations, increase proliferation risks, and affect U.S., European, and regional defense planning."
+    },
+    {
+      "source": "Guardian",
+      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+      "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfallDeadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in...",
+      "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+      "published_at": "2026-11-09T10:59:06Z",
+      "ai_summary": "Deadly flash floods and severe thunderstorms struck northern Iraq, while the wider region also faced extreme weather including storms in Iran, strong winds in Portugal, and heavy snowfall in Japan.",
+      "importance": 91,
+      "why": "The event involves deadly flooding and widespread severe weather across multiple countries, indicating significant humanitarian impact and regional disruption."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Drones From Within: Could Iran Launch Its Own Operation Spiderweb Against Israel?",
+      "summary": "https://www.haaretz.com/israel-news/security-aviation/2026-11-10/ty-article-magazine/.premium/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
+      "link": "https://www.haaretz.com/israel-news/security-aviation/2026-11-10/ty-article-magazine/.premium/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
+      "published_at": "2026-11-10T00:00:00Z",
+      "ai_summary": "The article examines the possibility that Iran could emulate Ukraine\u2019s \u201cOperation Spiderweb\u201d by covertly launching drones from inside Israel, likely through pre-positioned assets, local networks, or smuggled components. It explores Israel\u2019s vulnerabilities to such an attack, the difficulty of detecting small drones before launch, and the broader security implications for Israeli air defense and internal counterintelligence.",
+      "importance": 78,
+      "why": "This is a high-relevance national security and defense analysis piece about a plausible asymmetric threat scenario involving Iran and Israel. It matters because it addresses emerging drone warfare tactics, homeland security vulnerabilities, and potential strategic implications for future conflict."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "G7 agrees on need to avoid 'security void' in Lebanon after UN force mandate ends: Paris",
+      "summary": "G7 foreign ministers agreed on \"the need to avoid a security void\" in Lebanon after UN peacekeepers pull out, French Foreign Minister Jean-Noel Barrot said on Tuesday after a meeting of the group in Paris. They also backed \"the need to...",
+      "link": "https://www.al-monitor.com/originals/2026/11/g7-agrees-need-avoid-security-void-lebanon-after-un-force-mandate-ends-paris",
+      "published_at": "2026-11-10T16:30:38Z",
+      "ai_summary": "G7 foreign ministers said Lebanon must not be left with a security vacuum after the UN peacekeeping mandate ends, according to French Foreign Minister Jean-Noel Barrot after a Paris meeting.",
+      "importance": 81,
+      "why": "This is significant because it concerns regional stability, the future of UN peacekeeping in Lebanon, and coordinated positions among major global powers on a sensitive security issue."
     }
   ],
   "regional_analysis": [
     {
+      "source": "Al Jazeera",
+      "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
+      "summary": "Blurred lines between Israeli soldiers and settlers fuel systematic West Bank violence and mass displacement.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation",
+      "published_at": "2026-11-10T00:00:00Z",
+      "ai_summary": "Al Jazeera says its investigation found blurred lines between Israeli soldiers and settlers in the West Bank, contributing to systematic violence and displacement.",
+      "importance": 79,
+      "why": "The item concerns the Israeli-Palestinian conflict, alleged state-linked violence, and displacement in the West Bank\u2014issues with major humanitarian and geopolitical significance."
+    },
+    {
       "source": "Al Monitor",
-      "title": "To unseat Netanyahu, Israel's once-unyielding Liberman turns to compromise",
-      "summary": "He built his career on unyielding principles, but the Israeli secular nationalist Avigdor Liberman is now preaching compromise in a bid to bring down Benjamin Netanyahu, his former mentor whom he now despises. For three decades, Liberman's...",
-      "link": "https://www.al-monitor.com/originals/2026/11/unseat-netanyahu-israels-once-unyielding-liberman-turns-compromise",
-      "published_at": "2026-11-09T19:31:11Z",
-      "ai_summary": "Avigdor Liberman, long known for hardline politics, is now advocating compromise in an effort to help remove Benjamin Netanyahu from power.",
-      "importance": 75,
-      "why": "It concerns a notable shift in a major Israeli political figure\u2019s stance and its potential impact on coalition politics and Netanyahu\u2019s leadership."
+      "title": "Rubio rejects Iran reparation demand as Trump touts deal momentum",
+      "summary": "Secretary of State Marco Rubio also said there was \u201cno need\u201d to resume strikes while negotiations were progressing.",
+      "link": "https://www.al-monitor.com/originals/2026/11/rubio-rejects-iran-reparation-demand-trump-touts-deal-momentum",
+      "published_at": "2026-11-10T15:27:23Z",
+      "ai_summary": "Marco Rubio rejected Iran\u2019s demand for reparations and said there was no need to resume strikes while negotiations continued, even as Trump emphasized progress toward a deal.",
+      "importance": 77,
+      "why": "This is high-impact foreign policy news involving the U.S., Iran, and ongoing negotiations tied to conflict de-escalation. It signals the current U.S. stance on sanctions, military pressure, and diplomacy, which could affect regional stability and international relations."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "UAE selling Saudi oil highlights new Gulf energy realities",
+      "summary": "News surfaced on Nov. 10 that the UAE has reportedly marketed 1.87 million barrels of Saudi crude salvaged from a damaged supertanker for sale, marking an exceptional example of energy cooperation between Gulf rivals.",
+      "link": "https://www.al-monitor.com/originals/2026/11/uae-selling-saudi-oil-highlights-new-gulf-energy-realities",
+      "published_at": "2026-11-10T16:15:14Z",
+      "ai_summary": "The UAE reportedly marketed 1.87 million barrels of Saudi crude from a damaged supertanker, highlighting unusual energy cooperation and shifting Gulf energy dynamics.",
+      "importance": 74,
+      "why": "The item is notable because it involves cross-border handling of a large crude cargo between rival Gulf states and signals changing regional energy relationships, though it is still a niche market-development story rather than a major global event."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+      "summary": "Eight articles brought by a Republican lawmaker accuse US Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed",
+      "published_at": "2026-11-10T00:00:00Z",
+      "ai_summary": "A Republican lawmaker has introduced eight impeachment articles against US Pentagon chief Hegseth, accusing him of waging unlawful wars on Iran and Venezuela.",
+      "importance": 73,
+      "why": "The item concerns a major political and national security development involving impeachment accusations against a high-ranking US defense official and alleged unlawful military action."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What is Shahid Kaveh, \u2060\u2060the Iran cyberunit tied to France\u2019s fridge hacking?",
+      "summary": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-\u2060the-iran-cyber-unit-tied-to-frances-fridge-hacking",
+      "published_at": "2026-11-10T00:00:00Z",
+      "ai_summary": "French intelligence says Shahid Kaveh is an IRGC-linked Iranian cyber unit that uses front groups posing as vigilante hackers to target adversaries, including in the reported fridge-hacking case.",
+      "importance": 73,
+      "why": "It concerns state-linked cyber operations, alleged foreign hacking activity, and ties to Iran\u2019s IRGC, which makes it relevant for cybersecurity and geopolitical risk."
     },
     {
       "source": "Haaretz",
-      "title": "Shin Bet Chief Zini Has United Israel's Coalition and Opposition Against Him",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article/.premium/shin-bet-chief-zini-has-united-israels-coalition-and-opposition-against-him/000001a1-ae35-d041-a5f9-ef35cb6f0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article/.premium/shin-bet-chief-zini-has-united-israels-coalition-and-opposition-against-him/000001a1-ae35-d041-a5f9-ef35cb6f0000",
-      "published_at": "2026-11-06T00:00:00Z",
-      "ai_summary": "The article argues that Shin Bet chief Zini has become a rare figure who unites both Israel\u2019s governing coalition and opposition in criticism against him, suggesting broad political distrust or controversy surrounding his conduct and appointment.",
-      "importance": 72,
-      "why": "A Shin Bet chief is a highly significant national security role in Israel, and cross-party opposition to the officeholder signals an important political and security controversy with potential implications for governance, intelligence oversight, and public trust."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Far-Right Jews: What Stephen Miller and Itamar Ben-Gvir Have in Common",
-      "summary": "https://www.haaretz.com/israel-news/2026-11-09/ty-article-magazine/.premium/far-right-jews-what-stephen-miller-and-itamar-ben-gvir-have-in-common/000001a1-bfa3-dda4-adb7-bfef4c970000",
-      "link": "https://www.haaretz.com/israel-news/2026-11-09/ty-article-magazine/.premium/far-right-jews-what-stephen-miller-and-itamar-ben-gvir-have-in-common/000001a1-bfa3-dda4-adb7-bfef4c970000",
+      "title": "Netanyahu Repeats Call for Unity Government Without Arabs as Eisenkot Gets Mandate",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/netanyahu-renews-call-for-unity-govt-without-hamas-supporting-arab-parties/000001a1-c0d4-dbe7-adb3-faf52b050000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/netanyahu-renews-call-for-unity-govt-without-hamas-supporting-arab-parties/000001a1-c0d4-dbe7-adb3-faf52b050000",
       "published_at": "2026-11-09T00:00:00Z",
-      "ai_summary": "The article examines the ideological and political parallels between Stephen Miller and Itamar Ben-Gvir, focusing on their shared far-right nationalism, anti-immigration politics, and influence over hardline policy agendas.",
+      "ai_summary": "Netanyahu again called for a unity government that excludes Arab parties, as Eisenkot received the mandate to try forming a government.",
       "importance": 72,
-      "why": "It connects a prominent U.S. political figure and an Israeli far-right minister, highlighting cross-national ideological trends that are politically significant and broadly relevant."
+      "why": "This is politically significant in Israel because it concerns coalition formation, Netanyahu\u2019s stance toward Arab parties, and the transfer of mandate to Eisenkot, all of which can affect government stability and future policy direction."
+    },
+    {
+      "source": "Haaretz",
+      "title": "'Unprecedented and Risky': Eisenkot's Big Gamble to Oust Netanyahu",
+      "summary": "https://www.haaretz.com/israel-news/podcasts/2026-11-09/ty-article-podcast/unprecedented-and-risky-eisenkots-big-gamble-to-oust-netanyahu/000001a1-c0ea-df80-a9e3-e6febcbb0000",
+      "link": "https://www.haaretz.com/israel-news/podcasts/2026-11-09/ty-article-podcast/unprecedented-and-risky-eisenkots-big-gamble-to-oust-netanyahu/000001a1-c0ea-df80-a9e3-e6febcbb0000",
+      "published_at": "2026-11-09T00:00:00Z",
+      "ai_summary": "The article examines Gadi Eisenkot\u2019s unprecedented political gamble to help oust Benjamin Netanyahu, framing it as a high-risk move with significant implications for Israeli politics and the opposition landscape.",
+      "importance": 72,
+      "why": "It concerns a major leadership challenge in Israeli politics, Netanyahu\u2019s potential removal, and the strategic risks faced by a prominent opposition figure, making it highly relevant to current political developments."
     }
   ],
   "deep_analysis": [
     {
       "source": "Middle East Eye",
-      "title": "Petition for inquiry into UK 'complicity' in Gaza genocide passes 100,000 threshold",
-      "summary": "The petition launched by Your Party will now be considered for debate in parliament",
-      "link": "https://www.middleeasteye.net/news/petition-inquiry-uks-complicity-gaza-genocide-passes-100000-threshold-parliament-debate",
-      "published_at": "2026-11-09T12:45:00Z",
-      "ai_summary": "A petition calling for an inquiry into alleged UK complicity in the Gaza genocide has passed 100,000 signatures and will now be considered for debate in Parliament.",
-      "importance": 77,
-      "why": "The threshold means the issue has reached a formal parliamentary consideration, making it politically notable and potentially influential in UK debate on Gaza and government accountability."
+      "title": "UK awards deals worth millions to firms linked to illegal Israeli settlements",
+      "summary": "Sanctions announced by the Burnham government in September have not yet come into force",
+      "link": "https://www.middleeasteye.net/news/uk-awards-deals-worth-ps10m-firms-linked-illegal-israeli-settlements",
+      "published_at": "2026-11-10T12:37:00Z",
+      "ai_summary": "The UK has awarded millions in deals to companies linked to illegal Israeli settlements, despite sanctions announced by the Burnham government in September not yet being implemented.",
+      "importance": 89,
+      "why": "This involves government procurement, sanctions policy, and alleged links to illegal settlements, making it politically and internationally significant."
     },
     {
       "source": "Middle East Eye",
-      "title": "Anti-Muslim influence campaign targeting UK traced back to Israel",
-      "summary": "Large numbers of paid advertisements warned of a Qatar-backed Islamic takeover of Britain in run-up to 2024 election and riots",
-      "link": "https://www.middleeasteye.net/news/major-anti-muslim-influence-campaign-targeting-uk-elections-and-riots-traced-israel",
-      "published_at": "2026-11-09T16:41:00Z",
-      "ai_summary": "The article reports that a campaign of paid anti-Muslim advertisements in the UK, which warned of a Qatar-backed Islamic takeover ahead of the 2024 election and during riots, was traced back to Israel.",
-      "importance": 75,
-      "why": "It concerns foreign influence operations, anti-Muslim propaganda, and election-related disinformation in the UK, which are politically significant and socially sensitive."
+      "title": "As heavy rains swamp Gaza's tents, Israel must face sanctions",
+      "summary": "The world cannot sit idly by as the Netanyahu regime, withholding vital supplies, imposes mass collective punishment",
+      "link": "https://www.middleeasteye.net/opinion/heavy-rains-swamp-gazas-tents-israel-must-face-sanctions",
+      "published_at": "2026-11-10T09:30:00Z",
+      "ai_summary": "The text argues that heavy rains worsening conditions in Gaza\u2019s tent camps, combined with withheld vital supplies, amount to collective punishment and justify sanctions against Israel.",
+      "importance": 81,
+      "why": "It addresses an urgent humanitarian crisis and makes a strong political claim about international responsibility and sanctions, which is significant for public policy and geopolitical discourse."
     },
     {
       "source": "Jadaliyya",
@@ -182,19 +222,9 @@
       "summary": "In conversation with Bassam Haddad  In this conversation,\u00a0Diana Buttu provides an update on Israel\u2019s elections and the resulting gridlock. She\u00a0addresses the peculiarities of the new contender Eisenkot as well as the nature and politics of...",
       "link": "https://www.jadaliyya.com/Details/48135/Palestine-in-Context-Israels-Elections-with-Diana-Buttu-30-October",
       "published_at": null,
-      "ai_summary": "Diana Buttu discusses Israel\u2019s elections, the resulting political deadlock, and the significance of new contender Eisenkot, with attention to the broader politics surrounding Palestine.",
+      "ai_summary": "Conversation with Diana Buttu on Israel\u2019s elections, the post-election gridlock, the political role of Eisenkot, and the broader Palestine context.",
       "importance": 68,
-      "why": "It offers timely analysis of Israeli elections and political gridlock from a Palestinian perspective, which is relevant for understanding the regional context and implications for Palestine."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "Launching 'Israel\u2019s Zombie Economy:' A Five Part Interview Series",
-      "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
-      "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
-      "published_at": null,
-      "ai_summary": "Announcement of a five-part Jadaliyya interview series titled \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
-      "importance": 48,
-      "why": "It is a media announcement about a political economy interview series, relevant for readers interested in Israel, economics, and regional political analysis, but it is not itself a major news development."
+      "why": "It discusses Israeli electoral politics and their implications for Palestine, but appears to be a commentary/interview rather than a major breaking event."
     },
     {
       "source": "Jadaliyya",
@@ -202,9 +232,19 @@
       "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
       "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
       "published_at": null,
-      "ai_summary": "An announcement for an academic freedom event titled \u201cIn Defense of Academic Freedom: The Circus of Academic Complicity Part 1,\u201d organized by regional faculty groups and co-sponsored by MESA-related committees and Faculty for Justice in Palestine.",
-      "importance": 37,
-      "why": "The text appears to be an event announcement about academic freedom and Gaza-related advocacy within academia. It may be relevant for tracking higher-education activism or MESA-related programming, but it contains no substantive findings, decisions, or urgent operational information."
+      "ai_summary": "A talk or event titled \u201cIn Defense of Academic Freedom: The Circus of Academic Complicity Part 1\u201d held on 15 October, organized by regional faculty for academic freedom and Gaza, with cosponsors including MESA academic freedom and civil rights groups and Faculty for Justice in Palestine.",
+      "importance": 64,
+      "why": "The title and organizers indicate a politically and academically significant event focused on academic freedom, Gaza, and institutional complicity, which is relevant to faculty advocacy and Middle East studies communities."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "Launching 'Israel\u2019s Zombie Economy:' A Five Part Interview Series",
+      "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
+      "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
+      "published_at": null,
+      "ai_summary": "Announcement of a five-part Jadaliyya interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
+      "importance": 48,
+      "why": "It is primarily a media/educational announcement introducing a themed interview series, with moderate relevance for readers interested in Israeli political economy, but limited standalone news significance."
     },
     {
       "source": "Carnegie ME",
@@ -213,9 +253,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/a-celebration-or-funeral-in-iraq",
       "date": "Oct 2, 2026",
       "published_at": null,
-      "ai_summary": "The piece argues that as the U.S.-led coalition withdraws from Iraq, Kurdish people will become increasingly dependent on Baghdad and on their own political and military institutions.",
-      "importance": 72,
-      "why": "It addresses a major geopolitical transition in Iraq and its likely impact on Kurdish autonomy, security, and relations with Baghdad, making it relevant to regional politics and post-withdrawal stability."
+      "ai_summary": "The piece contrasts Kurdish hopes and anxieties as the U.S.-led coalition withdraws from Iraq, arguing that the Kurds will have to depend more on Baghdad and on their own internal strength.",
+      "importance": 73,
+      "why": "It concerns Iraq\u2019s post-withdrawal political balance and Kurdish-Baghdad relations, which are central to the country\u2019s stability and future governance."
     },
     {
       "source": "Carnegie ME",
@@ -224,19 +264,19 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
       "date": "Oct 9, 2026",
       "published_at": null,
-      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those rooted in the war years, as transitional justice efforts stall.",
-      "importance": 63,
-      "why": "It highlights a significant grassroots response to unresolved wartime tensions and the gap left by stalled transitional justice, with potential implications for local stability and postwar governance."
+      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those left unresolved from the war years, as transitional justice efforts stall.",
+      "importance": 59,
+      "why": "This indicates an important grassroots response to a gap in formal transitional justice and highlights ongoing social reconciliation needs in postwar Syria, but it is a short, narrow update rather than a major political development."
     },
     {
       "source": "Responsible Statecraft",
-      "title": "Vance admits it: \u2018The reason we lost is the war\u2019",
-      "summary": "Wednesday morning, as Democrats celebrated one of the largest midterm blowouts in decades, Vice President J.D. Vance struck a somber tone. \u201cThe reason we lost is the war,\u201d Vance wrote on X, referencing the Iran conflict the Trump...",
-      "link": "https://responsiblestatecraft.org/jd-vance-iran-war/",
-      "published_at": "2026-11-04T16:29:23Z",
-      "ai_summary": "J.D. Vance said the midterm losses happened because of the war, referring to the Iran conflict the Trump administration was involved in.",
-      "importance": 80,
-      "why": "It connects a major political setback to a specific foreign policy issue and includes a statement from the vice president, making it significant for U.S. politics and current events."
+      "title": "Trump must end the war today and fire all top officials connected to it",
+      "summary": "For the last eight months, the Iran war has been a topic of fierce debate: is the war in our national interest? Was Iran an imminent threat? Should we stay the course or escalate? This debate raged through the historic MAGA coalition that...",
+      "link": "https://responsiblestatecraft.org/trump-ending-war-elections/",
+      "published_at": "2026-11-06T05:05:04Z",
+      "ai_summary": "The text argues that Trump should immediately end the Iran war and dismiss senior officials associated with it, framing the conflict as a serious internal debate within the MAGA coalition over whether the war serves U.S. national interests.",
+      "importance": 72,
+      "why": "The title signals a strong political stance on a major foreign-policy issue, and the excerpt indicates ongoing debate within a significant political coalition about war policy, making it relevant and potentially impactful."
     },
     {
       "source": "Drop Site News",
@@ -244,9 +284,9 @@
       "summary": "As winter approaches, Palestinians in Gaza are desperately trying to prepare their tents and damaged homes while food cuts by the World Food Programme are exacerbating rising levels of hunger.",
       "link": "https://www.dropsitenews.com/p/gaza-wfp-food-cuts-hunger-tents-winter",
       "published_at": "2026-11-02T23:01:27Z",
-      "ai_summary": "Gaza faces worsening hunger as winter approaches, with UN food cuts and limited humanitarian aid hitting Palestinians hard while they try to prepare tents and damaged homes.",
-      "importance": 91,
-      "why": "The item describes a severe humanitarian crisis affecting a large civilian population, with immediate risks from food insecurity and harsh winter conditions. It is highly relevant due to its scale, urgency, and impact on basic survival needs."
+      "ai_summary": "Gaza faces worsening hunger as the World Food Programme cuts food aid, leaving Palestinians struggling to prepare tents and damaged homes for winter amid scarce humanitarian assistance.",
+      "importance": 92,
+      "why": "The story concerns a major humanitarian crisis affecting a large civilian population, with food insecurity and aid cuts likely to have immediate and severe consequences."
     }
   ]
 }
