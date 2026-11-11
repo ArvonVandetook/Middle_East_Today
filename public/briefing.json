@@ -1,56 +1,116 @@
 {
-  "generated_at": "2026-11-11T01:37:04.975568Z",
-  "top_story": "Severe storms on 9 November exposed how environmental shocks are compounding conflict-driven vulnerability across the region, killing people in northern Iraq and turning Gaza\u2019s displacement camps into flood zones. In Gaza, rain wrecked roughly 70,000 tents, triggered a sand embankment collapse that killed a woman and three children, and pushed civil defence into maximum emergency as families sheltered in waterlogged encampments and damaged buildings. By 10 November, the immediate flooding had hardened into a wider shelter crisis, with inadequate supplies and repeated exposure leaving displaced people less able to withstand the winter. The broader pattern is clear: seasonal weather is no longer a manageable hardship for populations already stripped of infrastructure, housing, and basic protection.",
+  "generated_at": "2026-11-11T17:34:43.690313Z",
+  "top_story": "Storm damage in Gaza has turned prolonged displacement into an acute survival crisis: after floods wrecked about 70,000 tents on 9 November, more than 940,000 displaced Palestinians remain exposed to cold, waterlogged ground, and the delayed delivery of 150,000 replacement tents is now a life-threatening bottleneck. The emergency is not only meteorological but political, because the collapse of shelter capacity deepens public anger over the restriction and delay of basic supplies while rescue services remain overwhelmed. In Saudi Arabia, the sentencing of a Kenyan migrant worker to 100 lashes for giving birth outside marriage underscores a parallel regional pattern in which vulnerable non-citizens bear the sharpest edge of state power. The immediate takeaway is that across these cases, weak protection for displaced people and migrant laborers is converting administrative and judicial decisions into direct human harm.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Iran unveils new underground 'missile city': What to know",
-      "summary": "Iran has moved much of its missile stockpile underground as the threat of a new war looms.",
-      "link": "https://www.al-monitor.com/originals/2026/11/iran-unveils-new-underground-missile-city-what-know",
-      "published_at": "2026-11-10T20:10:25Z",
-      "ai_summary": "Iran has reportedly moved much of its missile stockpile underground amid growing fears of another war.",
+      "title": "Yemenis in Sanaa mourn dozens killed in strike blamed on Saudi Arabia",
+      "summary": "Large crowds gathered in the Yemeni capital Sanaa on Wednesday to mourn the deaths of dozens of people, nearly half of them children, killed last week in strikes blamed on Saudi Arabia. Mourners prayed at the city's Mosque of the People --...",
+      "link": "https://www.al-monitor.com/originals/2026/11/yemenis-sanaa-mourn-dozens-killed-strike-blamed-saudi-arabia",
+      "published_at": "2026-11-11T15:30:31Z",
+      "ai_summary": "Crowds in Sanaa mourned dozens killed in strikes blamed on Saudi Arabia, with nearly half the victims reported to be children.",
       "importance": 86,
-      "why": "This concerns military posture and regional security, with potential implications for conflict escalation, deterrence, and international stability."
+      "why": "The report describes a deadly strike causing significant civilian casualties, including many children, and reflects the broader humanitarian impact of the Yemen conflict and Saudi involvement."
     },
     {
       "source": "Middle East Eye",
-      "title": "\u2018We woke up soaking wet\u2019: Gaza\u2019s displaced face another winter of floods and collapsed shelters",
-      "summary": "Heavy rains flood tents and threaten damaged buildings, leaving families with nowhere safe to go as Israel restricts humanitarian supplies",
-      "link": "https://www.middleeasteye.net/news/we-woke-soaking-wet-gazas-displaced-face-another-winter-floods-and-collapsed-shelters",
-      "published_at": "2026-11-10T13:32:00Z",
-      "ai_summary": "Gaza\u2019s displaced families are enduring another winter of heavy rain, flooded tents, and unsafe damaged buildings, with limited humanitarian supplies worsening an already desperate shelter crisis.",
-      "importance": 95,
-      "why": "This is highly important because it concerns large-scale civilian displacement, immediate life-threatening winter conditions, and the impact of aid restrictions on humanitarian survival in Gaza."
+      "title": "She saw her husband and daughter off to Egypt. An Israeli soldier killed her on the way home",
+      "summary": "Hours after bidding farewell to her family members leaving Gaza for medical treatment, a Palestinian mother is shot dead",
+      "link": "https://www.middleeasteye.net/news/she-saw-her-husband-and-daughter-egypt-israeli-sniper-killed-her-way-home",
+      "published_at": "2026-11-11T12:05:00Z",
+      "ai_summary": "A Palestinian mother was shot dead on her way home after seeing her husband and daughter off to Egypt for medical treatment.",
+      "importance": 88,
+      "why": "The story involves a civilian death in the context of the Israel-Palestine conflict and the separation of a family seeking medical treatment, making it both tragic and geopolitically significant."
     },
     {
       "source": "Al Jazeera",
-      "title": "Father, child among eight Palestinians killed in Israeli attacks on Gaza",
-      "summary": "Israel has killed more than 1,600 people in Gaza since last year\u2019s \u2018ceasefire\u2019, the enclave\u2019s Health Ministry says.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son",
-      "published_at": "2026-11-10T00:00:00Z",
-      "ai_summary": "Report states that Israeli attacks in Gaza have killed eight Palestinians, including a father and child, and that Gaza\u2019s Health Ministry says more than 1,600 people have been killed since last year\u2019s ceasefire.",
-      "importance": 87,
-      "why": "This is a significant conflict update involving civilian deaths and a large cumulative death toll, making it highly relevant for news and human impact monitoring."
+      "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+      "summary": "Mohsen Rezaei\u2019s comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "Iran denied talks with the US and said the Strait of Hormuz would remain closed until its demands are met, amid reports that at least three ships hit mines and caught fire there.",
+      "importance": 92,
+      "why": "This is highly important because it involves a major geopolitical flashpoint, potential disruption of a critical global oil shipping route, and immediate risk of regional military escalation and economic impact."
     },
     {
       "source": "Guardian",
-      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-      "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfallDeadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in...",
-      "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-      "published_at": "2026-11-09T10:59:06Z",
-      "ai_summary": "Deadly flash floods struck northern Iraq as severe thunderstorms swept the region, with dangerous weather also affecting parts of Iran, Portugal, and Japan.",
-      "importance": 91,
-      "why": "The story reports deadly flooding and widespread severe weather across multiple countries, making it highly consequential for public safety and regional impact."
+      "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+      "summary": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areasTens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend,...",
+      "link": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "published_at": "2026-11-11T05:00:32Z",
+      "ai_summary": "Charities warn that more than 940,000 displaced Palestinians in Gaza are facing dangerous, flood-prone conditions after deadly storms damaged or waterlogged their tents, while promised aid such as 150,000 tents has yet to arrive.",
+      "importance": 94,
+      "why": "The article reports a severe humanitarian emergency affecting a very large displaced population, with immediate risks from weather exposure, flooding, and disease. It also highlights urgent unmet aid needs and large-scale civilian suffering."
     },
     {
       "source": "Haaretz",
-      "title": "Drones From Within: Could Iran Launch Its Own Operation Spiderweb Against Israel?",
-      "summary": "https://www.haaretz.com/israel-news/security-aviation/2026-11-10/ty-article-magazine/.premium/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
-      "link": "https://www.haaretz.com/israel-news/security-aviation/2026-11-10/ty-article-magazine/.premium/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
-      "published_at": "2026-11-10T00:00:00Z",
-      "ai_summary": "The article examines the possibility that Iran could try to emulate Ukraine\u2019s Operation Spiderweb by using drones launched from within Israel, likely via covert cells or smuggled systems, rather than relying only on long-range attacks. It focuses on Israel\u2019s vulnerability to hidden internal launch platforms, the security challenges of detecting such a threat, and the implications for Israeli air-defense and internal security preparedness.",
+      "title": "Trump's Retreat From Iran War Deals Netanyahu Yet Another Blow",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-11/ty-article/.premium/after-trumps-midterm-blowout-israel-remains-alone-in-pushing-for-war-with-iran/000001a1-c6eb-df80-a9e3-e6ff569d0000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-11/ty-article/.premium/after-trumps-midterm-blowout-israel-remains-alone-in-pushing-for-war-with-iran/000001a1-c6eb-df80-a9e3-e6ff569d0000",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "The article says Trump\u2019s post-midterm shift away from backing a war with Iran leaves Netanyahu politically isolated and weakens Israel\u2019s push for a military option against Tehran.",
       "importance": 78,
-      "why": "This is a high-relevance security and regional conflict analysis article. It discusses a plausible and potentially significant shift in Iranian attack strategy, with direct implications for Israel\u2019s defense posture, counterintelligence, and broader Middle East escalation dynamics."
+      "why": "It concerns major U.S.-Israel strategic alignment, Iran policy, and Netanyahu\u2019s political position. A change in Washington\u2019s stance on war with Iran could materially affect regional security and Israeli decision-making."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Israel Targets U.S. Conservatives in Influence Operation",
+      "summary": "Starboard, a company that advertises access to data on 25 million &#8220;verified conservatives,&#8221; signed a $500,000 agreement to help the State of Israel influence Americans.",
+      "link": "https://www.dropsitenews.com/p/israel-influence-united-states-conservatives-parler",
+      "published_at": "2026-11-11T17:22:13Z",
+      "ai_summary": "A company advertising access to data on 25 million 'verified conservatives' reportedly signed a $500,000 agreement to help the State of Israel influence Americans.",
+      "importance": 79,
+      "why": "This involves alleged foreign influence operations targeting a major U.S. political group, which is politically significant and potentially affects public discourse, elections, and trust in media and government."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Lebanon detains Hezbollah members as PM pledges end to impunity",
+      "summary": "Concerns about internal strife are growing amid tensions between Lebanese authorities and Hezbollah.",
+      "link": "https://www.al-monitor.com/originals/2026/11/lebanon-detains-hezbollah-members-pm-pledges-end-impunity",
+      "published_at": "2026-11-11T15:02:34Z",
+      "ai_summary": "Lebanon is reportedly detaining Hezbollah members amid rising tensions, while the prime minister pledges to end impunity, increasing concerns about internal strife.",
+      "importance": 81,
+      "why": "This is a significant political and security development in Lebanon involving Hezbollah, the state, and potential internal conflict. It could affect domestic stability, governance, and regional tensions."
+    },
+    {
+      "source": "Middle East Eye",
+      "title": "Hundreds of British Jews accuse Board of Deputies of 'genocide denial'",
+      "summary": "Open letter challenges Jewish community body over its denunciation of Green Party and response to Israel\u2019s actions against Palestinians",
+      "link": "https://www.middleeasteye.net/news/hundreds-british-jews-accuse-board-deputies-genocide-denial-open-letter",
+      "published_at": "2026-11-11T11:20:00Z",
+      "ai_summary": "Hundreds of British Jews have signed an open letter accusing the Board of Deputies of downplaying or denying allegations of genocide in relation to Israel\u2019s actions against Palestinians, and criticizing its denunciation of the Green Party.",
+      "importance": 81,
+      "why": "The item highlights a significant internal dispute within the British Jewish community over Israel/Palestine, involving a major communal organization and a large number of signatories. It is newsworthy because it reflects escalating disagreement about how Jewish institutions should respond to allegations of genocide and political criticism of Israel."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel is \u2018disrupting entire ecosystems\u2019, including Lebanon\u2019s wheat crop",
+      "summary": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "War-related destruction in southern Lebanon and the Bekaa Valley is damaging farmlands and disrupting Lebanon\u2019s wheat production.",
+      "importance": 86,
+      "why": "The headline and text point to significant agricultural disruption with potential food-security consequences for Lebanon, especially affecting a staple crop and multiple regions."
+    },
+    {
+      "source": "Guardian",
+      "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
+      "summary": "Rights groups condemn reported punishment of Kenyan migrant worker as an \u2018act of violence\u2019A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage.Under the Saudi sharia law system,...",
+      "link": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+      "published_at": "2026-11-11T09:15:44Z",
+      "ai_summary": "A Kenyan migrant worker in Saudi Arabia was reportedly sentenced to 100 lashes for giving birth outside marriage, prompting condemnation from rights groups.",
+      "importance": 92,
+      "why": "The story involves a severe corporal punishment, human rights concerns, and the treatment of a migrant worker under Saudi law, making it highly newsworthy and socially significant."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Netanyahu's Racist Knesset Rant Further United His Opponents Against Him",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-11/ty-article/.premium/netanyahus-racist-rant-did-the-one-thing-the-bloc-of-change-couldnt-unite-it/000001a1-c74d-d9c8-a5f9-ef4d6a1a0000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-11/ty-article/.premium/netanyahus-racist-rant-did-the-one-thing-the-bloc-of-change-couldnt-unite-it/000001a1-c74d-d9c8-a5f9-ef4d6a1a0000",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "The article argues that Netanyahu\u2019s racist remarks in the Knesset backfired politically, strengthening and uniting his opponents in the anti-Netanyahu bloc.",
+      "importance": 74,
+      "why": "It concerns Israeli domestic politics and the cohesion of the opposition, with implications for Netanyahu\u2019s standing and potential future coalition dynamics."
     },
     {
       "source": "Drop Site News",
@@ -59,80 +119,50 @@
       "link": "https://www.dropsitenews.com/p/incoming-freshman-says-allies-of",
       "published_at": "2026-11-10T17:21:32Z",
       "ai_summary": "House progressives are preparing to force a vote on ending some U.S. arms sales to Israel amid a growing pro-Palestine bloc.",
-      "importance": 67,
-      "why": "This signals meaningful movement in congressional opposition to U.S. military support for Israel and could affect foreign policy debate and future arms sales decisions."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Iran-backed militant helped plot attack on UK's Fairford base from US jail, Justice Department says",
-      "summary": "By Luc CohenNEW YORK, Nov 10 (Reuters) - A member of an Iran-backed militia plotted to attack the RAF Fairford air base in Britain while detained in the US on criminal charges, the US Justice Department said on Tuesday.\u2022 Iraqi national...",
-      "link": "https://www.al-monitor.com/originals/2026/11/iran-backed-militant-helped-plot-attack-uks-fairford-base-us-jail-justice",
-      "published_at": "2026-11-10T21:46:31Z",
-      "ai_summary": "US prosecutors said an Iran-backed militia member plotted an attack on Britain\u2019s RAF Fairford air base while jailed in the United States on criminal charges.",
-      "importance": 85,
-      "why": "The report involves alleged foreign-backed militant activity, a planned attack on a UK military base, and cross-border security implications involving the US, UK, and Iran-linked actors."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Israel kills 14-year-old Palestinian boy in West Bank, wounds two others in Gaza",
-      "summary": "Palestinian officials said Israeli forces withheld the boy's body as the UN reported more than 2,060 settler attacks across the occupied West Bank so far this year",
-      "link": "https://www.middleeasteye.net/news/israel-kills-14-year-old-palestinian-boy-west-bank-wounds-two-gaza",
-      "published_at": "2026-11-10T11:25:00Z",
-      "ai_summary": "Israeli forces killed a 14-year-old Palestinian boy in the West Bank and wounded two others in Gaza, while Palestinian officials said his body was withheld; the UN also reported more than 2,060 settler attacks in the occupied West Bank this year.",
-      "importance": 91,
-      "why": "This is a major escalation involving civilian casualties, a child victim, and broader context of widespread settler violence, making it highly significant for human rights, conflict, and regional stability."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israeli president warns against repeat election in new Knesset session",
-      "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session",
-      "published_at": "2026-11-10T00:00:00Z",
-      "ai_summary": "Israeli President Herzog urged an inquiry into the October 7 attacks during a Knesset session, warning against another election amid ongoing political gridlock after the elections.",
-      "importance": 79,
-      "why": "It concerns Israel's political stability, the aftermath of the October 7 attacks, and the possibility of another election, all of which are nationally significant and could affect governance and security policy."
-    },
-    {
-      "source": "Guardian",
-      "title": "Witnesses recount struggle to save people buried in \u2018horrifying\u2019 Gaza landslide",
-      "summary": "High winds and heavy rain triggered collapse of sand bank overlooking camp for displaced familiesWitnesses have described the frantic struggle to save three members of a family buried by a landslide triggered by high winds and heavy rain...",
-      "link": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
-      "published_at": "2026-11-09T18:27:51Z",
-      "ai_summary": "Witnesses described efforts to rescue three family members buried when high winds and heavy rain caused a landslide near a camp for displaced families in Gaza.",
-      "importance": 85,
-      "why": "The report covers a life-threatening disaster affecting displaced civilians in an active humanitarian crisis, with immediate risk to life and likely broader significance for emergency response and aid conditions."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Far-Right Jews: What Stephen Miller and Itamar Ben-Gvir Have in Common",
-      "summary": "https://www.haaretz.com/israel-news/2026-11-09/ty-article-magazine/.premium/far-right-jews-what-stephen-miller-and-itamar-ben-gvir-have-in-common/000001a1-bfa3-dda4-adb7-bfef4c970000",
-      "link": "https://www.haaretz.com/israel-news/2026-11-09/ty-article-magazine/.premium/far-right-jews-what-stephen-miller-and-itamar-ben-gvir-have-in-common/000001a1-bfa3-dda4-adb7-bfef4c970000",
-      "published_at": "2026-11-09T00:00:00Z",
-      "ai_summary": "The article compares Stephen Miller and Itamar Ben-Gvir as examples of far-right Jewish political figures whose nationalism, anti-immigrant rhetoric, and hardline views on security and identity converge across the U.S. and Israel.",
-      "importance": 78,
-      "why": "It connects two prominent public figures and uses them to examine a broader political trend: the rise and influence of far-right Jewish nationalism in both American and Israeli politics."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "US charges three 'Iranian operatives' over UK airbase plot",
-      "summary": "The US Justice Department on Tuesday announced charges against three men it described as \"Iranian operatives,\" including one already in jail, over their role in an alleged terrorist plot at Britain's RAF Fairford airbase. Mohammad Baqer...",
-      "link": "https://www.al-monitor.com/originals/2026/11/us-charges-three-iranian-operatives-over-uk-airbase-plot",
-      "published_at": "2026-11-10T22:30:23Z",
-      "ai_summary": "The US Justice Department charged three men described as Iranian operatives over an alleged terrorist plot targeting Britain\u2019s RAF Fairford airbase; one of the suspects is already in jail.",
-      "importance": 85,
-      "why": "This is a significant international security and counterterrorism story involving alleged state-linked operatives, a plot against a military airbase in the UK, and a formal US criminal response."
+      "importance": 72,
+      "why": "This signals a significant shift in congressional pressure on U.S.-Israel policy and reflects increasing internal Democratic division over arms sales and the Gaza conflict."
     }
   ],
   "regional_analysis": [
     {
       "source": "Al Jazeera",
-      "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
-      "summary": "Eight articles brought by a Republican lawmaker accuse US Pentagon chief of waging unlawful wars on Iran and Venezuela.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed",
-      "published_at": "2026-11-10T00:00:00Z",
-      "ai_summary": "A Republican lawmaker has introduced eight impeachment articles against US Pentagon chief Hegseth, accusing him of waging unlawful wars on Iran and Venezuela.",
-      "importance": 79,
-      "why": "This is high-impact political and national security news involving a senior US defense official and serious allegations of unlawful military action, which could have major legal and geopolitical consequences."
+      "title": "Rubio backs blockade, Vance wants deal: Is Trump\u2019s team split on Iran war?",
+      "summary": "Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "The text suggests Trump\u2019s team is divided on Iran: Rubio supports a blockade and Vance prefers a negotiated deal, while the U.S. may end up relying on prolonged economic pressure instead of direct war.",
+      "importance": 83,
+      "why": "It points to a significant policy split on a major foreign-policy issue involving Iran, with implications for war, diplomacy, and U.S. strategy."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Netanyahu fights to stay relevant as Israel\u2019s opposition closes in",
+      "summary": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
+      "link": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "A new Knesset shaped by the October 7 attacks is set to convene, while Benjamin Netanyahu works to prevent an opposition-led government and stay politically relevant.",
+      "importance": 82,
+      "why": "This is highly important because it concerns the balance of power in Israel, the future of Netanyahu\u2019s leadership, and government formation in the aftermath of October 7, a major national and geopolitical turning point."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gaza\u2019s infrastructure collapse leaves residents defenceless against floods",
+      "summary": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "Winter weather is causing floods and strong winds in Gaza, where infrastructure collapse has left residents especially vulnerable.",
+      "importance": 80,
+      "why": "The report highlights an ongoing humanitarian risk in Gaza: damaged infrastructure leaves civilians defenceless against severe weather, which can worsen living conditions and increase immediate harm."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Arab Lawmakers Have Heard Accusations of Treason Before. Not Like Netanyahu's",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-11/ty-article/.premium/arab-lawmakers-were-not-shocked-by-netanyahus-racist-rant-but-by-its-ferocity/000001a1-c955-dc22-abe1-f97563ed0000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-11/ty-article/.premium/arab-lawmakers-were-not-shocked-by-netanyahus-racist-rant-but-by-its-ferocity/000001a1-c955-dc22-abe1-f97563ed0000",
+      "published_at": "2026-11-11T00:00:00Z",
+      "ai_summary": "The article examines how Arab lawmakers in Israel reacted to Netanyahu\u2019s harsh anti-Arab remarks, framing them as a more intense version of longstanding accusations rather than a new phenomenon. It argues that what shocked them was the ferocity and explicit racism of the rhetoric, not the existence of hostility itself.",
+      "importance": 74,
+      "why": "The piece is politically significant because it highlights tensions between Israel\u2019s government and Arab citizens/representatives, and it reflects on the escalation of racist political discourse by the prime minister. While largely analytical and context-driven, it matters for understanding current Israeli politics and intercommunal relations."
     },
     {
       "source": "Haaretz",
@@ -140,101 +170,31 @@
       "summary": "https://www.haaretz.com/israel-news/podcasts/2026-11-09/ty-article-podcast/unprecedented-and-risky-eisenkots-big-gamble-to-oust-netanyahu/000001a1-c0ea-df80-a9e3-e6febcbb0000",
       "link": "https://www.haaretz.com/israel-news/podcasts/2026-11-09/ty-article-podcast/unprecedented-and-risky-eisenkots-big-gamble-to-oust-netanyahu/000001a1-c0ea-df80-a9e3-e6febcbb0000",
       "published_at": "2026-11-09T00:00:00Z",
-      "ai_summary": "The article examines Gadi Eisenkot\u2019s bold political move to challenge and potentially oust Benjamin Netanyahu, framing it as an unprecedented and risky gamble in Israeli politics. It discusses the strategic logic, risks, and broader implications for the opposition and Netanyahu\u2019s hold on power.",
-      "importance": 78,
-      "why": "This is politically significant because it concerns a major leadership challenge in Israel and could affect government stability, opposition strategy, and future elections. However, without the full text, the precise details and immediate impact are unclear."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Israeli Split Screen: The Spectator Sport of Coalition Building Versus Daily Misery in Gaza",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article-magazine/.premium/israeli-split-screen-the-sport-of-coalition-building-vs-daily-misery-in-gaza/000001a1-bfa2-d1cd-aded-bfa375800000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article-magazine/.premium/israeli-split-screen-the-sport-of-coalition-building-vs-daily-misery-in-gaza/000001a1-bfa2-d1cd-aded-bfa375800000",
-      "published_at": "2026-11-09T00:00:00Z",
-      "ai_summary": "The article contrasts Israel\u2019s internal political focus on coalition maneuvering and elections with the ongoing humanitarian suffering in Gaza, emphasizing the disconnect between political spectacle and daily reality.",
-      "importance": 78,
-      "why": "It highlights a significant political and humanitarian issue: how domestic Israeli coalition politics can overshadow the severe conditions in Gaza. This kind of framing is important for understanding public discourse, policymaking, and the broader conflict narrative."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say",
-      "summary": "BASRA, Iraq, Nov 10 (Reuters) - Iraq barred a plane carrying Iran's national soccer team from landing at Basra airport on Tuesday, a decision by the Iraqi Civil Aviation Authority linked to US sanctions imposed on Iranian airlines, two...",
-      "link": "https://www.al-monitor.com/originals/2026/11/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions",
-      "published_at": "2026-11-10T21:46:31Z",
-      "ai_summary": "Iraq prevented a plane carrying Iran\u2019s national soccer team from landing in Basra, citing Iraqi Civil Aviation Authority action linked to US sanctions on Iranian airlines.",
-      "importance": 75,
-      "why": "It involves international sanctions, aviation restrictions, and a diplomatic/sporting incident affecting Iran and Iraq, but it is a relatively narrow news item rather than a major global event."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Ex-Iraqi MP Ahmed Alwani found dead in Lebanon: What to know",
-      "summary": "Ahmed al-Alwani was a prominent leader of anti-government protests by Iraqi Sunnis in 2013, and was released from prison last year.",
-      "link": "https://www.al-monitor.com/originals/2026/11/ex-iraqi-mp-ahmed-alwani-found-dead-lebanon-what-know",
-      "published_at": "2026-11-10T21:12:31Z",
-      "ai_summary": "Ex-Iraqi MP Ahmed Alwani, a prominent Sunni anti-government protest leader in 2013 who was released from prison last year, was found dead in Lebanon.",
-      "importance": 75,
-      "why": "The death of a notable former Iraqi lawmaker and protest figure is politically significant, especially given his history as a prominent Sunni opposition leader and his recent release from prison."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "UNIFIL patrol comes under fire in southern Lebanon",
-      "summary": "UNIFIL said on Tuesday that \u2018about a dozen rounds\u2019 were fired at one of its patrols, without identifying the assailants.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon",
-      "published_at": "2026-11-10T00:00:00Z",
-      "ai_summary": "UNIFIL reported that one of its patrols in southern Lebanon came under fire, with about a dozen rounds fired at it, though the attackers were not identified.",
-      "importance": 73,
-      "why": "The incident involves an attack on a UN peacekeeping patrol in a sensitive border area, which could affect regional stability and peacekeeping operations, but the report is brief and lacks details about casualties or attribution."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Tankers continue to burn in the Middle East despite hopes for de-escalation",
-      "summary": "(Corrects in paragraph 4 to 'a Navig8 tanker', removing reference to 'Navig8 Messi'; it was not clear which Navig8 tanker was shown)Nov 10 (Reuters) - Despite market bets on a de-escalation in the Iran war, new evidence has emerged in...",
-      "link": "https://www.al-monitor.com/originals/2026/11/tankers-continue-burn-middle-east-despite-hopes-de-escalation",
-      "published_at": "2026-11-10T19:47:11Z",
-      "ai_summary": "Reuters reports that tanker fires and shipping disruptions in the Middle East continue despite market hopes for de-escalation in the Iran war, with a correction clarifying the vessel shown was a Navig8 tanker.",
-      "importance": 71,
-      "why": "The story matters because it concerns geopolitical risk, energy/shipping security, and potential market impacts. However, the provided text is very brief and mostly a correction plus a general headline, so the immediate detail is limited."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Fire contained on platform in Iran\u2019s South Pars gas field",
-      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field",
-      "published_at": "2026-11-10T00:00:00Z",
-      "ai_summary": "A fire on a platform in Iran\u2019s South Pars gas field has been contained. Officials are considering a gas leak or an operational mishap as possible causes.",
-      "importance": 63,
-      "why": "This is a significant energy-sector incident involving a major gas field, with potential operational and supply implications, but the report is brief and does not indicate casualties or major damage."
+      "ai_summary": "The article analyzes Gadi Eisenkot\u2019s high-risk political move to help build an alliance aimed at removing Benjamin Netanyahu from power, framing it as an unprecedented gamble with significant consequences for Israel\u2019s political future.",
+      "importance": 72,
+      "why": "This is a major Israeli political development involving a prominent former military chief and the potential reshaping of the governing coalition. It matters for understanding leadership dynamics, opposition strategy, and the broader trajectory of Israeli politics."
     }
   ],
   "deep_analysis": [
     {
       "source": "Middle East Eye",
-      "title": "Burnham's plan to 'end neoliberalism' includes involvement of US firm linked to Gaza aid site massacres",
-      "summary": "Boston Consulting Group, whose former employees include Benjamin Netanyahu and James Purnell, to consult on UK prime minister's 10-year plan",
-      "link": "https://www.middleeasteye.net/news/burnhams-plan-end-neoliberalism-includes-hiring-us-firm-linked-gaza-aid-site-massacres",
-      "published_at": "2026-11-10T15:55:00Z",
-      "ai_summary": "Burnham\u2019s plan to \u2018end neoliberalism\u2019 reportedly involves Boston Consulting Group, a US firm linked to Gaza aid site massacres, as a consultant on the UK prime minister\u2019s 10-year plan.",
-      "importance": 82,
-      "why": "The headline ties a major political plan to a controversial consulting firm with alleged links to deadly Gaza aid site incidents, making it politically significant and potentially newsworthy for governance, ethics, and foreign-policy concerns."
+      "title": "Abdul El-Sayed's victory proves supporting Palestine is no electoral liability",
+      "summary": "I backed Michigan's senator-elect because he defied the Israel lobby, faced down bigotry and rejected establishment Democrats' limits on progressive politics. Now the work begins",
+      "link": "https://www.middleeasteye.net/opinion/abdul-el-sayeds-victory-proves-supporting-palestine-no-electoral-liability",
+      "published_at": "2026-11-06T12:03:00Z",
+      "ai_summary": "The text argues that Abdul El-Sayed's victory shows that supporting Palestine is not an electoral liability and praises him for defying the Israel lobby, confronting bigotry, and rejecting establishment limits on progressive politics.",
+      "importance": 81,
+      "why": "It highlights a significant political claim about electoral strategy, Palestine advocacy, and progressive organizing, framed around a notable election result."
     },
     {
       "source": "Middle East Eye",
-      "title": "Anti-Muslim influence campaign targeting UK traced back to Israel",
-      "summary": "Large numbers of paid advertisements warned of a Qatar-backed Islamic takeover of Britain in run-up to 2024 election and riots",
-      "link": "https://www.middleeasteye.net/news/major-anti-muslim-influence-campaign-targeting-uk-elections-and-riots-traced-israel",
-      "published_at": "2026-11-09T16:41:00Z",
-      "ai_summary": "The piece alleges that a coordinated anti-Muslim influence campaign in the UK, involving paid ads about a supposed Qatar-backed Islamic takeover, was traced back to Israel.",
+      "title": "GCC to establish joint forward-command centre in Kuwait",
+      "summary": "Given the intense attacks Kuwait has faced from Iran and its allies in Iraq, questions remain about how the new centre could be defended",
+      "link": "https://www.middleeasteye.net/news/gcc-establish-joint-forward-command-center-kuwait",
+      "published_at": "2026-11-10T17:48:00Z",
+      "ai_summary": "The GCC plans to establish a joint forward-command centre in Kuwait amid intense attacks from Iran and its allies in Iraq, raising questions about how the facility would be defended.",
       "importance": 77,
-      "why": "It concerns alleged foreign influence operations, election-related disinformation, and anti-Muslim targeting in the UK, all of which are politically and socially significant."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "Palestine in Context: Israel's Elections with Diana Buttu (30 October)",
-      "summary": "In conversation with Bassam Haddad  In this conversation,\u00a0Diana Buttu provides an update on Israel\u2019s elections and the resulting gridlock. She\u00a0addresses the peculiarities of the new contender Eisenkot as well as the nature and politics of...",
-      "link": "https://www.jadaliyya.com/Details/48135/Palestine-in-Context-Israels-Elections-with-Diana-Buttu-30-October",
-      "published_at": null,
-      "ai_summary": "Discussion with Diana Buttu on Israel\u2019s elections, the resulting political gridlock, and the significance of new contender Eisenkot within broader Palestinian and Israeli politics.",
-      "importance": 68,
-      "why": "The item is politically relevant and offers analysis of Israel\u2019s elections and their implications, especially from a Palestinian perspective, but it appears to be a commentary/interview rather than a major breaking event."
+      "why": "This is geopolitically significant because it involves Gulf security coordination in response to regional threats from Iran-backed groups, but it is a brief report with limited operational detail."
     },
     {
       "source": "Jadaliyya",
@@ -242,9 +202,19 @@
       "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
       "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
       "published_at": null,
-      "ai_summary": "Announcement for an academic freedom event titled \u201cIn Defense of Academic Freedom: The Circus of Academic Complicity Part 1\u201d scheduled for 15 October, organized by DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in the Conrtext Collaborative Project and cosponsored by MESA human rights and academic freedom groups, along with Faculty for Justice in Palestine.",
-      "importance": 48,
-      "why": "It is a notable event announcement involving academic freedom, Gaza, and multiple academic organizations, but it appears to be primarily promotional rather than conveying urgent or broadly consequential information."
+      "ai_summary": "A talk or event titled 'In Defense of Academic Freedom: The Circus of Academic Complicity Part 1' organized by regional faculty groups and cosponsored by MESA committees and related organizations, focused on academic freedom and Gaza.",
+      "importance": 70,
+      "why": "It appears to be a notable academic/political event involving academic freedom, Gaza, and multiple faculty/professional organizations, but the provided text is brief and does not indicate broader public significance beyond the event itself."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "Palestine in Context: Israel's Elections with Diana Buttu (30 October)",
+      "summary": "In conversation with Bassam Haddad  In this conversation,\u00a0Diana Buttu provides an update on Israel\u2019s elections and the resulting gridlock. She\u00a0addresses the peculiarities of the new contender Eisenkot as well as the nature and politics of...",
+      "link": "https://www.jadaliyya.com/Details/48135/Palestine-in-Context-Israels-Elections-with-Diana-Buttu-30-October",
+      "published_at": null,
+      "ai_summary": "Conversation with Diana Buttu about Israel\u2019s elections, the post-election political gridlock, and the role of new contender Eisenkot in the broader political landscape.",
+      "importance": 68,
+      "why": "The item is politically relevant because it discusses Israeli elections, gridlock, and key electoral figures, all of which have implications for Israel-Palestine dynamics. It appears to be an analytical update rather than a major breaking event."
     },
     {
       "source": "Jadaliyya",
@@ -253,8 +223,8 @@
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
       "ai_summary": "Jadaliyya announces a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
-      "importance": 43,
-      "why": "This is a media announcement about an interview series on a political-economic topic. It is relevant for readers interested in Israel/Palestine studies, political economy, or Jadaliyya\u2019s content, but it is not a major news event by itself."
+      "importance": 44,
+      "why": "The item is a publication announcement rather than a major geopolitical event, but it may be important to readers interested in political economy, Israel/Palestine studies, and critical media analysis."
     },
     {
       "source": "Carnegie ME",
@@ -263,9 +233,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
       "date": "Oct 9, 2026",
       "published_at": null,
-      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, including many rooted in the war years, amid stalled transitional justice efforts.",
+      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, including many stemming from the war years, as transitional justice efforts stall.",
       "importance": 73,
-      "why": "This points to an important grassroots response to gaps in formal transitional justice and signals how local dispute resolution is filling a governance and reconciliation void in Syria."
+      "why": "The item highlights a significant post-conflict governance development in Syria: local reconciliation councils filling a justice and dispute-resolution gap. This is important because it affects social stability, community trust, and the broader prospects for transitional justice and recovery."
     },
     {
       "source": "Carnegie ME",
@@ -274,9 +244,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/a-celebration-or-funeral-in-iraq",
       "date": "Oct 2, 2026",
       "published_at": null,
-      "ai_summary": "The piece argues that as the U.S.-led coalition withdraws from Iraq, the Kurds will become more dependent on Baghdad and on their own internal capabilities.",
+      "ai_summary": "The text argues that as the U.S.-led Coalition withdraws from Iraq, the Kurds will become increasingly dependent on Baghdad and on their own internal strength.",
       "importance": 63,
-      "why": "It reflects a significant political and security shift in Iraq, especially for Kurdish autonomy and future governance after coalition withdrawal."
+      "why": "It highlights a significant political shift in Iraq involving Kurdish autonomy and the post-withdrawal balance of power, which could affect regional stability and governance."
     },
     {
       "source": "Responsible Statecraft",
@@ -284,9 +254,19 @@
       "summary": "For the last eight months, the Iran war has been a topic of fierce debate: is the war in our national interest? Was Iran an imminent threat? Should we stay the course or escalate? This debate raged through the historic MAGA coalition that...",
       "link": "https://responsiblestatecraft.org/trump-ending-war-elections/",
       "published_at": "2026-11-06T05:05:04Z",
-      "ai_summary": "Opinionated article arguing that Trump should immediately end the Iran war and dismiss senior officials associated with it.",
-      "importance": 69,
-      "why": "The piece addresses a major foreign-policy and national-security issue, framing it as a significant internal debate within the MAGA coalition and around U.S. war policy."
+      "ai_summary": "The text argues that Trump should immediately end the Iran war and remove senior officials associated with it, framing the conflict as deeply controversial within the MAGA coalition.",
+      "importance": 76,
+      "why": "It addresses a major foreign policy and intra-coalition political dispute involving the president, war policy, and top officials, indicating high relevance and potential impact."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "In Jericho, Israeli Settlers Violently Seize and Occupy Palestinian Homes",
+      "summary": "The takeover by Israeli settlers of homes inside a Palestinian city in the occupied West Bank represents a dangerous escalation in Israel&#8217;s dispossession of Palestinians across the territory.",
+      "link": "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers",
+      "published_at": "2026-11-07T15:35:55Z",
+      "ai_summary": "Israeli settlers violently seized and occupied Palestinian homes in Jericho, marking a dangerous escalation in the dispossession of Palestinians in the occupied West Bank.",
+      "importance": 88,
+      "why": "The report describes a significant and violent escalation in the Israeli-Palestinian conflict, involving home seizure and occupation inside a Palestinian city in the occupied West Bank. It has high relevance for human rights, regional stability, and ongoing territorial disputes."
     },
     {
       "source": "Drop Site News",
@@ -294,19 +274,9 @@
       "summary": "As winter approaches, Palestinians in Gaza are desperately trying to prepare their tents and damaged homes while food cuts by the World Food Programme are exacerbating rising levels of hunger.",
       "link": "https://www.dropsitenews.com/p/gaza-wfp-food-cuts-hunger-tents-winter",
       "published_at": "2026-11-02T23:01:27Z",
-      "ai_summary": "Gaza faces worsening hunger and hardship as the World Food Programme cuts food aid while winter approaches, leaving Palestinians struggling to prepare makeshift shelters and damaged homes.",
-      "importance": 88,
-      "why": "The item reports a severe humanitarian crisis affecting a large civilian population, with direct consequences for food security, shelter, and survival conditions. It is highly important due to the scale of need and the potential for further deterioration."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Encircled and Besieged, Taiz City Is a Refuge for Displaced Yemenis Fleeing War",
-      "summary": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
-      "link": "https://www.dropsitenews.com/p/taiz-yemen-displaced-ansarallah-saudi-siege",
-      "published_at": "2026-11-05T22:19:00Z",
-      "ai_summary": "Over 50,000 displaced people have recently arrived in Taiz city as fighting continues around the area.",
-      "importance": 85,
-      "why": "The report describes a major displacement event during an active conflict in Yemen, affecting tens of thousands of people and signaling worsening humanitarian conditions."
+      "ai_summary": "Gaza is facing worsening hunger as winter nears, with UN food cuts and limited humanitarian aid leaving Palestinians struggling to prepare tents and damaged homes.",
+      "importance": 87,
+      "why": "The text describes a serious humanitarian crisis affecting large numbers of people, with food insecurity increasing in an already devastated area. It is urgent and high-impact due to the combination of aid reductions, hunger, and approaching winter conditions."
     }
   ]
 }
