@@ -1,76 +1,16 @@
 {
-  "generated_at": "2026-11-15T01:27:11.815814Z",
-  "top_story": "The mining of commercial shipping in the Strait of Hormuz escalated sharply by 14 November, with three tankers set ablaze after striking mines, deepening a pattern that has already killed 25 seafarers since the US-Israel war on Iran began. This marks a shift from strategic pressure on states to direct danger for civilian crews and global energy transit, raising the cost of insecurity for Gulf societies and international markets alike. In Gaza, the 12 November strike on Nasser hospital in Khan Younis killed a surgeon and five others at one of the territory\u2019s last functioning medical sites, and the following day a baby died of hypothermia as attacks and aid restrictions compounded the collapse of civilian protection. Taken together, the latest developments show a regional war increasingly defined by attritional harm to civilians and essential infrastructure, with the human toll now reinforcing the conflict\u2019s wider economic and political destabilization.",
+  "generated_at": "2026-11-15T16:43:16.032928Z",
+  "top_story": "Israel\u2019s 12 November strike on Nasser hospital in Khan Younis, which killed a surgeon and other civilians during working hours, further degraded one of southern Gaza\u2019s last critical medical hubs and underscored how the war is collapsing basic civilian survival systems rather than only hitting military targets. That same day in the UK, guilty verdicts against two men who helped surveil journalists for an Iran-linked assassination plot showed Tehran\u2019s coercive reach extending into diaspora communities far beyond the region\u2019s battlefields. By 15 November, Yemeni government forces had retreated from the Bab el-Mandeb area to defend Aden, giving the Houthis a significant battlefield and symbolic gain near a strategic maritime chokepoint. Taken together, these developments point to a regional environment in which armed actors and their state backers are widening pressure on civilians, professionals, and exiled opponents while shifting the balance of insecurity from Gaza\u2019s hospitals to the Red Sea corridor and European exile networks.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-      "summary": "Nov 14 (Reuters) - Iran's navy said three oil tankers caught fire on Saturday after hitting naval mines in the Strait of Hormuz, Iranian state media reported.One tanker hit a naval mine in the eastern Strait of Hormuz on Saturday morning,...",
-      "link": "https://www.al-monitor.com/originals/2026/11/irans-navy-says-three-tankers-fire-after-hitting-mines-hormuz",
-      "published_at": "2026-11-14T23:46:29Z",
-      "ai_summary": "Iran\u2019s navy said three oil tankers caught fire after striking naval mines in the Strait of Hormuz, according to state media and a Reuters report from Nov. 14.",
-      "importance": 94,
-      "why": "This involves a major chokepoint for global oil shipments, raising immediate concerns about maritime security, regional escalation, and potential disruption to energy markets."
-    },
-    {
-      "source": "Middle East Eye",
-      "title": "Baby dies of hypothermia, as Israeli attacks across Gaza surge",
-      "summary": "As temperatures plummet amid ongoing Israeli restrictions on aid, the vulnerable suffer; while 11 people were killed in a series of attacks across Gaza, including one on a hospital",
-      "link": "https://www.middleeasteye.net/news/gaza-baby-dies-hypothermia-israeli-attacks-across-enclave-surge",
-      "published_at": "2026-11-13T15:59:00Z",
-      "ai_summary": "A baby died of hypothermia in Gaza amid freezing temperatures and aid restrictions, while Israeli attacks killed 11 people across the territory, including in a hospital strike.",
-      "importance": 92,
-      "why": "The report describes a child\u2019s death linked to worsening humanitarian conditions, along with multiple fatalities from escalating attacks, including a strike on a hospital. This makes it highly significant both for civilian harm and for the broader conflict situation."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-      "summary": "Israel\u2019s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere",
-      "published_at": "2026-11-14T00:00:00Z",
-      "ai_summary": "The text argues that even if Netanyahu loses power, Israel\u2019s far-right has already entrenched a hardline political agenda that will be difficult to reverse.",
-      "importance": 83,
-      "why": "It highlights a significant political shift in Israel with long-term implications for governance, policy, and regional dynamics, extending beyond Netanyahu personally."
-    },
-    {
-      "source": "Guardian",
-      "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-      "summary": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the stripAn Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others,...",
-      "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-      "published_at": "2026-11-12T12:19:01Z",
-      "ai_summary": "An Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others at one of the few remaining medical facilities in Gaza.",
-      "importance": 93,
-      "why": "This is highly important because it involves a deadly strike on a hospital, significant civilian casualties, and further damage to Gaza\u2019s already strained medical infrastructure."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Woman Killed, Three Others Wounded After Grenade Thrown at Store in Northern Israel",
-      "summary": "https://www.haaretz.com/israel-news/israel-crime/2026-11-14/ty-article/.premium/medics-woman-killed-3-wounded-after-grenade-thrown-at-store-in-northern-israel/000001a1-da13-d1ce-a9a3-fa138bc80000",
-      "link": "https://www.haaretz.com/israel-news/israel-crime/2026-11-14/ty-article/.premium/medics-woman-killed-3-wounded-after-grenade-thrown-at-store-in-northern-israel/000001a1-da13-d1ce-a9a3-fa138bc80000",
-      "published_at": "2026-11-14T00:00:00Z",
-      "ai_summary": "A woman was killed and three others were wounded after a grenade was thrown at a store in northern Israel.",
-      "importance": 87,
-      "why": "This is a fatal violent incident with multiple casualties, likely tied to criminal or security-related unrest, and is therefore highly newsworthy."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Palm Beach County\u2019s Israel Bonds Holdings Hit 24% of Portfolio Last Month",
-      "summary": "The Florida county, the world&#8217;s largest municipal investor in Israeli bonds, this month let its holdings drop from $1 billion to $932.5 million.",
-      "link": "https://www.dropsitenews.com/p/palm-beach-county-israel-bonds",
-      "published_at": "2026-11-13T01:03:41Z",
-      "ai_summary": "Palm Beach County reduced its Israeli bond holdings from $1 billion to $932.5 million, though they still accounted for 24% of its portfolio last month.",
-      "importance": 67,
-      "why": "The item is financially and politically significant because it concerns a large public investment exposure by a major municipal investor, and the change in holdings could draw attention from taxpayers, officials, and markets."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-      "summary": "By Erin Banco, Humeyra Pamuk, Phil Stewart and Timour AzhariWASHINGTON/RIYADH, Nov 14 (Reuters) - President Donald Trump has told senior advisers in recent days that he may hold off onattacking Iran if the US faces no new provocations from...",
-      "link": "https://www.al-monitor.com/originals/2026/11/trump-tells-advisers-he-may-hold-iran-attacks-barring-new-provocations-sources",
-      "published_at": "2026-11-14T11:46:28Z",
-      "ai_summary": "Trump has told senior advisers he may delay or avoid attacking Iran unless there are new provocations, according to sources cited by Reuters.",
-      "importance": 81,
-      "why": "This is a high-stakes foreign policy development involving the U.S. and Iran, with implications for military escalation, regional stability, and markets. The uncertainty around possible U.S. action makes it broadly important for geopolitics and security coverage."
+      "title": "Yemeni government force retreats from strait in major setback in war against Houthis",
+      "summary": "By Mohammed GhobariNov 15 (Reuters) - Yemeni government forces announced on Sunday they were withdrawing from the area near the Bab el-Mandeb Strait to focus on a defence of their main base in Aden, in a major setback for the Saudi-backed...",
+      "link": "https://www.al-monitor.com/originals/2026/11/yemeni-government-force-retreats-strait-major-setback-war-against-houthis",
+      "published_at": "2026-11-15T08:46:28Z",
+      "ai_summary": "Yemeni government forces said they were pulling back from the Bab el-Mandeb Strait area to concentrate on defending their main base in Aden, marking a major setback in their war against Houthi rebels.",
+      "importance": 91,
+      "why": "This is highly important because Bab el-Mandeb is a strategic global shipping chokepoint and the retreat signals a significant shift in the Yemen conflict, with potential regional security and economic implications."
     },
     {
       "source": "Middle East Eye",
@@ -78,123 +18,59 @@
       "summary": "Rights groups condemn secret execution of former child protester as a tool of political oppression under Crown Prince Mohammed bin Salman",
       "link": "https://www.middleeasteye.net/news/saudi-arabia-executes-former-child-protester-jawad-qureiris",
       "published_at": "2026-11-14T17:16:00Z",
-      "ai_summary": "Rights groups condemned Saudi Arabia\u2019s reported secret execution of former child protester Jawad Qureiris, describing it as political oppression under Crown Prince Mohammed bin Salman.",
+      "ai_summary": "Rights groups condemned Saudi Arabia for secretly executing former child protester Jawad Qureiris, calling it an example of political oppression under Crown Prince Mohammed bin Salman.",
       "importance": 91,
-      "why": "The story involves a human rights abuse, the execution of a former child protester, and broader allegations of political repression by the Saudi government, making it highly significant for international human rights and political reporting."
+      "why": "The item concerns a reported execution tied to political repression and human rights abuses in Saudi Arabia, involving a former child protester. It is highly significant because it raises serious concerns about due process, state violence, and international human rights scrutiny."
     },
     {
       "source": "Al Jazeera",
-      "title": "Netanyahu says only a unity government can guarantee Israel\u2019s security",
-      "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as \u2018tricks\u2019 as talks and a Knesset speaker vote loom.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security",
-      "published_at": "2026-11-14T00:00:00Z",
-      "ai_summary": "Netanyahu argues that only a unity government can ensure Israel\u2019s security, while Eisenkot dismisses the appeal as political maneuvering as coalition talks and a Knesset speaker vote approach.",
+      "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+      "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
+      "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble",
+      "published_at": "2026-11-15T00:00:00Z",
+      "ai_summary": "The remains of 69 Palestinians were recovered in northern Gaza, enabling their families to finally bury them after they had been trapped under rubble for years.",
       "importance": 79,
-      "why": "The item concerns Israeli coalition negotiations and security claims by a major political figure, which can affect government formation and national policy."
+      "why": "This is a significant humanitarian development in the Gaza conflict, involving the recovery and burial of many victims after a prolonged period, though it is a local rather than global event."
     },
     {
       "source": "Guardian",
-      "title": "Boxer on death row in Iran vows \u2018not to bow before oppression\u2019 after winning rights prize",
-      "summary": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on death row in Iran said he will \u201cnever surrender\u201d as he...",
-      "link": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
-      "published_at": "2026-11-13T06:00:11Z",
-      "ai_summary": "A boxer and political prisoner on death row in Iran, Mohammad Javad Vafaei Sani, vowed not to yield to oppression after winning a prestigious human rights prize.",
-      "importance": 91,
-      "why": "The item concerns a death-row political prisoner in Iran, allegations of repression, and an internationally recognized human rights award. It is important because it highlights potential state violence, human rights abuses, and the case of an athlete at risk of execution."
+      "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+      "summary": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the stripAn Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others,...",
+      "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+      "published_at": "2026-11-12T12:19:01Z",
+      "ai_summary": "An Israeli airstrike hit Nasser hospital in southern Gaza, killing six people including a surgeon and a disabled man, and wounding 28 others.",
+      "importance": 95,
+      "why": "This is a major Gaza conflict development involving a strike on one of the few remaining functioning hospitals, with civilian casualties and impacts on medical care."
     },
     {
       "source": "Haaretz",
-      "title": "Eisenkot Accuses Netanyahu of 'Racist and Violent' Campaign Against Arab Citizens",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-13/ty-article/.premium/eisenkot-accuses-netanyahu-of-racist-campaign-against-arab-citizens/000001a1-d50f-d59b-a1f3-dd9f56250000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-13/ty-article/.premium/eisenkot-accuses-netanyahu-of-racist-campaign-against-arab-citizens/000001a1-d50f-d59b-a1f3-dd9f56250000",
-      "published_at": "2026-11-13T00:00:00Z",
-      "ai_summary": "Eisenkot accused Netanyahu of running a racist and violent campaign against Arab citizens.",
-      "importance": 78,
-      "why": "The article concerns a significant political accusation involving Israel\u2019s prime minister, election rhetoric, and Jewish-Arab relations. It is relevant to national politics and social tensions, though it is a single campaign-related statement rather than a major policy shift or crisis."
+      "title": "EU Warns of Fast-Deteriorating Gaza Humanitarian Crisis as Winter Conditions Intensify",
+      "summary": "https://www.haaretz.com/gaza/2026-11-14/ty-article/.premium/eu-warns-of-fast-deteriorating-gaza-crisis-as-winter-conditions-intensify/000001a1-da77-d1ce-a9a3-fa77256f0000",
+      "link": "https://www.haaretz.com/gaza/2026-11-14/ty-article/.premium/eu-warns-of-fast-deteriorating-gaza-crisis-as-winter-conditions-intensify/000001a1-da77-d1ce-a9a3-fa77256f0000",
+      "published_at": "2026-11-14T00:00:00Z",
+      "ai_summary": "The EU says Gaza\u2019s humanitarian situation is rapidly worsening as winter weather intensifies, increasing urgency for aid, shelter, and other emergency support.",
+      "importance": 88,
+      "why": "This is highly important because it concerns an acute humanitarian crisis affecting large numbers of civilians, with winter conditions likely to worsen health, shelter, and supply shortages. EU concern may also signal increased diplomatic and aid attention."
+    },
+    {
+      "source": "Drop Site News",
+      "title": "Palm Beach County\u2019s Israel Bonds Holdings Hit 24% of Portfolio Last Month",
+      "summary": "The Florida county, the world&#8217;s largest municipal investor in Israeli bonds, this month let its holdings drop from $1 billion to $932.5 million.",
+      "link": "https://www.dropsitenews.com/p/palm-beach-county-israel-bonds",
+      "published_at": "2026-11-13T01:03:41Z",
+      "ai_summary": "Palm Beach County reduced its Israeli bond holdings from $1 billion to $932.5 million, though they still made up 24% of its portfolio last month.",
+      "importance": 71,
+      "why": "This is financially significant because it involves a very large municipal investment position and a notable shift in portfolio allocation, which could matter to taxpayers, bond markets, and public investment policy."
     },
     {
       "source": "Al Monitor",
-      "title": "Trump wagers time is on US side, for now, in dealing with Iran",
-      "summary": "The US can afford patience, but it should pair pressure with reassurance to its Middle Eastpartners.",
-      "link": "https://www.al-monitor.com/originals/2026/11/trump-wagers-time-us-side-now-dealing-iran",
-      "published_at": "2026-11-14T19:29:04Z",
-      "ai_summary": "The piece argues that the US currently has time on its side in dealing with Iran, but should combine pressure with reassurance to its Middle East partners.",
-      "importance": 75,
-      "why": "It addresses a major US foreign policy issue involving Iran and regional security, with implications for diplomacy, deterrence, and alliances in the Middle East."
-    }
-  ],
-  "regional_analysis": [
-    {
-      "source": "Al Jazeera",
-      "title": "EU calls for immediate humanitarian access to Gaza",
-      "summary": "The EU said that \u201cIsrael must enable the work of the UN and its agencies\u201d after the group was blocked access into Gaza.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza",
-      "published_at": "2026-11-14T00:00:00Z",
-      "ai_summary": "The EU called for immediate humanitarian access to Gaza, saying Israel must allow the UN and its agencies to operate there after access was blocked.",
-      "importance": 79,
-      "why": "This is a significant international diplomatic statement about humanitarian access in an active conflict, involving the EU, Israel, and UN agencies."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Siege fuels disease fears in Yemen\u2019s Taiz",
-      "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz",
-      "published_at": "2026-11-14T00:00:00Z",
-      "ai_summary": "Health officials warn that the decline in recorded infections in Taiz may hide a worsening disease outbreak amid the siege.",
-      "importance": 79,
-      "why": "The report concerns a potential public health crisis in Yemen\u2019s Taiz, where restricted access and conflict may be masking disease spread. This is important because it signals deteriorating humanitarian conditions and possible undercounting of infections."
-    },
-    {
-      "source": "Haaretz",
-      "title": "From Pundit to Powerbroker: Meet the Man Pushing Netanyahu to Ramp up His Anti-Arab Incitement",
-      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-13/ty-article-magazine/.premium/the-pundit-turned-mk-pushing-netanyahu-to-join-the-stolen-election-campaign/000001a1-d412-d1f4-a7f9-ded348ef0000",
-      "link": "https://www.haaretz.com/israel-news/elections/2026-11-13/ty-article-magazine/.premium/the-pundit-turned-mk-pushing-netanyahu-to-join-the-stolen-election-campaign/000001a1-d412-d1f4-a7f9-ded348ef0000",
-      "published_at": "2026-11-13T00:00:00Z",
-      "ai_summary": "Article about a pundit-turned-Knesset member who is reportedly pressuring Netanyahu to intensify anti-Arab rhetoric as part of an election campaign framed around claims of a stolen election.",
-      "importance": 78,
-      "why": "It appears to describe a significant shift in political strategy and rhetoric by a figure close to Netanyahu, with potential implications for Israeli election discourse, Arab-Jewish relations, and broader domestic polarization."
-    },
-    {
-      "source": "Al Monitor",
-      "title": "UN official urges Iran, US to let fertilisers through Hormuz Strait",
-      "summary": "Iran and the United States should \"immediately\" allow fertiliser shipments through the Strait of Hormuz to ease the crisis in some of the most vulnerable countries, a senior UN official said Saturday. Jorge Moreira da Silva, head of the UN...",
-      "link": "https://www.al-monitor.com/originals/2026/11/un-official-urges-iran-us-let-fertilisers-through-hormuz-strait",
-      "published_at": "2026-11-14T13:30:26Z",
-      "ai_summary": "A senior UN official urged Iran and the US to immediately allow fertiliser shipments through the Strait of Hormuz to help relieve shortages and food insecurity in vulnerable countries.",
-      "importance": 75,
-      "why": "The Strait of Hormuz is a major global chokepoint, and disruptions to fertiliser shipments can affect food production and prices in vulnerable regions. The statement involves Iran, the US, and UN pressure on a sensitive geopolitical and humanitarian issue."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-      "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know",
-      "published_at": "2026-11-14T00:00:00Z",
-      "ai_summary": "Qatar and Turkiye signed a mutual defence pact during the US-Iran war, with analysts saying it is intended mainly to deter attacks rather than create an offensive alliance.",
-      "importance": 75,
-      "why": "The agreement involves two regional actors and was concluded amid a major regional war, making it geopolitically significant. It may affect deterrence dynamics and regional security, though the reported purpose is defensive rather than escalatory."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Six-Year-Old Gaza Burn Victim Caught in Israeli Dispute Over Aid",
-      "summary": "https://www.haaretz.com/gaza/2026-11-14/ty-article/six-year-old-gaza-burn-victim-caught-in-israeli-dispute-over-aid/000001a1-d864-d292-abf9-fd7de3010000",
-      "link": "https://www.haaretz.com/gaza/2026-11-14/ty-article/six-year-old-gaza-burn-victim-caught-in-israeli-dispute-over-aid/000001a1-d864-d292-abf9-fd7de3010000",
-      "published_at": "2026-11-14T00:00:00Z",
-      "ai_summary": "A Haaretz report describes a six-year-old Gaza burn victim whose access to treatment and humanitarian aid has become entangled in an Israeli internal dispute over aid policy and approvals.",
-      "importance": 72,
-      "why": "The piece centers on a vulnerable child in urgent medical need and highlights how political and bureaucratic disputes can directly affect life-saving humanitarian aid. It is important because it illustrates the human impact of the Gaza war, aid restrictions, and Israeli decision-making conflicts."
-    }
-  ],
-  "deep_analysis": [
-    {
-      "source": "Middle East Eye",
-      "title": "Gaza flooding is a catastrophe by design - and the spineless West is complicit",
-      "summary": "Israel and its backers are right to keep calm and carry on, because they are a long way from facing any real accountability",
-      "link": "https://www.middleeasteye.net/opinion/gaza-flooding-catastrophe-design-and-spineless-west-complicit",
-      "published_at": "2026-11-11T19:40:00Z",
-      "ai_summary": "The text argues that Gaza\u2019s flooding is not accidental but a deliberate catastrophe, and that Western governments are complicit by failing to hold Israel accountable.",
-      "importance": 91,
-      "why": "It presents a strong political accusation about responsibility for a humanitarian crisis and the role of Western powers, making it highly relevant to international policy and human rights discourse."
+      "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+      "summary": "Nov 14 (Reuters) - Iran's navy said three oil tankers caught fire on Saturday after hitting naval mines in the Strait of Hormuz, Iranian state media reported.One tanker hit a naval mine in the eastern Strait of Hormuz on Saturday morning,...",
+      "link": "https://www.al-monitor.com/originals/2026/11/irans-navy-says-three-tankers-fire-after-hitting-mines-hormuz",
+      "published_at": "2026-11-14T23:46:29Z",
+      "ai_summary": "Iran\u2019s navy said three oil tankers caught fire after striking naval mines in the Strait of Hormuz, according to Iranian state media and Reuters.",
+      "importance": 89,
+      "why": "The Strait of Hormuz is a critical global oil shipping route, so any attack or mining incident there has major implications for energy markets, regional security, and potential escalation."
     },
     {
       "source": "Middle East Eye",
@@ -202,9 +78,123 @@
       "summary": "The airport and New York's Port Authority have come under scrutiny after reports emerged that parts for 'bunker-busting' bombs were going through JFK",
       "link": "https://www.middleeasteye.net/news/activists-demand-end-transfer-military-materials-israel-through-new-yorks-jfk-airport",
       "published_at": "2026-11-13T21:06:00Z",
-      "ai_summary": "Activists are calling for an end to the transfer of military materials to Israel through New York\u2019s JFK Airport after reports that parts for bunker-busting bombs were moving through the airport.",
+      "ai_summary": "Activists are demanding an end to the transfer of military materials to Israel through New York\u2019s JFK Airport after reports that parts for bunker-busting bombs were passing through the airport.",
       "importance": 81,
-      "why": "This is a politically sensitive and potentially high-impact issue involving military supply chains, U.S.-Israel policy, and scrutiny of a major transportation hub. It could attract public protest, media attention, and policy debate."
+      "why": "This is a politically sensitive and potentially high-impact report involving alleged military shipments, U.S. infrastructure, and the Israel-Gaza conflict, which could draw public scrutiny, protests, and policy responses."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Will Iraq\u2019s oil smuggling crackdown disarm militias without a conflict?",
+      "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict",
+      "published_at": "2026-11-15T00:00:00Z",
+      "ai_summary": "Iraq dismantled an alleged oil smuggling ring in Jurf al-Sakhar, a move that may reduce militia financing and help avoid internal conflict.",
+      "importance": 74,
+      "why": "The story matters because oil smuggling is tied to militia power and state control in Iraq. Disrupting a smuggling network could weaken armed groups financially and lower the risk of internal strife, making it relevant for security and political stability."
+    },
+    {
+      "source": "Guardian",
+      "title": "Two men found guilty of helping Iran try to \u2018eliminate\u2019 UK-based journalists",
+      "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targetsTwo men of Iranian origin who were hired through social media as part of a plan to \u201celiminate\u201d journalists in the UK have been...",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+      "published_at": "2026-11-12T19:15:30Z",
+      "ai_summary": "Two men of Iranian origin were found guilty of carrying out surveillance as part of a plot linked to Iran to target and potentially eliminate UK-based journalists.",
+      "importance": 94,
+      "why": "This is a serious national security and press freedom story involving an alleged state-linked plot on UK soil against journalists, with implications for public safety, foreign interference, and international relations."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Eisenkot-Led Bloc Moves to Repeal Judicial Overhaul Laws, Elect New Knesset Speaker",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-15/ty-article/.premium/eisenkot-bloc-prepares-push-to-repeal-judicial-overhaul-laws/000001a1-dbbb-d292-abf9-ffff8c470000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-15/ty-article/.premium/eisenkot-bloc-prepares-push-to-repeal-judicial-overhaul-laws/000001a1-dbbb-d292-abf9-ffff8c470000",
+      "published_at": "2026-11-15T00:00:00Z",
+      "ai_summary": "Eisenkot\u2019s bloc is preparing to push legislation that would repeal parts of the judicial overhaul and is also seeking to elect a new Knesset speaker, signaling a major political challenge to the current governing agenda.",
+      "importance": 87,
+      "why": "This is highly important because it affects Israel\u2019s judicial system, parliamentary leadership, and the balance of power in the Knesset. A move to repeal overhaul laws would have major constitutional and political consequences, likely triggering intense coalition-opposition conflict and broader public impact."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Senior Hamas commander killed in Israeli strike in Gaza",
+      "summary": "By Nidal al-Mughrabi and Yomna EhabNov 15 (Reuters) - Hamas said on Sunday that a senior commander who helped plan and oversee the October 7, 2023, attack on Israel had been killed in an Israeli airstrike, with the Israeli military...",
+      "link": "https://www.al-monitor.com/originals/2026/11/senior-hamas-commander-killed-israeli-strike-gaza",
+      "published_at": "2026-11-15T09:46:29Z",
+      "ai_summary": "Hamas said a senior commander involved in planning and overseeing the October 7, 2023 attack on Israel was killed in an Israeli airstrike in Gaza.",
+      "importance": 85,
+      "why": "The report concerns the killing of a high-ranking Hamas commander linked to the October 7 attack, which is significant for the ongoing Israel-Gaza conflict and could affect military operations and political dynamics."
+    }
+  ],
+  "regional_analysis": [
+    {
+      "source": "Haaretz",
+      "title": "Biden Recounts Failed Pleas to Netanyahu to Spare Gaza Civilians in New Memoir",
+      "summary": "https://www.haaretz.com/us-news/2026-11-13/ty-article/.premium/biden-recounts-failed-pleas-to-netanyahu-to-spare-gaza-civilians-in-new-memoir/000001a1-d5f1-d59b-a1f3-ddf538180000",
+      "link": "https://www.haaretz.com/us-news/2026-11-13/ty-article/.premium/biden-recounts-failed-pleas-to-netanyahu-to-spare-gaza-civilians-in-new-memoir/000001a1-d5f1-d59b-a1f3-ddf538180000",
+      "published_at": "2026-11-13T00:00:00Z",
+      "ai_summary": "In a new memoir, Biden says he repeatedly and unsuccessfully urged Netanyahu to spare Gaza civilians during the war, highlighting strained U.S.-Israel relations and the limits of American influence.",
+      "importance": 84,
+      "why": "The piece concerns a major geopolitical conflict and reveals firsthand claims by a former U.S. president about private pressure on Israel\u2019s leadership. It is newsworthy because it sheds light on high-level decision-making, U.S. diplomacy, and the humanitarian dimension of the Gaza war."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "ASEAN summit: Who\u2019s attending and what\u2019s at stake?",
+      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
+      "published_at": "2026-11-15T00:00:00Z",
+      "ai_summary": "ASEAN\u2019s summit will focus on energy disruptions caused by the US-Israel war on Iran, which is especially concerning for the bloc because it depends heavily on energy imports.",
+      "importance": 73,
+      "why": "The topic matters because it highlights a major regional summit agenda item tied to geopolitical conflict and energy security, both of which can significantly affect ASEAN economies and stability."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "UN official urges Iran, US to let fertilisers through Hormuz Strait",
+      "summary": "Iran and the United States should \"immediately\" allow fertiliser shipments through the Strait of Hormuz to ease the crisis in some of the most vulnerable countries, a senior UN official said Saturday. Jorge Moreira da Silva, head of the UN...",
+      "link": "https://www.al-monitor.com/originals/2026/11/un-official-urges-iran-us-let-fertilisers-through-hormuz-strait",
+      "published_at": "2026-11-14T13:30:26Z",
+      "ai_summary": "A senior UN official called on Iran and the United States to immediately allow fertiliser shipments through the Strait of Hormuz to help relieve shortages in vulnerable countries.",
+      "importance": 71,
+      "why": "The Strait of Hormuz is a critical global shipping chokepoint, and disruptions to fertiliser transit can worsen food insecurity in already vulnerable countries. The request from a senior UN official signals a potentially significant humanitarian and geopolitical issue, though the brief article excerpt does not indicate an immediate major escalation."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Netanyahu calls for Israeli unity government, Eisenkot dismisses 'tricks'",
+      "summary": "Israel's caretaker prime minister Benjamin Netanyahu on Saturday reiterated his calls for a national unity government with his opponent Gadi Eisenkot, who in turn dismissed the appeal as a ruse. The latest exchange comes as Eisenkot is in...",
+      "link": "https://www.al-monitor.com/originals/2026/11/netanyahu-calls-israeli-unity-government-eisenkot-dismisses-tricks",
+      "published_at": "2026-11-14T21:30:25Z",
+      "ai_summary": "Netanyahu again called for a national unity government with Gadi Eisenkot, but Eisenkot dismissed the appeal as a trick.",
+      "importance": 68,
+      "why": "This is a notable political development involving Israel\u2019s caretaker prime minister and a key opponent, but it appears to be a short-term campaign or coalition maneuver rather than a major policy event."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Trump wagers time is on US side, for now, in dealing with Iran",
+      "summary": "The US can afford patience, but it should pair pressure with reassurance to its Middle Eastpartners.",
+      "link": "https://www.al-monitor.com/originals/2026/11/trump-wagers-time-us-side-now-dealing-iran",
+      "published_at": "2026-11-14T19:29:04Z",
+      "ai_summary": "The article argues that the US currently has time on its side in dealing with Iran, but should combine pressure with reassurance for Middle East partners.",
+      "importance": 65,
+      "why": "It concerns US-Iran strategy and regional stability, which are significant geopolitical issues, though the provided text is brief and mostly a broad policy take rather than a detailed development."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Meet Netanyahu's Newest and Most Hard-Line Confidant",
+      "summary": "https://www.haaretz.com/israel-news/elections/2026-11-13/ty-article-magazine/.premium/the-pundit-turned-mk-pushing-netanyahu-to-join-the-stolen-election-campaign/000001a1-d412-d1f4-a7f9-ded348ef0000",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-11-13/ty-article-magazine/.premium/the-pundit-turned-mk-pushing-netanyahu-to-join-the-stolen-election-campaign/000001a1-d412-d1f4-a7f9-ded348ef0000",
+      "published_at": "2026-11-13T00:00:00Z",
+      "ai_summary": "Haaretz profile of a pundit-turned-MK described as one of Netanyahu\u2019s newest and most hard-line confidants, pushing him toward a more aggressive political strategy.",
+      "importance": 61,
+      "why": "The article concerns an influential political figure close to Netanyahu and his impact on election strategy, which is relevant for understanding Israeli political dynamics and potential policy shifts."
+    }
+  ],
+  "deep_analysis": [
+    {
+      "source": "Middle East Eye",
+      "title": "UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements",
+      "summary": "Charity regulator confirms probe after leaflets at JW3 event promoted medical clinics in settlements in occupied Palestinian territory",
+      "link": "https://www.middleeasteye.net/news/uk-charity-regulator-opens-case-centre-whose-event-promoted-illegal-israeli-settlements",
+      "published_at": "2026-11-13T17:06:00Z",
+      "ai_summary": "The UK charity regulator has opened a case into a community centre after leaflets at a JW3 event were found to promote medical clinics in Israeli settlements in occupied Palestinian territory.",
+      "importance": 81,
+      "why": "This involves a formal regulatory investigation into a public-facing charity/community organisation over alleged promotion of illegal settlements, making it legally and politically significant."
     },
     {
       "source": "Jadaliyya",
@@ -212,9 +202,9 @@
       "summary": "In conversation with Bassam Haddad  In this conversation,\u00a0Diana Buttu provides an update on Israel\u2019s elections and the resulting gridlock. She\u00a0addresses the peculiarities of the new contender Eisenkot as well as the nature and politics of...",
       "link": "https://www.jadaliyya.com/Details/48135/Palestine-in-Context-Israels-Elections-with-Diana-Buttu-30-October",
       "published_at": null,
-      "ai_summary": "Diana Buttu discusses Israel\u2019s elections, the resulting political gridlock, and the role of new contender Eisenkot, placing these developments in the broader context of Palestine and Israeli politics.",
+      "ai_summary": "A conversation with Diana Buttu about Israel\u2019s elections, the resulting political gridlock, and the significance of new contender Eisenkot in the broader context of Palestine and Israeli politics.",
       "importance": 68,
-      "why": "The item is politically relevant and timely, especially for understanding Israeli electoral dynamics and their implications for Palestine, but it appears to be a conversational update rather than a major standalone event or breaking news item."
+      "why": "The text discusses a timely political update on Israel\u2019s elections and their implications for Palestinian politics, featuring Diana Buttu\u2019s analysis. It appears relevant for understanding current regional dynamics, but the excerpt is brief and does not indicate a major breaking development."
     },
     {
       "source": "Jadaliyya",
@@ -222,9 +212,9 @@
       "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
       "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
       "published_at": null,
-      "ai_summary": "An academic freedom event titled \"In Defense of Academic Freedom: The Circus of Academic Complicity Part 1\" organized by regional faculty groups and cosponsored by MESA-related committees and Faculty for Justice in Palestine.",
-      "importance": 68,
-      "why": "The item announces a specific event centered on academic freedom and Gaza, with multiple faculty and academic-advocacy organizations involved. It is relevant to higher-education advocacy and campus politics, but the excerpt is too brief to indicate broader general importance beyond that community."
+      "ai_summary": "Announcement for an academic freedom event titled \"In Defense of Academic Freedom: The Circus of Academic Complicity Part 1\" on 15 October, organized by regional faculty groups and cosponsored by academic freedom and Palestine-related organizations.",
+      "importance": 58,
+      "why": "It appears to be a timely event notice involving academic freedom, civil rights, and Gaza/Palestine advocacy, which may matter to faculty, students, or organizers monitoring related activism. However, the provided text is brief and mostly promotional, with limited substantive information."
     },
     {
       "source": "Jadaliyya",
@@ -232,9 +222,9 @@
       "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
-      "ai_summary": "Jadaliyya is launching a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
+      "ai_summary": "Announcement of a five-part Jadaliyya interview series titled \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
       "importance": 48,
-      "why": "The item announces a new analytical interview series on a major political and economic topic, which is moderately significant for readers interested in Israel/Palestine and political economy, but it is primarily a media announcement rather than breaking news."
+      "why": "It is a media announcement for a substantive political-economy interview series, but the text provided is promotional and contains no major news event or policy development."
     },
     {
       "source": "Carnegie ME",
@@ -243,9 +233,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/a-celebration-or-funeral-in-iraq",
       "date": "Oct 2, 2026",
       "published_at": null,
-      "ai_summary": "The piece likely examines how the U.S.-led coalition\u2019s withdrawal from Iraq will force the Kurds to depend more on Baghdad and their own capabilities, with uncertain implications for their future security and autonomy.",
-      "importance": 69,
-      "why": "It concerns post-withdrawal power dynamics in Iraq and the Kurdish region, which has significant implications for regional stability, governance, and U.S. foreign policy, though the provided text is brief and suggests a broader analysis rather than a major breaking event."
+      "ai_summary": "The piece argues that as the U.S.-led coalition withdraws from Iraq, Kurdish reliance on Baghdad and Kurdish self-reliance will both increase.",
+      "importance": 73,
+      "why": "It points to a significant post-withdrawal shift in Iraqi power dynamics, especially for the Kurds, but the headline and provided text are brief and somewhat general."
     },
     {
       "source": "Carnegie ME",
@@ -254,9 +244,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
       "date": "Oct 9, 2026",
       "published_at": null,
-      "ai_summary": "Reconciliation councils are appearing across Syria to mediate intracommunal disputes, especially those rooted in the war years, as formal transitional justice efforts remain stalled.",
+      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those stemming from the war years, as transitional justice efforts remain stalled.",
       "importance": 63,
-      "why": "This indicates an emerging grassroots mechanism for conflict resolution and social repair in Syria. It is important because it reflects how communities are filling governance and justice gaps left by stalled national transitional justice processes."
+      "why": "This reflects a meaningful local response to the absence of formal transitional justice, showing how communities are trying to manage conflict and rebuild trust on the ground."
     },
     {
       "source": "Responsible Statecraft",
@@ -264,9 +254,9 @@
       "summary": "Congressional Democrats will face the first test of their willingness to translate their electoral gains into action against the Iran war before the new Congress is seated in January.While almost all Democrats appear united in wanting to...",
       "link": "https://responsiblestatecraft.org/democrats-funding-iran-war/",
       "published_at": "2026-11-12T05:05:04Z",
-      "ai_summary": "Democrats are facing an early post-election test on whether they will use their new leverage to oppose military action against Iran before the new Congress begins.",
-      "importance": 71,
-      "why": "The story concerns a major foreign-policy and war-power issue involving Congress, Iran, and the incoming balance of power. It matters because it can signal how aggressively Democrats will act on war oversight and executive authority after their electoral gains."
+      "ai_summary": "Article about whether newly empowered congressional Democrats will unite to oppose a potential Iran war before the new Congress convenes, using an early post-election vote as a test of their willingness to act.",
+      "importance": 70,
+      "why": "It concerns U.S. war policy, congressional power, and the first major foreign-policy test after elections, which could influence Iran conflict decisions and party strategy."
     },
     {
       "source": "Drop Site News",
@@ -274,9 +264,9 @@
       "summary": "The takeover by Israeli settlers of homes inside a Palestinian city in the occupied West Bank represents a dangerous escalation in Israel&#8217;s dispossession of Palestinians across the territory.",
       "link": "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers",
       "published_at": "2026-11-07T15:35:55Z",
-      "ai_summary": "Israeli settlers violently seized and occupied Palestinian homes in Jericho, marking a dangerous escalation in the occupied West Bank.",
-      "importance": 86,
-      "why": "The event involves violent displacement and occupation of homes in the West Bank, which is highly significant for the ongoing Israeli-Palestinian conflict and broader regional tensions."
+      "ai_summary": "The text reports that Israeli settlers violently seized and occupied Palestinian homes in Jericho, describing it as a dangerous escalation in the dispossession of Palestinians in the occupied West Bank.",
+      "importance": 88,
+      "why": "This is a significant and politically sensitive event involving violence, property seizure, and the broader Israeli-Palestinian conflict in the occupied West Bank, with potential implications for human rights, security, and regional stability."
     },
     {
       "source": "Drop Site News",
@@ -284,9 +274,9 @@
       "summary": "Over 50,000 people have arrived in Taiz city in the past several weeks, according to local officials, as fighting rages around it.",
       "link": "https://www.dropsitenews.com/p/taiz-yemen-displaced-ansarallah-saudi-siege",
       "published_at": "2026-11-05T22:19:00Z",
-      "ai_summary": "Over 50,000 people have recently arrived in Taiz city as fighting intensifies around it, making the city a refuge for displaced Yemenis fleeing the war.",
-      "importance": 84,
-      "why": "The report describes a significant displacement event tied to ongoing conflict in Yemen. Taiz is a major city under pressure from fighting, and the arrival of tens of thousands of civilians highlights a serious humanitarian situation."
+      "ai_summary": "Over 50,000 people have fled into Taiz city in recent weeks as fighting intensifies around the city, which is under encirclement and siege.",
+      "importance": 78,
+      "why": "This reports a significant displacement event tied to ongoing conflict in Yemen, indicating worsening humanitarian conditions and large-scale civilian movement."
     }
   ]
 }
