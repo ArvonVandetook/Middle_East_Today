@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-19T18:46:07.210110Z",
-  "top_story": "The ICJ\u2019s 19 November genocide finding against Myanmar has sharpened the legal and political stakes around mass-atrocity cases, especially as fears of possible US sanctions on judges signal a push to intimidate international judicial scrutiny before future rulings touching Israel and Gaza. That pressure lands as violence against Palestinians in the occupied West Bank remains embedded in daily life, underscored by the 17 November killing of 72-year-old Fadha Wadha near Jericho, where settler attacks deepen insecurity far from the Gaza battlefield. The 18 November US sentencing of a Pakistani man for a plot tied to revenge for Qassem Suleimani\u2019s killing also revives the shadow of Iran-linked transnational retaliation, reinforcing how unresolved regional conflicts continue to spill across legal, diplomatic, and civilian arenas. The emerging picture is of a region and its wider international environment in which accountability mechanisms are gaining force just as states and armed networks intensify efforts to deter, bypass, or violently answer them.",
+  "generated_at": "2026-11-20T02:46:45.742222Z",
+  "top_story": "A reported projectile strike on an LPG tanker in the Strait of Hormuz on 17 November pushed maritime insecurity back to the center of the Gulf, threatening a chokepoint that directly shapes fuel flows, insurance costs, and civilian livelihoods across the region. Hours later in the occupied West Bank, the killing of a 72-year-old Palestinian woman near Jericho during an alleged settler attack underscored how unchecked local violence continues to deepen fear and displacement far from formal front lines. By 18 November, the US sentencing of Asif Merchant for a plot to kill Donald Trump in retaliation for Qassem Suleimani\u2019s killing revived the long afterlife of US-Iran confrontation, linking episodic transnational revenge plots to a broader climate of escalation. Together, these developments show a region where strategic rivalry and localized violence reinforce each other, widening insecurity from shipping lanes to village doorsteps.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Iran\u2019s IRGC says tankers with 4M barrels of oil hit Hormuz mines: What to know",
-      "summary": "The IRGC Navy said that the tankers were carrying a combined cargo of more than 4 million barrels of crude oil.",
-      "link": "https://www.al-monitor.com/originals/2026/11/irans-irgc-says-tankers-4m-barrels-oil-hit-hormuz-mines-what-know",
-      "published_at": "2026-11-19T15:48:47Z",
-      "ai_summary": "IRGC Navy says tankers carrying more than 4 million barrels of crude oil were hit by mines in the Strait of Hormuz.",
-      "importance": 90,
-      "why": "This involves a major oil shipment and a key global shipping chokepoint, so it could affect energy markets, regional security, and maritime trade."
+      "title": "What\u2019s behind Iraq\u2019s standoff with Kataib Hezbollah militia?",
+      "summary": "The dispute over the Iran-backed group\u2019s presence in Jurf al-Sakhr has turned into a test of Prime Minister Ali al-Zaidi\u2019s efforts to rein in proxy groups.",
+      "link": "https://www.al-monitor.com/originals/2026/11/whats-behind-iraqs-standoff-kataib-hezbollah-militia",
+      "published_at": "2026-11-19T20:03:28Z",
+      "ai_summary": "Iraq\u2019s dispute with the Iran-backed Kataib Hezbollah over its presence in Jurf al-Sakhr has become a broader test of Prime Minister Ali al-Zaidi\u2019s ability to control powerful proxy militias.",
+      "importance": 87,
+      "why": "The issue involves a major Iran-backed armed group, state authority, and Iraq\u2019s internal security and sovereignty, making it highly relevant to regional stability and Iraqi politics."
     },
     {
       "source": "Middle East Eye",
-      "title": "In historic judgment, ICJ concludes that Myanmar committed genocide against Rohingya Muslims",
-      "summary": "The UN's top court holds a state responsible for genocide in a historic precedent that will help shape the decision in South Africa's case against Israel",
-      "link": "https://www.middleeasteye.net/news/icj-historic-judgment-myanmar-genocide-rohingya-muslims",
-      "published_at": "2026-11-19T08:55:00Z",
-      "ai_summary": "The ICJ found Myanmar responsible for genocide against Rohingya Muslims, setting a historic legal precedent with potential implications for other genocide cases, including South Africa\u2019s case against Israel.",
-      "importance": 98,
-      "why": "This is a landmark international legal ruling by the UN\u2019s top court, establishing state responsibility for genocide and likely influencing future human rights and genocide litigation worldwide."
+      "title": "Thirty years after Rabin's assassination, Israel is again flirting with political violence",
+      "summary": "In the wake of elections that handed Arabs the balance of power, we are witnessing an unprecedented outpouring of hate speech and racism",
+      "link": "https://www.middleeasteye.net/opinion/thirty-years-after-rabins-assassination-israel-again-flirting-political-violence",
+      "published_at": "2026-11-18T09:26:00Z",
+      "ai_summary": "The text argues that, thirty years after Yitzhak Rabin\u2019s assassination, Israel is again seeing alarming signs of political violence, fueled by hate speech and racism following elections that gave Arab voters significant influence.",
+      "importance": 89,
+      "why": "It connects a major historical political assassination to current electoral tensions and warns of a renewed risk of political violence, making it politically and socially significant."
     },
     {
       "source": "Al Jazeera",
@@ -28,29 +28,29 @@
       "summary": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
       "link": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis",
       "published_at": "2026-11-19T00:00:00Z",
-      "ai_summary": "Taiz, Yemen is facing a worsening water crisis as fuel shortages and restricted access to wells leave many residents reliant on unsafe water sources.",
-      "importance": 88,
-      "why": "This is highly important because it describes an acute humanitarian crisis affecting a besieged city\u2019s access to clean water, with direct risks to public health, disease spread, and basic survival for large numbers of people."
+      "ai_summary": "Taiz is facing a worsening water crisis as fuel shortages and loss of access to wells force residents to rely on unsafe water sources.",
+      "importance": 83,
+      "why": "This is a significant humanitarian issue affecting a besieged city\u2019s access to a basic necessity, with direct health and survival implications for many residents."
     },
     {
       "source": "Guardian",
-      "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-      "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residentsA 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where...",
-      "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-      "published_at": "2026-11-17T20:21:48Z",
-      "ai_summary": "A 72-year-old Palestinian woman, Fadha Wadha, was reportedly shot dead by Israeli settlers outside her home in al-Duyuk al-Tahta near Jericho in the West Bank.",
-      "importance": 95,
-      "why": "The report describes a fatal violent incident in the occupied West Bank involving civilians and Israeli settlers, which is highly significant due to its human cost and the broader implications for regional tensions and security."
+      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+      "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani deathA Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation...",
+      "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+      "published_at": "2026-11-18T00:21:33Z",
+      "ai_summary": "A Pakistani man, Asif Merchant, was sentenced to more than 27 years in prison in the US after being found to have plotted to assassinate Donald Trump, allegedly in retaliation for the killing of Qassem Suleimani and with reported links to Iran.",
+      "importance": 98,
+      "why": "The story involves an attempted assassination plot against a former US president, alleged foreign links, and a very long federal prison sentence, making it highly significant for US politics, security, and international relations."
     },
     {
       "source": "Haaretz",
-      "title": "U.K. Sanctions Israeli Firms, Group Tied to West Bank Settlement Construction, Blocking Gaza Aid",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/u-k-sanctions-8-israeli-firms-tied-to-west-bank-settlement-construction/000001a1-e907-d381-ade5-ebe794170000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/u-k-sanctions-8-israeli-firms-tied-to-west-bank-settlement-construction/000001a1-e907-d381-ade5-ebe794170000",
-      "published_at": "2026-11-17T00:00:00Z",
-      "ai_summary": "The U.K. imposed sanctions on eight Israeli firms and a group linked to West Bank settlement construction, as part of measures tied to the Gaza humanitarian crisis and efforts to restrict activities associated with settlement expansion and aid obstruction.",
-      "importance": 82,
-      "why": "This is a significant diplomatic and policy move by the U.K. involving sanctions on Israeli entities. It touches on the West Bank settlement issue, Gaza aid access, and broader international pressure on Israel, making it highly relevant to regional politics and humanitarian developments."
+      "title": "IDF Orders Central Gaza Evacuations as It Enters Area Outside Israeli Control",
+      "summary": "https://www.haaretz.com/gaza/2026-11-18/ty-article/.premium/idf-orders-evacuation-in-central-gaza-operating-in-area-outside-its-control/000001a1-eec6-d155-afe7-efd6a2300000",
+      "link": "https://www.haaretz.com/gaza/2026-11-18/ty-article/.premium/idf-orders-evacuation-in-central-gaza-operating-in-area-outside-its-control/000001a1-eec6-d155-afe7-efd6a2300000",
+      "published_at": "2026-11-18T00:00:00Z",
+      "ai_summary": "The IDF ordered evacuations in central Gaza while operating in an area outside Israeli control, indicating an escalation or expansion of military activity in the region.",
+      "importance": 88,
+      "why": "This is a significant breaking regional security development involving active military operations and civilian evacuation orders in Gaza, which can affect immediate humanitarian conditions, military dynamics, and broader conflict reporting."
     },
     {
       "source": "Drop Site News",
@@ -59,8 +59,8 @@
       "link": "https://www.dropsitenews.com/p/jenin-refugee-camp-israel-operation-iron-wall",
       "published_at": "2026-11-18T19:15:46Z",
       "ai_summary": "Palestinian journalist Mujahed Al-Saadi returned to Jenin after 22 months in prison and found the refugee camp emptied and heavily damaged by an Israeli military assault.",
-      "importance": 72,
-      "why": "This is a notable human-interest and conflict-related report about the impact of detention and military destruction in Jenin, involving a journalist and broader consequences for civilians."
+      "importance": 78,
+      "why": "The item reports on a major consequence of the Israel-Palestine conflict, including imprisonment of a journalist and severe destruction in Jenin, making it highly newsworthy and politically significant."
     },
     {
       "source": "Carnegie ME",
@@ -69,111 +69,49 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/11/when-the-soldiers-say-stop",
       "date": "Nov 18, 2026",
       "published_at": null,
-      "ai_summary": "A recent dispute in Lebanon between a politician and the army commander over Hezbollah\u2019s weapons has deeper roots.",
-      "importance": 59,
-      "why": "It concerns Lebanon\u2019s internal power balance, the role of the army, and the politically sensitive issue of Hezbollah\u2019s arms, which are central to national stability and regional security."
+      "ai_summary": "Lebanon\u2019s dispute over Hezbollah\u2019s weapons has deeper historical and political roots than the latest clash between a politician and the army commander suggests.",
+      "importance": 63,
+      "why": "The item is notable because it points to an ongoing, high-stakes internal Lebanese conflict involving Hezbollah\u2019s arms and the role of the army and political leadership, which can affect national stability and regional security."
     },
     {
       "source": "Al Monitor",
-      "title": "Factbox-Houthi attacks on Saudi Arabia",
-      "summary": "Nov 19 (Reuters) - Yemen's Iran-aligned Houthi group has repeatedly targeted Saudi Arabia in an intensifying campaign of drone and missile strikes on its airports, oil facilities and office buildings. Here are some of the attacks that it...",
-      "link": "https://www.al-monitor.com/originals/2026/11/factbox-houthi-attacks-saudi-arabia",
-      "published_at": "2026-11-19T16:46:31Z",
-      "ai_summary": "Reuters factbox on repeated Houthi drone and missile attacks against Saudi Arabia, targeting airports, oil facilities and office buildings.",
-      "importance": 81,
-      "why": "The piece documents an ongoing regional security threat involving major energy infrastructure and cross-border attacks, which can affect oil markets, air travel, and broader Saudi-Iran/Yemen conflict dynamics."
+      "title": "PIF, Aramco strikes hit heart of Saudi Arabia\u2019s economic overhaul",
+      "summary": "Long-term economic damage from the Saudi-Houthi conflict is mounting even as a recovery in oil production offers Riyadh a financial lifeline.",
+      "link": "https://www.al-monitor.com/originals/2026/11/pif-aramco-strikes-hit-heart-saudi-arabias-economic-overhaul",
+      "published_at": "2026-11-19T17:45:14Z",
+      "ai_summary": "Saudi Arabia\u2019s economic reform drive is being strained by escalating conflict-related damage, even as higher oil production provides temporary financial relief.",
+      "importance": 85,
+      "why": "The headline and text point to a major national economic issue: attacks involving PIF/Aramco and the broader Saudi-Houthi conflict are threatening Saudi Arabia\u2019s economic overhaul. This matters because it affects energy infrastructure, fiscal stability, and the feasibility of long-term reform, though the text is brief and lacks detailed specifics."
     },
     {
       "source": "Middle East Eye",
-      "title": "Somalia expels Emirati envoy, recalls own ambassador over 'open invasion'",
-      "summary": "The government ordered UAE ambassador to quit the country within 72 hours, accusing Abu Dhabi of failing to respect the sovereignty of the Horn of Africa nation",
-      "link": "https://www.middleeasteye.net/news/somalia-expels-emirati-envoy-recalls-somali-counterpart-envoy-over-open-invasion",
-      "published_at": "2026-11-19T16:46:00Z",
-      "ai_summary": "Somalia ordered the UAE ambassador to leave within 72 hours and recalled its own ambassador, accusing Abu Dhabi of disrespecting Somalia\u2019s sovereignty and describing the move as an \u201copen invasion.\u201d",
+      "title": "US builds up forces around Iran, but can it sustain another war?",
+      "summary": "Washington sends third aircraft carrier to region as missile shortages and prolonged deployments strain its military",
+      "link": "https://www.middleeasteye.net/news/us-builds-forces-around-iran-can-it-sustain-another-war",
+      "published_at": "2026-11-19T15:17:00Z",
+      "ai_summary": "The article discusses the U.S. increasing military forces around Iran, including sending a third aircraft carrier to the region, while warning that missile shortages and long deployments are straining its ability to sustain another war.",
       "importance": 85,
-      "why": "This signals a serious diplomatic rupture between two states, with possible implications for regional security, foreign influence, and bilateral relations in the Horn of Africa."
+      "why": "This is highly important because it concerns a major escalation risk involving the U.S. and Iran, potential regional conflict, and the readiness limits of the U.S. military. It has significant implications for international security, energy markets, and global geopolitics."
     },
     {
       "source": "Al Jazeera",
-      "title": "Netanyahu\u2019s last stand and the dangerous politics of survival",
-      "summary": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival",
+      "title": "Save the Children: Gaza\u2019s children face \u2018unmatched dangers\u2019",
+      "summary": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers",
       "published_at": "2026-11-19T00:00:00Z",
-      "ai_summary": "The piece argues that Netanyahu, facing the possible end of his political career, is engaging in high-risk maneuvers to cling to power, and that this could destabilize Israel and increase the risk of violence and chaos.",
-      "importance": 87,
-      "why": "It concerns Israel\u2019s political stability, the conduct of a major national leader, and the potential for serious security and social consequences, making it highly significant."
+      "ai_summary": "Save the Children says children in Gaza and the occupied Palestinian territory are facing exceptional risks, with the group reporting that one third of all violations against children worldwide occurred there.",
+      "importance": 83,
+      "why": "The headline concerns child safety in an active conflict zone and cites a striking global statistic from an aid organization, making it highly relevant and newsworthy."
     },
     {
       "source": "Guardian",
-      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-      "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani deathA Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation...",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-      "published_at": "2026-11-18T00:21:33Z",
-      "ai_summary": "A Pakistani man, Asif Merchant, was sentenced in the U.S. to over 27 years in prison for allegedly plotting to assassinate Donald Trump in retaliation for Qassem Suleimani\u2019s killing, with alleged links to Iran.",
-      "importance": 93,
-      "why": "This is a major international security and political story involving an assassination plot against a former U.S. president, alleged foreign state ties, and a lengthy federal prison sentence."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Bennett and Netanyahu Hold Secret Meeting, Delaying Eisenkot Bloc Parties Summit",
-      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/bennett-meets-netanyahu-ahead-of-talks-with-eisenkot-bloc-leaders/000001a1-ee32-d24f-a1e5-efbfec8b0000",
-      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/bennett-meets-netanyahu-ahead-of-talks-with-eisenkot-bloc-leaders/000001a1-ee32-d24f-a1e5-efbfec8b0000",
-      "published_at": "2026-11-18T00:00:00Z",
-      "ai_summary": "Bennett secretly met with Netanyahu, which postponed a planned summit with Eisenkot bloc party leaders.",
-      "importance": 79,
-      "why": "This signals potentially significant political maneuvering among key Israeli opposition and coalition figures, with possible implications for alliance-building, bloc cohesion, and future electoral strategy."
-    }
-  ],
-  "regional_analysis": [
-    {
-      "source": "Al Monitor",
-      "title": "Gazans return after Israel army ends rare ground operation",
-      "summary": "Weary Palestinians returned to check their belongings and assess the damage in central Gaza on Thursday, after the Israeli military said it had completed a ground operation it began&nbsp;the day before. The military had launched the...",
-      "link": "https://www.al-monitor.com/originals/2026/11/gazans-return-after-israel-army-ends-rare-ground-operation",
-      "published_at": "2026-11-19T17:31:20Z",
-      "ai_summary": "Palestinians returned to central Gaza after the Israeli military ended a rare ground operation that had begun the previous day.",
-      "importance": 81,
-      "why": "This is a significant conflict-related development involving Israeli ground operations in Gaza, which can affect civilian conditions, military escalation, and regional stability."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018Displacement by design\u2019: Trump\u2019s Gaza peace plan a failure, aid groups say",
-      "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say",
-      "published_at": "2026-11-19T00:00:00Z",
-      "ai_summary": "Aid groups say the UN-backed Gaza peace plan has collapsed, describing it as a form of displacement by design that leaves two million Palestinians confined to less than 130 square kilometers in Gaza.",
-      "importance": 79,
-      "why": "The item concerns a major humanitarian and geopolitical issue involving Gaza, displacement, and the apparent failure of a peace plan. It affects millions of people and has international policy implications, though the provided text is brief and lacks detailed specifics."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-      "summary": "The US Treasury has accused Hezbollah of using charitable organisations as \u2018fronts\u2019 for fundraising.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions",
-      "published_at": "2026-11-18T00:00:00Z",
-      "ai_summary": "The US Treasury has imposed new sanctions, accusing Iran-backed Hezbollah of using charitable organizations as fronts to raise money.",
-      "importance": 79,
-      "why": "This is significant because it reflects an escalation in US pressure on Hezbollah and its financing network, which can affect regional security and international sanctions policy."
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
-      "summary": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil",
-      "published_at": "2026-11-18T00:00:00Z",
-      "ai_summary": "Iraq has sentenced six French nationals to life in prison for joining ISIL; they were among 47 French citizens transferred from Syria last year and tried starting in September.",
-      "importance": 79,
-      "why": "This is a significant international legal and security development involving foreign ISIL members, cross-border transfers from Syria, and high-profile sentencing in Iraq."
-    },
-    {
-      "source": "Haaretz",
-      "title": "Report: Netanyahu Steps up Push for Short U.S.-Israeli Campaign Against Iran",
-      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-19/ty-article/report-netanyahu-presses-trump-for-four-to-seven-day-campaign-against-iran/000001a1-f1b2-d9ff-a7b5-f1bec1d70000",
-      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-19/ty-article/report-netanyahu-presses-trump-for-four-to-seven-day-campaign-against-iran/000001a1-f1b2-d9ff-a7b5-f1bec1d70000",
-      "published_at": "2026-11-19T00:00:00Z",
-      "ai_summary": "Haaretz reports that Netanyahu is urging Trump to support a short 4-to-7-day U.S.-Israeli military campaign against Iran, rather than a longer conflict.",
-      "importance": 78,
-      "why": "The report concerns possible escalation involving Israel, the U.S., and Iran, with major implications for regional security, U.S. foreign policy, and global markets. It is especially important because it suggests active high-level pressure for near-term military action."
+      "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+      "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residentsA 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where...",
+      "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+      "published_at": "2026-11-17T20:21:48Z",
+      "ai_summary": "A 72-year-old Palestinian woman, Fadha Wadha, was reportedly shot dead in the head outside her home in al-Duyuk al-Tahta near Jericho during an overnight attack that witnesses say was carried out by Israeli settlers.",
+      "importance": 91,
+      "why": "The report describes a fatal shooting of a civilian and allegations of violence by settlers in the occupied West Bank, making it a significant and sensitive conflict-related incident with potential humanitarian and political implications."
     },
     {
       "source": "Haaretz",
@@ -181,21 +119,113 @@
       "summary": "https://www.haaretz.com/israel-news/2026-11-19/ty-article/.premium/ai-project-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/000001a1-f3b0-da07-abeb-ffba55ad0000",
       "link": "https://www.haaretz.com/israel-news/2026-11-19/ty-article/.premium/ai-project-matches-thousands-of-holocaust-photos-with-names-at-yad-vashem/000001a1-f3b0-da07-abeb-ffba55ad0000",
       "published_at": "2026-11-19T00:00:00Z",
-      "ai_summary": "An AI project at Yad Vashem is identifying people in thousands of Holocaust photos, helping restore names and identities to victims and survivors who were previously anonymous.",
+      "ai_summary": "Haaretz reports on an AI project at Yad Vashem that identifies people in Holocaust-era photographs by matching thousands of images with names, helping restore identities to victims and survivors.",
+      "importance": 88,
+      "why": "This is highly significant because it combines historical preservation, AI, and Holocaust remembrance. It potentially resolves long-standing identification gaps in archival records and has broad cultural, educational, and memorial value."
+    }
+  ],
+  "regional_analysis": [
+    {
+      "source": "Haaretz",
+      "title": "Report: Netanyahu Steps up Push for Short U.S.-Israeli Campaign Against Iran",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-19/ty-article/report-netanyahu-presses-trump-for-four-to-seven-day-campaign-against-iran/000001a1-f1b2-d9ff-a7b5-f1bec1d70000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-19/ty-article/report-netanyahu-presses-trump-for-four-to-seven-day-campaign-against-iran/000001a1-f1b2-d9ff-a7b5-f1bec1d70000",
+      "published_at": "2026-11-19T00:00:00Z",
+      "ai_summary": "Report says Netanyahu is pressing Trump for a short, 4\u20137 day U.S.-Israeli military campaign against Iran, rather than a prolonged war.",
+      "importance": 87,
+      "why": "This concerns a potential major escalation involving the U.S., Israel, and Iran, with significant implications for regional security, oil markets, and global geopolitics."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+      "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
+      "published_at": "2026-11-19T00:00:00Z",
+      "ai_summary": "Families in Nuseirat spent the night without shelter after an Israeli army operation, and many Palestinians in Gaza now fear returning even though the offensive has ended.",
+      "importance": 83,
+      "why": "The text describes renewed displacement and ongoing humanitarian insecurity in Gaza, affecting civilian shelter and safety after military action."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Netanyahu\u2019s last stand and the dangerous politics of survival",
+      "summary": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival",
+      "published_at": "2026-11-19T00:00:00Z",
+      "ai_summary": "The piece argues that Benjamin Netanyahu, facing political defeat and personal survival issues, is taking increasingly risky political steps that may destabilize Israel and fuel violence or chaos.",
+      "importance": 83,
+      "why": "It concerns Israel\u2019s prime minister, internal political stability, and the risk of wider violence in a highly consequential conflict-prone region."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Somalia orders UAE ambassador to leave, citing 'invasion'",
+      "summary": "MOGADISHU, Nov 19 (Reuters) - Somalia ordered the United Arab Emirates ambassador on Thursday to leave the country within 72 hours and withdrew its own envoy from Abu Dhabi, accusing the Emirates of unspecified violations of Somalia's...",
+      "link": "https://www.al-monitor.com/originals/2026/11/somalia-orders-uae-ambassador-leave-citing-invasion",
+      "published_at": "2026-11-19T20:46:31Z",
+      "ai_summary": "Somalia ordered the UAE ambassador to leave within 72 hours and recalled its envoy from Abu Dhabi, accusing the Emirates of violating Somalia's sovereignty.",
+      "importance": 81,
+      "why": "This is a diplomatic escalation involving two countries and could affect regional relations, foreign aid, and security cooperation. It is newsworthy because it signals a significant breakdown in bilateral ties."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "Somalia expels UAE ambassador, alleging interference",
+      "summary": "Somalia on Thursday expelled the United Arab Emirates ambassador, accusing the Gulf nation of interfering in its internal affairs in a move blasted as \"irresponsible\" by Abu Dhabi. Somalia and the UAE have quarrelled over several issues,...",
+      "link": "https://www.al-monitor.com/originals/2026/11/somalia-expels-uae-ambassador-alleging-interference",
+      "published_at": "2026-11-19T20:30:27Z",
+      "ai_summary": "Somalia expelled the UAE ambassador, accusing the Gulf nation of interfering in its internal affairs; Abu Dhabi condemned the move as irresponsible.",
+      "importance": 81,
+      "why": "This is a significant diplomatic escalation between two states, involving accusations of interference and potential broader regional implications, but it is not a global crisis."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Mosque set on fire in Israel, politicians blame Netanyahu\u2019s \u2018incitement\u2019",
+      "summary": "Knesset MPs call the incident \u2018a hate crime\u2019 while Hamas blames Israeli \u2018settler gangs\u2019.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement",
+      "published_at": "2026-11-19T00:00:00Z",
+      "ai_summary": "Politicians and lawmakers reacted to a mosque arson in Israel, with Knesset members calling it a hate crime and Hamas blaming Israeli settler gangs, while criticism also targeted Netanyahu\u2019s alleged incitement.",
+      "importance": 79,
+      "why": "The incident involves religious violence, political blame, and potential escalation between communities, making it a significant domestic and regional news event."
+    },
+    {
+      "source": "Haaretz",
+      "title": "Bennett and Netanyahu Hold Secret Meeting, Delaying Eisenkot Bloc Parties Summit",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/bennett-meets-netanyahu-ahead-of-talks-with-eisenkot-bloc-leaders/000001a1-ee32-d24f-a1e5-efbfec8b0000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/bennett-meets-netanyahu-ahead-of-talks-with-eisenkot-bloc-leaders/000001a1-ee32-d24f-a1e5-efbfec8b0000",
+      "published_at": "2026-11-18T00:00:00Z",
+      "ai_summary": "Naftali Bennett held a secret meeting with Benjamin Netanyahu ahead of planned talks with leaders of the Eisenkot bloc parties, delaying the bloc\u2019s summit amid political maneuvering.",
       "importance": 78,
-      "why": "This is historically significant because it uses AI to recover identities from Holocaust-era images, advancing remembrance, archival research, and family restitution. It also highlights a meaningful real-world application of AI in preserving human history and combating anonymity in genocide records."
+      "why": "This is important because it suggests significant movement in Israeli opposition/coalition politics, with Bennett engaging Netanyahu before broader bloc consultations. Such a meeting could affect party alignments, negotiations, and the strategic positioning of key political actors ahead of potential electoral or coalition developments."
+    },
+    {
+      "source": "Al Monitor",
+      "title": "AFP journalist wounded by Israel honored at CPJ awards",
+      "summary": "AFP journalist Christina Assi, who lost a leg in an Israeli strike reporting from the Lebanese border and has become a vocal campaigner for reporters' safety, was honored by the Committee to Protect Journalists on Thursday. In October...",
+      "link": "https://www.al-monitor.com/originals/2026/11/afp-journalist-wounded-israel-honored-cpj-awards",
+      "published_at": "2026-11-20T02:31:16Z",
+      "ai_summary": "AFP journalist Christina Assi, who lost a leg in an Israeli strike while reporting from the Lebanese border, was honored by the Committee to Protect Journalists for her advocacy on reporter safety.",
+      "importance": 77,
+      "why": "This is important because it highlights the risks journalists face in conflict zones, mentions a serious injury from an Israeli strike, and notes recognition by a major press freedom organization."
     }
   ],
   "deep_analysis": [
     {
       "source": "Middle East Eye",
-      "title": "Israel's genocide in Gaza continues. So must the protests",
-      "summary": "Demonstrations gave Palestinians hope and pressured institutions to act. A ceasefire that has failed to stop the killing must not become a reason for silence",
-      "link": "https://www.middleeasteye.net/opinion/israels-genocide-gaza-continues-so-must-protests",
-      "published_at": "2026-11-17T18:09:00Z",
-      "ai_summary": "The article argues that protests over Israel\u2019s violence in Gaza should continue even after a failed ceasefire, because demonstrations have offered Palestinians hope and pushed institutions to respond.",
+      "title": "Cousin fights cousin as war in Yemen splits families down the middle",
+      "summary": "Communities fracture with loyalties split between the Houthis and the internationally recognised government",
+      "link": "https://www.middleeasteye.net/news/cousin-fights-cousin-yemen-war-divides-families",
+      "published_at": "2026-11-19T10:53:00Z",
+      "ai_summary": "The Yemen war is dividing families and communities, with some relatives supporting the Houthis and others backing the internationally recognized government.",
       "importance": 85,
-      "why": "It addresses an ongoing major international conflict, public protest strategy, and the political impact of ceasefire failure, making it highly relevant and timely."
+      "why": "This reflects the human and social impact of the Yemen conflict beyond battlefield events, showing how the war fractures family and community ties."
+    },
+    {
+      "source": "Jadaliyya",
+      "title": "In Defense of Academic Freedom: The Circus of Academic Complicity with Nimer Sultany, Part 3 (20 November)",
+      "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
+      "link": "https://www.jadaliyya.com/Details/48207/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-with-Nimer-Sultany,-Part-1-18-November",
+      "published_at": null,
+      "ai_summary": "Event announcement for a discussion titled \"In Defense of Academic Freedom: The Circus of Academic Complicity with Nimer Sultany, Part 3 (20 November),\" organized by regional faculty groups and cosponsored by academic freedom and justice-in-Palestine organizations.",
+      "importance": 48,
+      "why": "This appears to be a specific academic event announcement involving academic freedom and Gaza-related organizing. It is relevant to people tracking academic freedom, Middle East studies, or Palestine-related campus events, but it is not broadly newsworthy beyond that audience."
     },
     {
       "source": "Jadaliyya",
@@ -203,19 +233,9 @@
       "summary": "Randa Tawil,\u00a0Race in Transit: Tracing the Politics of Migration from Ottoman Syria through US Empire\u00a0(Stanford University Press, 2026). Jadaliyya (J): What made you write this book? Randa Tawil\u00a0(RT):\u00a0As a scholar trained in American...",
       "link": "https://www.jadaliyya.com/Details/48081/Randa-Tawil,-Race-in-Transit-Tracing-the-Politics-of-Migration-from-Ottoman-Syria-through-US-Empire-New-Texts-Out-Now",
       "published_at": null,
-      "ai_summary": "Interview introducing Randa Tawil\u2019s book on the politics of migration, race, and empire from Ottoman Syria to the United States.",
-      "importance": 68,
-      "why": "It announces a new scholarly book and frames its central theme\u2014how migration from Ottoman Syria was shaped by race and empire\u2014making it relevant to readers interested in Middle Eastern studies, migration, and critical race history."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "In Defense of Academic Freedom: The Circus of Academic Complicity Part 1 (15 October)",
-      "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
-      "link": "https://www.jadaliyya.com/Details/47993/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-15-October",
-      "published_at": null,
-      "ai_summary": "Announcement for an academic freedom event titled \"In Defense of Academic Freedom: The Circus of Academic Complicity Part 1 (15 October),\" organized by DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza and cosponsored by several academic and human-rights groups.",
-      "importance": 58,
-      "why": "It appears to be a public event notice related to academic freedom and Gaza, with participation from notable advocacy and academic organizations. The content is relevant to institutional politics and human-rights discourse, but the provided text is brief and does not indicate urgent operational importance."
+      "ai_summary": "Interview announcement for Randa Tawil\u2019s new book, Race in Transit: Tracing the Politics of Migration from Ottoman Syria through US Empire, focusing on migration, race, and US empire.",
+      "importance": 48,
+      "why": "This is a scholarly book announcement/interview about migration history and racial politics. It is relevant for academic, Middle East, and empire studies, but not broadly urgent news."
     },
     {
       "source": "Jadaliyya",
@@ -223,9 +243,9 @@
       "summary": "Jadaliyya introduces the launch of \u201cIsrael\u2019s Zombie Economy,\u201d a breakthrough series of broadcasts on Israel\u2019s political economy with Shir Hever in conversation with Jadaliyya Co-Editor Bassam Haddad, in five consecutive parts. The...",
       "link": "https://www.jadaliyya.com/Details/46950/Israel%E2%80%99s-Zombie-Economy-A-Five-Part-Interview-Series",
       "published_at": null,
-      "ai_summary": "Jadaliyya announces a five-part interview series called \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
-      "importance": 41,
-      "why": "This is a media announcement about a political economy interview series. It is relevant for readers interested in Israel/Palestine and political economy, but it is not a major breaking event or policy development."
+      "ai_summary": "Jadaliyya announces a five-part interview series, \u201cIsrael\u2019s Zombie Economy,\u201d featuring Shir Hever in conversation with Bassam Haddad about Israel\u2019s political economy.",
+      "importance": 47,
+      "why": "It is a media announcement introducing a substantive interview series on Israel\u2019s political economy, but the provided text is brief and mainly promotional rather than presenting major new factual developments."
     },
     {
       "source": "Carnegie ME",
@@ -234,9 +254,9 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
       "date": "Oct 9, 2026",
       "published_at": null,
-      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes, especially those stemming from the war years, as formal transitional justice efforts stall.",
-      "importance": 73,
-      "why": "This signals an important grassroots response to unresolved conflict and governance gaps in Syria. It matters because local mediation may shape postwar stability, social repair, and the effectiveness\u2014or failure\u2014of broader transitional justice processes."
+      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes from the war years amid stalled transitional justice efforts.",
+      "importance": 69,
+      "why": "The development suggests an important grassroots response to conflict legacies and gaps in formal transitional justice, with potential implications for local stability and reconciliation."
     },
     {
       "source": "Responsible Statecraft",
@@ -244,19 +264,9 @@
       "summary": "This article was co-published with The GuardianOne of defense secretary Pete Hegseth\u2019s key advisers faces questions about potential conflicts of interest over his many roles, including advising the US defense department, Saudi Arabia, and...",
       "link": "https://responsiblestatecraft.org/norm-coleman-hegseth-advisor/",
       "published_at": "2026-11-18T12:00:04Z",
-      "ai_summary": "An article alleges that a key adviser to Defense Secretary Pete Hegseth may have conflicts of interest because he is simultaneously advising the U.S. Defense Department, Saudi Arabia, and Israel.",
-      "importance": 81,
-      "why": "It involves possible ethics and national-security conflicts at the U.S. Defense Department, and the issue concerns foreign influence involving two major U.S. partners in a high-level advisory role."
-    },
-    {
-      "source": "Drop Site News",
-      "title": "Israel Targets U.S. Conservatives in Influence Operation",
-      "summary": "Starboard, a company that advertises access to data on 25 million &#8220;verified conservatives,&#8221; signed a $500,000 agreement to help the State of Israel influence Americans.",
-      "link": "https://www.dropsitenews.com/p/israel-influence-united-states-conservatives-parler",
-      "published_at": "2026-11-11T17:22:13Z",
-      "ai_summary": "A company called Starboard, which claims access to data on 25 million verified conservatives, signed a $500,000 agreement to help the State of Israel influence Americans.",
-      "importance": 78,
-      "why": "This reports a potentially significant foreign influence operation aimed at U.S. conservatives, involving a large data set and a substantial payment, which could affect public opinion and political discourse."
+      "ai_summary": "An article reports that one of defense secretary Pete Hegseth\u2019s key advisers may have conflicts of interest because he advises the U.S. defense department as well as Saudi Arabia and Israel-related interests.",
+      "importance": 76,
+      "why": "It concerns possible conflict-of-interest issues involving a senior defense adviser and foreign governments, which could affect national security, ethics, and U.S. policy credibility."
     }
   ]
 }
