@@ -1,191 +1,150 @@
 {
-  "generated_at": "2026-11-23T02:05:04.971473Z",
-  "top_story": "Iran\u2019s 22 November strike on a Bahraini industrial facility, alongside hits on two tankers in the Strait of Hormuz, marks a sharp expansion of confrontation into Gulf infrastructure and shipping lanes, raising the risk that pressure on US military assets in Bahrain will spill directly onto civilian economies. This escalation compounds an older humanitarian collapse in Gaza, where displaced families were already entering another winter in exposed tent camps, showing how regional conflict is deepening civilian vulnerability on multiple fronts. In the occupied West Bank, the same day brought settler arson attacks on Palestinian villages and unusually blunt Israeli condemnation from senior political and military figures, exposing growing strain inside Israel over violence that is both politically destabilizing and socially radicalizing. The regional picture is one of widening insecurity in which state-to-state escalation, disrupted commerce, and unchecked communal attacks are reinforcing each other and narrowing space for civilian protection.",
+  "generated_at": "2026-11-23T21:50:31.133411Z",
+  "top_story": "Israel\u2019s economic resilience remains sharply at odds with its deepening internal and wartime fractures: Amazon\u2019s $7.5 billion move to buy Decart\u2019s technology and absorb its staff underscores continued foreign confidence in Israeli high-end tech even as Israeli strikes in Gaza killed at least three people, including a UNRWA employee, under a ceasefire framework that has failed to protect civilians. Later in the day, a Likud lawmaker\u2019s invocation of Japanese American internment to justify restrictions on Palestinian citizens of Israel pushed exclusionary rhetoric further into the mainstream, linking the violence in Gaza to intensifying pressure on Palestinians inside Israel. The combination of sustained military harm in Gaza, inflammatory discourse in parliament, and buoyant elite tech investment points to a widening divide between economic strength and the lived insecurity facing Palestinians across different legal and geographic spaces.",
   "top_developments": [
     {
       "source": "Al Monitor",
-      "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks",
-      "summary": "Nov 21 (Reuters) - Bahrain said an Iranian attack hit a civilian industrial facility on Saturday, while Iran's Revolutionary Guards said they had launched a missile-and-drone assault on US military positions in the kingdom, home to the US...",
-      "link": "https://www.al-monitor.com/originals/2026/11/bahrain-says-iran-strikes-industrial-facility-air-defences-intercept-attacks",
-      "published_at": "2026-11-22T11:46:28Z",
-      "ai_summary": "Bahrain said an Iranian attack struck a civilian industrial facility, while Iran\u2019s Revolutionary Guards claimed a missile-and-drone assault targeted US military positions in Bahrain, home to the US Fifth Fleet.",
-      "importance": 92,
-      "why": "This is a major geopolitical/security incident involving Iran, Bahrain, and US military assets in the Gulf, with potential regional escalation and implications for international security and energy markets."
+      "title": "Iran carries out flogging of singer and her team, Iranian website says",
+      "summary": "DUBAI, Nov 23 (Reuters) - An Iranian singer and four members of her production team have each received 74 lashes after being sentenced for \"offending public decency by producing and publishing obscene and immoral content online\", an...",
+      "link": "https://www.al-monitor.com/originals/2026/11/iran-carries-out-flogging-singer-and-her-team-iranian-website-says",
+      "published_at": "2026-11-23T19:46:31Z",
+      "ai_summary": "An Iranian singer and four members of her production team were reportedly flogged after being convicted of producing and publishing obscene and immoral online content.",
+      "importance": 86,
+      "why": "The report involves state punishment of an artist and team for online expression, highlighting human rights, censorship, and legal repression in Iran. It is likely to draw international attention and could have broader implications for free speech and treatment of performers."
     },
     {
       "source": "Middle East Eye",
-      "title": "Iran says new air defence system intercepted US Reaper drone over Hormuz",
-      "summary": "The US reported losing at least 45 Reaper drones by August, while Iran says its forces have now destroyed 58 since the war began",
-      "link": "https://www.middleeasteye.net/news/iran-says-newly-developed-air-defence-system-intercepted-us-drone-over-hormuz",
-      "published_at": "2026-11-21T11:39:00Z",
-      "ai_summary": "Iran says it intercepted a US Reaper drone over the Strait of Hormuz and claims to have destroyed 58 Reaper drones since the war began, while the US had reported losing at least 45 by August.",
-      "importance": 81,
-      "why": "This is a significant military and geopolitical claim involving US-Iran tensions and drone warfare in a strategically important waterway. It may affect regional security, naval operations, and escalation dynamics."
+      "title": "Israeli MP invokes internment of Japanese Americans in call to restrict Palestinian citizens",
+      "summary": "Likud lawmaker Eli Goldschmidt draws parallels with the mass incarceration of Japanese Americans during World War II, prompting accusations of unrestrained incitement against Palestinians in Israel",
+      "link": "https://www.middleeasteye.net/news/israeli-lawmaker-invokes-japanese-internment-camps-call-restrict-palestinian-citizens",
+      "published_at": "2026-11-23T12:10:00Z",
+      "ai_summary": "An Israeli Likud lawmaker compared proposed restrictions on Palestinian citizens of Israel to the mass internment of Japanese Americans during World War II, triggering accusations of incitement.",
+      "importance": 89,
+      "why": "The item concerns a prominent political figure making a highly controversial historical comparison tied to discrimination against an ethnic minority, which could influence public debate and tensions in Israel."
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran unveils dual-missile launcher, new \u2018missile city\u2019: What to know",
-      "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know",
-      "published_at": "2026-11-22T00:00:00Z",
-      "ai_summary": "Iran showcased a new dual-missile launcher and an underground 'missile city' in a display of military capability, despite recent US attacks.",
-      "importance": 73,
-      "why": "This is significant because it highlights Iran\u2019s ongoing military buildup and signaling amid regional tensions with the United States, which can affect security dynamics and escalation risk."
-    },
-    {
-      "source": "Guardian",
-      "title": "Netanyahu rival condemns \u2018Jewish terrorism\u2019 after settler attacks on Palestinian villages",
-      "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row...",
-      "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-      "published_at": "2026-11-22T15:22:38Z",
-      "ai_summary": "Militant Israeli settlers raided Palestinian villages in the occupied West Bank, burning vehicles and homes, prompting a political backlash and condemnation from a Netanyahu rival who described the attacks as \u201cJewish terrorism.\u201d",
+      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 \u2018ceasefire\u2019 deal.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_summary": "Israeli strikes in Gaza killed at least three people, including a UNRWA worker, despite an October 2025 ceasefire deal.",
       "importance": 89,
-      "why": "The event involves violent attacks in the occupied West Bank, major Israeli-Palestinian tensions, and a significant political response from a prominent rival of Netanyahu, making it highly relevant news with potential security and diplomatic implications."
+      "why": "The item reports continued hostilities in Gaza despite a ceasefire, includes civilian and UN staff casualties, and signals potential ceasefire breakdown and renewed escalation."
     },
     {
       "source": "Haaretz",
-      "title": "Israel Police at Breaking Point as Ben-Gvir Blocks 185 Senior Appointments",
-      "summary": "https://www.haaretz.com/israel-news/israel-crime/2026-11-22/ty-article/.premium/israel-police-at-breaking-point-as-ben-gvir-blocks-185-senior-appointments/000001a2-0200-d6a0-a3af-ebaa33fb0000",
-      "link": "https://www.haaretz.com/israel-news/israel-crime/2026-11-22/ty-article/.premium/israel-police-at-breaking-point-as-ben-gvir-blocks-185-senior-appointments/000001a2-0200-d6a0-a3af-ebaa33fb0000",
-      "published_at": "2026-11-22T00:00:00Z",
-      "ai_summary": "Haaretz reports that Israel\u2019s police force is under severe strain because National Security Minister Itamar Ben-Gvir is blocking 185 senior police appointments, intensifying a leadership vacuum and operational instability.",
-      "importance": 88,
-      "why": "This appears highly important because it concerns the functioning of a core state security institution, with likely implications for public safety, police morale, crime response, and political control over law enforcement."
+      "title": "Amazon to Acquire Israeli AI Startup Decart's Tech, Hire Its Staff, in Record $7.5 Billion Deal",
+      "summary": "https://www.haaretz.com/israel-news/business/economy-finance/2026-11-23/ty-article/.premium/amazon-to-acquire-israeli-ai-company-decart-in-record-7-5-billion-deal/000001a2-08eb-d3ee-a7b7-9cff80590000",
+      "link": "https://www.haaretz.com/israel-news/business/economy-finance/2026-11-23/ty-article/.premium/amazon-to-acquire-israeli-ai-company-decart-in-record-7-5-billion-deal/000001a2-08eb-d3ee-a7b7-9cff80590000",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_summary": "Amazon is reportedly set to acquire Israeli AI startup Decart\u2019s technology and hire its staff in a record $7.5 billion deal.",
+      "importance": 92,
+      "why": "This is a major AI and tech industry acquisition with a very large valuation, involving Amazon and a prominent Israeli startup. It signals strategic consolidation in AI and has significant implications for talent, technology ownership, and the broader market."
     },
     {
       "source": "Al Monitor",
-      "title": "Netanyahu, Eisenkot parties end talks without deal on forming Israel govt",
-      "summary": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot concluded a new round of talks on Sunday without reaching an agreement on a possible coalition government, which would require concessions from...",
-      "link": "https://www.al-monitor.com/originals/2026/11/netanyahu-eisenkot-parties-end-talks-without-deal-forming-israel-govt",
-      "published_at": "2026-11-22T14:30:24Z",
-      "ai_summary": "Netanyahu\u2019s and Gadi Eisenkot\u2019s parties ended coalition talks without reaching an agreement to form an Israeli government.",
+      "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
+      "summary": "By Andrea ShalalWASHINGTON, Nov 23 (Reuters) - The Trump administration has issued new Iran-related sanctions targeting dozens of people and entities, the Treasury Department said on Monday, stepping up its effort to isolate Iran from the...",
+      "link": "https://www.al-monitor.com/originals/2026/11/us-imposes-sanctions-dozens-linked-irans-shadow-banking-networks",
+      "published_at": "2026-11-23T19:46:31Z",
+      "ai_summary": "The Trump administration imposed new Iran-related sanctions on dozens of people and entities tied to Iran's shadow banking networks, intensifying efforts to isolate Tehran financially.",
       "importance": 85,
-      "why": "This is a significant political development in Israel involving government formation and potential shifts in leadership, with implications for national policy and stability."
+      "why": "This is a significant U.S. foreign policy and sanctions action affecting Iran\u2019s financial networks and broader geopolitical tensions, though it is not as globally consequential as a major military event or market-wide crisis."
     },
     {
       "source": "Middle East Eye",
-      "title": "Iraq security forces deploy in Kataeb Hezbollah stronghold following 'compromise' deal",
-      "summary": "Despite the agreement with Baghdad, many still see a risk of open conflict with Iran-backed groups",
-      "link": "https://www.middleeasteye.net/news/iraq-security-forces-deploy-kataeb-hezbollah-stronghold-following-compromise-deal",
-      "published_at": "2026-11-20T15:52:00Z",
-      "ai_summary": "Iraq security forces have deployed in a Kataeb Hezbollah stronghold after a compromise deal, but concerns remain that tensions with Iran-backed groups could still escalate into open conflict.",
-      "importance": 81,
-      "why": "This is a significant security and political development in Iraq involving state forces and a powerful Iran-backed militia. It may affect internal stability, militia-state relations, and broader regional tensions."
+      "title": "Exclusive: Guatemala circulates proposal to curb ICC powers in line with US-Israeli demands",
+      "summary": "The Latin American country pitched the idea to diplomats in The Hague despite rights advocates warning against attempts to curb the court's mission",
+      "link": "https://www.middleeasteye.net/news/guatemala-proposal-curb-icc-powers-echoing-us-israeli-demands",
+      "published_at": "2026-11-23T14:16:00Z",
+      "ai_summary": "Guatemala has circulated a proposal in The Hague to limit the International Criminal Court\u2019s powers, aligning with US and Israeli demands, despite criticism from rights advocates.",
+      "importance": 85,
+      "why": "It concerns an international legal institution, diplomatic pressure from multiple states, and a potential attempt to weaken ICC authority, which could have significant consequences for accountability and international law."
     },
     {
-      "source": "Guardian",
-      "title": "\u2018We \u200bare tired from all this suffering\u2019: displaced families in Gaza brace for another winter of misery",
-      "summary": "Floods have worsened harsh existence for Palestinians living in tent camps, with fears growing for what the coming months will bringAbdul Karim al-Sahhar knew winter was coming to Gaza in the small hours of a wet and windy night earlier...",
-      "link": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery",
-      "published_at": "2026-11-21T05:00:49Z",
-      "ai_summary": "Displaced Palestinians in Gaza living in tent camps are facing worsening hardship as floods and winter conditions deepen their suffering, raising fears about the months ahead.",
-      "importance": 89,
-      "why": "This is a major humanitarian crisis affecting large numbers of displaced civilians in an active conflict zone, with immediate risks from weather, shelter shortages, and deteriorating living conditions."
+      "source": "Al Jazeera",
+      "title": "Occupied West Bank \u2018military zones\u2019 become de facto Israeli settler land",
+      "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
+      "link": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_summary": "Closed military zones in the occupied West Bank are being used by Israeli settlers as de facto land bases and staging posts for attacks on Palestinians.",
+      "importance": 88,
+      "why": "The item concerns the occupied West Bank, settlement expansion, and violence tied to military-designated areas, making it highly relevant to the Israeli-Palestinian conflict and regional stability."
     },
     {
       "source": "Haaretz",
-      "title": "Incoming House Speaker Hakeem Jeffries Vows to End Iran War, Levy Sanctions on Violent Settlers",
-      "summary": "https://www.haaretz.com/us-news/2026-11-22/ty-article/hakeem-jeffries-vows-to-end-iran-war-levy-sanctions-on-violent-settlers/000001a2-027d-d175-abf6-1e7d38a80000",
-      "link": "https://www.haaretz.com/us-news/2026-11-22/ty-article/hakeem-jeffries-vows-to-end-iran-war-levy-sanctions-on-violent-settlers/000001a2-027d-d175-abf6-1e7d38a80000",
-      "published_at": "2026-11-22T00:00:00Z",
-      "ai_summary": "Hakeem Jeffries, as incoming House speaker, says he will push to end the Iran war and support sanctions against violent Israeli settlers.",
-      "importance": 82,
-      "why": "This is a major U.S. political development involving a likely top congressional leader, U.S. foreign policy on Iran, and the Israel-Palestine conflict. It could affect sanctions policy, war powers debates, and relations with allies and adversaries."
+      "title": "Report: Israel May Have Contaminated Over 99 Percent of Gaza With Pollutants Throughout War",
+      "summary": "https://www.haaretz.com/gaza/2026-11-23/ty-article/.premium/israel-may-have-contaminated-over-99-percent-of-gaza-throughout-war-report-says/000001a2-07f8-d7fd-a3b3-d7f8b0690000",
+      "link": "https://www.haaretz.com/gaza/2026-11-23/ty-article/.premium/israel-may-have-contaminated-over-99-percent-of-gaza-throughout-war-report-says/000001a2-07f8-d7fd-a3b3-d7f8b0690000",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_summary": "Haaretz reports that Israel may have contaminated more than 99% of Gaza with pollutants during the war, raising severe environmental and public health concerns.",
+      "importance": 86,
+      "why": "This is a major war-related environmental impact claim with broad implications for civilian health, infrastructure recovery, and international scrutiny. It also concerns a large-scale contamination estimate, making it highly significant for Gaza and regional policy debates."
     },
     {
       "source": "Al Monitor",
-      "title": "Syrian Christian town demands security after resident kidnapped",
-      "summary": "When Amina saw her nephew's motorbike knocked onto the ground and a car speeding away from his home in central Syria, she thought there had been a crash. Instead, 38-year-old jeweller Maher Sankari had been kidnapped, an incident that...",
-      "link": "https://www.al-monitor.com/originals/2026/11/syrian-christian-town-demands-security-after-resident-kidnapped",
-      "published_at": "2026-11-22T01:30:35Z",
-      "ai_summary": "A Syrian Christian town is demanding greater security after a resident, 38-year-old jeweller Maher Sankari, was kidnapped from his home in central Syria.",
-      "importance": 81,
-      "why": "The story involves an apparent targeted kidnapping in a vulnerable minority community and highlights security concerns in central Syria, which is locally significant and potentially relevant to broader instability."
+      "title": "Rubio meets Qatari PM as Iran standoff deepens",
+      "summary": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani\u2019s visit followed a wave of Iranian attacks on US partners in the Gulf.",
+      "link": "https://www.al-monitor.com/originals/2026/11/rubio-meets-qatari-pm-iran-standoff-deepens",
+      "published_at": "2026-11-23T18:00:22Z",
+      "ai_summary": "Rubio met with Qatar\u2019s prime minister as tensions with Iran escalated after attacks on U.S. partners in the Gulf.",
+      "importance": 77,
+      "why": "The meeting involves a senior U.S. official and a key Gulf mediator amid rising regional tensions, which could affect diplomacy, security, and broader Middle East stability."
     },
     {
       "source": "Middle East Eye",
-      "title": "UK, France and China vote against UAE's Lana Nusseibeh at UN",
-      "summary": "Race for secretary-general job remains deadlocked, with Emirati diplomat vowing to continue despite opposition from three P5 countries",
-      "link": "https://www.middleeasteye.net/news/uk-france-and-china-vote-against-uaes-lana-nusseibeh-un",
-      "published_at": "2026-11-21T08:44:00Z",
-      "ai_summary": "The UN secretary-general race remains deadlocked after the UK, France and China voted against UAE diplomat Lana Nusseibeh, who said she would continue her bid despite the opposition from three permanent Security Council members.",
+      "title": "Israeli army suicides reach highest level since 2010: Press review",
+      "summary": "Meanwhile, an army officer warns \u2018Jewish terrorism\u2019 in the West Bank could spread into Israel, and Kan 11 is urged to censor Gaza human shields investigation",
+      "link": "https://www.middleeasteye.net/news/israeli-army-suicides-reach-highest-level-2010-press-review",
+      "published_at": "2026-11-23T14:44:00Z",
+      "ai_summary": "A press review highlights that Israeli army suicides have reached their highest level since 2010, alongside warnings that 'Jewish terrorism' in the West Bank could spread into Israel and pressure on Kan 11 to censor an investigation into human shields in Gaza.",
       "importance": 81,
-      "why": "This is significant because it concerns a high-level UN leadership contest and shows major resistance from multiple P5 members, which can strongly influence the outcome and the balance of international support."
+      "why": "The item concerns a serious internal military mental health issue, potential escalation of extremist violence, and media censorship pressure around a sensitive Gaza investigation. These are politically and socially significant developments with possible security implications."
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+      "summary": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_summary": "Iran has flogged singer Parastoo Ahmadi for performing without a headscarf, and she and four production team members also face two-year bans on travel and artistic activity.",
+      "importance": 87,
+      "why": "This involves state punishment for artistic expression and women\u2019s dress enforcement in Iran, with broader implications for human rights, freedom of expression, and international attention."
     }
   ],
   "regional_analysis": [
     {
       "source": "Haaretz",
-      "title": "Netanyahu's 10-Point 'Unity' Offer to Eisenkot: He Stays PM, No Oct. 7 Inquiry",
-      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-20/ty-article/.premium/netanyahus-10-point-unity-offer-to-eisenkot-he-stays-pm-no-oct-7-inquiry/000001a1-fa32-d9ff-a7b5-fbbe0f470000",
-      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-20/ty-article/.premium/netanyahus-10-point-unity-offer-to-eisenkot-he-stays-pm-no-oct-7-inquiry/000001a1-fa32-d9ff-a7b5-fbbe0f470000",
-      "published_at": "2026-11-20T00:00:00Z",
-      "ai_summary": "Haaretz reports that Netanyahu proposed a 10-point unity deal to Gadi Eisenkot in which Netanyahu would remain prime minister and there would be no October 7 inquiry.",
-      "importance": 78,
-      "why": "The item concerns a major political maneuver in Israel involving the prime minister, a potential opposition partner, and the highly sensitive question of an October 7 inquiry, which has significant implications for government stability and accountability."
+      "title": "The Great Undo: Why the New Knesset Is Racing to Dismantle Netanyahu's Coup Laws",
+      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-19/ty-article-magazine/.premium/the-great-undo-why-the-new-knesset-is-racing-to-dismantle-netanyahus-coup-laws/000001a1-f447-dad7-a9fd-f64fc6130000",
+      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-19/ty-article-magazine/.premium/the-great-undo-why-the-new-knesset-is-racing-to-dismantle-netanyahus-coup-laws/000001a1-f447-dad7-a9fd-f64fc6130000",
+      "published_at": "2026-11-19T00:00:00Z",
+      "ai_summary": "The article argues that Israel\u2019s new Knesset is moving quickly to repeal or weaken laws passed under Netanyahu that critics say enabled a judicial and constitutional \"coup,\" restoring checks and balances and reversing changes seen as undermining democracy.",
+      "importance": 82,
+      "why": "It addresses a major political and constitutional struggle in Israel, involving the reversal of controversial legal reforms, the balance of power between branches of government, and the broader state of democracy and rule of law."
     },
     {
       "source": "Haaretz",
-      "title": "Lieberman Urges Ultra-Orthodox Deal to Oust Netanyahu 'From the Right,' Rejects Arab Backing",
-      "summary": "https://www.haaretz.com/israel-news/israel-politics/2026-11-21/ty-article/.premium/lieberman-netanyahu-can-only-be-replaced-from-the-right-not-with-arab-backing/000001a1-fd75-d9ff-a7b5-fdffc30b0000",
-      "link": "https://www.haaretz.com/israel-news/israel-politics/2026-11-21/ty-article/.premium/lieberman-netanyahu-can-only-be-replaced-from-the-right-not-with-arab-backing/000001a1-fd75-d9ff-a7b5-fdffc30b0000",
-      "published_at": "2026-11-21T00:00:00Z",
-      "ai_summary": "Lieberman says Netanyahu can only be replaced by a right-wing/ultra-Orthodox political deal, not with Arab backing.",
-      "importance": 73,
-      "why": "This is a significant Israeli political development because it signals possible coalition maneuvering around Netanyahu\u2019s removal and highlights Lieberman\u2019s strategy to reshape the governing bloc from within the right. The story matters for coalition math, ultra-Orthodox politics, and the broader post-war political landscape in Israel."
+      "title": "Netanyahu Wants War, Eisenkot Wants Power. Trump Hasn't Made up His Mind",
+      "summary": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article/.premium/as-eisenkot-nears-power-netanyahu-pushes-harder-for-iran-strike/000001a2-04f4-d175-abf6-1ef441970000",
+      "link": "https://www.haaretz.com/israel-news/israel-security/2026-11-23/ty-article/.premium/as-eisenkot-nears-power-netanyahu-pushes-harder-for-iran-strike/000001a2-04f4-d175-abf6-1ef441970000",
+      "published_at": "2026-11-23T00:00:00Z",
+      "ai_summary": "Article argues that Netanyahu is pressing harder for a possible strike on Iran while Eisenkot is maneuvering toward greater political power, with Trump\u2019s stance still undecided.",
+      "importance": 72,
+      "why": "The piece concerns major Israeli security and political dynamics, including a potential Iran strike and leadership jockeying that could affect regional stability and U.S.-Israel policy."
     }
   ],
   "deep_analysis": [
     {
       "source": "Middle East Eye",
-      "title": "Thirty years after Rabin's assassination, Israel is again flirting with political violence",
-      "summary": "In the wake of elections that handed Arabs the balance of power, we are witnessing an unprecedented outpouring of hate speech and racism",
-      "link": "https://www.middleeasteye.net/opinion/thirty-years-after-rabins-assassination-israel-again-flirting-political-violence",
-      "published_at": "2026-11-18T09:26:00Z",
-      "ai_summary": "The piece argues that, thirty years after Yitzhak Rabin's assassination, Israel is again seeing dangerous levels of political violence rhetoric and hate speech following elections that shifted power toward Arab parties.",
-      "importance": 85,
-      "why": "It connects a major historical political assassination to current electoral developments and warns of renewed instability, making it highly relevant to Israeli politics and regional tensions."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "Randa Tawil, Race in Transit: Tracing the Politics of Migration from Ottoman Syria through US Empire (New Texts Out Now)",
-      "summary": "Randa Tawil,\u00a0Race in Transit: Tracing the Politics of Migration from Ottoman Syria through US Empire\u00a0(Stanford University Press, 2026). Jadaliyya (J): What made you write this book? Randa Tawil\u00a0(RT):\u00a0As a scholar trained in American...",
-      "link": "https://www.jadaliyya.com/Details/48081/Randa-Tawil,-Race-in-Transit-Tracing-the-Politics-of-Migration-from-Ottoman-Syria-through-US-Empire-New-Texts-Out-Now",
-      "published_at": null,
-      "ai_summary": "Interview introducing Randa Tawil\u2019s book on the racial politics of migration from Ottoman Syria to the US empire and what inspired her to write it.",
-      "importance": 60,
-      "why": "This is a scholarly book announcement/interview about migration, race, and empire. It is meaningful for readers interested in Middle East studies, diaspora, and US imperial history, but it is not urgent news."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "In Defense of Academic Freedom: The Circus of Academic Complicity with Nimer Sultany, Part 3 (20 November)",
-      "summary": "Organized by\u00a0DC, Maryland, & Virginia Faculty for Academic Freedom and Gaza in Conrtext Collaborative Project; Cosponsored by MESA Task Force on Civil and Human Rights,\u00a0MESA's Committee on Academic Freedom,\u00a0Faculty for Justice in Palestine...",
-      "link": "https://www.jadaliyya.com/Details/48207/In-Defense-of-Academic-Freedom-The-Circus-of-Academic-Complicity-with-Nimer-Sultany,-Part-1-18-November",
-      "published_at": null,
-      "ai_summary": "An event announcement for a discussion titled \u201cIn Defense of Academic Freedom: The Circus of Academic Complicity with Nimer Sultany, Part 3 (20 November),\u201d organized by regional faculty groups and cosponsored by academic freedom and justice organizations.",
-      "importance": 48,
-      "why": "It appears to be an academic/event listing about academic freedom and Gaza-related issues. It is relevant to scholars and activists in that space, but the text is mainly a promotional notice rather than substantive content or major news."
-    },
-    {
-      "source": "Jadaliyya",
-      "title": "Review of The Incarcerated Modern: Prisons and Public Life in Iran",
-      "summary": "Golnar Nikpour,\u00a0The Incarcerated Modern: Prisons and Public Life in Iran\u00a0(Stanford, CA: Stanford University Press, 2024) [This review was originally published in the Fall 2026 issue of\u00a0Arab Studies Journal.\u00a0For more information on the...",
-      "link": "https://www.jadaliyya.com/Details/48211/Review-of-The-Incarcerated-Modern-Prisons-and-Public-Life-in-Iran",
-      "published_at": null,
-      "ai_summary": "Review of Golnar Nikpour\u2019s 2024 book The Incarcerated Modern: Prisons and Public Life in Iran, discussing prisons and their role in Iranian public life.",
-      "importance": 47,
-      "why": "This is a scholarly book review in Arab Studies Journal about prisons, modernity, and public life in Iran. It is relevant for readers interested in Iranian studies, Middle Eastern history, carceral studies, and social/political history, but it is not a major breaking-news or broadly general-interest item."
-    },
-    {
-      "source": "Carnegie ME",
-      "title": "Young and Restless in the Middle East",
-      "summary": "In an interview, Mayssoun Sukarieh discusses youths in the region, and how they are being defined and reshaped.",
-      "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/young-and-restless-in-the-middle-east",
-      "date": "Oct 27, 2026",
-      "published_at": null,
-      "ai_summary": "An interview with Mayssoun Sukarieh about how youth in the Middle East are being defined and reshaped.",
-      "importance": 63,
-      "why": "The piece appears to address a significant social and political issue in the region\u2014how youth are understood and influenced\u2014making it moderately important, though the provided text is brief and lacks specific policy or event details."
+      "title": "Israel's genocide in Gaza continues. So must the protests",
+      "summary": "Demonstrations gave Palestinians hope and pressured institutions to act. A ceasefire that has failed to stop the killing must not become a reason for silence",
+      "link": "https://www.middleeasteye.net/opinion/israels-genocide-gaza-continues-so-must-protests",
+      "published_at": "2026-11-17T18:09:00Z",
+      "ai_summary": "The piece argues that protests against Israel's actions in Gaza should continue, saying demonstrations have given Palestinians hope and pressured institutions to respond, and that a fragile ceasefire does not justify silence while the killing continues.",
+      "importance": 86,
+      "why": "It addresses an ongoing major international conflict, mass civilian harm, and the role of public protest and institutional pressure in shaping policy and public response."
     },
     {
       "source": "Carnegie ME",
@@ -194,9 +153,20 @@
       "link": "https://carnegieendowment.org/middle-east/diwan/2026/10/filling-the-void-as-syrias-transitional-justice-stalls",
       "date": "Oct 9, 2026",
       "published_at": null,
-      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes from the war years as transitional justice efforts stall.",
+      "ai_summary": "Reconciliation councils are emerging across Syria to mediate intracommunal disputes from the war years as formal transitional justice efforts stall.",
+      "importance": 73,
+      "why": "This reflects an important post-conflict governance development in Syria, showing how local actors are filling a justice and mediation gap left by stalled national transitional justice processes."
+    },
+    {
+      "source": "Carnegie ME",
+      "title": "When the Soldiers Say Stop",
+      "summary": "A recent dispute in Lebanon between a politician and the army commander over Hezbollah\u2019s weapons has deeper roots.",
+      "link": "https://carnegieendowment.org/middle-east/diwan/2026/11/when-the-soldiers-say-stop",
+      "date": "Nov 18, 2026",
+      "published_at": null,
+      "ai_summary": "The piece says a recent Lebanon dispute over Hezbollah\u2019s weapons between a politician and the army commander reflects deeper, long-standing tensions.",
       "importance": 63,
-      "why": "This indicates an important gap in formal transitional justice and highlights grassroots mechanisms shaping postwar conflict resolution and social reconciliation in Syria."
+      "why": "It points to an ongoing, politically sensitive issue in Lebanon involving Hezbollah, the army, and state authority, which has broader implications for stability and civil-military relations."
     },
     {
       "source": "Responsible Statecraft",
@@ -204,9 +174,9 @@
       "summary": "This article was co-published with The GuardianOne of defense secretary Pete Hegseth\u2019s key advisers faces questions about potential conflicts of interest over his many roles, including advising the US defense department, Saudi Arabia, and...",
       "link": "https://responsiblestatecraft.org/norm-coleman-hegseth-advisor/",
       "published_at": "2026-11-18T12:00:04Z",
-      "ai_summary": "The article raises conflict-of-interest concerns about one of Defense Secretary Pete Hegseth\u2019s key advisers, who is reportedly advising both the U.S. Defense Department and foreign governments including Saudi Arabia and Israel.",
-      "importance": 80,
-      "why": "It involves a senior defense adviser, possible conflicts of interest, and relationships with foreign governments, which could affect U.S. defense policy and public trust."
+      "ai_summary": "Report on potential conflicts of interest involving a key adviser to defense secretary Pete Hegseth, who is reportedly advising both the US defense department and foreign governments including Saudi Arabia and Israel.",
+      "importance": 81,
+      "why": "The story involves a senior national security adviser, possible ethics and conflict-of-interest issues, and relationships with major foreign governments, which could have implications for US defense policy and public trust."
     },
     {
       "source": "Drop Site News",
@@ -214,9 +184,9 @@
       "summary": "Palestinian journalist Mujahed Al-Saadi returned to his hometown after 22 months in prison to find the Jenin refugee camp emptied and the entire area disfigured by a massive Israeli military assault.",
       "link": "https://www.dropsitenews.com/p/jenin-refugee-camp-israel-operation-iron-wall",
       "published_at": "2026-11-18T19:15:46Z",
-      "ai_summary": "Palestinian journalist Mujahed Al-Saadi returned home after 22 months in prison and found Jenin refugee camp largely emptied and heavily damaged by a major Israeli military assault.",
-      "importance": 79,
-      "why": "The item reports on a significant event in the Israel-Palestine conflict, highlighting both the detention of a journalist and the large-scale destruction of Jenin refugee camp, which has humanitarian and political significance."
+      "ai_summary": "Palestinian journalist Mujahed Al-Saadi returned home after 22 months in prison to find Jenin refugee camp emptied and heavily damaged by a major Israeli military assault.",
+      "importance": 77,
+      "why": "The item reports on a significant human-rights and conflict-development story involving the detention of a journalist and major destruction in Jenin, which has wider relevance to the Israel-Palestine conflict and press freedom."
     },
     {
       "source": "Drop Site News",
@@ -224,9 +194,9 @@
       "summary": "FOIA disclosures and hacked email archives show how Israel leverages personal ties with state officials to promote laws prohibiting boycotts as well as other forms of opposition to Israeli policy.",
       "link": "https://www.dropsitenews.com/p/israel-iowa-attorney-general-brenna-bird",
       "published_at": "2026-11-19T22:56:45Z",
-      "ai_summary": "A report based on FOIA disclosures and hacked emails alleges that an Israeli diplomat offered the Iowa attorney general a free trip and later sought favors, illustrating how Israel may use personal ties with state officials to advance anti-boycott and pro-Israel policies.",
+      "ai_summary": "Article alleges an Israeli diplomat offered the Iowa attorney general a free trip and later sought political favors, based on FOIA disclosures and hacked emails.",
       "importance": 72,
-      "why": "This is notable because it alleges potential influence-peddling involving a foreign diplomat and a U.S. state official, and it connects to broader efforts to shape anti-BDS and related legislation. The claim is politically sensitive and could matter to readers interested in foreign influence, state-level lobbying, and U.S.-Israel policy."
+      "why": "This appears significant because it involves potential foreign influence efforts directed at a U.S. state official, with possible implications for lawmaking, ethics, and foreign lobbying. The topic also touches on controversial anti-boycott legislation and the use of personal relationships to shape policy."
     }
   ]
 }
